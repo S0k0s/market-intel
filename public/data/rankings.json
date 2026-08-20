@@ -1,0 +1,253 @@
+{
+  "generated_at": "2026-08-20T11:01:06Z",
+  "continents": {
+    "na": {
+      "label": "Βόρεια Αμερική",
+      "flag": "🇺🇸"
+    },
+    "eu": {
+      "label": "Ευρώπη",
+      "flag": "🇪🇺"
+    },
+    "as": {
+      "label": "Ασία",
+      "flag": "🌏"
+    },
+    "oc": {
+      "label": "Ωκεανία",
+      "flag": "🇦🇺"
+    }
+  },
+  "rankings": [
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "sector": "Τεχνολογία",
+      "continent": "na",
+      "score": 92.0,
+      "article_count": 1,
+      "avg_sentiment": 1.0,
+      "volume_bonus": 2
+    },
+    {
+      "ticker": "V",
+      "name": "Visa",
+      "sector": "Πληρωμές",
+      "continent": "na",
+      "score": 78.8,
+      "article_count": 1,
+      "avg_sentiment": 0.67,
+      "volume_bonus": 2
+    },
+    {
+      "ticker": "PEP",
+      "name": "PepsiCo",
+      "sector": "Καταναλωτικά",
+      "continent": "na",
+      "score": 78.8,
+      "article_count": 1,
+      "avg_sentiment": 0.67,
+      "volume_bonus": 2
+    },
+    {
+      "ticker": "HD",
+      "name": "Home Depot",
+      "sector": "Λιανεμπόριο",
+      "continent": "na",
+      "score": 68.2,
+      "article_count": 6,
+      "avg_sentiment": 0.2,
+      "volume_bonus": 10
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "sector": "Τεχνολογία",
+      "continent": "na",
+      "score": 67.2,
+      "article_count": 2,
+      "avg_sentiment": 0.33,
+      "volume_bonus": 4
+    },
+    {
+      "ticker": "LLY",
+      "name": "Eli Lilly",
+      "sector": "Υγεία",
+      "continent": "na",
+      "score": 65.2,
+      "article_count": 1,
+      "avg_sentiment": 0.33,
+      "volume_bonus": 2
+    },
+    {
+      "ticker": "UNH",
+      "name": "UnitedHealth Group",
+      "sector": "Υγεία",
+      "continent": "na",
+      "score": 65.2,
+      "article_count": 1,
+      "avg_sentiment": 0.33,
+      "volume_bonus": 2
+    },
+    {
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
+      "sector": "Υγεία",
+      "continent": "na",
+      "score": 65.2,
+      "article_count": 1,
+      "avg_sentiment": 0.33,
+      "volume_bonus": 2
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel",
+      "sector": "Τεχνολογία",
+      "continent": "na",
+      "score": 65.2,
+      "article_count": 1,
+      "avg_sentiment": 0.33,
+      "volume_bonus": 2
+    },
+    {
+      "ticker": "TCEHY",
+      "name": "Tencent Holdings",
+      "sector": "Τεχνολογία",
+      "continent": "as",
+      "score": 65.2,
+      "article_count": 1,
+      "avg_sentiment": 0.33,
+      "volume_bonus": 2
+    },
+    {
+      "ticker": "WMT",
+      "name": "Walmart",
+      "sector": "Λιανεμπόριο",
+      "continent": "na",
+      "score": 58.0,
+      "article_count": 4,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 8
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase",
+      "sector": "Τράπεζες",
+      "continent": "na",
+      "score": 56.0,
+      "article_count": 3,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 6
+    },
+    {
+      "ticker": "TM",
+      "name": "Toyota Motor",
+      "sector": "Αυτοκίνητο",
+      "continent": "as",
+      "score": 54.0,
+      "article_count": 2,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 4
+    },
+    {
+      "ticker": "NOW",
+      "name": "ServiceNow",
+      "sector": "Τεχνολογία",
+      "continent": "na",
+      "score": 54.0,
+      "article_count": 2,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 4
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron Technology",
+      "sector": "Τεχνολογία",
+      "continent": "na",
+      "score": 54.0,
+      "article_count": 2,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 4
+    },
+    {
+      "ticker": "SSNLF",
+      "name": "Samsung Electronics",
+      "sector": "Τεχνολογία",
+      "continent": "as",
+      "score": 52.0,
+      "article_count": 1,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 2
+    },
+    {
+      "ticker": "005930.KS",
+      "name": "Samsung Electronics (KRX)",
+      "sector": "Τεχνολογία",
+      "continent": "as",
+      "score": 52.0,
+      "article_count": 1,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 2
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor",
+      "sector": "Τεχνολογία",
+      "continent": "as",
+      "score": 52.0,
+      "article_count": 1,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 2
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale",
+      "sector": "Λιανεμπόριο",
+      "continent": "na",
+      "score": 52.0,
+      "article_count": 1,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 2
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "sector": "Αυτοκίνητο",
+      "continent": "na",
+      "score": 52.0,
+      "article_count": 1,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 2
+    },
+    {
+      "ticker": "BABA",
+      "name": "Alibaba Group",
+      "sector": "Τεχνολογία",
+      "continent": "as",
+      "score": 51.8,
+      "article_count": 3,
+      "avg_sentiment": -0.1,
+      "volume_bonus": 6
+    },
+    {
+      "ticker": "BAC",
+      "name": "Bank of America",
+      "sector": "Τράπεζες",
+      "continent": "na",
+      "score": 44.6,
+      "article_count": 4,
+      "avg_sentiment": -0.34,
+      "volume_bonus": 8
+    },
+    {
+      "ticker": "CSCO",
+      "name": "Cisco Systems",
+      "sector": "Τεχνολογία",
+      "continent": "na",
+      "score": 31.7,
+      "article_count": 2,
+      "avg_sentiment": -0.56,
+      "volume_bonus": 4
+    }
+  ]
+}
