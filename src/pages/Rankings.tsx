@@ -34,7 +34,9 @@ function scoreColor(score: number) {
 }
 
 export function Rankings() {
-  const { data, error, loading } = useJsonData<RankingsFile>("/data/rankings.json");
+  const { data, error, loading } = useJsonData<RankingsFile>(
+    `${import.meta.env.BASE_URL}data/rankings.json`
+  );
   const [continent, setContinent] = useState("all");
 
   const rows = useMemo(() => {

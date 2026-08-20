@@ -28,7 +28,9 @@ function sentimentBadge(s: number) {
 }
 
 export function NewsFeed() {
-  const { data, error, loading } = useJsonData<ArticlesFile>("/data/articles.json");
+  const { data, error, loading } = useJsonData<ArticlesFile>(
+    `${import.meta.env.BASE_URL}data/articles.json`
+  );
   const [continent, setContinent] = useState("all");
   const [onlyWithTickers, setOnlyWithTickers] = useState(false);
 
