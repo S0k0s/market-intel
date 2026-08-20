@@ -95,13 +95,13 @@ def sentiment_of(text):
     return round(raw / 3, 2)
 
 
-# --- Ticker matching: name + word-boundary ticker match στον τίτλο/summary ---
+# --- Ticker matching: name/override + word-boundary ticker match στον τίτλο/summary ---
 _TICKER_PATTERNS = {}
 for tk, meta in UNIVERSE.items():
     bare = re.escape(tk.split(".")[0])
-    name_first_word = re.escape(meta["name"].split()[0])
+    match_phrase = re.escape(meta.get("match") or meta["name"].split()[0])
     _TICKER_PATTERNS[tk] = re.compile(
-        rf"\b({bare}|{name_first_word})\b", re.IGNORECASE
+        rf"\b({bare}|{match_phrase})\b", re.IGNORECASE
     )
 
 
