@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:09:51Z",
+  "generated_at": "2026-08-20T11:27:40Z",
   "continents": {
     "na": {
       "label": "Βόρεια Αμερική",
@@ -22,42 +22,80 @@
     {
       "ticker": "ABNB",
       "name": "Airbnb",
-      "sector": "Τουρισμός",
+      "sector": "Καταναλωτικά (Επιλογής)",
       "continent": "na",
       "score": 92.0,
       "article_count": 1,
       "avg_sentiment": 1.0,
-      "volume_bonus": 2
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
       "ticker": "V",
       "name": "Visa",
-      "sector": "Πληρωμές",
+      "sector": "Χρηματοοικονομικά",
       "continent": "na",
       "score": 78.8,
       "article_count": 1,
       "avg_sentiment": 0.67,
-      "volume_bonus": 2
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
+    },
+    {
+      "ticker": "ADP",
+      "name": "Automatic Data Processing",
+      "sector": "Βιομηχανία",
+      "continent": "na",
+      "score": 78.8,
+      "article_count": 1,
+      "avg_sentiment": 0.67,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
       "ticker": "PEP",
       "name": "PepsiCo",
-      "sector": "Καταναλωτικά",
+      "sector": "Καταναλωτικά (Βασικά)",
       "continent": "na",
       "score": 78.8,
       "article_count": 1,
       "avg_sentiment": 0.67,
-      "volume_bonus": 2
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
-      "ticker": "HD",
-      "name": "Home Depot",
-      "sector": "Λιανεμπόριο",
+      "ticker": "CAH",
+      "name": "Cardinal Health",
+      "sector": "Υγεία",
       "continent": "na",
-      "score": 74.1,
-      "article_count": 3,
-      "avg_sentiment": 0.45,
-      "volume_bonus": 6
+      "score": 78.8,
+      "article_count": 1,
+      "avg_sentiment": 0.67,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
+    },
+    {
+      "ticker": "FOX",
+      "name": "Fox Corporation (Class B)",
+      "sector": "Επικοινωνίες/Μέσα",
+      "continent": "na",
+      "score": 78.8,
+      "article_count": 1,
+      "avg_sentiment": 0.67,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
       "ticker": "MRNA",
@@ -67,107 +105,205 @@
       "score": 65.6,
       "article_count": 5,
       "avg_sentiment": 0.14,
-      "volume_bonus": 10
+      "volume_bonus": 10,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
+    },
+    {
+      "ticker": "MO",
+      "name": "Altria",
+      "sector": "Καταναλωτικά (Βασικά)",
+      "continent": "na",
+      "score": 65.2,
+      "article_count": 1,
+      "avg_sentiment": 0.33,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
+    },
+    {
+      "ticker": "PM",
+      "name": "Philip Morris International",
+      "sector": "Καταναλωτικά (Βασικά)",
+      "continent": "na",
+      "score": 65.2,
+      "article_count": 1,
+      "avg_sentiment": 0.33,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
       "ticker": "LLY",
-      "name": "Eli Lilly",
+      "name": "Lilly (Eli)",
       "sector": "Υγεία",
       "continent": "na",
       "score": 65.2,
       "article_count": 1,
       "avg_sentiment": 0.33,
-      "volume_bonus": 2
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
       "ticker": "UNH",
-      "name": "UnitedHealth Group",
+      "name": "UnitedHealth",
       "sector": "Υγεία",
       "continent": "na",
       "score": 65.2,
       "article_count": 1,
       "avg_sentiment": 0.33,
-      "volume_bonus": 2
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
-      "ticker": "JNJ",
-      "name": "Johnson & Johnson",
+      "ticker": "PPG",
+      "name": "PPG Industries",
+      "sector": "Ορυκτά/Υλικά",
+      "continent": "na",
+      "score": 65.2,
+      "article_count": 1,
+      "avg_sentiment": 0.33,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
+    },
+    {
+      "ticker": "SWK",
+      "name": "Stanley Black &amp; Decker",
+      "sector": "Βιομηχανία",
+      "continent": "na",
+      "score": 65.2,
+      "article_count": 1,
+      "avg_sentiment": 0.33,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
+    },
+    {
+      "ticker": "KMB",
+      "name": "Kimberly-Clark",
+      "sector": "Καταναλωτικά (Βασικά)",
+      "continent": "na",
+      "score": 65.2,
+      "article_count": 1,
+      "avg_sentiment": 0.33,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
+    },
+    {
+      "ticker": "MDT",
+      "name": "Medtronic",
       "sector": "Υγεία",
       "continent": "na",
       "score": 65.2,
       "article_count": 1,
       "avg_sentiment": 0.33,
-      "volume_bonus": 2
-    },
-    {
-      "ticker": "PG",
-      "name": "Procter & Gamble",
-      "sector": "Καταναλωτικά",
-      "continent": "na",
-      "score": 65.2,
-      "article_count": 1,
-      "avg_sentiment": 0.33,
-      "volume_bonus": 2
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
       "ticker": "INTC",
       "name": "Intel",
-      "sector": "Ημιαγωγοί",
+      "sector": "Τεχνολογία",
       "continent": "na",
       "score": 65.2,
       "article_count": 1,
       "avg_sentiment": 0.33,
-      "volume_bonus": 2
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
-      "ticker": "TCEHY",
-      "name": "Tencent Holdings",
-      "sector": "Τεχνολογία",
-      "continent": "as",
+      "ticker": "IHG.L",
+      "name": "IHG Hotels & Resorts",
+      "sector": null,
+      "continent": "eu",
       "score": 65.2,
       "article_count": 1,
       "avg_sentiment": 0.33,
-      "volume_bonus": 2
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
+    },
+    {
+      "ticker": "WBD",
+      "name": "Warner Bros. Discovery",
+      "sector": "Επικοινωνίες/Μέσα",
+      "continent": "na",
+      "score": 65.2,
+      "article_count": 1,
+      "avg_sentiment": 0.33,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
       "ticker": "NVDA",
-      "name": "NVIDIA",
+      "name": "Nvidia",
       "sector": "Τεχνολογία",
       "continent": "na",
-      "score": 60.6,
-      "article_count": 4,
-      "avg_sentiment": 0.07,
-      "volume_bonus": 8
+      "score": 60.0,
+      "article_count": 3,
+      "avg_sentiment": 0.1,
+      "volume_bonus": 6,
+      "source_count": 2,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
       "ticker": "WMT",
       "name": "Walmart",
-      "sector": "Λιανεμπόριο",
+      "sector": "Καταναλωτικά (Βασικά)",
       "continent": "na",
       "score": 58.0,
       "article_count": 4,
       "avg_sentiment": 0.0,
-      "volume_bonus": 8
+      "volume_bonus": 8,
+      "source_count": 2,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
-      "ticker": "OR.PA",
-      "name": "L'Oréal",
-      "sector": "Καταναλωτικά",
-      "continent": "eu",
+      "ticker": "DOW",
+      "name": "Dow",
+      "sector": "Ορυκτά/Υλικά",
+      "continent": "na",
       "score": 58.0,
       "article_count": 4,
       "avg_sentiment": 0.0,
-      "volume_bonus": 8
+      "volume_bonus": 8,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
-      "ticker": "JPM",
-      "name": "JPMorgan Chase",
-      "sector": "Τράπεζες",
+      "ticker": "NDAQ",
+      "name": "Nasdaq",
+      "sector": "Χρηματοοικονομικά",
       "continent": "na",
       "score": 56.0,
       "article_count": 3,
       "avg_sentiment": 0.0,
-      "volume_bonus": 6
+      "volume_bonus": 6,
+      "source_count": 2,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
       "ticker": "TM",
@@ -177,27 +313,36 @@
       "score": 54.0,
       "article_count": 2,
       "avg_sentiment": 0.0,
-      "volume_bonus": 4
+      "volume_bonus": 4,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
-      "ticker": "LOW",
-      "name": "Lowe's",
-      "sector": "Λιανεμπόριο",
+      "ticker": "SNDK",
+      "name": "Sandisk",
+      "sector": "Τεχνολογία",
       "continent": "na",
       "score": 54.0,
       "article_count": 2,
       "avg_sentiment": 0.0,
-      "volume_bonus": 4
+      "volume_bonus": 4,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
-      "ticker": "MU",
-      "name": "Micron Technology",
-      "sector": "Ημιαγωγοί",
+      "ticker": "APP",
+      "name": "AppLovin",
+      "sector": "Επικοινωνίες/Μέσα",
       "continent": "na",
-      "score": 54.0,
+      "score": 52.9,
       "article_count": 2,
-      "avg_sentiment": 0.0,
-      "volume_bonus": 4
+      "avg_sentiment": -0.03,
+      "volume_bonus": 4,
+      "source_count": 2,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
       "ticker": "005930.KS",
@@ -207,7 +352,23 @@
       "score": 52.0,
       "article_count": 1,
       "avg_sentiment": 0.0,
-      "volume_bonus": 2
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
+    },
+    {
+      "ticker": "9618.HK",
+      "name": "JD.com",
+      "sector": null,
+      "continent": "as",
+      "score": 52.0,
+      "article_count": 1,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
       "ticker": "005380.KS",
@@ -217,57 +378,75 @@
       "score": 52.0,
       "article_count": 1,
       "avg_sentiment": 0.0,
-      "volume_bonus": 2
-    },
-    {
-      "ticker": "COST",
-      "name": "Costco Wholesale",
-      "sector": "Λιανεμπόριο",
-      "continent": "na",
-      "score": 52.0,
-      "article_count": 1,
-      "avg_sentiment": 0.0,
-      "volume_bonus": 2
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
       "ticker": "TSLA",
       "name": "Tesla",
-      "sector": "Αυτοκίνητο",
+      "sector": "Καταναλωτικά (Επιλογής)",
       "continent": "na",
       "score": 52.0,
       "article_count": 1,
       "avg_sentiment": 0.0,
-      "volume_bonus": 2
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "sector": "Ημιαγωγοί",
-      "continent": "na",
-      "score": 52.0,
-      "article_count": 1,
-      "avg_sentiment": 0.0,
-      "volume_bonus": 2
-    },
-    {
-      "ticker": "NOW",
-      "name": "ServiceNow",
       "sector": "Τεχνολογία",
       "continent": "na",
       "score": 52.0,
       "article_count": 1,
       "avg_sentiment": 0.0,
-      "volume_bonus": 2
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
-      "ticker": "NVO",
-      "name": "Novo Nordisk",
-      "sector": "Υγεία",
+      "ticker": "LOW",
+      "name": "Lowe's",
+      "sector": "Καταναλωτικά (Επιλογής)",
       "continent": "na",
       "score": 52.0,
       "article_count": 1,
       "avg_sentiment": 0.0,
-      "volume_bonus": 2
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
+    },
+    {
+      "ticker": "TJX",
+      "name": "TJX Companies",
+      "sector": "Καταναλωτικά (Επιλογής)",
+      "continent": "na",
+      "score": 52.0,
+      "article_count": 1,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
+    },
+    {
+      "ticker": "ESS",
+      "name": "Essex Property Trust",
+      "sector": "Ακίνητα",
+      "continent": "na",
+      "score": 52.0,
+      "article_count": 1,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
       "ticker": "AAPL",
@@ -277,67 +456,49 @@
       "score": 52.0,
       "article_count": 1,
       "avg_sentiment": 0.0,
-      "volume_bonus": 2
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom",
-      "sector": "Ημιαγωγοί",
-      "continent": "na",
-      "score": 52.0,
-      "article_count": 1,
-      "avg_sentiment": 0.0,
-      "volume_bonus": 2
-    },
-    {
-      "ticker": "BABA",
-      "name": "Alibaba Group",
-      "sector": "Τεχνολογία",
-      "continent": "as",
-      "score": 51.8,
+      "ticker": "NXT.L",
+      "name": "Next",
+      "sector": null,
+      "continent": "eu",
+      "score": 41.4,
       "article_count": 3,
-      "avg_sentiment": -0.1,
-      "volume_bonus": 6
-    },
-    {
-      "ticker": "9988.HK",
-      "name": "Alibaba Group (HK)",
-      "sector": "Τεχνολογία",
-      "continent": "as",
-      "score": 51.8,
-      "article_count": 3,
-      "avg_sentiment": -0.1,
-      "volume_bonus": 6
-    },
-    {
-      "ticker": "JD",
-      "name": "JD.com",
-      "sector": "Τεχνολογία",
-      "continent": "as",
-      "score": 34.2,
-      "article_count": 2,
-      "avg_sentiment": -0.49,
-      "volume_bonus": 4
+      "avg_sentiment": -0.37,
+      "volume_bonus": 6,
+      "source_count": 2,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
       "ticker": "CSCO",
-      "name": "Cisco Systems",
+      "name": "Cisco",
       "sector": "Τεχνολογία",
       "continent": "na",
       "score": 31.7,
       "article_count": 2,
       "avg_sentiment": -0.56,
-      "volume_bonus": 4
+      "volume_bonus": 4,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     },
     {
       "ticker": "BAC",
       "name": "Bank of America",
-      "sector": "Τράπεζες",
+      "sector": "Χρηματοοικονομικά",
       "continent": "na",
       "score": 25.2,
       "article_count": 1,
       "avg_sentiment": -0.67,
-      "volume_bonus": 2
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null
     }
   ]
 }

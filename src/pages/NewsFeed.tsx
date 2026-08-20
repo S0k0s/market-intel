@@ -1,9 +1,11 @@
 import { useMemo, useState } from "react";
 import { useJsonData } from "@/hooks/useJsonData";
+import { useWatchlist } from "@/hooks/useWatchlist";
 import type { ArticlesFile } from "@/types/data";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
+import { Star } from "lucide-react";
 
 const CONTINENT_FILTERS: { id: string; label: string }[] = [
   { id: "all", label: "Όλες" },
@@ -31,17 +33,24 @@ export function NewsFeed() {
   const { data, error, loading } = useJsonData<ArticlesFile>(
     `${import.meta.env.BASE_URL}data/articles.json`
   );
+  const { isWatched } = useWatchlist();
   const [continent, setContinent] = useState("all");
   const [onlyWithTickers, setOnlyWithTickers] = useState(false);
+  const [watchlistOnly, setWatchlistOnly] = useState(false);
+  const [search, setSearch] = useState("");
 
   const articles = useMemo(() => {
     if (!data) return [];
+    const q = search.trim().toLowerCase();
     return data.articles.filter((a) => {
       if (continent !== "all" && a.continent !== continent) return false;
       if (onlyWithTickers && a.tickers.length === 0) return false;
+      if (watchlistOnly && !a.tickers.some((t) => isWatched(t))) return false;
+      if (q && !a.title.toLowerCase().includes(q) && !a.tickers.some((t) => t.toLowerCase().includes(q)))
+        return false;
       return true;
     });
-  }, [data, continent, onlyWithTickers]);
+  }, [data, continent, onlyWithTickers, watchlistOnly, search, isWatched]);
 
   if (loading) return <p className="text-muted-foreground text-sm">Φόρτωση ειδήσεων…</p>;
   if (error) return <p className="text-negative text-sm">Σφάλμα φόρτωσης: {error}</p>;
@@ -49,6 +58,13 @@ export function NewsFeed() {
   return (
     <div className="flex flex-col gap-4">
       <div className="flex flex-wrap items-center gap-2">
+        <input
+          type="text"
+          placeholder="Αναζήτηση τίτλου ή ticker…"
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+          className="h-8 w-48 rounded-md border border-input bg-background px-3 text-sm outline-none focus-visible:ring-2 focus-visible:ring-ring"
+        />
         {CONTINENT_FILTERS.map((f) => (
           <Button
             key={f.id}
@@ -59,14 +75,22 @@ export function NewsFeed() {
             {f.label}
           </Button>
         ))}
-        <Button
-          size="sm"
-          variant={onlyWithTickers ? "default" : "outline"}
-          onClick={() => setOnlyWithTickers((v) => !v)}
-          className="ml-auto"
-        >
-          Μόνο με μετοχές
-        </Button>
+        <div className="ml-auto flex items-center gap-2">
+          <Button
+            size="sm"
+            variant={watchlistOnly ? "default" : "outline"}
+            onClick={() => setWatchlistOnly((v) => !v)}
+          >
+            <Star className="size-3.5" /> Watchlist
+          </Button>
+          <Button
+            size="sm"
+            variant={onlyWithTickers ? "default" : "outline"}
+            onClick={() => setOnlyWithTickers((v) => !v)}
+          >
+            Μόνο με μετοχές
+          </Button>
+        </div>
       </div>
 
       {articles.length === 0 && (
@@ -96,7 +120,8 @@ export function NewsFeed() {
                 <span>·</span>
                 <span>{timeAgo(a.epoch)} πριν</span>
                 {a.tickers.map((t) => (
-                  <Badge key={t} variant="secondary">
+                  <Badge key={t} variant={isWatched(t) ? "default" : "secondary"}>
+                    {isWatched(t) && <Star className="mr-1 size-3" fill="currentColor" />}
                     {t}
                   </Badge>
                 ))}

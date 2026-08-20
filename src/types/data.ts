@@ -24,12 +24,15 @@ export interface ContinentMeta {
 export interface Ranking {
   ticker: string;
   name: string;
-  sector: string;
+  sector: string | null;
   continent: "na" | "eu" | "as" | "oc";
   score: number;
   article_count: number;
   avg_sentiment: number;
   volume_bonus: number;
+  source_count: number;
+  unusual: boolean;
+  baseline_articles: number | null;
 }
 
 export interface RankingsFile {
@@ -37,3 +40,12 @@ export interface RankingsFile {
   continents: Record<string, ContinentMeta>;
   rankings: Ranking[];
 }
+
+export interface HistoryPoint {
+  date: string;
+  score: number;
+  avg_sentiment: number;
+  article_count: number;
+}
+
+export type HistoryFile = Record<string, HistoryPoint[]>;

@@ -21,11 +21,13 @@ from urllib.error import URLError, HTTPError
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from universe import UNIVERSE, CONTINENT_LABELS  # noqa: E402
+from universe import build_universe, CONTINENT_LABELS, BARE_MATCH_DENYLIST, NAME_OVERRIDES  # noqa: E402
 
 DATA_DIR = ROOT / "public" / "data"
 ARTICLES_JSON = DATA_DIR / "articles.json"
 RANKINGS_JSON = DATA_DIR / "rankings.json"
+HISTORY_JSON = DATA_DIR / "history.json"
+HISTORY_MAX_DAYS = 30
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; market-intel-bot/1.0)"}
 TIMEOUT = 15
@@ -96,18 +98,25 @@ def sentiment_of(text):
 
 
 # --- Ticker matching: name/override + word-boundary ticker match στον τίτλο/summary ---
-_TICKER_PATTERNS = {}
-for tk, meta in UNIVERSE.items():
-    bare = re.escape(tk.split(".")[0])
-    match_phrase = re.escape(meta.get("match") or meta["name"].split()[0])
-    _TICKER_PATTERNS[tk] = re.compile(
-        rf"\b({bare}|{match_phrase})\b", re.IGNORECASE
-    )
+# Bare-symbol matching αγνοείται για σύμβολα μήκους < 3 (π.χ. "T", "K", "L", "H")
+# — με 1000+ tickers στο universe, τέτοια μονο/δι-γράμματα σύμβολα θα ταίριαζαν
+# σχεδόν σε κάθε άρθρο (false positives). Σε αυτές τις περιπτώσεις χρησιμοποιείται
+# μόνο το πλήρες όνομα εταιρείας (ή το "match" override).
+def build_patterns(universe):
+    patterns = {}
+    for tk, meta in universe.items():
+        bare = tk.split(".")[0]
+        match_phrase = meta.get("match") or NAME_OVERRIDES.get(tk) or meta["name"]
+        alts = [re.escape(match_phrase)]
+        if len(bare) >= 3 and bare.upper() not in BARE_MATCH_DENYLIST:
+            alts.append(re.escape(bare))
+        patterns[tk] = re.compile(rf"\b({'|'.join(alts)})\b", re.IGNORECASE)
+    return patterns
 
 
-def match_tickers(text):
+def match_tickers(text, patterns):
     hits = []
-    for tk, pat in _TICKER_PATTERNS.items():
+    for tk, pat in patterns.items():
         if pat.search(text or ""):
             hits.append(tk)
     return hits
@@ -148,7 +157,7 @@ def _child_text(el, name):
     return ""
 
 
-def fetch_feed(feed):
+def fetch_feed(feed, patterns):
     req = Request(feed["url"], headers=HEADERS)
     with _urlopen(req) as resp:
         raw = resp.read()
@@ -165,7 +174,7 @@ def fetch_feed(feed):
         )
         pub = _child_text(it, "pubDate") or _child_text(it, "date")
         epoch = _parse_rss_date(pub) or int(time.time())
-        tickers = match_tickers(title + " " + desc)
+        tickers = match_tickers(title + " " + desc, patterns)
         out.append({
             "title": title,
             "summary": desc[:280],
@@ -181,9 +190,12 @@ def fetch_feed(feed):
     return out
 
 
-def build_rankings(articles):
+def build_rankings(articles, universe, history):
     """Aggregate score per μετοχή: μέσο sentiment με βάρος πρόσφατου (half-life 3 μέρες)
-    + πλήθος άρθρων· ίδιο μοτίβο half-life με trading-copilot's ticker_news_summary()."""
+    + πλήθος άρθρων + ποικιλομορφία πηγών· ίδιο μοτίβο half-life με trading-copilot's
+    ticker_news_summary(). Το "unusual" flag συγκρίνει το σημερινό πλήθος άρθρων με τον
+    μέσο όρο των τελευταίων 7 ημερών ιστορικού (history.json) — ξαφνική αύξηση κάλυψης
+    συχνά σημαίνει ότι μόλις συνέβη κάτι σημαντικό για τη μετοχή."""
     now = time.time()
     HALF_LIFE_SEC = 3 * 86400
     by_ticker = {}
@@ -193,7 +205,7 @@ def build_rankings(articles):
 
     rankings = []
     for tk, arts in by_ticker.items():
-        meta = UNIVERSE[tk]
+        meta = universe[tk]
         weighted_sum = 0.0
         weight_total = 0.0
         for a in arts:
@@ -202,37 +214,88 @@ def build_rankings(articles):
             weighted_sum += a["sentiment"] * w
             weight_total += w
         avg_sentiment = weighted_sum / weight_total if weight_total else 0.0
-        # score 0-100: 50 = ουδέτερο, κλιμακωμένο με sentiment [-1,1] + μπόνους όγκου άρθρων
+        source_count = len({a["source_id"] for a in arts})
+        # score 0-100: 50 = ουδέτερο, κλιμακωμένο με sentiment [-1,1] + μπόνους όγκου/πηγών
         volume_bonus = min(10, len(arts) * 2)
         score = round(max(0, min(100, 50 + avg_sentiment * 40 + volume_bonus)), 1)
+
+        past = [h["article_count"] for h in history.get(tk, [])[-7:]]
+        baseline = round(sum(past) / len(past), 1) if past else None
+        unusual = bool(baseline and baseline >= 0.5 and len(arts) >= 3 * baseline)
+
         rankings.append({
             "ticker": tk,
             "name": meta["name"],
-            "sector": meta["sector"],
+            "sector": meta.get("sector"),
             "continent": meta["continent"],
             "score": score,
             "article_count": len(arts),
             "avg_sentiment": round(avg_sentiment, 2),
             "volume_bonus": volume_bonus,
+            "source_count": source_count,
+            "unusual": unusual,
+            "baseline_articles": baseline,
         })
 
     rankings.sort(key=lambda r: r["score"], reverse=True)
     return rankings
 
 
+def load_history():
+    if HISTORY_JSON.exists():
+        try:
+            return json.loads(HISTORY_JSON.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            return {}
+    return {}
+
+
+def update_history(history, rankings, today):
+    """Προσθέτει/αντικαθιστά το σημερινό snapshot ανά ticker, κρατώντας τις
+    τελευταίες HISTORY_MAX_DAYS ημέρες. Πολλαπλά runs την ίδια μέρα ενημερώνουν
+    το ίδιο entry αντί να δημιουργούν διπλότυπα."""
+    for r in rankings:
+        entries = history.setdefault(r["ticker"], [])
+        snapshot = {
+            "date": today,
+            "score": r["score"],
+            "avg_sentiment": r["avg_sentiment"],
+            "article_count": r["article_count"],
+        }
+        if entries and entries[-1]["date"] == today:
+            entries[-1] = snapshot
+        else:
+            entries.append(snapshot)
+        history[r["ticker"]] = entries[-HISTORY_MAX_DAYS:]
+    for tk in list(history.keys()):
+        if not history[tk]:
+            del history[tk]
+    return history
+
+
 def main():
     DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+    print("Universe:")
+    universe = build_universe()
+    patterns = build_patterns(universe)
+
+    print("\nRSS feeds:")
     all_articles = []
     for feed in FEEDS:
         try:
-            items = fetch_feed(feed)
+            items = fetch_feed(feed, patterns)
             print(f"  {feed['label']}: {len(items)} άρθρα")
             all_articles.extend(items)
         except (URLError, HTTPError, TimeoutError, OSError, ET.ParseError) as e:
             print(f"  ! {feed['label']}: αποτυχία ({e}) — παραλείπεται")
 
     all_articles.sort(key=lambda a: a["epoch"], reverse=True)
-    rankings = build_rankings(all_articles)
+
+    history = load_history()
+    rankings = build_rankings(all_articles, universe, history)
+    today = time.strftime("%Y-%m-%d", time.gmtime())
+    history = update_history(history, rankings, today)
 
     ARTICLES_JSON.write_text(
         json.dumps({"generated_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
@@ -245,8 +308,14 @@ def main():
                    ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
-    print(f"\nΈγραψα {len(all_articles)} άρθρα -> {ARTICLES_JSON}")
+    HISTORY_JSON.write_text(
+        json.dumps(history, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    print(f"\nUniverse: {len(universe)} tickers")
+    print(f"Έγραψα {len(all_articles)} άρθρα -> {ARTICLES_JSON}")
     print(f"Έγραψα {len(rankings)} rankings -> {RANKINGS_JSON}")
+    print(f"Ιστορικό: {len(history)} tickers -> {HISTORY_JSON}")
 
 
 if __name__ == "__main__":
