@@ -20,7 +20,7 @@ import {
   TooltipTrigger,
 } from "@/components/ui/tooltip";
 import { Sparkline } from "@/components/Sparkline";
-import { Star, Flame } from "lucide-react";
+import { Star, Flame, ArrowUp, ArrowDown, ArrowUpDown } from "lucide-react";
 
 const CONTINENT_FILTERS: { id: string; label: string }[] = [
   { id: "all", label: "Όλες" },
@@ -30,10 +30,64 @@ const CONTINENT_FILTERS: { id: string; label: string }[] = [
   { id: "oc", label: "🇦🇺 Ωκεανία" },
 ];
 
+const SENTIMENT_FILTERS: { id: "all" | "positive" | "neutral" | "negative"; label: string }[] = [
+  { id: "all", label: "Όλα" },
+  { id: "positive", label: "Θετικά" },
+  { id: "neutral", label: "Ουδέτερα" },
+  { id: "negative", label: "Αρνητικά" },
+];
+
+type SortKey = "score" | "article_count" | "source_count" | "avg_sentiment";
+
+const SORT_COLUMNS: { key: SortKey; label: string; align?: "right" }[] = [
+  { key: "score", label: "Score", align: "right" },
+  { key: "article_count", label: "Άρθρα", align: "right" },
+  { key: "source_count", label: "Πηγές", align: "right" },
+  { key: "avg_sentiment", label: "Μέσο sentiment", align: "right" },
+];
+
 function scoreColor(score: number) {
   if (score >= 60) return "text-positive";
   if (score <= 40) return "text-negative";
   return "text-foreground";
+}
+
+function sentimentCategory(s: number): "positive" | "neutral" | "negative" {
+  if (s > 0.15) return "positive";
+  if (s < -0.15) return "negative";
+  return "neutral";
+}
+
+function SortableHead({
+  col,
+  sortKey,
+  sortDir,
+  onSort,
+}: {
+  col: { key: SortKey; label: string; align?: "right" };
+  sortKey: SortKey;
+  sortDir: "asc" | "desc";
+  onSort: (key: SortKey) => void;
+}) {
+  return (
+    <TableHead className={col.align === "right" ? "text-right" : ""}>
+      <button
+        onClick={() => onSort(col.key)}
+        className="inline-flex items-center gap-1 hover:text-foreground"
+      >
+        {col.label}
+        {sortKey === col.key ? (
+          sortDir === "desc" ? (
+            <ArrowDown className="size-3" />
+          ) : (
+            <ArrowUp className="size-3" />
+          )
+        ) : (
+          <ArrowUpDown className="size-3 opacity-40" />
+        )}
+      </button>
+    </TableHead>
+  );
 }
 
 export function Rankings() {
@@ -46,8 +100,20 @@ export function Rankings() {
   const { toggle, isWatched } = useWatchlist();
   const [continent, setContinent] = useState("all");
   const [sector, setSector] = useState("all");
+  const [sentimentFilter, setSentimentFilter] = useState<"all" | "positive" | "neutral" | "negative">("all");
   const [search, setSearch] = useState("");
   const [watchlistOnly, setWatchlistOnly] = useState(false);
+  const [sortKey, setSortKey] = useState<SortKey>("score");
+  const [sortDir, setSortDir] = useState<"asc" | "desc">("desc");
+
+  function handleSort(key: SortKey) {
+    if (key === sortKey) {
+      setSortDir((d) => (d === "desc" ? "asc" : "desc"));
+    } else {
+      setSortKey(key);
+      setSortDir("desc");
+    }
+  }
 
   const sectors = useMemo(() => {
     if (!data) return [];
@@ -61,6 +127,7 @@ export function Rankings() {
     const filtered = data.rankings.filter((r) => {
       if (continent !== "all" && r.continent !== continent) return false;
       if (sector !== "all" && r.sector !== sector) return false;
+      if (sentimentFilter !== "all" && sentimentCategory(r.avg_sentiment) !== sentimentFilter) return false;
       if (watchlistOnly && !isWatched(r.ticker)) return false;
       if (q && !r.name.toLowerCase().includes(q) && !r.ticker.toLowerCase().includes(q))
         return false;
@@ -70,9 +137,10 @@ export function Rankings() {
       const aw = isWatched(a.ticker) ? 1 : 0;
       const bw = isWatched(b.ticker) ? 1 : 0;
       if (aw !== bw) return bw - aw;
-      return b.score - a.score;
+      const diff = a[sortKey] - b[sortKey];
+      return sortDir === "desc" ? -diff : diff;
     });
-  }, [data, continent, sector, search, watchlistOnly, isWatched]);
+  }, [data, continent, sector, sentimentFilter, search, watchlistOnly, isWatched, sortKey, sortDir]);
 
   if (loading) return <p className="text-muted-foreground text-sm">Φόρτωση rankings…</p>;
   if (error) return <p className="text-negative text-sm">Σφάλμα φόρτωσης: {error}</p>;
@@ -110,6 +178,17 @@ export function Rankings() {
               {f.label}
             </Button>
           ))}
+          <span className="text-muted-foreground">·</span>
+          {SENTIMENT_FILTERS.map((f) => (
+            <Button
+              key={f.id}
+              size="sm"
+              variant={sentimentFilter === f.id ? "default" : "outline"}
+              onClick={() => setSentimentFilter(f.id)}
+            >
+              {f.label}
+            </Button>
+          ))}
           <Button
             size="sm"
             variant={watchlistOnly ? "default" : "outline"}
@@ -139,11 +218,11 @@ export function Rankings() {
                 <TableHead />
                 <TableHead>Μετοχή</TableHead>
                 <TableHead>Κλάδος</TableHead>
-                <TableHead className="text-right">Score</TableHead>
+                <SortableHead col={SORT_COLUMNS[0]} sortKey={sortKey} sortDir={sortDir} onSort={handleSort} />
                 <TableHead>Τάση</TableHead>
-                <TableHead className="text-right">Άρθρα</TableHead>
-                <TableHead className="text-right">Πηγές</TableHead>
-                <TableHead className="text-right">Μέσο sentiment</TableHead>
+                <SortableHead col={SORT_COLUMNS[1]} sortKey={sortKey} sortDir={sortDir} onSort={handleSort} />
+                <SortableHead col={SORT_COLUMNS[2]} sortKey={sortKey} sortDir={sortDir} onSort={handleSort} />
+                <SortableHead col={SORT_COLUMNS[3]} sortKey={sortKey} sortDir={sortDir} onSort={handleSort} />
               </TableRow>
             </TableHeader>
             <TableBody>
