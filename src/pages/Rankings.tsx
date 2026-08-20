@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import { useJsonData } from "@/hooks/useJsonData";
 import { useWatchlist } from "@/hooks/useWatchlist";
-import type { RankingsFile, HistoryFile } from "@/types/data";
+import type { RankingsFile, HistoryFile, Horizon } from "@/types/data";
 import { Card } from "@/components/ui/card";
 import {
   Table,
@@ -37,6 +37,12 @@ const SENTIMENT_FILTERS: { id: "all" | "positive" | "neutral" | "negative"; labe
   { id: "negative", label: "Αρνητικά" },
 ];
 
+const HORIZON_FILTERS: { id: "all" | "swing" | "long_term"; label: string }[] = [
+  { id: "all", label: "Όλοι οι ορίζοντες" },
+  { id: "swing", label: "Swing" },
+  { id: "long_term", label: "Long-term" },
+];
+
 type SortKey = "score" | "article_count" | "source_count" | "avg_sentiment";
 
 const SORT_COLUMNS: { key: SortKey; label: string; align?: "right" }[] = [
@@ -56,6 +62,12 @@ function sentimentCategory(s: number): "positive" | "neutral" | "negative" {
   if (s > 0.15) return "positive";
   if (s < -0.15) return "negative";
   return "neutral";
+}
+
+function horizonBadge(h: Horizon) {
+  if (h === "swing") return <Badge variant="outline">Swing</Badge>;
+  if (h === "long_term") return <Badge variant="outline">Long-term</Badge>;
+  return null;
 }
 
 function SortableHead({
@@ -101,6 +113,7 @@ export function Rankings() {
   const [continent, setContinent] = useState("all");
   const [sector, setSector] = useState("all");
   const [sentimentFilter, setSentimentFilter] = useState<"all" | "positive" | "neutral" | "negative">("all");
+  const [horizonFilter, setHorizonFilter] = useState<"all" | "swing" | "long_term">("all");
   const [search, setSearch] = useState("");
   const [watchlistOnly, setWatchlistOnly] = useState(false);
   const [sortKey, setSortKey] = useState<SortKey>("score");
@@ -128,6 +141,7 @@ export function Rankings() {
       if (continent !== "all" && r.continent !== continent) return false;
       if (sector !== "all" && r.sector !== sector) return false;
       if (sentimentFilter !== "all" && sentimentCategory(r.avg_sentiment) !== sentimentFilter) return false;
+      if (horizonFilter !== "all" && r.horizon !== horizonFilter) return false;
       if (watchlistOnly && !isWatched(r.ticker)) return false;
       if (q && !r.name.toLowerCase().includes(q) && !r.ticker.toLowerCase().includes(q))
         return false;
@@ -140,7 +154,7 @@ export function Rankings() {
       const diff = a[sortKey] - b[sortKey];
       return sortDir === "desc" ? -diff : diff;
     });
-  }, [data, continent, sector, sentimentFilter, search, watchlistOnly, isWatched, sortKey, sortDir]);
+  }, [data, continent, sector, sentimentFilter, horizonFilter, search, watchlistOnly, isWatched, sortKey, sortDir]);
 
   if (loading) return <p className="text-muted-foreground text-sm">Φόρτωση rankings…</p>;
   if (error) return <p className="text-negative text-sm">Σφάλμα φόρτωσης: {error}</p>;
@@ -189,6 +203,17 @@ export function Rankings() {
               {f.label}
             </Button>
           ))}
+          <select
+            value={horizonFilter}
+            onChange={(e) => setHorizonFilter(e.target.value as typeof horizonFilter)}
+            className="h-8 rounded-md border border-input bg-background px-2 text-sm"
+          >
+            {HORIZON_FILTERS.map((o) => (
+              <option key={o.id} value={o.id}>
+                {o.label}
+              </option>
+            ))}
+          </select>
           <Button
             size="sm"
             variant={watchlistOnly ? "default" : "outline"}
@@ -204,7 +229,10 @@ export function Rankings() {
           sentiment με βάρος πρόσφατου + όγκος/ποικιλομορφία πηγών) —{" "}
           <strong>δεν αποτελεί επενδυτική συμβουλή</strong>, μόνο δείκτη
           κάλυψης/απήχησης ειδήσεων. 🔥 = ασυνήθιστα αυξημένη κάλυψη σε σχέση με το
-          ιστορικό της μετοχής.
+          ιστορικό της μετοχής. Οι ετικέτες <strong>Swing/Long-term</strong> προκύπτουν
+          από τη γλώσσα των άρθρων (π.χ. "earnings"/"breakout" → swing,
+          "dividend"/"στρατηγική" → long-term) — δεν βασίζονται σε τεχνικά ή
+          θεμελιώδη δεδομένα.
         </p>
 
         {rows.length === 0 && (
@@ -246,6 +274,7 @@ export function Rankings() {
                         <span className="font-medium">{r.name}</span>
                         <span className="text-xs text-muted-foreground">{r.ticker}</span>
                       </div>
+                      {horizonBadge(r.horizon)}
                       {r.unusual && (
                         <Tooltip>
                           <TooltipTrigger asChild>

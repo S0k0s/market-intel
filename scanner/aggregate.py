@@ -97,6 +97,50 @@ def sentiment_of(text):
     return round(raw / 3, 2)
 
 
+# --- Lexicon-based χρονικός ορίζοντας (swing vs long-term) ---
+# Το market-intel δεν έχει τεχνικά/θεμελιώδη δεδομένα (RSI, PEG κ.λπ.) όπως το
+# trading-copilot — μόνο ειδήσεις. Οπότε ο ορίζοντας εδώ εκτιμάται από τη
+# *γλώσσα* του άρθρου: λέξεις που δείχνουν βραχυπρόθεσμη κίνηση τιμής/trading
+# (swing) έναντι λέξεων που δείχνουν μακροπρόθεσμη στρατηγική/θεμελιώδη (long-term).
+SWING_WORDS = {
+    "breakout", "breakdown", "rally", "rallies", "surge", "surges", "plunge",
+    "plunges", "spike", "spikes", "correction", "rebound", "selloff", "sell-off",
+    "volatility", "volatile", "momentum", "technical", "intraday", "session",
+    "shortsqueeze", "squeeze", "earnings", "quarterly", "quarter", "guidance",
+    "beat", "beats", "misses", "premarket", "afterhours", "trading", "swing",
+    "target price", "price target", "downgrade", "downgrades", "upgrade",
+    "upgrades", "short-term", "week", "today", "tumble", "tumbles", "jump", "jumps",
+}
+LONGTERM_WORDS = {
+    "dividend", "dividends", "buyback", "buybacks", "strategy", "strategic",
+    "expansion", "expands", "acquisition", "acquires", "merger", "long-term",
+    "restructuring", "ipo", "partnership", "joint venture", "pipeline", "patent",
+    "sustainability", "market share", "annual", "decade", "years", "growth plan",
+    "investment", "invests", "capex", "infrastructure", "roadmap", "outlook",
+    "diversify", "diversification", "turnaround", "compound", "portfolio",
+}
+_SWING_MULTI = [w for w in SWING_WORDS if " " in w or "-" in w]
+_LONGTERM_MULTI = [w for w in LONGTERM_WORDS if " " in w or "-" in w]
+
+
+def horizon_of(text):
+    """Ταξινομεί ένα άρθρο ως 'swing', 'long_term' ή None (χωρίς σαφές σήμα),
+    βάσει πλήθους λέξεων-κλειδιών κάθε κατηγορίας στο κείμενο."""
+    lower = (text or "").lower()
+    words = set(WORD_RE.findall(lower))
+    swing = sum(1 for w in words if w in SWING_WORDS)
+    swing += sum(1 for phrase in _SWING_MULTI if phrase in lower)
+    longterm = sum(1 for w in words if w in LONGTERM_WORDS)
+    longterm += sum(1 for phrase in _LONGTERM_MULTI if phrase in lower)
+    if swing == 0 and longterm == 0:
+        return None
+    if swing > longterm:
+        return "swing"
+    if longterm > swing:
+        return "long_term"
+    return None
+
+
 # --- Ticker matching: name/override + word-boundary ticker match στον τίτλο/summary ---
 # Bare-symbol matching αγνοείται για σύμβολα μήκους < 3 (π.χ. "T", "K", "L", "H")
 # — με 1000+ tickers στο universe, τέτοια μονο/δι-γράμματα σύμβολα θα ταίριαζαν
@@ -174,7 +218,8 @@ def fetch_feed(feed, patterns):
         )
         pub = _child_text(it, "pubDate") or _child_text(it, "date")
         epoch = _parse_rss_date(pub) or int(time.time())
-        tickers = match_tickers(title + " " + desc, patterns)
+        combined = title + " " + desc
+        tickers = match_tickers(combined, patterns)
         out.append({
             "title": title,
             "summary": desc[:280],
@@ -184,7 +229,8 @@ def fetch_feed(feed, patterns):
             "continent": feed["continent"],
             "published_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime(epoch)),
             "epoch": epoch,
-            "sentiment": sentiment_of(title + " " + desc),
+            "sentiment": sentiment_of(combined),
+            "horizon": horizon_of(combined),
             "tickers": tickers,
         })
     return out
@@ -223,6 +269,15 @@ def build_rankings(articles, universe, history):
         baseline = round(sum(past) / len(past), 1) if past else None
         unusual = bool(baseline and baseline >= 0.5 and len(arts) >= 3 * baseline)
 
+        swing_count = sum(1 for a in arts if a["horizon"] == "swing")
+        longterm_count = sum(1 for a in arts if a["horizon"] == "long_term")
+        if swing_count > longterm_count:
+            horizon = "swing"
+        elif longterm_count > swing_count:
+            horizon = "long_term"
+        else:
+            horizon = None
+
         rankings.append({
             "ticker": tk,
             "name": meta["name"],
@@ -235,6 +290,9 @@ def build_rankings(articles, universe, history):
             "source_count": source_count,
             "unusual": unusual,
             "baseline_articles": baseline,
+            "horizon": horizon,
+            "swing_count": swing_count,
+            "longterm_count": longterm_count,
         })
 
     rankings.sort(key=lambda r: r["score"], reverse=True)

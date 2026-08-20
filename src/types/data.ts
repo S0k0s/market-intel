@@ -1,3 +1,5 @@
+export type Horizon = "swing" | "long_term" | null;
+
 export interface Article {
   title: string;
   summary: string;
@@ -8,6 +10,7 @@ export interface Article {
   published_at: string;
   epoch: number;
   sentiment: number;
+  horizon: Horizon;
   tickers: string[];
 }
 
@@ -33,6 +36,9 @@ export interface Ranking {
   source_count: number;
   unusual: boolean;
   baseline_articles: number | null;
+  horizon: Horizon;
+  swing_count: number;
+  longterm_count: number;
 }
 
 export interface RankingsFile {

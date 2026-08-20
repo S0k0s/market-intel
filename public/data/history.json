@@ -50,9 +50,9 @@
   "MRNA": [
     {
       "date": "2026-08-20",
-      "score": 65.6,
-      "avg_sentiment": 0.14,
-      "article_count": 5
+      "score": 64.7,
+      "avg_sentiment": 0.12,
+      "article_count": 6
     }
   ],
   "MO": [
@@ -154,9 +154,9 @@
   "WMT": [
     {
       "date": "2026-08-20",
-      "score": 58.0,
+      "score": 60.0,
       "avg_sentiment": 0.0,
-      "article_count": 4
+      "article_count": 6
     }
   ],
   "DOW": [
@@ -170,9 +170,9 @@
   "NDAQ": [
     {
       "date": "2026-08-20",
-      "score": 56.0,
+      "score": 54.0,
       "avg_sentiment": 0.0,
-      "article_count": 3
+      "article_count": 2
     }
   ],
   "TM": [
@@ -274,9 +274,9 @@
   "NXT.L": [
     {
       "date": "2026-08-20",
-      "score": 41.4,
-      "avg_sentiment": -0.37,
-      "article_count": 3
+      "score": 27.2,
+      "avg_sentiment": -0.67,
+      "article_count": 2
     }
   ],
   "CSCO": [
@@ -292,6 +292,70 @@
       "date": "2026-08-20",
       "score": 25.2,
       "avg_sentiment": -0.67,
+      "article_count": 1
+    }
+  ],
+  "0267.HK": [
+    {
+      "date": "2026-08-20",
+      "score": 92.0,
+      "avg_sentiment": 1.0,
+      "article_count": 1
+    }
+  ],
+  "NTAP": [
+    {
+      "date": "2026-08-20",
+      "score": 78.8,
+      "avg_sentiment": 0.67,
+      "article_count": 1
+    }
+  ],
+  "COIN": [
+    {
+      "date": "2026-08-20",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "XYZ": [
+    {
+      "date": "2026-08-20",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "CVX": [
+    {
+      "date": "2026-08-20",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "BLK": [
+    {
+      "date": "2026-08-20",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "STT": [
+    {
+      "date": "2026-08-20",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "SBUX": [
+    {
+      "date": "2026-08-20",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ]

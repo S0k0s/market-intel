@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import { useJsonData } from "@/hooks/useJsonData";
 import { useWatchlist } from "@/hooks/useWatchlist";
-import type { ArticlesFile } from "@/types/data";
+import type { ArticlesFile, Horizon } from "@/types/data";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -28,10 +28,22 @@ const SORT_OPTIONS: { id: "recent" | "sentiment_desc" | "sentiment_asc"; label: 
   { id: "sentiment_asc", label: "Sentiment: Αρνητικό → Θετικό" },
 ];
 
+const HORIZON_FILTERS: { id: "all" | "swing" | "long_term"; label: string }[] = [
+  { id: "all", label: "Όλοι οι ορίζοντες" },
+  { id: "swing", label: "Swing" },
+  { id: "long_term", label: "Long-term" },
+];
+
 function sentimentCategory(s: number): "positive" | "neutral" | "negative" {
   if (s > 0.15) return "positive";
   if (s < -0.15) return "negative";
   return "neutral";
+}
+
+function horizonBadge(h: Horizon) {
+  if (h === "swing") return <Badge variant="outline">Swing</Badge>;
+  if (h === "long_term") return <Badge variant="outline">Long-term</Badge>;
+  return null;
 }
 
 function timeAgo(epoch: number) {
@@ -56,6 +68,7 @@ export function NewsFeed() {
   const { isWatched } = useWatchlist();
   const [continent, setContinent] = useState("all");
   const [sentimentFilter, setSentimentFilter] = useState<"all" | "positive" | "neutral" | "negative">("all");
+  const [horizonFilter, setHorizonFilter] = useState<"all" | "swing" | "long_term">("all");
   const [sort, setSort] = useState<"recent" | "sentiment_desc" | "sentiment_asc">("recent");
   const [onlyWithTickers, setOnlyWithTickers] = useState(false);
   const [watchlistOnly, setWatchlistOnly] = useState(false);
@@ -67,6 +80,7 @@ export function NewsFeed() {
     const filtered = data.articles.filter((a) => {
       if (continent !== "all" && a.continent !== continent) return false;
       if (sentimentFilter !== "all" && sentimentCategory(a.sentiment) !== sentimentFilter) return false;
+      if (horizonFilter !== "all" && a.horizon !== horizonFilter) return false;
       if (onlyWithTickers && a.tickers.length === 0) return false;
       if (watchlistOnly && !a.tickers.some((t) => isWatched(t))) return false;
       if (q && !a.title.toLowerCase().includes(q) && !a.tickers.some((t) => t.toLowerCase().includes(q)))
@@ -78,7 +92,7 @@ export function NewsFeed() {
       if (sort === "sentiment_asc") return a.sentiment - b.sentiment;
       return b.epoch - a.epoch;
     });
-  }, [data, continent, sentimentFilter, sort, onlyWithTickers, watchlistOnly, search, isWatched]);
+  }, [data, continent, sentimentFilter, horizonFilter, sort, onlyWithTickers, watchlistOnly, search, isWatched]);
 
   if (loading) return <p className="text-muted-foreground text-sm">Φόρτωση ειδήσεων…</p>;
   if (error) return <p className="text-negative text-sm">Σφάλμα φόρτωσης: {error}</p>;
@@ -114,6 +128,17 @@ export function NewsFeed() {
             {f.label}
           </Button>
         ))}
+        <select
+          value={horizonFilter}
+          onChange={(e) => setHorizonFilter(e.target.value as typeof horizonFilter)}
+          className="h-8 rounded-md border border-input bg-background px-2 text-sm"
+        >
+          {HORIZON_FILTERS.map((o) => (
+            <option key={o.id} value={o.id}>
+              {o.label}
+            </option>
+          ))}
+        </select>
         <select
           value={sort}
           onChange={(e) => setSort(e.target.value as typeof sort)}
@@ -160,7 +185,10 @@ export function NewsFeed() {
                 >
                   {a.title}
                 </a>
-                {sentimentBadge(a.sentiment)}
+                <div className="flex shrink-0 gap-1">
+                  {horizonBadge(a.horizon)}
+                  {sentimentBadge(a.sentiment)}
+                </div>
               </div>
               {a.summary && (
                 <p className="text-sm text-muted-foreground line-clamp-2">{a.summary}</p>
