@@ -74,6 +74,7 @@ export interface BreakingItem {
   epoch: number;
   sentiment: number;
   tickers: string[];
+  company_name: string | null;
 }
 
 export interface RadarFile {

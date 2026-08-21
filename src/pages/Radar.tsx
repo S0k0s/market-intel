@@ -108,6 +108,9 @@ export function Radar() {
                       {t}
                     </Badge>
                   ))}
+                  {a.tickers.length === 0 && a.company_name && (
+                    <Badge variant="outline">{a.company_name}</Badge>
+                  )}
                 </div>
               </CardContent>
             </Card>

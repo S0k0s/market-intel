@@ -56,11 +56,39 @@ BREAKING_FEEDS = [
 ]
 
 
+# Δελτία τύπου συχνά αναγράφουν τα ίδια τον ticker τους, π.χ. "(NASDAQ: CAPR)" —
+# αυτό πιάνει και εταιρείες εκτός του universe μας (S&P500 + διεθνείς δείκτες),
+# π.χ. μικρότερες/biotech εταιρείες που δεν είναι σε κανέναν από τους δείκτες
+# που παρακολουθούμε. Πιο αξιόπιστο από το δικό μας name-matching σε αυτές τις
+# περιπτώσεις, αφού προέρχεται απευθείας από την ίδια την ανακοίνωση.
+EXCHANGE_TICKER_RE = re.compile(
+    r"\((?:NASDAQ|NYSE(?:\s+American)?|OTC(?:QB|QX)?|TSX|ASX|LSE)\s*:\s*([A-Z]{1,5}(?:\.[A-Z])?)\)",
+    re.IGNORECASE,
+)
+
+# SEC EDGAR τίτλοι έχουν πάντα τη μορφή "8-K - COMPANY NAME (CIK) (Filer)" — η
+# επωνυμία εδώ είναι πάντα σωστή (προέρχεται απευθείας από το SEC), ακόμα κι αν
+# δεν έχουμε αντίστοιχο ticker στο universe μας.
+SEC_TITLE_RE = re.compile(r"^\S+\s*-\s*(.+?)\s*\(\d+\)\s*\(Filer\)$")
+
+
+def extract_exchange_tickers(text):
+    return sorted({m.upper() for m in EXCHANGE_TICKER_RE.findall(text or "")})
+
+
+def extract_sec_company_name(title):
+    m = SEC_TITLE_RE.match(title or "")
+    return m.group(1).title() if m else None
+
+
 def fetch_breaking(feed, patterns):
     out = []
     for it in fetch_rss_items(feed["url"], headers=feed.get("headers")):
         combined = it["title"] + " " + it["summary"]
-        tickers = match_tickers(combined, patterns)
+        tickers = sorted(set(match_tickers(combined, patterns)) | set(extract_exchange_tickers(combined)))
+        company_name = None
+        if not tickers and feed["id"] == "sec-edgar-8k":
+            company_name = extract_sec_company_name(it["title"])
         out.append({
             "title": it["title"],
             "summary": it["summary"],
@@ -71,6 +99,7 @@ def fetch_breaking(feed, patterns):
             "epoch": it["epoch"],
             "sentiment": sentiment_of(combined),
             "tickers": tickers,
+            "company_name": company_name,
         })
     return out
 
