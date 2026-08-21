@@ -8,9 +8,9 @@
     },
     {
       "date": "2026-08-21",
-      "score": 55.3,
-      "avg_sentiment": 0.03,
-      "article_count": 2
+      "score": 92.0,
+      "avg_sentiment": 1.0,
+      "article_count": 1
     }
   ],
   "V": [
@@ -74,9 +74,9 @@
     },
     {
       "date": "2026-08-21",
-      "score": 68.0,
-      "avg_sentiment": 0.2,
-      "article_count": 5
+      "score": 64.8,
+      "avg_sentiment": 0.22,
+      "article_count": 3
     }
   ],
   "MO": [
@@ -194,9 +194,9 @@
     },
     {
       "date": "2026-08-21",
-      "score": 64.2,
-      "avg_sentiment": 0.1,
-      "article_count": 9
+      "score": 67.2,
+      "avg_sentiment": 0.18,
+      "article_count": 8
     }
   ],
   "WMT": [
@@ -208,9 +208,9 @@
     },
     {
       "date": "2026-08-21",
-      "score": 64.1,
-      "avg_sentiment": 0.1,
-      "article_count": 8
+      "score": 61.6,
+      "avg_sentiment": 0.04,
+      "article_count": 7
     }
   ],
   "DOW": [
@@ -222,9 +222,9 @@
     },
     {
       "date": "2026-08-21",
-      "score": 54.4,
-      "avg_sentiment": -0.14,
-      "article_count": 8
+      "score": 57.1,
+      "avg_sentiment": -0.07,
+      "article_count": 7
     }
   ],
   "NDAQ": [
@@ -280,8 +280,8 @@
     },
     {
       "date": "2026-08-21",
-      "score": 54.0,
-      "avg_sentiment": 0.0,
+      "score": 60.6,
+      "avg_sentiment": 0.17,
       "article_count": 2
     }
   ],
@@ -308,7 +308,7 @@
     },
     {
       "date": "2026-08-21",
-      "score": 60.5,
+      "score": 60.4,
       "avg_sentiment": 0.16,
       "article_count": 2
     }
@@ -322,9 +322,9 @@
     },
     {
       "date": "2026-08-21",
-      "score": 78.8,
-      "avg_sentiment": 0.67,
-      "article_count": 1
+      "score": 71.3,
+      "avg_sentiment": 0.33,
+      "article_count": 4
     }
   ],
   "AMD": [
@@ -380,8 +380,8 @@
     },
     {
       "date": "2026-08-21",
-      "score": 60.6,
-      "avg_sentiment": 0.16,
+      "score": 73.9,
+      "avg_sentiment": 0.5,
       "article_count": 2
     }
   ],
@@ -422,9 +422,9 @@
     },
     {
       "date": "2026-08-21",
-      "score": 46.5,
-      "avg_sentiment": -0.24,
-      "article_count": 3
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "0267.HK": [
@@ -506,9 +506,9 @@
   "GS": [
     {
       "date": "2026-08-21",
-      "score": 72.2,
-      "avg_sentiment": 0.45,
-      "article_count": 2
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "TROW": [
@@ -602,9 +602,9 @@
   "ROST": [
     {
       "date": "2026-08-21",
-      "score": 54.0,
-      "avg_sentiment": 0.0,
-      "article_count": 2
+      "score": 78.8,
+      "avg_sentiment": 0.67,
+      "article_count": 1
     }
   ],
   "AVGO": [
@@ -752,6 +752,30 @@
     }
   ],
   "COST": [
+    {
+      "date": "2026-08-21",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "ACN": [
+    {
+      "date": "2026-08-21",
+      "score": 65.2,
+      "avg_sentiment": 0.33,
+      "article_count": 1
+    }
+  ],
+  "IBM": [
+    {
+      "date": "2026-08-21",
+      "score": 65.2,
+      "avg_sentiment": 0.33,
+      "article_count": 1
+    }
+  ],
+  "META": [
     {
       "date": "2026-08-21",
       "score": 52.0,
