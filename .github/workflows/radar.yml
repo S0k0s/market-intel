@@ -1,15 +1,19 @@
-name: Aggregate news & rankings
+name: Radar (fast movers & breaking wires)
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch: {}
 
 permissions:
   contents: write
 
+concurrency:
+  group: radar
+  cancel-in-progress: true
+
 jobs:
-  aggregate:
+  radar:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -17,11 +21,11 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r scanner/requirements.txt
-      - run: python3 scanner/aggregate.py
+      - run: python3 scanner/radar.py
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data/articles.json public/data/rankings.json public/data/history.json
-          git diff --staged --quiet || git commit -m "chore: auto-update news & rankings"
+          git add public/data/radar.json
+          git diff --staged --quiet || git commit -m "chore: auto-update radar"
           git pull --rebase origin main
           git push

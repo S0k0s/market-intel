@@ -1,10 +1,11 @@
 import { useEffect, useState } from "react";
-import { Moon, Sun, TrendingUp } from "lucide-react";
+import { Moon, Sun, TrendingUp, Rocket } from "lucide-react";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
 import { Button } from "@/components/ui/button";
 import { NewsFeed } from "@/pages/NewsFeed";
 import { Rankings } from "@/pages/Rankings";
 import { Portfolio } from "@/pages/Portfolio";
+import { Radar } from "@/pages/Radar";
 
 function useTheme() {
   const [dark, setDark] = useState(() => {
@@ -50,6 +51,12 @@ function App() {
             <TabsTrigger value="news">Ειδήσεις</TabsTrigger>
             <TabsTrigger value="rankings">Rankings</TabsTrigger>
             <TabsTrigger value="portfolio">Χαρτοφυλάκιο</TabsTrigger>
+            <TabsTrigger
+              value="radar"
+              className="data-[state=active]:bg-primary data-[state=active]:text-primary-foreground"
+            >
+              <Rocket className="size-3.5" /> Ραντάρ
+            </TabsTrigger>
           </TabsList>
           <TabsContent value="news">
             <NewsFeed />
@@ -59,6 +66,9 @@ function App() {
           </TabsContent>
           <TabsContent value="portfolio">
             <Portfolio />
+          </TabsContent>
+          <TabsContent value="radar">
+            <Radar />
           </TabsContent>
         </Tabs>
       </main>

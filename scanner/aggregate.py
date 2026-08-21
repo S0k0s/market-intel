@@ -11,43 +11,24 @@ aggregate.py — Τραβάει δωρεάν RSS feeds από μεγάλα πρ�
 υπόλοιπες αντί να ρίξει όλο το run.
 """
 import json
-import re
 import sys
 import time
 import xml.etree.ElementTree as ET
 from pathlib import Path
-from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from universe import build_universe, CONTINENT_LABELS, BARE_MATCH_DENYLIST, NAME_OVERRIDES  # noqa: E402
+from lexicon import (  # noqa: E402
+    sentiment_of, horizon_of, build_patterns, match_tickers, fetch_rss_items,
+)
 
 DATA_DIR = ROOT / "public" / "data"
 ARTICLES_JSON = DATA_DIR / "articles.json"
 RANKINGS_JSON = DATA_DIR / "rankings.json"
 HISTORY_JSON = DATA_DIR / "history.json"
 HISTORY_MAX_DAYS = 30
-
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; market-intel-bot/1.0)"}
-TIMEOUT = 15
-
-# Σε κάποια τοπικά Python (π.χ. python.org στο macOS) το urllib δεν βρίσκει CA
-# certificates — αν υπάρχει το certifi, χρησιμοποίησε το bundle του (ίδιο μοτίβο
-# με trading-copilot/scanner/scan.py:199).
-_SSL_CTX = None
-try:
-    import ssl
-    import certifi
-    _SSL_CTX = ssl.create_default_context(cafile=certifi.where())
-except ImportError:
-    pass
-
-
-def _urlopen(req, timeout=TIMEOUT):
-    if _SSL_CTX is not None:
-        return urlopen(req, timeout=timeout, context=_SSL_CTX)
-    return urlopen(req, timeout=timeout)
 
 # --- Δωρεάν RSS πηγές, ομαδοποιημένες ανά ήπειρο (Φάση 1) ---
 FEEDS = [
@@ -65,173 +46,23 @@ FEEDS = [
      "url": "https://asia.nikkei.com/rss/feed/nar"},
 ]
 
-# --- Lexicon-based sentiment (ίδιο μοτίβο με trading-copilot/scanner/scan.py:605) ---
-POSITIVE_WORDS = {
-    "beat", "beats", "tops", "top", "record", "surge", "surges", "soar", "soars",
-    "jump", "jumps", "rally", "rallies", "upgrade", "upgrades", "upgraded",
-    "raises", "raised", "boost", "boosts", "outperform", "strong", "stronger",
-    "growth", "gain", "gains", "wins", "win", "deal", "partnership", "partnering",
-    "expands", "expansion", "bullish", "upside", "breakthrough", "approval",
-    "approves", "buyback", "dividend", "profit", "profitable", "success",
-    "milestone", "launches", "launch", "unveils", "accelerates", "momentum",
-}
-NEGATIVE_WORDS = {
-    "miss", "misses", "missed", "falls", "fall", "drop", "drops", "plunge",
-    "plunges", "slump", "slumps", "cut", "cuts", "downgrade", "downgrades",
-    "downgraded", "underperform", "weak", "weaker", "lawsuit", "sues", "sued",
-    "probe", "investigation", "recall", "layoffs", "bearish", "downside",
-    "risk", "risks", "fears", "fear", "warning", "warns", "warn", "delay",
-    "delays", "delayed", "ban", "bans", "fine", "fined", "decline", "declines",
-    "tumble", "tumbles", "crash", "crashes", "loss", "losses", "danger",
-    "concern", "concerns", "selloff", "sell-off", "halt", "halts",
-}
-WORD_RE = re.compile(r"[a-z']+")
-
-
-def sentiment_of(text):
-    """Lexicon score ενός άρθρου: -1.0 .. +1.0 (0 = ουδέτερο)."""
-    words = WORD_RE.findall((text or "").lower())
-    pos = sum(1 for w in words if w in POSITIVE_WORDS)
-    neg = sum(1 for w in words if w in NEGATIVE_WORDS)
-    raw = max(-3, min(3, pos - neg))
-    return round(raw / 3, 2)
-
-
-# --- Lexicon-based χρονικός ορίζοντας (swing vs long-term) ---
-# Το market-intel δεν έχει τεχνικά/θεμελιώδη δεδομένα (RSI, PEG κ.λπ.) όπως το
-# trading-copilot — μόνο ειδήσεις. Οπότε ο ορίζοντας εδώ εκτιμάται από τη
-# *γλώσσα* του άρθρου: λέξεις που δείχνουν βραχυπρόθεσμη κίνηση τιμής/trading
-# (swing) έναντι λέξεων που δείχνουν μακροπρόθεσμη στρατηγική/θεμελιώδη (long-term).
-SWING_WORDS = {
-    "breakout", "breakdown", "rally", "rallies", "surge", "surges", "plunge",
-    "plunges", "spike", "spikes", "correction", "rebound", "selloff", "sell-off",
-    "volatility", "volatile", "momentum", "technical", "intraday", "session",
-    "shortsqueeze", "squeeze", "earnings", "quarterly", "quarter", "guidance",
-    "beat", "beats", "misses", "premarket", "afterhours", "trading", "swing",
-    "target price", "price target", "downgrade", "downgrades", "upgrade",
-    "upgrades", "short-term", "week", "today", "tumble", "tumbles", "jump", "jumps",
-}
-LONGTERM_WORDS = {
-    "dividend", "dividends", "buyback", "buybacks", "strategy", "strategic",
-    "expansion", "expands", "acquisition", "acquires", "merger", "long-term",
-    "restructuring", "ipo", "partnership", "joint venture", "pipeline", "patent",
-    "sustainability", "market share", "annual", "decade", "years", "growth plan",
-    "investment", "invests", "capex", "infrastructure", "roadmap", "outlook",
-    "diversify", "diversification", "turnaround", "compound", "portfolio",
-}
-_SWING_MULTI = [w for w in SWING_WORDS if " " in w or "-" in w]
-_LONGTERM_MULTI = [w for w in LONGTERM_WORDS if " " in w or "-" in w]
-
-
-def horizon_of(text):
-    """Ταξινομεί ένα άρθρο ως 'swing', 'long_term' ή None (χωρίς σαφές σήμα),
-    βάσει πλήθους λέξεων-κλειδιών κάθε κατηγορίας στο κείμενο."""
-    lower = (text or "").lower()
-    words = set(WORD_RE.findall(lower))
-    swing = sum(1 for w in words if w in SWING_WORDS)
-    swing += sum(1 for phrase in _SWING_MULTI if phrase in lower)
-    longterm = sum(1 for w in words if w in LONGTERM_WORDS)
-    longterm += sum(1 for phrase in _LONGTERM_MULTI if phrase in lower)
-    if swing == 0 and longterm == 0:
-        return None
-    if swing > longterm:
-        return "swing"
-    if longterm > swing:
-        return "long_term"
-    return None
-
-
-# --- Ticker matching: name/override + word-boundary ticker match στον τίτλο/summary ---
-# Bare-symbol matching αγνοείται για σύμβολα μήκους < 3 (π.χ. "T", "K", "L", "H")
-# — με 1000+ tickers στο universe, τέτοια μονο/δι-γράμματα σύμβολα θα ταίριαζαν
-# σχεδόν σε κάθε άρθρο (false positives). Σε αυτές τις περιπτώσεις χρησιμοποιείται
-# μόνο το πλήρες όνομα εταιρείας (ή το "match" override).
-def build_patterns(universe):
-    patterns = {}
-    for tk, meta in universe.items():
-        bare = tk.split(".")[0]
-        match_phrase = meta.get("match") or NAME_OVERRIDES.get(tk) or meta["name"]
-        alts = [re.escape(match_phrase)]
-        if len(bare) >= 3 and bare.upper() not in BARE_MATCH_DENYLIST:
-            alts.append(re.escape(bare))
-        patterns[tk] = re.compile(rf"\b({'|'.join(alts)})\b", re.IGNORECASE)
-    return patterns
-
-
-def match_tickers(text, patterns):
-    hits = []
-    for tk, pat in patterns.items():
-        if pat.search(text or ""):
-            hits.append(tk)
-    return hits
-
-
-def _strip_html(s):
-    return re.sub(r"<[^>]+>", " ", s or "").strip()
-
-
-def _parse_rss_date(s):
-    """RFC-822 (π.χ. 'Mon, 20 Jan 2026 10:00:00 GMT') ή ISO-8601 (dc:date) -> epoch, αλλιώς None."""
-    if not s:
-        return None
-    s = s.strip()
-    for fmt in ("%a, %d %b %Y %H:%M:%S %Z", "%a, %d %b %Y %H:%M:%S %z"):
-        try:
-            return int(time.mktime(time.strptime(s, fmt)))
-        except (ValueError, OverflowError):
-            continue
-    m = re.match(r"(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})", s)
-    if m:
-        import calendar
-        y, mo, d, h, mi, se = map(int, m.groups())
-        return calendar.timegm((y, mo, d, h, mi, se, 0, 0, 0))
-    return None
-
-
-def _local(tag):
-    """'{ns}item' -> 'item' — namespace-agnostic tag matching (χρειάζεται για
-    RSS 1.0/RDF feeds όπως το Nikkei, όπου το namespace δεν είναι κενό)."""
-    return tag.rsplit("}", 1)[-1]
-
-
-def _child_text(el, name):
-    for child in el:
-        if _local(child.tag) == name:
-            return (child.text or "").strip()
-    return ""
-
 
 def fetch_feed(feed, patterns):
-    req = Request(feed["url"], headers=HEADERS)
-    with _urlopen(req) as resp:
-        raw = resp.read()
-    root = ET.fromstring(raw)
-    items = [el for el in root.iter() if _local(el.tag) == "item"]
     out = []
-    for it in items:
-        title = _strip_html(_child_text(it, "title"))
-        if not title:
-            continue
-        desc = _strip_html(_child_text(it, "description") or _child_text(it, "encoded"))
-        link = _child_text(it, "link") or it.attrib.get(
-            "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about", ""
-        )
-        pub = _child_text(it, "pubDate") or _child_text(it, "date")
-        epoch = _parse_rss_date(pub) or int(time.time())
-        combined = title + " " + desc
-        tickers = match_tickers(combined, patterns)
+    for it in fetch_rss_items(feed["url"]):
+        combined = it["title"] + " " + it["summary"]
         out.append({
-            "title": title,
-            "summary": desc[:280],
-            "url": link,
+            "title": it["title"],
+            "summary": it["summary"],
+            "url": it["url"],
             "source": feed["label"],
             "source_id": feed["id"],
             "continent": feed["continent"],
-            "published_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime(epoch)),
-            "epoch": epoch,
+            "published_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime(it["epoch"])),
+            "epoch": it["epoch"],
             "sentiment": sentiment_of(combined),
             "horizon": horizon_of(combined),
-            "tickers": tickers,
+            "tickers": match_tickers(combined, patterns),
         })
     return out
 
@@ -336,7 +167,7 @@ def main():
 
     print("Universe:")
     universe = build_universe()
-    patterns = build_patterns(universe)
+    patterns = build_patterns(universe, BARE_MATCH_DENYLIST, NAME_OVERRIDES)
 
     print("\nRSS feeds:")
     all_articles = []

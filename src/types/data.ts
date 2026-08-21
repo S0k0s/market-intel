@@ -55,3 +55,30 @@ export interface HistoryPoint {
 }
 
 export type HistoryFile = Record<string, HistoryPoint[]>;
+
+export interface Mover {
+  ticker: string;
+  name: string;
+  sector: string | null;
+  price: string;
+  change_pct: number;
+}
+
+export interface BreakingItem {
+  title: string;
+  summary: string;
+  url: string;
+  source: string;
+  source_id: string;
+  published_at: string;
+  epoch: number;
+  sentiment: number;
+  tickers: string[];
+}
+
+export interface RadarFile {
+  generated_at: string;
+  move_threshold_pct: number;
+  movers: Mover[];
+  breaking: BreakingItem[];
+}

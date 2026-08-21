@@ -19,30 +19,12 @@ tickers με πολύ γενικό όνομα εταιρείας. Το ticker-ma
 αγνοεί σύμβολα μήκους < 3 (π.χ. "T", "K", "L") — πολύ μεγάλο ρίσκο false
 positive σε 1000+ tickers.
 """
-import json
+import html
 import re
-import time
-from urllib.request import Request, urlopen
+from urllib.request import Request
 from urllib.error import URLError, HTTPError
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                  "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
-}
-
-_SSL_CTX = None
-try:
-    import ssl
-    import certifi
-    _SSL_CTX = ssl.create_default_context(cafile=certifi.where())
-except ImportError:
-    pass
-
-
-def _urlopen(req, timeout=20):
-    if _SSL_CTX is not None:
-        return urlopen(req, timeout=timeout, context=_SSL_CTX)
-    return urlopen(req, timeout=timeout)
+from net import HEADERS, urlopen_safe as _urlopen
 
 
 CONTINENT_LABELS = {
@@ -202,6 +184,16 @@ BARE_MATCH_DENYLIST = {
 NAME_OVERRIDES = {
     "TGT": "Target Corp",
     "DOW": "Dow Inc",
+    "SO": "Southern Company",
+    "NDAQ": "Nasdaq, Inc.",
+    "XYZ": "Block, Inc.",
+    "BALL": "Ball Corporation",
+    "FLEX": "Flex Ltd",
+    "MRU.TO": "Metro Inc.",
+    "GIB.A.TO": "CGI Inc",
+    "NXT.L": "Next plc",
+    "SSE.L": "SSE plc",
+    "0388.HK": "Hong Kong Exchanges and Clearing",
 }
 
 # --- ΗΠΑ: μικρό στατικό fallback αν αποτύχει το live fetch του S&P 500 ---
@@ -247,14 +239,14 @@ def fetch_sp500():
     try:
         req = Request(url, headers=HEADERS)
         with _urlopen(req) as resp:
-            html = resp.read().decode("utf-8", errors="replace")
+            raw_html = resp.read().decode("utf-8", errors="replace")
     except (URLError, HTTPError, TimeoutError, OSError) as e:
         print(f"  ! Αποτυχία λήψης S&P 500 από Wikipedia ({e}) — χρήση στατικού fallback.")
         return None
 
     # Ελαφρύ HTML-table parsing χωρίς εξάρτηση σε bs4/lxml: βρίσκουμε την πρώτη
     # <table id="constituents">...</table> και τις γραμμές της.
-    m = re.search(r'<table[^>]*id="constituents"[^>]*>(.*?)</table>', html, re.S)
+    m = re.search(r'<table[^>]*id="constituents"[^>]*>(.*?)</table>', raw_html, re.S)
     if not m:
         print("  ! Δεν βρέθηκε ο πίνακας 'constituents' στη σελίδα Wikipedia — fallback.")
         return None
@@ -268,7 +260,7 @@ def fetch_sp500():
 
         def cell_text(html_cell):
             text = re.sub(r"<[^>]+>", "", html_cell)
-            return re.sub(r"\s+", " ", text).strip()
+            return html.unescape(re.sub(r"\s+", " ", text).strip())
 
         ticker = cell_text(cells[0])
         name = _clean_company_name(cell_text(cells[1]))
