@@ -1,9 +1,74 @@
 {
-  "generated_at": "2026-08-21T21:19:51Z",
+  "generated_at": "2026-08-21T21:48:04Z",
   "move_threshold_pct": 20.0,
   "movers": [],
   "concentration_warning": null,
   "breaking": [
+    {
+      "title": "8-K - Starling Oncology, Inc. (0001799191) (Filer)",
+      "summary": "Filed:  2026-08-21  AccNo:  0001079973-26-001169  Size:  1 MB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant\n Item 9.01: Financial Statements and ",
+      "url": "https://www.sec.gov/Archives/edgar/data/1799191/000107997326001169/0001079973-26-001169-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-21T17:25:19Z",
+      "epoch": 1787333119,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Starling Oncology, Inc.",
+      "catalyst": true
+    },
+    {
+      "title": "8-K - GEE Group Inc. (0000040570) (Filer)",
+      "summary": "Filed:  2026-08-21  AccNo:  0001477932-26-005233  Size:  280 KB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/40570/000147793226005233/0001477932-26-005233-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-21T17:21:25Z",
+      "epoch": 1787332885,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Gee Group Inc.",
+      "catalyst": true
+    },
+    {
+      "title": "8-K - Global Water Resources, Inc. (0001434728) (Filer)",
+      "summary": "Filed:  2026-08-21  AccNo:  0001628280-26-058486  Size:  303 KB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 3.02: Unregistered Sales of Equity Securities",
+      "url": "https://www.sec.gov/Archives/edgar/data/1434728/000162828026058486/0001628280-26-058486-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-21T17:21:01Z",
+      "epoch": 1787332861,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Global Water Resources, Inc.",
+      "catalyst": true
+    },
+    {
+      "title": "8-K - Zeo Energy Corp. (0001865506) (Filer)",
+      "summary": "Filed:  2026-08-21  AccNo:  0001213900-26-092692  Size:  266 KB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1865506/000121390026092692/0001213900-26-092692-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-21T17:20:26Z",
+      "epoch": 1787332826,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Zeo Energy Corp.",
+      "catalyst": true
+    },
+    {
+      "title": "8-K - Nexalin Technology, Inc. (0001527352) (Filer)",
+      "summary": "Filed:  2026-08-21  AccNo:  0001829126-26-009226  Size:  389 KB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant\n Item 9.01: Financial Statements an",
+      "url": "https://www.sec.gov/Archives/edgar/data/1527352/000182912626009226/0001829126-26-009226-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-21T17:20:17Z",
+      "epoch": 1787332817,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Nexalin Technology, Inc.",
+      "catalyst": true
+    },
     {
       "title": "8-K - MANGOCEUTICALS, INC. (0001938046) (Filer)",
       "summary": "Filed:  2026-08-21  AccNo:  0001493152-26-039724  Size:  248 KB\n Item 1.02: Termination of a Material Definitive Agreement\n Item 9.01: Financial Statements and Exhibits",
@@ -295,19 +360,6 @@
       "catalyst": true
     },
     {
-      "title": "8-K - RenX Enterprises Corp. (0001959023) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001213900-26-092589  Size:  498 KB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1959023/000121390026092589/0001213900-26-092589-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:01:20Z",
-      "epoch": 1787328080,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Renx Enterprises Corp.",
-      "catalyst": true
-    },
-    {
       "title": "TransformativeMed Partners with Red Rover Health to Bring Agentic AI Across Clinical Workflows",
       "summary": "Companies to showcase agentic discharge planning solution at Oracle Health Summit SEATTLE, Aug. 21, 2026 /PRNewswire/ -- TransformativeMed, a 'Best in Klas' Healthcare IT company, today announced a strategic partnership with Red Rover Health to design and deploy agentic AI soluti",
       "url": "https://www.prnewswire.com/news-releases/transformativemed-partners-with-red-rover-health-to-bring-agentic-ai-across-clinical-workflows-302857306.html",
@@ -323,6 +375,51 @@
       "catalyst": true
     },
     {
+      "title": "Kimbell Royalty Partners Closes $221.2 Million Drop Down Acquisition",
+      "summary": "FORT WORTH, Texas, Aug. 21, 2026 /PRNewswire/ -- Kimbell Royalty Partners, LP (NYSE: KRP) (\"Kimbell\" or the \"Company\"), a leading owner of oil and gas mineral and royalty interests in over 17 million gross acres in 28 states, today announced that it has closed the previously anno",
+      "url": "https://www.prnewswire.com/news-releases/kimbell-royalty-partners-closes-221-2-million-drop-down-acquisition-302857569.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-21T21:30:00Z",
+      "epoch": 1787347800,
+      "sentiment": -0.33,
+      "tickers": [
+        "KRP"
+      ],
+      "company_name": null,
+      "catalyst": false
+    },
+    {
+      "title": "Kimbell Royalty Partners Closes $221.2 Million Drop Down Acquisition",
+      "summary": "FORT WORTH, Texas, Aug. 21, 2026 /PRNewswire/ -- Kimbell Royalty Partners, LP (NYSE: KRP) (\"Kimbell\" or the \"Company\"), a leading owner of oil and gas mineral and royalty interests in over 17 million gross acres in 28 states, today announced that it has closed the previously anno",
+      "url": "https://www.prnewswire.com/news-releases/kimbell-royalty-partners-closes-221-2-million-drop-down-acquisition-302857569.html",
+      "source": "PR Newswire — Biotechnology",
+      "source_id": "prnewswire-biotech",
+      "published_at": "2026-08-21T21:30:00Z",
+      "epoch": 1787347800,
+      "sentiment": -0.33,
+      "tickers": [
+        "KRP"
+      ],
+      "company_name": null,
+      "catalyst": false
+    },
+    {
+      "title": "Kimbell Royalty Partners Closes $221.2 Million Drop Down Acquisition",
+      "summary": "FORT WORTH, Texas, Aug. 21, 2026 /PRNewswire/ -- Kimbell Royalty Partners, LP (NYSE: KRP) (\"Kimbell\" or the \"Company\"), a leading owner of oil and gas mineral and royalty interests in over 17 million gross acres in 28 states, today announced that it has closed the previously anno",
+      "url": "https://www.prnewswire.com/news-releases/kimbell-royalty-partners-closes-221-2-million-drop-down-acquisition-302857569.html",
+      "source": "PR Newswire — Clinical Trials/FDA",
+      "source_id": "prnewswire-trials-fda",
+      "published_at": "2026-08-21T21:30:00Z",
+      "epoch": 1787347800,
+      "sentiment": -0.33,
+      "tickers": [
+        "KRP"
+      ],
+      "company_name": null,
+      "catalyst": false
+    },
+    {
       "title": "Lazard Global Total Return and Income Fund Declares Monthly Distribution and Issues Estimated Sources of the Distribution Announced in July",
       "summary": "NEW YORK, Aug. 21, 2026 /PRNewswire/ -- Lazard Global Total Return and Income Fund, Inc. (the \"Fund\") (NYSE:LGI) is confirming today, pursuant to its Managed Distribution Policy, as previously authorized by its Board of Directors, a monthly distribution of $0.15340 per share on t",
       "url": "https://www.prnewswire.com/news-releases/lazard-global-total-return-and-income-fund-declares-monthly-distribution-and-issues-estimated-sources-of-the-distribution-announced-in-july-302857548.html",
@@ -721,6 +818,21 @@
       "catalyst": false
     },
     {
+      "title": "Robbins LLP Urges REPL Investors Who Lost Money Investing in Replimune to Contact the Firm for Information About Leading the Class Action",
+      "summary": "SAN DIEGO, Aug. 21, 2026 /PRNewswire/ -- Shareholder rights law firm Robbins LLP reminds investors that a class action was filed on behalf of all persons and entities that purchased or otherwise acquired Replimune Group, Inc. (NASDAQ: REPL) securities between October 20, 2025 and",
+      "url": "https://www.prnewswire.com/news-releases/robbins-llp-urges-repl-investors-who-lost-money-investing-in-replimune-to-contact-the-firm-for-information-about-leading-the-class-action-302857491.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-21T20:20:00Z",
+      "epoch": 1787343600,
+      "sentiment": 0.0,
+      "tickers": [
+        "REPL"
+      ],
+      "company_name": null,
+      "catalyst": false
+    },
+    {
       "title": "Bloom Energy Corporation (BE) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
       "summary": "LOS ANGELES, Aug. 21, 2026 /PRNewswire/ -- Glancy Prongay Wolke & Rotter LLP announces that investors with losses have opportunity to lead the securities fraud class action lawsuit against Bloom Energy Corporation. IF YOU SUFFERED A LOSS ON YOUR BLOOM ENERGY CORPORATION INVESTMEN",
       "url": "https://www.prnewswire.com/news-releases/bloom-energy-corporation-be-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302857019.html",
@@ -734,17 +846,15 @@
       "catalyst": false
     },
     {
-      "title": "Robbins LLP Urges REPL Investors Who Lost Money Investing in Replimune to Contact the Firm for Information About Leading the Class Action",
-      "summary": "SAN DIEGO, Aug. 21, 2026 /PRNewswire/ -- Shareholder rights law firm Robbins LLP reminds investors that a class action was filed on behalf of all persons and entities that purchased or otherwise acquired Replimune Group, Inc. (NASDAQ: REPL) securities between October 20, 2025 and",
-      "url": "https://www.prnewswire.com/news-releases/robbins-llp-urges-repl-investors-who-lost-money-investing-in-replimune-to-contact-the-firm-for-information-about-leading-the-class-action-302857491.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "title": "Bloom Energy Corporation (BE) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
+      "summary": "LOS ANGELES, Aug. 21, 2026 /PRNewswire/ -- Glancy Prongay Wolke & Rotter LLP announces that investors with losses have opportunity to lead the securities fraud class action lawsuit against Bloom Energy Corporation. IF YOU SUFFERED A LOSS ON YOUR BLOOM ENERGY CORPORATION INVESTMEN",
+      "url": "https://www.prnewswire.com/news-releases/bloom-energy-corporation-be-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302857019.html",
+      "source": "PR Newswire — Biotechnology",
+      "source_id": "prnewswire-biotech",
       "published_at": "2026-08-21T20:20:00Z",
       "epoch": 1787343600,
-      "sentiment": 0.0,
-      "tickers": [
-        "REPL"
-      ],
+      "sentiment": -1.0,
+      "tickers": [],
       "company_name": null,
       "catalyst": false
     },
@@ -764,32 +874,6 @@
       "catalyst": false
     },
     {
-      "title": "Bloom Energy Corporation (BE) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
-      "summary": "LOS ANGELES, Aug. 21, 2026 /PRNewswire/ -- Glancy Prongay Wolke & Rotter LLP announces that investors with losses have opportunity to lead the securities fraud class action lawsuit against Bloom Energy Corporation. IF YOU SUFFERED A LOSS ON YOUR BLOOM ENERGY CORPORATION INVESTMEN",
-      "url": "https://www.prnewswire.com/news-releases/bloom-energy-corporation-be-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302857019.html",
-      "source": "PR Newswire — Biotechnology",
-      "source_id": "prnewswire-biotech",
-      "published_at": "2026-08-21T20:20:00Z",
-      "epoch": 1787343600,
-      "sentiment": -1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false
-    },
-    {
-      "title": "Bloom Energy Corporation (BE) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
-      "summary": "LOS ANGELES, Aug. 21, 2026 /PRNewswire/ -- Glancy Prongay Wolke & Rotter LLP announces that investors with losses have opportunity to lead the securities fraud class action lawsuit against Bloom Energy Corporation. IF YOU SUFFERED A LOSS ON YOUR BLOOM ENERGY CORPORATION INVESTMEN",
-      "url": "https://www.prnewswire.com/news-releases/bloom-energy-corporation-be-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302857019.html",
-      "source": "PR Newswire — Clinical Trials/FDA",
-      "source_id": "prnewswire-trials-fda",
-      "published_at": "2026-08-21T20:20:00Z",
-      "epoch": 1787343600,
-      "sentiment": -1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false
-    },
-    {
       "title": "Robbins LLP Urges REPL Investors Who Lost Money Investing in Replimune to Contact the Firm for Information About Leading the Class Action",
       "summary": "SAN DIEGO, Aug. 21, 2026 /PRNewswire/ -- Shareholder rights law firm Robbins LLP reminds investors that a class action was filed on behalf of all persons and entities that purchased or otherwise acquired Replimune Group, Inc. (NASDAQ: REPL) securities between October 20, 2025 and",
       "url": "https://www.prnewswire.com/news-releases/robbins-llp-urges-repl-investors-who-lost-money-investing-in-replimune-to-contact-the-firm-for-information-about-leading-the-class-action-302857491.html",
@@ -801,6 +885,19 @@
       "tickers": [
         "REPL"
       ],
+      "company_name": null,
+      "catalyst": false
+    },
+    {
+      "title": "Bloom Energy Corporation (BE) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
+      "summary": "LOS ANGELES, Aug. 21, 2026 /PRNewswire/ -- Glancy Prongay Wolke & Rotter LLP announces that investors with losses have opportunity to lead the securities fraud class action lawsuit against Bloom Energy Corporation. IF YOU SUFFERED A LOSS ON YOUR BLOOM ENERGY CORPORATION INVESTMEN",
+      "url": "https://www.prnewswire.com/news-releases/bloom-energy-corporation-be-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302857019.html",
+      "source": "PR Newswire — Clinical Trials/FDA",
+      "source_id": "prnewswire-trials-fda",
+      "published_at": "2026-08-21T20:20:00Z",
+      "epoch": 1787343600,
+      "sentiment": -1.0,
+      "tickers": [],
       "company_name": null,
       "catalyst": false
     },
@@ -1130,19 +1227,6 @@
       "catalyst": false
     },
     {
-      "title": "HDFC Bank Limited (HDB) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
-      "summary": "LOS ANGELES, Aug. 21, 2026 /PRNewswire/ -- Glancy Prongay Wolke & Rotter LLP announces that investors with losses have opportunity to lead the securities fraud class action lawsuit against HDFC Bank Limited. IF YOU SUFFERED A LOSS ON YOUR HDFC BANK LIMITED INVESTMENTS, CLICK HERE",
-      "url": "https://www.prnewswire.com/news-releases/hdfc-bank-limited-hdb-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302857013.html",
-      "source": "PR Newswire — Clinical Trials/FDA",
-      "source_id": "prnewswire-trials-fda",
-      "published_at": "2026-08-21T20:00:00Z",
-      "epoch": 1787342400,
-      "sentiment": -1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false
-    },
-    {
       "title": "HYLN STOCK NEWS: Robbins LLP Reminds Investors that it is Investigating Potential Securities Claims Involving Hyliion Holdings Corp.",
       "summary": "SAN DIEGO, Aug. 21, 2026 /PRNewswire/ -- Shareholder rights law firm Robbins LLP is investigating Hyliion Holdings Corp. (AMEX: HYLN) to determine whether certain Hyliion Holdings officers and directors violated securities laws and breached fiduciary duties to shareholders. Hylii",
       "url": "https://www.prnewswire.com/news-releases/hyln-stock-news-robbins-llp-reminds-investors-that-it-is-investigating-potential-securities-claims-involving-hyliion-holdings-corp-302857485.html",
@@ -1151,6 +1235,19 @@
       "published_at": "2026-08-21T20:00:00Z",
       "epoch": 1787342400,
       "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false
+    },
+    {
+      "title": "HDFC Bank Limited (HDB) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
+      "summary": "LOS ANGELES, Aug. 21, 2026 /PRNewswire/ -- Glancy Prongay Wolke & Rotter LLP announces that investors with losses have opportunity to lead the securities fraud class action lawsuit against HDFC Bank Limited. IF YOU SUFFERED A LOSS ON YOUR HDFC BANK LIMITED INVESTMENTS, CLICK HERE",
+      "url": "https://www.prnewswire.com/news-releases/hdfc-bank-limited-hdb-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302857013.html",
+      "source": "PR Newswire — Clinical Trials/FDA",
+      "source_id": "prnewswire-trials-fda",
+      "published_at": "2026-08-21T20:00:00Z",
+      "epoch": 1787342400,
+      "sentiment": -1.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false
@@ -1203,45 +1300,6 @@
       "published_at": "2026-08-21T19:59:00Z",
       "epoch": 1787342340,
       "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false
-    },
-    {
-      "title": "Valor Education Named Contender for the $1M Yass Prize",
-      "summary": "Known as the \"Pulitzer of Education Innovation,\" the Yass Prize has recognized Valor for its commitment to a sustainable, transformational, outstanding, and permissionless approach to educating the whole person. AUSTIN, TEXAS, Aug. 21, 2026 /PRNewswire/ -- Valor Education has bee",
-      "url": "https://www.prnewswire.com/news-releases/valor-education-named-contender-for-the-1m-yass-prize-302857534.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-21T19:52:00Z",
-      "epoch": 1787341920,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false
-    },
-    {
-      "title": "Valor Education Named Contender for the $1M Yass Prize",
-      "summary": "Known as the \"Pulitzer of Education Innovation,\" the Yass Prize has recognized Valor for its commitment to a sustainable, transformational, outstanding, and permissionless approach to educating the whole person. AUSTIN, TEXAS, Aug. 21, 2026 /PRNewswire/ -- Valor Education has bee",
-      "url": "https://www.prnewswire.com/news-releases/valor-education-named-contender-for-the-1m-yass-prize-302857534.html",
-      "source": "PR Newswire — Biotechnology",
-      "source_id": "prnewswire-biotech",
-      "published_at": "2026-08-21T19:52:00Z",
-      "epoch": 1787341920,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false
-    },
-    {
-      "title": "Techlusion Named an OpenAI Select Partner",
-      "summary": "Seattle studio joins the OpenAI Partner Network to help startups and B2B SaaS companies take frontier models from prototype to production SEATTLE, Aug. 21, 2026 /PRNewswire/ -- Techlusion, an AI-Native Product Engineering Studio, today announced it has been named an OpenAI Select",
-      "url": "https://www.prnewswire.com/news-releases/techlusion-named-an-openai-select-partner-302857535.html",
-      "source": "PR Newswire — Clinical Trials/FDA",
-      "source_id": "prnewswire-trials-fda",
-      "published_at": "2026-08-21T19:52:00Z",
-      "epoch": 1787341920,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false
@@ -1312,6 +1370,45 @@
       "catalyst": false
     },
     {
+      "title": "8-K - Peraso Inc. (0000890394) (Filer)",
+      "summary": "Filed:  2026-08-21  AccNo:  0001213900-26-092719  Size:  189 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+      "url": "https://www.sec.gov/Archives/edgar/data/890394/000121390026092719/0001213900-26-092719-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-21T17:30:52Z",
+      "epoch": 1787333452,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Peraso Inc.",
+      "catalyst": false
+    },
+    {
+      "title": "8-K - Vivos Therapeutics, Inc. (0001716166) (Filer)",
+      "summary": "Filed:  2026-08-21  AccNo:  0001493152-26-039736  Size:  224 KB\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1716166/000149315226039736/0001493152-26-039736-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-21T17:30:07Z",
+      "epoch": 1787333407,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Vivos Therapeutics, Inc.",
+      "catalyst": false
+    },
+    {
+      "title": "8-K - Flash Sports & Media Holdings, Inc. (0001706524) (Filer)",
+      "summary": "Filed:  2026-08-21  AccNo:  0001213900-26-092714  Size:  195 KB\n Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing",
+      "url": "https://www.sec.gov/Archives/edgar/data/1706524/000121390026092714/0001213900-26-092714-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-21T17:28:21Z",
+      "epoch": 1787333301,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Flash Sports & Media Holdings, Inc.",
+      "catalyst": false
+    },
+    {
       "title": "Terrance Bradford Construction in Tampa Florida Expands Construction Consultation Services Throughout the Tampa Area",
       "summary": "TAMPA, Fla., Aug. 21, 2026 /PRNewswire/ -- Terrance Bradford Construction in Tampa Florida today announced the expansion of its construction consultation services for residential and commercial property owners throughout the Tampa Bay area. The expanded consultation offering is d",
       "url": "https://www.prnewswire.com/news-releases/terrance-bradford-construction-in-tampa-florida-expands-construction-consultation-services-throughout-the-tampa-area-302857466.html",
@@ -1322,6 +1419,58 @@
       "sentiment": 0.67,
       "tickers": [],
       "company_name": null,
+      "catalyst": false
+    },
+    {
+      "title": "8-K - ZeroStack Corp. (0001790169) (Filer)",
+      "summary": "Filed:  2026-08-21  AccNo:  0001062993-26-004559  Size:  381 KB\n Item 8.01: Other Events",
+      "url": "https://www.sec.gov/Archives/edgar/data/1790169/000106299326004559/0001062993-26-004559-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-21T17:27:45Z",
+      "epoch": 1787333265,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Zerostack Corp.",
+      "catalyst": false
+    },
+    {
+      "title": "8-K - Capstone Energy Plus, Inc. (0001009759) (Filer)",
+      "summary": "Filed:  2026-08-21  AccNo:  0001104659-26-099750  Size:  200 KB\n Item 5.07: Submission of Matters to a Vote of Security Holders",
+      "url": "https://www.sec.gov/Archives/edgar/data/1009759/000110465926099750/0001104659-26-099750-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-21T17:24:48Z",
+      "epoch": 1787333088,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Capstone Energy Plus, Inc.",
+      "catalyst": false
+    },
+    {
+      "title": "8-K - Nerdy Inc. (0001819404) (Filer)",
+      "summary": "Filed:  2026-08-21  AccNo:  0001628280-26-058487  Size:  173 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819404/000162828026058487/0001628280-26-058487-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-21T17:23:22Z",
+      "epoch": 1787333002,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Nerdy Inc.",
+      "catalyst": false
+    },
+    {
+      "title": "8-K - K&F GROWTH ACQUISITION CORP. II (0002029976) (Filer)",
+      "summary": "Filed:  2026-08-21  AccNo:  0001213900-26-092693  Size:  255 KB\n Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing",
+      "url": "https://www.sec.gov/Archives/edgar/data/2029976/000121390026092693/0001213900-26-092693-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-21T17:20:28Z",
+      "epoch": 1787332828,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": "K&F Growth Acquisition Corp. Ii",
       "catalyst": false
     },
     {
@@ -1887,155 +2036,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Silexion Therapeutics Corp",
-      "catalyst": false
-    },
-    {
-      "title": "8-K - Toppoint Holdings Inc. (0001960847) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001213900-26-092615  Size:  219 KB\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1960847/000121390026092615/0001213900-26-092615-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:20:23Z",
-      "epoch": 1787329223,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Toppoint Holdings Inc.",
-      "catalyst": false
-    },
-    {
-      "title": "Allies of Skin Celebrates the Launch of Peptint with an Exclusive Los Angeles Event Featuring Amber Mark",
-      "summary": "The Sound Lounge at Revolve at The Grove Unveiled the Grammy-Nominated Singer-Songwriter as the Face of the Brand's New Peptint Campaign LOS ANGELES, Aug. 21, 2026 /PRNewswire/ -- Allies of Skin, the results-driven skincare brand known for its supercharged clinical formulas, cele",
-      "url": "https://www.prnewswire.com/news-releases/allies-of-skin-celebrates-the-launch-of-peptint-with-an-exclusive-los-angeles-event-featuring-amber-mark-302857397.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-21T16:20:00Z",
-      "epoch": 1787329200,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false
-    },
-    {
-      "title": "8-K - EVOLUTION PETROLEUM CORP (0001006655) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001104659-26-099691  Size:  251 KB\n Item 7.01: Regulation FD Disclosure\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1006655/000110465926099691/0001104659-26-099691-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:17:14Z",
-      "epoch": 1787329034,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Evolution Petroleum Corp",
-      "catalyst": false
-    },
-    {
-      "title": "8-K - SEMPRA (0001032208) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001193125-26-361126  Size:  414 KB\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1032208/000119312526361126/0001193125-26-361126-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:17:01Z",
-      "epoch": 1787329021,
-      "sentiment": 0.0,
-      "tickers": [
-        "SRE"
-      ],
-      "company_name": null,
-      "catalyst": false
-    },
-    {
-      "title": "8-K - SOUTHERN CALIFORNIA GAS CO (0000092108) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001193125-26-361126  Size:  414 KB\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/92108/000119312526361126/0001193125-26-361126-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:17:01Z",
-      "epoch": 1787329021,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Southern California Gas Co",
-      "catalyst": false
-    },
-    {
-      "title": "8-K - Ares Sports, Media & Entertainment Opportunities LP (0002046946) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001628280-26-058433  Size:  159 KB\n Item 3.02: Unregistered Sales of Equity Securities\n Item 8.01: Other Events",
-      "url": "https://www.sec.gov/Archives/edgar/data/2046946/000162828026058433/0001628280-26-058433-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:16:23Z",
-      "epoch": 1787328983,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Ares Sports, Media & Entertainment Opportunities Lp",
-      "catalyst": false
-    },
-    {
-      "title": "8-K - COMMUNITY FINANCIAL SYSTEM, INC. (0000723188) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001104659-26-099690  Size:  204 KB\n Item 7.01: Regulation FD Disclosure",
-      "url": "https://www.sec.gov/Archives/edgar/data/723188/000110465926099690/0001104659-26-099690-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:15:56Z",
-      "epoch": 1787328956,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Community Financial System, Inc.",
-      "catalyst": false
-    },
-    {
-      "title": "8-K - Global Interactive Technologies, Inc. (0001911545) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001493152-26-039677  Size:  224 KB\n Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1911545/000149315226039677/0001493152-26-039677-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:15:36Z",
-      "epoch": 1787328936,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Global Interactive Technologies, Inc.",
-      "catalyst": false
-    },
-    {
-      "title": "8-K - Palo Alto Networks Inc (0001327567) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001193125-26-361122  Size:  637 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item 5.03: Amendments to Articles of Incorporation or Byl",
-      "url": "https://www.sec.gov/Archives/edgar/data/1327567/000119312526361122/0001193125-26-361122-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:15:18Z",
-      "epoch": 1787328918,
-      "sentiment": 0.0,
-      "tickers": [
-        "PANW"
-      ],
-      "company_name": null,
-      "catalyst": false
-    },
-    {
-      "title": "8-K - Citius Pharmaceuticals, Inc. (0001506251) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001213900-26-092604  Size:  188 KB\n Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing",
-      "url": "https://www.sec.gov/Archives/edgar/data/1506251/000121390026092604/0001213900-26-092604-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:15:14Z",
-      "epoch": 1787328914,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Citius Pharmaceuticals, Inc.",
-      "catalyst": false
-    },
-    {
-      "title": "8-K - WILLIAMS COMPANIES, INC. (0000107263) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0000107263-26-000028  Size:  141 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000028/0000107263-26-000028-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:15:08Z",
-      "epoch": 1787328908,
-      "sentiment": 0.0,
-      "tickers": [
-        "WMB"
-      ],
-      "company_name": null,
       "catalyst": false
     }
   ]
