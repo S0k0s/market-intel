@@ -74,7 +74,7 @@
     },
     {
       "date": "2026-08-21",
-      "score": 65.3,
+      "score": 65.4,
       "avg_sentiment": 0.23,
       "article_count": 3
     }
@@ -188,7 +188,7 @@
     },
     {
       "date": "2026-08-21",
-      "score": 67.6,
+      "score": 67.7,
       "avg_sentiment": 0.19,
       "article_count": 6
     }
@@ -216,9 +216,9 @@
     },
     {
       "date": "2026-08-21",
-      "score": 53.0,
-      "avg_sentiment": -0.18,
-      "article_count": 7
+      "score": 50.2,
+      "avg_sentiment": -0.24,
+      "article_count": 8
     }
   ],
   "NDAQ": [
@@ -404,8 +404,8 @@
     },
     {
       "date": "2026-08-21",
-      "score": 39.1,
-      "avg_sentiment": -0.37,
+      "score": 39.0,
+      "avg_sentiment": -0.38,
       "article_count": 2
     }
   ],
