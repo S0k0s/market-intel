@@ -5,34 +5,35 @@ import type { ArticlesFile, Horizon } from "@/types/data";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
+import { FilterSelect } from "@/components/FilterSelect";
 import { Star } from "lucide-react";
 
-const CONTINENT_FILTERS: { id: string; label: string }[] = [
-  { id: "all", label: "Όλες" },
+const CONTINENT_FILTERS = [
+  { id: "all", label: "Όλες οι ήπειροι" },
   { id: "na", label: "🇺🇸 Βόρεια Αμερική" },
   { id: "eu", label: "🇪🇺 Ευρώπη" },
   { id: "as", label: "🌏 Ασία" },
   { id: "oc", label: "🇦🇺 Ωκεανία" },
-];
+] as const;
 
-const SENTIMENT_FILTERS: { id: "all" | "positive" | "neutral" | "negative"; label: string }[] = [
-  { id: "all", label: "Όλα" },
+const SENTIMENT_FILTERS = [
+  { id: "all", label: "Κάθε sentiment" },
   { id: "positive", label: "Θετικά" },
   { id: "neutral", label: "Ουδέτερα" },
   { id: "negative", label: "Αρνητικά" },
-];
+] as const;
 
-const SORT_OPTIONS: { id: "recent" | "sentiment_desc" | "sentiment_asc"; label: string }[] = [
+const SORT_OPTIONS = [
   { id: "recent", label: "Νεότερα πρώτα" },
   { id: "sentiment_desc", label: "Sentiment: Θετικό → Αρνητικό" },
   { id: "sentiment_asc", label: "Sentiment: Αρνητικό → Θετικό" },
-];
+] as const;
 
-const HORIZON_FILTERS: { id: "all" | "swing" | "long_term"; label: string }[] = [
+const HORIZON_FILTERS = [
   { id: "all", label: "Όλοι οι ορίζοντες" },
   { id: "swing", label: "Swing" },
   { id: "long_term", label: "Long-term" },
-];
+] as const;
 
 function sentimentCategory(s: number): "positive" | "neutral" | "negative" {
   if (s > 0.15) return "positive";
@@ -66,10 +67,11 @@ export function NewsFeed() {
     `${import.meta.env.BASE_URL}data/articles.json`
   );
   const { isWatched } = useWatchlist();
-  const [continent, setContinent] = useState("all");
-  const [sentimentFilter, setSentimentFilter] = useState<"all" | "positive" | "neutral" | "negative">("all");
-  const [horizonFilter, setHorizonFilter] = useState<"all" | "swing" | "long_term">("all");
-  const [sort, setSort] = useState<"recent" | "sentiment_desc" | "sentiment_asc">("recent");
+  const [continent, setContinent] = useState<(typeof CONTINENT_FILTERS)[number]["id"]>("all");
+  const [sentimentFilter, setSentimentFilter] =
+    useState<(typeof SENTIMENT_FILTERS)[number]["id"]>("all");
+  const [horizonFilter, setHorizonFilter] = useState<(typeof HORIZON_FILTERS)[number]["id"]>("all");
+  const [sort, setSort] = useState<(typeof SORT_OPTIONS)[number]["id"]>("recent");
   const [onlyWithTickers, setOnlyWithTickers] = useState(false);
   const [watchlistOnly, setWatchlistOnly] = useState(false);
   const [search, setSearch] = useState("");
@@ -99,58 +101,31 @@ export function NewsFeed() {
 
   return (
     <div className="flex flex-col gap-4">
-      <div className="flex flex-wrap items-center gap-2">
+      <div className="flex flex-col gap-2 rounded-xl border border-border bg-card p-3">
         <input
           type="text"
           placeholder="Αναζήτηση τίτλου ή ticker…"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
-          className="h-8 w-48 rounded-md border border-input bg-background px-3 text-sm outline-none focus-visible:ring-2 focus-visible:ring-ring"
+          className="h-9 w-full rounded-md border border-input bg-background px-3 text-sm outline-none focus-visible:ring-2 focus-visible:ring-ring"
         />
-        {CONTINENT_FILTERS.map((f) => (
-          <Button
-            key={f.id}
-            size="sm"
-            variant={continent === f.id ? "default" : "outline"}
-            onClick={() => setContinent(f.id)}
-          >
-            {f.label}
-          </Button>
-        ))}
-        <span className="text-muted-foreground">·</span>
-        {SENTIMENT_FILTERS.map((f) => (
-          <Button
-            key={f.id}
-            size="sm"
-            variant={sentimentFilter === f.id ? "default" : "outline"}
-            onClick={() => setSentimentFilter(f.id)}
-          >
-            {f.label}
-          </Button>
-        ))}
-        <select
-          value={horizonFilter}
-          onChange={(e) => setHorizonFilter(e.target.value as typeof horizonFilter)}
-          className="h-8 rounded-md border border-input bg-background px-2 text-sm"
-        >
-          {HORIZON_FILTERS.map((o) => (
-            <option key={o.id} value={o.id}>
-              {o.label}
-            </option>
-          ))}
-        </select>
-        <select
-          value={sort}
-          onChange={(e) => setSort(e.target.value as typeof sort)}
-          className="h-8 rounded-md border border-input bg-background px-2 text-sm"
-        >
-          {SORT_OPTIONS.map((o) => (
-            <option key={o.id} value={o.id}>
-              {o.label}
-            </option>
-          ))}
-        </select>
-        <div className="ml-auto flex items-center gap-2">
+        <div className="grid grid-cols-2 gap-2 sm:flex sm:flex-wrap">
+          <FilterSelect value={continent} onChange={setContinent} options={CONTINENT_FILTERS} ariaLabel="Ήπειρος" />
+          <FilterSelect
+            value={sentimentFilter}
+            onChange={setSentimentFilter}
+            options={SENTIMENT_FILTERS}
+            ariaLabel="Sentiment"
+          />
+          <FilterSelect
+            value={horizonFilter}
+            onChange={setHorizonFilter}
+            options={HORIZON_FILTERS}
+            ariaLabel="Χρονικός ορίζοντας"
+          />
+          <FilterSelect value={sort} onChange={setSort} options={SORT_OPTIONS} ariaLabel="Ταξινόμηση" />
+        </div>
+        <div className="flex flex-wrap items-center gap-2 border-t border-border pt-2">
           <Button
             size="sm"
             variant={watchlistOnly ? "default" : "outline"}
@@ -165,6 +140,7 @@ export function NewsFeed() {
           >
             Μόνο με μετοχές
           </Button>
+          <span className="ml-auto text-xs text-muted-foreground">{articles.length} άρθρα</span>
         </div>
       </div>
 
@@ -185,7 +161,7 @@ export function NewsFeed() {
                 >
                   {a.title}
                 </a>
-                <div className="flex shrink-0 gap-1">
+                <div className="flex shrink-0 flex-wrap justify-end gap-1">
                   {horizonBadge(a.horizon)}
                   {sentimentBadge(a.sentiment)}
                 </div>

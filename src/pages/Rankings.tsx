@@ -20,28 +20,29 @@ import {
   TooltipTrigger,
 } from "@/components/ui/tooltip";
 import { Sparkline } from "@/components/Sparkline";
+import { FilterSelect } from "@/components/FilterSelect";
 import { Star, Flame, ArrowUp, ArrowDown, ArrowUpDown } from "lucide-react";
 
-const CONTINENT_FILTERS: { id: string; label: string }[] = [
-  { id: "all", label: "Όλες" },
+const CONTINENT_FILTERS = [
+  { id: "all", label: "Όλες οι ήπειροι" },
   { id: "na", label: "🇺🇸 Βόρεια Αμερική" },
   { id: "eu", label: "🇪🇺 Ευρώπη" },
   { id: "as", label: "🌏 Ασία" },
   { id: "oc", label: "🇦🇺 Ωκεανία" },
-];
+] as const;
 
-const SENTIMENT_FILTERS: { id: "all" | "positive" | "neutral" | "negative"; label: string }[] = [
-  { id: "all", label: "Όλα" },
+const SENTIMENT_FILTERS = [
+  { id: "all", label: "Κάθε sentiment" },
   { id: "positive", label: "Θετικά" },
   { id: "neutral", label: "Ουδέτερα" },
   { id: "negative", label: "Αρνητικά" },
-];
+] as const;
 
-const HORIZON_FILTERS: { id: "all" | "swing" | "long_term"; label: string }[] = [
+const HORIZON_FILTERS = [
   { id: "all", label: "Όλοι οι ορίζοντες" },
   { id: "swing", label: "Swing" },
   { id: "long_term", label: "Long-term" },
-];
+] as const;
 
 type SortKey = "score" | "article_count" | "source_count" | "avg_sentiment";
 
@@ -75,14 +76,16 @@ function SortableHead({
   sortKey,
   sortDir,
   onSort,
+  className,
 }: {
   col: { key: SortKey; label: string; align?: "right" };
   sortKey: SortKey;
   sortDir: "asc" | "desc";
   onSort: (key: SortKey) => void;
+  className?: string;
 }) {
   return (
-    <TableHead className={col.align === "right" ? "text-right" : ""}>
+    <TableHead className={`${col.align === "right" ? "text-right" : ""} ${className ?? ""}`}>
       <button
         onClick={() => onSort(col.key)}
         className="inline-flex items-center gap-1 hover:text-foreground"
@@ -110,10 +113,11 @@ export function Rankings() {
     `${import.meta.env.BASE_URL}data/history.json`
   );
   const { toggle, isWatched } = useWatchlist();
-  const [continent, setContinent] = useState("all");
+  const [continent, setContinent] = useState<(typeof CONTINENT_FILTERS)[number]["id"]>("all");
   const [sector, setSector] = useState("all");
-  const [sentimentFilter, setSentimentFilter] = useState<"all" | "positive" | "neutral" | "negative">("all");
-  const [horizonFilter, setHorizonFilter] = useState<"all" | "swing" | "long_term">("all");
+  const [sentimentFilter, setSentimentFilter] =
+    useState<(typeof SENTIMENT_FILTERS)[number]["id"]>("all");
+  const [horizonFilter, setHorizonFilter] = useState<(typeof HORIZON_FILTERS)[number]["id"]>("all");
   const [search, setSearch] = useState("");
   const [watchlistOnly, setWatchlistOnly] = useState(false);
   const [sortKey, setSortKey] = useState<SortKey>("score");
@@ -162,66 +166,45 @@ export function Rankings() {
   return (
     <TooltipProvider>
       <div className="flex flex-col gap-4">
-        <div className="flex flex-wrap items-center gap-2">
+        <div className="flex flex-col gap-2 rounded-xl border border-border bg-card p-3">
           <input
             type="text"
             placeholder="Αναζήτηση εταιρείας ή ticker…"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
-            className="h-8 w-48 rounded-md border border-input bg-background px-3 text-sm outline-none focus-visible:ring-2 focus-visible:ring-ring"
+            className="h-9 w-full rounded-md border border-input bg-background px-3 text-sm outline-none focus-visible:ring-2 focus-visible:ring-ring"
           />
-          <select
-            value={sector}
-            onChange={(e) => setSector(e.target.value)}
-            className="h-8 rounded-md border border-input bg-background px-2 text-sm"
-          >
-            <option value="all">Όλοι οι κλάδοι</option>
-            {sectors.map((s) => (
-              <option key={s} value={s}>
-                {s}
-              </option>
-            ))}
-          </select>
-          {CONTINENT_FILTERS.map((f) => (
+          <div className="grid grid-cols-2 gap-2 sm:flex sm:flex-wrap">
+            <FilterSelect
+              value={sector}
+              onChange={setSector}
+              options={[{ id: "all", label: "Όλοι οι κλάδοι" }, ...sectors.map((s) => ({ id: s, label: s }))]}
+              ariaLabel="Κλάδος"
+            />
+            <FilterSelect value={continent} onChange={setContinent} options={CONTINENT_FILTERS} ariaLabel="Ήπειρος" />
+            <FilterSelect
+              value={sentimentFilter}
+              onChange={setSentimentFilter}
+              options={SENTIMENT_FILTERS}
+              ariaLabel="Sentiment"
+            />
+            <FilterSelect
+              value={horizonFilter}
+              onChange={setHorizonFilter}
+              options={HORIZON_FILTERS}
+              ariaLabel="Χρονικός ορίζοντας"
+            />
+          </div>
+          <div className="flex flex-wrap items-center gap-2 border-t border-border pt-2">
             <Button
-              key={f.id}
               size="sm"
-              variant={continent === f.id ? "default" : "outline"}
-              onClick={() => setContinent(f.id)}
+              variant={watchlistOnly ? "default" : "outline"}
+              onClick={() => setWatchlistOnly((v) => !v)}
             >
-              {f.label}
+              <Star className="size-3.5" /> Watchlist
             </Button>
-          ))}
-          <span className="text-muted-foreground">·</span>
-          {SENTIMENT_FILTERS.map((f) => (
-            <Button
-              key={f.id}
-              size="sm"
-              variant={sentimentFilter === f.id ? "default" : "outline"}
-              onClick={() => setSentimentFilter(f.id)}
-            >
-              {f.label}
-            </Button>
-          ))}
-          <select
-            value={horizonFilter}
-            onChange={(e) => setHorizonFilter(e.target.value as typeof horizonFilter)}
-            className="h-8 rounded-md border border-input bg-background px-2 text-sm"
-          >
-            {HORIZON_FILTERS.map((o) => (
-              <option key={o.id} value={o.id}>
-                {o.label}
-              </option>
-            ))}
-          </select>
-          <Button
-            size="sm"
-            variant={watchlistOnly ? "default" : "outline"}
-            onClick={() => setWatchlistOnly((v) => !v)}
-            className="ml-auto"
-          >
-            <Star className="size-3.5" /> Watchlist
-          </Button>
+            <span className="ml-auto text-xs text-muted-foreground">{rows.length} μετοχές</span>
+          </div>
         </div>
 
         <p className="text-xs text-muted-foreground max-w-2xl">
@@ -245,12 +228,24 @@ export function Rankings() {
               <TableRow>
                 <TableHead />
                 <TableHead>Μετοχή</TableHead>
-                <TableHead>Κλάδος</TableHead>
+                <TableHead className="hidden md:table-cell">Κλάδος</TableHead>
                 <SortableHead col={SORT_COLUMNS[0]} sortKey={sortKey} sortDir={sortDir} onSort={handleSort} />
-                <TableHead>Τάση</TableHead>
+                <TableHead className="hidden lg:table-cell">Τάση</TableHead>
                 <SortableHead col={SORT_COLUMNS[1]} sortKey={sortKey} sortDir={sortDir} onSort={handleSort} />
-                <SortableHead col={SORT_COLUMNS[2]} sortKey={sortKey} sortDir={sortDir} onSort={handleSort} />
-                <SortableHead col={SORT_COLUMNS[3]} sortKey={sortKey} sortDir={sortDir} onSort={handleSort} />
+                <SortableHead
+                  col={SORT_COLUMNS[2]}
+                  sortKey={sortKey}
+                  sortDir={sortDir}
+                  onSort={handleSort}
+                  className="hidden md:table-cell"
+                />
+                <SortableHead
+                  col={SORT_COLUMNS[3]}
+                  sortKey={sortKey}
+                  sortDir={sortDir}
+                  onSort={handleSort}
+                  className="hidden sm:table-cell"
+                />
               </TableRow>
             </TableHeader>
             <TableBody>
@@ -289,7 +284,7 @@ export function Rankings() {
                       )}
                     </div>
                   </TableCell>
-                  <TableCell>
+                  <TableCell className="hidden md:table-cell">
                     {r.sector && <Badge variant="outline">{r.sector}</Badge>}
                   </TableCell>
                   <TableCell className="text-right">
@@ -306,12 +301,14 @@ export function Rankings() {
                       </TooltipContent>
                     </Tooltip>
                   </TableCell>
-                  <TableCell>
+                  <TableCell className="hidden lg:table-cell">
                     <Sparkline points={history?.[r.ticker] ?? []} />
                   </TableCell>
                   <TableCell className="text-right tabular-nums">{r.article_count}</TableCell>
-                  <TableCell className="text-right tabular-nums">{r.source_count}</TableCell>
-                  <TableCell className="text-right tabular-nums">
+                  <TableCell className="hidden text-right tabular-nums md:table-cell">
+                    {r.source_count}
+                  </TableCell>
+                  <TableCell className="hidden text-right tabular-nums sm:table-cell">
                     {r.avg_sentiment >= 0 ? "+" : ""}
                     {r.avg_sentiment}
                   </TableCell>
