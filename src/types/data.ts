@@ -56,12 +56,24 @@ export interface HistoryPoint {
 
 export type HistoryFile = Record<string, HistoryPoint[]>;
 
+export type Archetype = "quality_compounding" | "momentum_breakout" | "speculative" | null;
+
 export interface Mover {
   ticker: string;
   name: string;
   sector: string | null;
   price: string;
   change_pct: number;
+  long_term_score: number | null;
+  swing_score: number | null;
+  archetype: Archetype;
+  archetype_label: string | null;
+  piotroski_f: number | null;
+  altman_z: number | null;
+  rsi: number | null;
+  peg_ratio: number | null;
+  analyst_consensus: string | null;
+  streak_days: number;
 }
 
 export interface BreakingItem {
@@ -75,11 +87,13 @@ export interface BreakingItem {
   sentiment: number;
   tickers: string[];
   company_name: string | null;
+  catalyst: boolean;
 }
 
 export interface RadarFile {
   generated_at: string;
   move_threshold_pct: number;
   movers: Mover[];
+  concentration_warning: string | null;
   breaking: BreakingItem[];
 }

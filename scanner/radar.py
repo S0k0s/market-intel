@@ -1,16 +1,22 @@
 #!/usr/bin/env python3
 """
-radar.py — "Ραντάρ": γρήγορη ανίχνευση μεγάλων κινήσεων τιμής + breaking
-ανακοινώσεις από primary-source wires, τρέχει συχνότερα (π.χ. κάθε 15') από
-το κύριο aggregate.py (κάθε 3ω).
+radar.py — "Ραντάρ": δύο εννοιολογικά ΔΙΑΦΟΡΕΤΙΚΑ πράγματα, μην τα μπερδεύεις:
 
-ΣΗΜΑΝΤΙΚΟ (βλ. και disclaimer στο UI): αυτό ΔΕΝ προβλέπει τίποτα πριν συμβεί.
-Ανιχνεύει δύο πράγματα που ήδη έχουν συμβεί/ανακοινωθεί δημόσια:
-  1. Μετοχές S&P 500 με ενδοημερήσια μεταβολή >= +20% (MOVE_THRESHOLD) — η
-     ίδια η κίνηση τιμής, μόλις καταγραφεί.
-  2. Άρθρα από "πρωτογενείς" πηγές (δελτία τύπου εταιρειών, SEC filings, FDA
-     ανακοινώσεις) — εκεί όπου γεννιέται δημόσια η είδηση, πριν την
-     αναδημοσιεύσουν τα μεγάλα sites με καθυστέρηση λεπτών/ωρών.
+  1. BREAKING (primary-source wires: PR Newswire, SEC 8-K, FDA) — το μόνο
+     κομμάτι που μπορεί ρεαλιστικά να λειτουργήσει ως *πρώιμο σήμα*. Εδώ
+     "γεννιέται" δημόσια μια είδηση (π.χ. ανακοίνωση θετικών αποτελεσμάτων
+     κλινικής δοκιμής) πριν την αναδημοσιεύσουν τα μεγάλα sites με
+     καθυστέρηση λεπτών/ωρών — και πριν αντιδράσει πλήρως η τιμή. Άρθρα με
+     καταλυτική γλώσσα (πχ "Phase 3", "breakthrough therapy", "topline data")
+     σημαίνονται ρητά ως "catalyst" ώστε να ξεχωρίζουν.
+  2. MOVERS (S&P 500, ενδοημερήσια μεταβολή >= +20%) — ΕΠΙΒΕΒΑΙΩΣΗ ότι μια
+     κίνηση ήδη συνέβη, ΟΧΙ πρόβλεψη. Χρήσιμο για context/quality-check
+     (fundamentals/technicals), όχι για να προλάβεις να μπεις στη θέση νωρίς.
+
+Τρέχει συχνά (π.χ. κάθε 15') από το κύριο aggregate.py (κάθε 3ω) ακριβώς
+επειδή η ταχύτητα ανάγνωσης του breaking feed είναι το μόνο ρεαλιστικό
+πλεονέκτημα εδώ — καμία δημόσια, νόμιμη πηγή δεν προβλέπει τίποτα πριν
+ανακοινωθεί.
 
 Γράφει: public/data/radar.json
 """
@@ -28,12 +34,21 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from universe import build_universe, BARE_MATCH_DENYLIST, NAME_OVERRIDES  # noqa: E402
 from lexicon import sentiment_of, build_patterns, match_tickers, fetch_rss_items  # noqa: E402
 from net import HEADERS, urlopen_safe  # noqa: E402
+from quality import fetch_fundamentals, score_from, classify, to_number  # noqa: E402
 from urllib.request import Request  # noqa: E402
 
 DATA_DIR = ROOT / "public" / "data"
 RADAR_JSON = DATA_DIR / "radar.json"
+MOVERS_HISTORY_JSON = DATA_DIR / "movers_history.json"
+MOVERS_HISTORY_MAX_DAYS = 30
 
 MOVE_THRESHOLD = 20.0  # % ενδοημερήσια κίνηση για να μπει στο "Μεγάλες κινήσεις"
+
+ARCHETYPE_LABELS = {
+    "quality_compounding": "Ποιοτική Ανάπτυξη",
+    "momentum_breakout": "Momentum Breakout",
+    "speculative": "Κερδοσκοπικό / Χαμηλής Ποιότητας",
+}
 
 # --- Primary-source wires: εκεί όπου "γεννιέται" η είδηση, πριν την
 # αναδημοσιεύσουν τα μεγάλα sites (Reuters/CNBC κ.λπ.) με καθυστέρηση. Το
@@ -46,6 +61,10 @@ BREAKING_FEEDS = [
      "url": "https://www.prnewswire.com/rss/all-public-company-news/all-public-company-news-list.rss"},
     {"id": "prnewswire-health", "label": "PR Newswire — Health",
      "url": "https://www.prnewswire.com/rss/health-latest-news/health-latest-news-list.rss"},
+    {"id": "prnewswire-biotech", "label": "PR Newswire — Biotechnology",
+     "url": "https://www.prnewswire.com/rss/biotechnology-latest-news/biotechnology-latest-news-list.rss"},
+    {"id": "prnewswire-trials-fda", "label": "PR Newswire — Clinical Trials/FDA",
+     "url": "https://www.prnewswire.com/rss/clinical-trials-fda-approval-latest-news/clinical-trials-fda-approval-latest-news-list.rss"},
     {"id": "sec-edgar-8k", "label": "SEC EDGAR (8-K filings)",
      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=8-K&company=&dateb=&owner=include&count=100&output=atom",
      # Το SEC απαιτεί ενημερωτικό User-Agent (πολιτική "fair access") — γενικό
@@ -54,6 +73,30 @@ BREAKING_FEEDS = [
     {"id": "fda-news", "label": "FDA Press Announcements",
      "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml"},
 ]
+# Δοκιμάστηκαν και μπλοκάρουν σταθερά (timeout) από αυτό το περιβάλλον, παρότι
+# θα ήταν πολύτιμες πηγές για biotech catalysts: GlobeNewswire, BusinessWire,
+# clinicaltrials.gov API. Αν κάποια στιγμή γίνουν προσβάσιμες, προσθέστε τις εδώ.
+
+# --- Καταλυτικές λέξεις: άρθρα με αυτή τη γλώσσα είναι τα πιο πιθανά να
+# προηγηθούν μιας μεγάλης κίνησης τιμής (π.χ. ακριβώς ο τύπος είδησης πίσω
+# από το +117% της Moderna στις 19-20/8) — σημειώνονται ρητά ως "catalyst"
+# στο UI ώστε να ξεχωρίζουν από τον όγκο γενικών εταιρικών ανακοινώσεων.
+CATALYST_WORDS = {
+    "phase 1", "phase 2", "phase 3", "phase i", "phase ii", "phase iii",
+    "topline data", "top-line data", "primary endpoint", "clinical trial",
+    "clinical study", "trial results", "data readout", "interim analysis",
+    "breakthrough therapy", "orphan drug", "fast track designation",
+    "priority review", "fda approval", "fda clearance", "emergency use authorization",
+    "positive results", "statistically significant", "met its primary endpoint",
+    "accelerated approval", "new drug application", "biologics license application",
+    "acquisition agreement", "definitive agreement", "merger agreement",
+    "strategic partnership", "licensing agreement", "patent granted",
+}
+
+
+def is_catalyst(text):
+    lower = (text or "").lower()
+    return any(phrase in lower for phrase in CATALYST_WORDS)
 
 
 # Δελτία τύπου συχνά αναγράφουν τα ίδια τον ticker τους, π.χ. "(NASDAQ: CAPR)" —
@@ -100,6 +143,7 @@ def fetch_breaking(feed, patterns):
             "sentiment": sentiment_of(combined),
             "tickers": tickers,
             "company_name": company_name,
+            "catalyst": is_catalyst(combined),
         })
     return out
 
@@ -153,14 +197,110 @@ def fetch_sp500_movers(universe):
     return movers
 
 
+def enrich_mover(mover):
+    """Εμπλουτίζει έναν mover με θεμελιώδη/τεχνικά (Piotroski, Altman Z, RSI,
+    PEG κ.λπ.) και τον ταξινομεί σε αρχέτυπο ποιότητας — έτσι το Ραντάρ δεν
+    επισημαίνει αδιακρίτως κάθε κίνηση >= threshold σαν να είναι ισοδύναμες
+    (π.χ. ένα υγιές momentum breakout έναντι ενός κερδοσκοπικού spike με
+    αρνητικά κέρδη — βλ. μεθοδολογία στο opportunity_alerts_log.md)."""
+    try:
+        stats = fetch_fundamentals(mover["ticker"])
+        price = to_number(mover["price"])
+        long_term_score, swing_score = score_from(stats, price)
+        archetype = classify(stats, long_term_score, swing_score)
+        mover["long_term_score"] = long_term_score
+        mover["swing_score"] = swing_score
+        mover["archetype"] = archetype
+        mover["archetype_label"] = ARCHETYPE_LABELS.get(archetype)
+        mover["piotroski_f"] = stats.get("piotroski_f")
+        mover["altman_z"] = stats.get("altman_z")
+        mover["rsi"] = stats.get("rsi")
+        mover["peg_ratio"] = stats.get("peg_ratio")
+        mover["analyst_consensus"] = stats.get("analyst_consensus_text")
+    except (URLError, HTTPError, TimeoutError, OSError) as e:
+        print(f"    ! {mover['ticker']}: αποτυχία εμπλουτισμού ({e})")
+        mover["long_term_score"] = None
+        mover["swing_score"] = None
+        mover["archetype"] = None
+        mover["archetype_label"] = None
+    return mover
+
+
+def load_movers_history():
+    if MOVERS_HISTORY_JSON.exists():
+        try:
+            return json.loads(MOVERS_HISTORY_JSON.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            return {}
+    return {}
+
+
+def update_movers_history(history, movers, today):
+    """Καταγράφει ποια ημερομηνία εμφανίστηκε κάθε ticker ως mover — για να
+    υπολογίσουμε 'streak' (πόσες συνεχόμενες μέρες) και να επισημάνουμε κίνδυνο
+    'chasing' μιας ήδη παρατεταμένης κίνησης, όπως κάνει το
+    opportunity_alerts_log.md χειροκίνητα."""
+    for m in movers:
+        dates = history.setdefault(m["ticker"], [])
+        if not dates or dates[-1] != today:
+            dates.append(today)
+        history[m["ticker"]] = dates[-MOVERS_HISTORY_MAX_DAYS:]
+    return history
+
+
+def compute_streak(history, ticker, today):
+    """Πόσες συνεχόμενες ημέρες (μέχρι και σήμερα) εμφανίστηκε το ticker ως mover."""
+    dates = history.get(ticker, [])
+    if not dates or dates[-1] != today:
+        return 0
+    streak = 0
+    cursor = time.strptime(today, "%Y-%m-%d")
+    cursor_epoch = time.mktime(cursor)
+    date_set = set(dates)
+    while time.strftime("%Y-%m-%d", time.localtime(cursor_epoch)) in date_set:
+        streak += 1
+        cursor_epoch -= 86400
+    return streak
+
+
+def sector_concentration_warning(movers):
+    """Αν 2+ movers μοιράζονται τον ίδιο κλάδο, το επισημαίνουμε ρητά — ίδιο
+    μοτίβο με τις σημειώσεις 'συγκέντρωση κλάδου' στο opportunity_alerts_log.md."""
+    counts = {}
+    for m in movers:
+        if m.get("sector"):
+            counts[m["sector"]] = counts.get(m["sector"], 0) + 1
+    concentrated = {sector: n for sector, n in counts.items() if n >= 2}
+    if not concentrated:
+        return None
+    parts = [f"{sector} ({n} μετοχές)" for sector, n in concentrated.items()]
+    return "Συγκέντρωση κλάδου σήμερα: " + ", ".join(parts)
+
+
 def main():
     DATA_DIR.mkdir(parents=True, exist_ok=True)
+    today = time.strftime("%Y-%m-%d", time.gmtime())
 
     print("Universe:")
     universe = build_universe()
     patterns = build_patterns(universe, BARE_MATCH_DENYLIST, NAME_OVERRIDES, allow_bare=False)
 
-    print("\nΜεγάλες κινήσεις τιμής (S&P 500, threshold +%.0f%%):" % MOVE_THRESHOLD)
+    print("\nBreaking (primary-source wires — πιθανά πρώιμα σήματα):")
+    breaking = []
+    for feed in BREAKING_FEEDS:
+        try:
+            items = fetch_breaking(feed, patterns)
+            n_catalyst = sum(1 for it in items if it["catalyst"])
+            print(f"  {feed['label']}: {len(items)} άρθρα ({n_catalyst} catalyst)")
+            breaking.extend(items)
+        except (URLError, HTTPError, TimeoutError, OSError, ET.ParseError) as e:
+            print(f"  ! {feed['label']}: αποτυχία ({e}) — παραλείπεται")
+
+    # catalyst πρώτα, μετά πιο πρόσφατα — τα πιο αξιοπρόσεκτα άρθρα στην κορυφή
+    breaking.sort(key=lambda a: (a["catalyst"], a["epoch"]), reverse=True)
+    breaking = breaking[:150]  # μόνο τα πιο πρόσφατα — αυτό είναι ραντάρ, όχι αρχείο
+
+    print("\nΜεγάλες κινήσεις τιμής (S&P 500, threshold +%.0f%% — ΕΠΙΒΕΒΑΙΩΣΗ, όχι πρόβλεψη):" % MOVE_THRESHOLD)
     try:
         movers = fetch_sp500_movers(universe)
         print(f"  Βρέθηκαν {len(movers)} μετοχές πάνω από το threshold")
@@ -168,29 +308,38 @@ def main():
         print(f"  ! Αποτυχία fetch movers ({e})")
         movers = []
 
-    print("\nBreaking (primary-source wires):")
-    breaking = []
-    for feed in BREAKING_FEEDS:
-        try:
-            items = fetch_breaking(feed, patterns)
-            print(f"  {feed['label']}: {len(items)} άρθρα")
-            breaking.extend(items)
-        except (URLError, HTTPError, TimeoutError, OSError, ET.ParseError) as e:
-            print(f"  ! {feed['label']}: αποτυχία ({e}) — παραλείπεται")
+    if movers:
+        print("  Εμπλουτισμός με θεμελιώδη/τεχνικά (Piotroski/Altman/RSI/PEG):")
+        for m in movers:
+            enrich_mover(m)
+            print(f"    {m['ticker']}: archetype={m['archetype']} "
+                  f"long_term={m['long_term_score']} swing={m['swing_score']}")
 
-    breaking.sort(key=lambda a: a["epoch"], reverse=True)
-    breaking = breaking[:100]  # μόνο τα πιο πρόσφατα — αυτό είναι ραντάρ, όχι αρχείο
+    movers_history = load_movers_history()
+    movers_history = update_movers_history(movers_history, movers, today)
+    for m in movers:
+        m["streak_days"] = compute_streak(movers_history, m["ticker"], today)
+    concentration_warning = sector_concentration_warning(movers)
+    if concentration_warning:
+        print(f"  ⚠️ {concentration_warning}")
 
     RADAR_JSON.write_text(
         json.dumps({
             "generated_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
             "move_threshold_pct": MOVE_THRESHOLD,
             "movers": movers,
+            "concentration_warning": concentration_warning,
             "breaking": breaking,
         }, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
-    print(f"\nΈγραψα {len(movers)} movers + {len(breaking)} breaking -> {RADAR_JSON}")
+    MOVERS_HISTORY_JSON.write_text(
+        json.dumps(movers_history, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    n_catalyst_total = sum(1 for a in breaking if a["catalyst"])
+    print(f"\nΈγραψα {len(movers)} movers + {len(breaking)} breaking "
+          f"({n_catalyst_total} catalyst) -> {RADAR_JSON}")
 
 
 if __name__ == "__main__":
