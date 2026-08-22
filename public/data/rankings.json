@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T03:38:36Z",
+  "generated_at": "2026-08-22T06:34:13Z",
   "continents": {
     "na": {
       "label": "Βόρεια Αμερική",
@@ -30,7 +30,7 @@
       "volume_bonus": 2,
       "source_count": 1,
       "unusual": false,
-      "baseline_articles": 1.7,
+      "baseline_articles": 1.3,
       "horizon": "swing",
       "swing_count": 1,
       "longterm_count": 0
@@ -46,7 +46,7 @@
       "volume_bonus": 8,
       "source_count": 2,
       "unusual": false,
-      "baseline_articles": 2.0,
+      "baseline_articles": 2.3,
       "horizon": "swing",
       "swing_count": 4,
       "longterm_count": 0
@@ -100,35 +100,35 @@
       "longterm_count": 0
     },
     {
+      "ticker": "WMT",
+      "name": "Walmart",
+      "sector": "Καταναλωτικά (Βασικά)",
+      "continent": "na",
+      "score": 69.2,
+      "article_count": 5,
+      "avg_sentiment": 0.23,
+      "volume_bonus": 10,
+      "source_count": 2,
+      "unusual": false,
+      "baseline_articles": 5.3,
+      "horizon": "swing",
+      "swing_count": 3,
+      "longterm_count": 0
+    },
+    {
       "ticker": "MRNA",
       "name": "Moderna",
       "sector": "Υγεία",
       "continent": "na",
-      "score": 73.8,
-      "article_count": 3,
-      "avg_sentiment": 0.44,
-      "volume_bonus": 6,
+      "score": 67.0,
+      "article_count": 2,
+      "avg_sentiment": 0.33,
+      "volume_bonus": 4,
       "source_count": 1,
       "unusual": false,
       "baseline_articles": 3.7,
       "horizon": "swing",
       "swing_count": 2,
-      "longterm_count": 0
-    },
-    {
-      "ticker": "WMT",
-      "name": "Walmart",
-      "sector": "Καταναλωτικά (Βασικά)",
-      "continent": "na",
-      "score": 69.7,
-      "article_count": 4,
-      "avg_sentiment": 0.29,
-      "volume_bonus": 8,
-      "source_count": 2,
-      "unusual": false,
-      "baseline_articles": 6.0,
-      "horizon": "swing",
-      "swing_count": 3,
       "longterm_count": 0
     },
     {
@@ -148,9 +148,9 @@
       "longterm_count": 1
     },
     {
-      "ticker": "T",
-      "name": "AT&T",
-      "sector": "Επικοινωνίες/Μέσα",
+      "ticker": "AMAT",
+      "name": "Applied Materials",
+      "sector": "Τεχνολογία",
       "continent": "na",
       "score": 65.2,
       "article_count": 1,
@@ -159,9 +159,41 @@
       "source_count": 1,
       "unusual": false,
       "baseline_articles": 1.0,
-      "horizon": null,
-      "swing_count": 0,
+      "horizon": "swing",
+      "swing_count": 1,
       "longterm_count": 0
+    },
+    {
+      "ticker": "LRCX",
+      "name": "Lam Research",
+      "sector": "Τεχνολογία",
+      "continent": "na",
+      "score": 65.2,
+      "article_count": 1,
+      "avg_sentiment": 0.33,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null,
+      "horizon": "swing",
+      "swing_count": 1,
+      "longterm_count": 0
+    },
+    {
+      "ticker": "ROST",
+      "name": "Ross Stores",
+      "sector": "Καταναλωτικά (Επιλογής)",
+      "continent": "na",
+      "score": 65.2,
+      "article_count": 1,
+      "avg_sentiment": 0.33,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": 1.0,
+      "horizon": "long_term",
+      "swing_count": 0,
+      "longterm_count": 1
     },
     {
       "ticker": "VZ",
@@ -178,6 +210,38 @@
       "horizon": null,
       "swing_count": 0,
       "longterm_count": 0
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "sector": "Καταναλωτικά (Επιλογής)",
+      "continent": "na",
+      "score": 65.2,
+      "article_count": 1,
+      "avg_sentiment": 0.33,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": 1.0,
+      "horizon": "long_term",
+      "swing_count": 0,
+      "longterm_count": 1
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "sector": "Τεχνολογία",
+      "continent": "na",
+      "score": 65.2,
+      "article_count": 1,
+      "avg_sentiment": 0.33,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null,
+      "horizon": "long_term",
+      "swing_count": 0,
+      "longterm_count": 1
     },
     {
       "ticker": "MPC",
@@ -206,7 +270,7 @@
       "volume_bonus": 2,
       "source_count": 1,
       "unusual": false,
-      "baseline_articles": null,
+      "baseline_articles": 1.0,
       "horizon": null,
       "swing_count": 0,
       "longterm_count": 0
@@ -222,7 +286,7 @@
       "volume_bonus": 2,
       "source_count": 1,
       "unusual": false,
-      "baseline_articles": null,
+      "baseline_articles": 1.0,
       "horizon": null,
       "swing_count": 0,
       "longterm_count": 0
@@ -260,22 +324,6 @@
       "longterm_count": 0
     },
     {
-      "ticker": "INTC",
-      "name": "Intel",
-      "sector": "Τεχνολογία",
-      "continent": "na",
-      "score": 65.2,
-      "article_count": 1,
-      "avg_sentiment": 0.33,
-      "volume_bonus": 2,
-      "source_count": 1,
-      "unusual": false,
-      "baseline_articles": 1.0,
-      "horizon": "swing",
-      "swing_count": 1,
-      "longterm_count": 0
-    },
-    {
       "ticker": "IHG.L",
       "name": "IHG Hotels & Resorts",
       "sector": null,
@@ -289,22 +337,6 @@
       "baseline_articles": 1.0,
       "horizon": null,
       "swing_count": 0,
-      "longterm_count": 0
-    },
-    {
-      "ticker": "DOW",
-      "name": "Dow",
-      "sector": "Ορυκτά/Υλικά",
-      "continent": "na",
-      "score": 64.5,
-      "article_count": 8,
-      "avg_sentiment": 0.11,
-      "volume_bonus": 10,
-      "source_count": 1,
-      "unusual": false,
-      "baseline_articles": 6.7,
-      "horizon": "swing",
-      "swing_count": 7,
       "longterm_count": 0
     },
     {
@@ -324,6 +356,22 @@
       "longterm_count": 0
     },
     {
+      "ticker": "DOW",
+      "name": "Dow",
+      "sector": "Ορυκτά/Υλικά",
+      "continent": "na",
+      "score": 61.3,
+      "article_count": 8,
+      "avg_sentiment": 0.03,
+      "volume_bonus": 10,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": 6.3,
+      "horizon": "swing",
+      "swing_count": 6,
+      "longterm_count": 0
+    },
+    {
       "ticker": "005930.KS",
       "name": "Samsung Electronics",
       "sector": "Τεχνολογία",
@@ -340,9 +388,9 @@
       "longterm_count": 0
     },
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices",
-      "sector": "Τεχνολογία",
+      "ticker": "T",
+      "name": "AT&T",
+      "sector": "Επικοινωνίες/Μέσα",
       "continent": "na",
       "score": 60.6,
       "article_count": 2,
@@ -353,6 +401,22 @@
       "baseline_articles": 1.0,
       "horizon": null,
       "swing_count": 0,
+      "longterm_count": 0
+    },
+    {
+      "ticker": "HOOD",
+      "name": "Robinhood Markets",
+      "sector": "Χρηματοοικονομικά",
+      "continent": "na",
+      "score": 54.0,
+      "article_count": 2,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 4,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": 1.0,
+      "horizon": "swing",
+      "swing_count": 2,
       "longterm_count": 0
     },
     {
@@ -382,7 +446,7 @@
       "volume_bonus": 4,
       "source_count": 1,
       "unusual": false,
-      "baseline_articles": 2.0,
+      "baseline_articles": 1.5,
       "horizon": null,
       "swing_count": 0,
       "longterm_count": 0
@@ -398,7 +462,7 @@
       "volume_bonus": 4,
       "source_count": 2,
       "unusual": false,
-      "baseline_articles": 2.5,
+      "baseline_articles": 2.0,
       "horizon": null,
       "swing_count": 0,
       "longterm_count": 0
@@ -430,7 +494,7 @@
       "volume_bonus": 2,
       "source_count": 1,
       "unusual": false,
-      "baseline_articles": 1.5,
+      "baseline_articles": 1.0,
       "horizon": null,
       "swing_count": 0,
       "longterm_count": 0
@@ -500,8 +564,24 @@
       "longterm_count": 0
     },
     {
-      "ticker": "IBM",
-      "name": "IBM",
+      "ticker": "WDAY",
+      "name": "Workday",
+      "sector": "Τεχνολογία",
+      "continent": "na",
+      "score": 52.0,
+      "article_count": 1,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null,
+      "horizon": null,
+      "swing_count": 0,
+      "longterm_count": 0
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
       "sector": "Τεχνολογία",
       "continent": "na",
       "score": 52.0,
@@ -516,8 +596,24 @@
       "longterm_count": 0
     },
     {
-      "ticker": "MRK",
-      "name": "Merck &",
+      "ticker": "FIX",
+      "name": "Comfort Systems USA",
+      "sector": "Βιομηχανία",
+      "continent": "na",
+      "score": 52.0,
+      "article_count": 1,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": 1.0,
+      "horizon": null,
+      "swing_count": 0,
+      "longterm_count": 0
+    },
+    {
+      "ticker": "ABT",
+      "name": "Abbott Laboratories",
       "sector": "Υγεία",
       "continent": "na",
       "score": 52.0,
@@ -532,10 +628,26 @@
       "longterm_count": 0
     },
     {
-      "ticker": "MRK.DE",
-      "name": "Merck KGaA",
-      "sector": null,
-      "continent": "eu",
+      "ticker": "BA",
+      "name": "Boeing",
+      "sector": "Βιομηχανία",
+      "continent": "na",
+      "score": 52.0,
+      "article_count": 1,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": null,
+      "horizon": "long_term",
+      "swing_count": 0,
+      "longterm_count": 1
+    },
+    {
+      "ticker": "ETN",
+      "name": "Eaton",
+      "sector": "Βιομηχανία",
+      "continent": "na",
       "score": 52.0,
       "article_count": 1,
       "avg_sentiment": 0.0,
@@ -548,9 +660,9 @@
       "longterm_count": 0
     },
     {
-      "ticker": "SBUX",
-      "name": "Starbucks",
-      "sector": "Καταναλωτικά (Επιλογής)",
+      "ticker": "TT",
+      "name": "Trane Technologies",
+      "sector": "Βιομηχανία",
       "continent": "na",
       "score": 52.0,
       "article_count": 1,
@@ -558,10 +670,10 @@
       "volume_bonus": 2,
       "source_count": 1,
       "unusual": false,
-      "baseline_articles": 1.0,
-      "horizon": "long_term",
+      "baseline_articles": null,
+      "horizon": null,
       "swing_count": 0,
-      "longterm_count": 1
+      "longterm_count": 0
     },
     {
       "ticker": "BLK",
@@ -612,8 +724,24 @@
       "longterm_count": 0
     },
     {
-      "ticker": "2015.HK",
-      "name": "Li Auto",
+      "ticker": "INTC",
+      "name": "Intel",
+      "sector": "Τεχνολογία",
+      "continent": "na",
+      "score": 46.7,
+      "article_count": 2,
+      "avg_sentiment": -0.18,
+      "volume_bonus": 4,
+      "source_count": 2,
+      "unusual": false,
+      "baseline_articles": 1.0,
+      "horizon": "swing",
+      "swing_count": 1,
+      "longterm_count": 0
+    },
+    {
+      "ticker": "0992.HK",
+      "name": "Lenovo Group",
       "sector": null,
       "continent": "as",
       "score": 38.8,
