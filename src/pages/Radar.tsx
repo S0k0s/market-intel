@@ -97,14 +97,19 @@ export function Radar() {
   const [pipelineCatalystOnly, setPipelineCatalystOnly] = useState(false);
 
   const breaking = useMemo(() => {
-    if (!data) return [];
-    return catalystOnly ? data.breaking.filter((a) => a.catalyst) : data.breaking;
+    // data.breaking/pipeline μπορεί να λείπουν από ένα παλιότερο cached
+    // radar.json στο localStorage του χρήστη (π.χ. πριν προστεθεί το πεδίο
+    // "pipeline") — πάντα fallback σε [] αντί να σκάει το .filter/.length.
+    const list = data?.breaking ?? [];
+    return catalystOnly ? list.filter((a) => a.catalyst) : list;
   }, [data, catalystOnly]);
 
   const pipeline = useMemo(() => {
-    if (!data) return [];
-    return pipelineCatalystOnly ? data.pipeline.filter((a) => a.catalyst) : data.pipeline;
+    const list = data?.pipeline ?? [];
+    return pipelineCatalystOnly ? list.filter((a) => a.catalyst) : list;
   }, [data, pipelineCatalystOnly]);
+
+  const movers = data?.movers ?? [];
 
   if (loading) return <p className="text-muted-foreground text-sm">Φόρτωση ραντάρ…</p>;
   if (error) return <p className="text-negative text-sm">Σφάλμα φόρτωσης: {error}</p>;
@@ -212,14 +217,14 @@ export function Radar() {
           {data.concentration_warning && (
             <p className="text-xs text-negative">⚠️ {data.concentration_warning}</p>
           )}
-          {data.movers.length === 0 ? (
+          {movers.length === 0 ? (
             <p className="text-sm text-muted-foreground">
               Καμία μετοχή S&amp;P 500 δεν έχει ξεπεράσει το +{data.move_threshold_pct}%
               ενδοημερήσια αυτή τη στιγμή.
             </p>
           ) : (
             <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
-              {data.movers.map((m) => (
+              {movers.map((m) => (
                 <Card key={m.ticker} className="border-positive/40">
                   <CardContent className="flex flex-col gap-2 p-4">
                     <div className="flex items-start justify-between gap-2">
