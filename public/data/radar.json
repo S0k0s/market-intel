@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22T17:27:53Z",
+  "generated_at": "2026-08-22T17:48:03Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 148,
+    "breaking_count": 147,
     "breaking_catalyst_count": 28,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 12,
@@ -64,7 +64,7 @@
       "source_count": 1
     },
     {
-      "ticker": "DASH",
+      "ticker": "LGI",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -472,6 +472,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "What If Your Selfie Became a Game? DREAMOSIS Turns You and Anything You Own Into a Collectible World",
+      "summary": "DREAMOSIS is a new kind of mobile game where your selfie, everyday objects and real-world places become the building blocks of your own evolving collectible universe. LONDON, Aug. 22, 2026 /PRNewswire/ -- Take a selfie. Photograph anything around you. DREAMOSIS turns the combinat",
+      "url": "https://www.prnewswire.com/news-releases/what-if-your-selfie-became-a-game-dreamosis-turns-you-and-anything-you-own-into-a-collectible-world-302857713.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-22T17:40:00Z",
+      "epoch": 1787420400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "MillworkSuite Launches AI Estimating and Direct-to-CAD Platform That Cuts Drafting Time in Half",
       "summary": "Architectural PDFs become a priced, CAD-ready scope of work in minutes. Free trials and founder consultations at #C1662, Building C, Level 1, IWF Atlanta, August 25–28. ORLANDO, Fla., Aug. 22, 2026 /PRNewswire/ -- MillworkSuite today released its AI estimating and direct-to-draft",
       "url": "https://www.prnewswire.com/news-releases/millworksuite-launches-ai-estimating-and-direct-to-cad-platform-that-cuts-drafting-time-in-half-302857729.html",
@@ -651,36 +665,6 @@
       "epoch": 1787401080,
       "sentiment": -0.33,
       "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Zum Expands to New York, Marking 19th State Nationwide",
-      "summary": "Expansion establishes Zum's presence in one of the nation's largest student mobility regions and creates a foundation for continued Northeast growth; district announcements to follow REDWOOD CITY, Calif., Aug. 22, 2026 /PRNewswire/ -- Zūm, a leader in student mobility, today anno",
-      "url": "https://www.prnewswire.com/news-releases/zum-expands-to-new-york-marking-19th-state-nationwide-302857668.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-22T10:00:00Z",
-      "epoch": 1787392800,
-      "sentiment": 1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Electronics Delivery (2026): Same-Day Options for Chargers, Earbuds, Monitors, and Last-Minute Tech Needs by Expert Consumers",
-      "summary": "NEW YORK, Aug. 22, 2026 /PRNewswire/ -- Expert Consumers has recognized the growing role of DoorDash in electronics delivery as consumers increasingly turn to same-day retail delivery for chargers, earbuds, computer accessories, monitors, and other technology needs. Electronics D",
-      "url": "https://www.prnewswire.com/news-releases/electronics-delivery-2026-same-day-options-for-chargers-earbuds-monitors-and-last-minute-tech-needs-by-expert-consumers-302857632.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-22T09:30:00Z",
-      "epoch": 1787391000,
-      "sentiment": 0.0,
-      "tickers": [
-        "DASH"
-      ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
