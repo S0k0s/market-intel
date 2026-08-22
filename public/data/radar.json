@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22T14:17:39Z",
+  "generated_at": "2026-08-22T14:46:36Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 143,
+    "breaking_count": 145,
     "breaking_catalyst_count": 28,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 12,
@@ -469,6 +469,20 @@
       ],
       "company_name": null,
       "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "VIETTEL LLEGA A REPÚBLICA DOMINICANA CON DOS DÉCADAS DE EXPERIENCIA EN TELECOMUNICACIONES INTERNACIONALES",
+      "summary": "HANÓI, Vietnam, 22 de agosto de 2026 /PRNewswire-HISPANIC PR WIRE/ -- Viettel Group, uno de los mayores grupos de tecnología y telecomunicaciones de Vietnam, llega a República Dominicana tras más de veinte años invirtiendo en mercados internacionales, con operaciones activas en d",
+      "url": "https://www.prnewswire.com/news-releases/viettel-llega-a-republica-dominicana-con-dos-decadas-de-experiencia-en-telecomunicaciones-internacionales-838710387.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-22T14:16:00Z",
+      "epoch": 1787408160,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
       "small_cap_risk": false
     },
     {
@@ -2093,9 +2107,23 @@
       "small_cap_risk": false
     },
     {
+      "title": "Coreline Soft and INFINITT North America Deploy Chest CT-Based AI Reading Workflow at St. Joseph's Health",
+      "summary": "PHILLIPSBURG, N.J. and ATLANTA, Aug. 21, 2026 /PRNewswire/ -- Coreline Soft, a leading medical AI innovator, and INFINITT North America have announced the deployment of a chest CT-based AI reading workflow at St. Joseph's Health in Paterson, New Jersey. This marks the second majo",
+      "url": "https://www.prnewswire.com/news-releases/coreline-soft-and-infinitt-north-america-deploy-chest-ct-based-ai-reading-workflow-at-st-josephs-health-302851592.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-08-21T13:00:00Z",
+      "epoch": 1787317200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "LumenStim Prepares to Launch Next-Generation Teeth Whitening System on Kickstarter",
       "summary": "Kickstarter-approved LumenStim Teeth Whitening System brings peroxide-free whitening into daily brushing as the company advances global patent applications for its oral-care technology. PLEASANTON, Calif., Aug. 21, 2026 /PRNewswire/ -- LumenStim, a beauty and wellness technology ",
-      "url": "https://www.prnewswire.com/news-releases/lumenstim-prepares-to-launch-next-generation-teeth-whitening-system-on-kickstarter-302857271.html",
+      "url": "https://www.prnewswire.com/news-releases/lumenstim-prepares-to-launch-next-generation-teeth-whitening-system-on-kickstarter-302857242.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
       "published_at": "2026-08-21T13:00:00Z",
