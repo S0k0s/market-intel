@@ -119,6 +119,63 @@ def is_catalyst(text):
     return any(phrase in lower for phrase in CATALYST_WORDS)
 
 
+# Boilerplate που "ψαρεύει" ανακοινώσεις πτώσης τιμής (law-firm shareholder
+# alerts/investigations) — ΠΟΤΕ actionable, πάντα εμφανίζεται ΜΕΤΑ από κάποια
+# ήδη γνωστή πτώση. Ένας trader τα αγνοεί εντελώς, οπότε τα αφαιρούμε στην
+# πηγή αντί να γεμίζουν το ραντάρ με θόρυβο.
+NOISE_PATTERNS = (
+    "shareholder alert", "investigation continued", "class action",
+    "lead plaintiff deadline", "law firm", "kahn swick", "claimsfiler",
+    "shareholder rights", "securities fraud", "investors with losses",
+    "encourages investors", "reminds investors",
+)
+
+
+def is_noise(text):
+    lower = (text or "").lower()
+    return any(phrase in lower for phrase in NOISE_PATTERNS)
+
+
+def dedupe_articles(articles):
+    """Το ίδιο δελτίο τύπου συχνά εμφανίζεται πανομοιότυπο σε πολλαπλά PR
+    Newswire feeds ταυτόχρονα (π.χ. 'Financial' + 'Public Companies') —
+    dedup βάσει τίτλου (case-insensitive), κρατώντας την πρώτη εμφάνιση."""
+    seen = set()
+    out = []
+    for a in articles:
+        key = re.sub(r"\s+", " ", a["title"].strip().lower())
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(a)
+    return out
+
+
+def trending_tickers(*article_lists, top_n=10):
+    """Ticker leaderboard σε Breaking+Pipeline μαζί — ποια ονόματα έχουν τη
+    μεγαλύτερη ειδησεογραφική κάλυψη αυτή τη στιγμή, με πόσα catalyst άρθρα.
+    Ένα ticker που εμφανίζεται σε πολλαπλές πηγές ταυτόχρονα είναι πιο ισχυρό
+    σήμα από ένα μεμονωμένο άρθρο — αυτό είναι το πρώτο πράγμα που θα
+    έψαχνε ένας trader αντί να σκρολάρει άρθρο-άρθρο."""
+    counts = {}
+    for articles in article_lists:
+        for a in articles:
+            for t in a["tickers"]:
+                entry = counts.setdefault(t, {"ticker": t, "count": 0, "catalyst_count": 0, "sources": set()})
+                entry["count"] += 1
+                entry["sources"].add(a["source_id"])
+                if a["catalyst"]:
+                    entry["catalyst_count"] += 1
+    result = [
+        {**e, "source_count": len(e["sources"])}
+        for e in counts.values()
+    ]
+    for e in result:
+        del e["sources"]
+    result.sort(key=lambda e: (e["catalyst_count"], e["source_count"], e["count"]), reverse=True)
+    return result[:top_n]
+
+
 # Δελτία τύπου συχνά αναγράφουν τα ίδια τον ticker τους, π.χ. "(NASDAQ: CAPR)" —
 # αυτό πιάνει και εταιρείες εκτός του universe μας (S&P500 + διεθνείς δείκτες),
 # π.χ. μικρότερες/biotech εταιρείες που δεν είναι σε κανέναν από τους δείκτες
@@ -155,6 +212,8 @@ def fetch_breaking(feed, patterns, known_tickers):
     proxy γι' αυτό το ρίσκο."""
     out = []
     for it in fetch_rss_items(feed["url"], headers=feed.get("headers")):
+        if is_noise(it["title"]):
+            continue
         combined = it["title"] + " " + it["summary"]
         matched = set(match_tickers(combined, patterns))
         exchange_tickers = set(extract_exchange_tickers(combined))
@@ -330,6 +389,7 @@ def main():
         except (URLError, HTTPError, TimeoutError, OSError, ET.ParseError) as e:
             print(f"  ! {feed['label']}: αποτυχία ({e}) — παραλείπεται")
 
+    breaking = dedupe_articles(breaking)
     # catalyst πρώτα, μετά πιο πρόσφατα — τα πιο αξιοπρόσεκτα άρθρα στην κορυφή
     breaking.sort(key=lambda a: (a["catalyst"], a["epoch"]), reverse=True)
     breaking = breaking[:150]  # μόνο τα πιο πρόσφατα — αυτό είναι ραντάρ, όχι αρχείο
@@ -344,8 +404,11 @@ def main():
             pipeline.extend(items)
         except (URLError, HTTPError, TimeoutError, OSError, ET.ParseError) as e:
             print(f"  ! {feed['label']}: αποτυχία ({e}) — παραλείπεται")
+    pipeline = dedupe_articles(pipeline)
     pipeline.sort(key=lambda a: (a["catalyst"], a["epoch"]), reverse=True)
     pipeline = pipeline[:100]
+
+    trending = trending_tickers(breaking, pipeline)
 
     print("\nΜεγάλες κινήσεις τιμής (S&P 500, threshold +%.0f%% — ΕΠΙΒΕΒΑΙΩΣΗ, όχι πρόβλεψη):" % MOVE_THRESHOLD)
     try:
@@ -370,10 +433,20 @@ def main():
     if concentration_warning:
         print(f"  ⚠️ {concentration_warning}")
 
+    summary = {
+        "breaking_count": len(breaking),
+        "breaking_catalyst_count": sum(1 for a in breaking if a["catalyst"]),
+        "pipeline_count": len(pipeline),
+        "pipeline_catalyst_count": sum(1 for a in pipeline if a["catalyst"]),
+        "movers_count": len(movers),
+    }
+
     RADAR_JSON.write_text(
         json.dumps({
             "generated_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
             "move_threshold_pct": MOVE_THRESHOLD,
+            "summary": summary,
+            "trending_tickers": trending,
             "movers": movers,
             "concentration_warning": concentration_warning,
             "breaking": breaking,

@@ -91,9 +91,26 @@ export interface BreakingItem {
   small_cap_risk: boolean;
 }
 
+export interface RadarSummary {
+  breaking_count: number;
+  breaking_catalyst_count: number;
+  pipeline_count: number;
+  pipeline_catalyst_count: number;
+  movers_count: number;
+}
+
+export interface TrendingTicker {
+  ticker: string;
+  count: number;
+  catalyst_count: number;
+  source_count: number;
+}
+
 export interface RadarFile {
   generated_at: string;
   move_threshold_pct: number;
+  summary: RadarSummary;
+  trending_tickers: TrendingTicker[];
   movers: Mover[];
   concentration_warning: string | null;
   breaking: BreakingItem[];

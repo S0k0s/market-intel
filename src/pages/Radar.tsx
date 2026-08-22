@@ -11,8 +11,8 @@ import {
   TooltipProvider,
   TooltipTrigger,
 } from "@/components/ui/tooltip";
-import type { BreakingItem } from "@/types/data";
-import { Star, Rocket, TrendingUp, Microscope, Flame, FlaskConical } from "lucide-react";
+import type { BreakingItem, TrendingTicker } from "@/types/data";
+import { Star, Rocket, TrendingUp, Microscope, Flame, FlaskConical, BarChart3 } from "lucide-react";
 
 function timeAgo(epoch: number) {
   const diffMin = Math.max(0, Math.round((Date.now() / 1000 - epoch) / 60));
@@ -88,6 +88,44 @@ function BreakingCard({ a, isWatched }: { a: BreakingItem; isWatched: (t: string
   );
 }
 
+function TrendingTickersBar({
+  tickers,
+  isWatched,
+}: {
+  tickers: TrendingTicker[];
+  isWatched: (t: string) => boolean;
+}) {
+  if (tickers.length === 0) return null;
+  return (
+    <div className="rounded-xl border border-border bg-card p-4">
+      <div className="mb-3 flex items-center gap-2">
+        <BarChart3 className="size-4 text-primary" />
+        <h2 className="font-semibold">Trending tickers σήμερα</h2>
+      </div>
+      <div className="flex flex-wrap gap-2">
+        {tickers.map((t) => (
+          <Tooltip key={t.ticker}>
+            <TooltipTrigger asChild>
+              <div>
+                <Badge variant={isWatched(t.ticker) ? "default" : "secondary"} className="gap-1">
+                  {isWatched(t.ticker) && <Star className="size-3" fill="currentColor" />}
+                  {t.ticker}
+                  <span className="opacity-70">×{t.count}</span>
+                  {t.catalyst_count > 0 && <span>🔬{t.catalyst_count}</span>}
+                </Badge>
+              </div>
+            </TooltipTrigger>
+            <TooltipContent>
+              {t.count} αναφορές σε {t.source_count} διαφορετικές πηγές
+              {t.catalyst_count > 0 && `, ${t.catalyst_count} με καταλυτική γλώσσα`}
+            </TooltipContent>
+          </Tooltip>
+        ))}
+      </div>
+    </div>
+  );
+}
+
 export function Radar() {
   const { data, error, loading } = useJsonData<RadarFile>(
     `${import.meta.env.BASE_URL}data/radar.json`
@@ -110,6 +148,16 @@ export function Radar() {
   }, [data, pipelineCatalystOnly]);
 
   const movers = data?.movers ?? [];
+  // ίδιο defensive μοτίβο με breaking/pipeline παραπάνω — προστατεύει από
+  // stale cached radar.json χωρίς τα νεότερα πεδία summary/trending_tickers
+  const summary = data?.summary ?? {
+    breaking_count: breaking.length,
+    breaking_catalyst_count: 0,
+    pipeline_count: pipeline.length,
+    pipeline_catalyst_count: 0,
+    movers_count: movers.length,
+  };
+  const trendingTickers = data?.trending_tickers ?? [];
 
   if (loading) return <p className="text-muted-foreground text-sm">Φόρτωση ραντάρ…</p>;
   if (error) return <p className="text-negative text-sm">Σφάλμα φόρτωσης: {error}</p>;
@@ -148,7 +196,16 @@ export function Radar() {
             <strong>επιβεβαίωση ότι κάτι συνέβη, όχι πρόβλεψη</strong>. Ενημερώνεται κάθε
             ~15 λεπτά.
           </p>
+          <p className="mt-3 border-t border-border pt-3 text-sm">
+            Σήμερα: <strong>{summary.breaking_count}</strong> breaking άρθρα (
+            <strong>{summary.breaking_catalyst_count}</strong> 🔬 catalyst) ·{" "}
+            <strong>{summary.pipeline_count}</strong> pipeline αναφορές (
+            <strong>{summary.pipeline_catalyst_count}</strong> 🔬 catalyst) ·{" "}
+            <strong>{summary.movers_count}</strong> μεγάλες κινήσεις τιμής
+          </p>
         </div>
+
+        <TrendingTickersBar tickers={trendingTickers} isWatched={isWatched} />
 
         <section className="flex flex-col gap-3">
           <div className="flex items-center justify-between gap-2">
