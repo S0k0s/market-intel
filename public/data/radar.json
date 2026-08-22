@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22T19:45:19Z",
+  "generated_at": "2026-08-22T20:18:14Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 146,
+    "breaking_count": 147,
     "breaking_catalyst_count": 27,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 12,
@@ -52,6 +52,12 @@
       "source_count": 2
     },
     {
+      "ticker": "ALNY",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
       "ticker": "VNDA",
       "count": 1,
       "catalyst_count": 0,
@@ -59,12 +65,6 @@
     },
     {
       "ticker": "V",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "LGI",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -456,6 +456,22 @@
       "small_cap_risk": false
     },
     {
+      "title": "(NASDAQ: ALNY) Investor Alert: Kessler Topaz Meltzer &amp; Check, LLP Encourages Alnylam Pharmaceuticals, Inc. Investors to Contact the Firm",
+      "summary": "RADNOR, Pa., Aug. 22, 2026 /PRNewswire/ -- Kessler Topaz Meltzer & Check, LLP (www.ktmc.com), a nationally recognized securities litigation law firm, is investigating potential violations of the federal securities laws by Alnylam Pharmaceuticals, Inc. (NASDAQ: ALNY) on behalf of ",
+      "url": "https://www.prnewswire.com/news-releases/nasdaq-alny-investor-alert-kessler-topaz-meltzer--check-llp-encourages-alnylam-pharmaceuticals-inc-investors-to-contact-the-firm-302857525.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-22T20:00:00Z",
+      "epoch": 1787428800,
+      "sentiment": 0.0,
+      "tickers": [
+        "ALNY"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
       "title": "The Apex Institute Reveals What Hiring Managers Actually Want in Cloud and AI Infrastructure Roles",
       "summary": "Job seekers spend most of their energy guessing what employers want. The people actually doing the hiring say the answer is simpler than most candidates think. BOWIE, Md., Aug. 22, 2026 /PRNewswire/ -- Hiring managers filling cloud and AI infrastructure roles decide on four thing",
       "url": "https://www.prnewswire.com/news-releases/the-apex-institute-reveals-what-hiring-managers-actually-want-in-cloud-and-ai-infrastructure-roles-302857740.html",
@@ -645,8 +661,8 @@
       "title": "AANA Launches Anesthesia Answers, a Patient Education Resource Built by CRNAs/Nurse Anesthesiologists",
       "summary": "ROSEMONT, Ill., Aug. 22, 2026 /PRNewswire/ -- The American Association of Nurse Anesthesiology (AANA) today announced the launch of Anesthesia Answers, a new patient education resource created by Certified Registered Nurse Anesthetists (CRNAs)/nurse anesthesiologists to help pati",
       "url": "https://www.prnewswire.com/news-releases/aana-launches-anesthesia-answers-a-patient-education-resource-built-by-crnasnurse-anesthesiologists-302854979.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-22T13:03:00Z",
       "epoch": 1787403780,
       "sentiment": 0.67,
