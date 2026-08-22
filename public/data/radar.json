@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-22T18:57:13Z",
+  "generated_at": "2026-08-22T19:23:12Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 147,
-    "breaking_catalyst_count": 28,
+    "breaking_count": 146,
+    "breaking_catalyst_count": 27,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 12,
     "movers_count": 0
@@ -46,16 +46,16 @@
       "source_count": 1
     },
     {
-      "ticker": "ORCL",
-      "count": 1,
-      "catalyst_count": 1,
-      "source_count": 1
-    },
-    {
       "ticker": "CINF",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
+    },
+    {
+      "ticker": "VNDA",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
     },
     {
       "ticker": "V",
@@ -456,20 +456,20 @@
       "small_cap_risk": false
     },
     {
-      "title": "TransformativeMed Partners with Red Rover Health to Bring Agentic AI Across Clinical Workflows",
-      "summary": "Companies to showcase agentic discharge planning solution at Oracle Health Summit SEATTLE, Aug. 21, 2026 /PRNewswire/ -- TransformativeMed, a 'Best in Klas' Healthcare IT company, today announced a strategic partnership with Red Rover Health to design and deploy agentic AI soluti",
-      "url": "https://www.prnewswire.com/news-releases/transformativemed-partners-with-red-rover-health-to-bring-agentic-ai-across-clinical-workflows-302857306.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-21T13:04:00Z",
-      "epoch": 1787317440,
-      "sentiment": 0.33,
+      "title": "NEREUS™ Sponsored No. 47 IndyCar Ready for Historic Freedom 250 Grand Prix in Washington, D.C.",
+      "summary": "WASHINGTON, Aug. 22, 2026 /PRNewswire/ -- Vanda Pharmaceuticals Inc. (Nasdaq: VNDA) today announced that the NEREUS™ branded No. 47 entry from Rahal Letterman Lanigan Racing, driven by Mick Schumacher, is set to compete this weekend in the inaugural Freedom 250 Grand Prix of Wash",
+      "url": "https://www.prnewswire.com/news-releases/nereus-sponsored-no-47-indycar-ready-for-historic-freedom-250-grand-prix-in-washington-dc-302857737.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-22T19:16:00Z",
+      "epoch": 1787426160,
+      "sentiment": 0.0,
       "tickers": [
-        "ORCL"
+        "VNDA"
       ],
       "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
+      "catalyst": false,
+      "small_cap_risk": true
     },
     {
       "title": "What If Your Selfie Became a Game? DREAMOSIS Turns You and Anything You Own Into a Collectible World",
@@ -650,20 +650,6 @@
       "published_at": "2026-08-22T12:44:00Z",
       "epoch": 1787402640,
       "sentiment": 1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Natural Grocers® Hosts In-Person Hiring Event in Appleton, Wisconsin on August 25, 2026",
-      "summary": "LAKEWOOD, Colo., Aug. 22, 2026 /PRNewswire/ -- Natural Grocers®, the nation's largest family-operated organic and natural grocery retailer, is hosting an in-person hiring event for a variety of positions ahead of the opening of its new Appleton, Wisconsin store this fall. Availab",
-      "url": "https://www.prnewswire.com/news-releases/natural-grocers-hosts-in-person-hiring-event-in-appleton-wisconsin-on-august-25-2026-302857698.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-22T12:18:00Z",
-      "epoch": 1787401080,
-      "sentiment": -0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
