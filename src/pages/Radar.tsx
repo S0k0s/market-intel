@@ -11,7 +11,8 @@ import {
   TooltipProvider,
   TooltipTrigger,
 } from "@/components/ui/tooltip";
-import { Star, Rocket, TrendingUp, Microscope, Flame } from "lucide-react";
+import type { BreakingItem } from "@/types/data";
+import { Star, Rocket, TrendingUp, Microscope, Flame, FlaskConical } from "lucide-react";
 
 function timeAgo(epoch: number) {
   const diffMin = Math.max(0, Math.round((Date.now() / 1000 - epoch) / 60));
@@ -29,17 +30,81 @@ function archetypeBadge(archetype: Archetype, label: string | null) {
   return null;
 }
 
+function BreakingCard({ a, isWatched }: { a: BreakingItem; isWatched: (t: string) => boolean }) {
+  return (
+    <Card className={a.catalyst ? "border-primary/50" : undefined}>
+      <CardContent className="flex flex-col gap-2 p-4">
+        <div className="flex items-start justify-between gap-3">
+          <a
+            href={a.url}
+            target="_blank"
+            rel="noreferrer"
+            className="font-medium leading-snug hover:underline"
+          >
+            {a.title}
+          </a>
+          <div className="flex shrink-0 items-center gap-1">
+            {a.small_cap_risk && (
+              <Tooltip>
+                <TooltipTrigger asChild>
+                  <span className="text-lg leading-none">⚠️</span>
+                </TooltipTrigger>
+                <TooltipContent>
+                  Μικρή κεφαλαιοποίηση εκτός S&amp;P 500/μεγάλων δεικτών —
+                  υψηλότερος κίνδυνος thin trading/pump-and-dump
+                </TooltipContent>
+              </Tooltip>
+            )}
+            {a.catalyst && (
+              <Tooltip>
+                <TooltipTrigger asChild>
+                  <span className="text-lg leading-none">🔬</span>
+                </TooltipTrigger>
+                <TooltipContent>
+                  Καταλυτική γλώσσα (κλινική δοκιμή, FDA, συμφωνία) — πιθανό
+                  πρώιμο σήμα
+                </TooltipContent>
+              </Tooltip>
+            )}
+          </div>
+        </div>
+        {a.summary && <p className="text-sm text-muted-foreground line-clamp-2">{a.summary}</p>}
+        <div className="flex flex-wrap items-center gap-2 text-xs text-muted-foreground">
+          <span>{a.source}</span>
+          <span>·</span>
+          <span>{timeAgo(a.epoch)} πριν</span>
+          {a.tickers.map((t) => (
+            <Badge key={t} variant={isWatched(t) ? "default" : "secondary"}>
+              {isWatched(t) && <Star className="mr-1 size-3" fill="currentColor" />}
+              {t}
+            </Badge>
+          ))}
+          {a.tickers.length === 0 && a.company_name && (
+            <Badge variant="outline">{a.company_name}</Badge>
+          )}
+        </div>
+      </CardContent>
+    </Card>
+  );
+}
+
 export function Radar() {
   const { data, error, loading } = useJsonData<RadarFile>(
     `${import.meta.env.BASE_URL}data/radar.json`
   );
   const { isWatched } = useWatchlist();
   const [catalystOnly, setCatalystOnly] = useState(false);
+  const [pipelineCatalystOnly, setPipelineCatalystOnly] = useState(false);
 
   const breaking = useMemo(() => {
     if (!data) return [];
     return catalystOnly ? data.breaking.filter((a) => a.catalyst) : data.breaking;
   }, [data, catalystOnly]);
+
+  const pipeline = useMemo(() => {
+    if (!data) return [];
+    return pipelineCatalystOnly ? data.pipeline.filter((a) => a.catalyst) : data.pipeline;
+  }, [data, pipelineCatalystOnly]);
 
   if (loading) return <p className="text-muted-foreground text-sm">Φόρτωση ραντάρ…</p>;
   if (error) return <p className="text-negative text-sm">Σφάλμα φόρτωσης: {error}</p>;
@@ -65,6 +130,12 @@ export function Radar() {
             αντιδράσει η τιμή. Άρθρα με 🔬 = καταλυτική γλώσσα (κλινικές δοκιμές, FDA
             εγκρίσεις, συμφωνίες) — αυτά συνήθως προηγούνται μεγάλων κινήσεων, όπως το
             +117% της Moderna στις 19-20/8 μετά από νέα για δοκιμές εμβολίου καρκίνου.{" "}
+            <strong>
+              <FlaskConical className="inline size-3.5" /> Pipeline
+            </strong>{" "}
+            = δημοσιογραφία για το τι δουλεύουν οι εταιρείες πριν καν φτάσουν σε
+            αποτέλεσμα (νέα trials, συμφωνίες) — έτσι ξέρεις ΠΟΙΟ ticker να
+            παρακολουθείς, όχι πότε ακριβώς θα βγει το catalyst.{" "}
             <strong>
               <TrendingUp className="inline size-3.5" /> Μεγάλες κινήσεις
             </strong>{" "}
@@ -95,61 +166,40 @@ export function Radar() {
           )}
           <div className="grid gap-3">
             {breaking.map((a, i) => (
-              <Card key={i} className={a.catalyst ? "border-primary/50" : undefined}>
-                <CardContent className="flex flex-col gap-2 p-4">
-                  <div className="flex items-start justify-between gap-3">
-                    <a
-                      href={a.url}
-                      target="_blank"
-                      rel="noreferrer"
-                      className="font-medium leading-snug hover:underline"
-                    >
-                      {a.title}
-                    </a>
-                    <div className="flex shrink-0 items-center gap-1">
-                      {a.small_cap_risk && (
-                        <Tooltip>
-                          <TooltipTrigger asChild>
-                            <span className="text-lg leading-none">⚠️</span>
-                          </TooltipTrigger>
-                          <TooltipContent>
-                            Μικρή κεφαλαιοποίηση εκτός S&amp;P 500/μεγάλων δεικτών —
-                            υψηλότερος κίνδυνος thin trading/pump-and-dump
-                          </TooltipContent>
-                        </Tooltip>
-                      )}
-                      {a.catalyst && (
-                        <Tooltip>
-                          <TooltipTrigger asChild>
-                            <span className="text-lg leading-none">🔬</span>
-                          </TooltipTrigger>
-                          <TooltipContent>
-                            Καταλυτική γλώσσα (κλινική δοκιμή, FDA, συμφωνία) — πιθανό
-                            πρώιμο σήμα
-                          </TooltipContent>
-                        </Tooltip>
-                      )}
-                    </div>
-                  </div>
-                  {a.summary && (
-                    <p className="text-sm text-muted-foreground line-clamp-2">{a.summary}</p>
-                  )}
-                  <div className="flex flex-wrap items-center gap-2 text-xs text-muted-foreground">
-                    <span>{a.source}</span>
-                    <span>·</span>
-                    <span>{timeAgo(a.epoch)} πριν</span>
-                    {a.tickers.map((t) => (
-                      <Badge key={t} variant={isWatched(t) ? "default" : "secondary"}>
-                        {isWatched(t) && <Star className="mr-1 size-3" fill="currentColor" />}
-                        {t}
-                      </Badge>
-                    ))}
-                    {a.tickers.length === 0 && a.company_name && (
-                      <Badge variant="outline">{a.company_name}</Badge>
-                    )}
-                  </div>
-                </CardContent>
-              </Card>
+              <BreakingCard key={i} a={a} isWatched={isWatched} />
+            ))}
+          </div>
+        </section>
+
+        <section className="flex flex-col gap-3">
+          <div className="flex items-center justify-between gap-2">
+            <div className="flex items-center gap-2">
+              <FlaskConical className="size-4 text-primary" />
+              <h2 className="font-semibold">Pipeline — τι δουλεύουν οι εταιρείες</h2>
+            </div>
+            <Button
+              size="sm"
+              variant={pipelineCatalystOnly ? "default" : "outline"}
+              onClick={() => setPipelineCatalystOnly((v) => !v)}
+            >
+              🔬 Μόνο catalyst
+            </Button>
+          </div>
+          <p className="text-xs text-muted-foreground max-w-3xl">
+            Δημοσιογραφία (FierceBiotech, FiercePharma, BioPharma Dive) για το τι
+            βρίσκεται σε εξέλιξη — νέα trials, συμφωνίες, R&amp;D — <strong>πριν</strong>{" "}
+            καν φτάσει σε αποτέλεσμα. Δεν λέει "θα ανέβει η μετοχή" — σου δείχνει ποιο
+            ticker αξίζει να παρακολουθείς για το επόμενο catalyst. Χωρίς επίσημο
+            ημερολόγιο ημερομηνιών (readout dates) προς το παρόν.
+          </p>
+          {pipeline.length === 0 && (
+            <p className="text-sm text-muted-foreground">
+              {pipelineCatalystOnly ? "Καμία καταλυτική αναφορά αυτή τη στιγμή." : "Καμία πρόσφατη αναφορά."}
+            </p>
+          )}
+          <div className="grid gap-3">
+            {pipeline.map((a, i) => (
+              <BreakingCard key={i} a={a} isWatched={isWatched} />
             ))}
           </div>
         </section>

@@ -97,4 +97,5 @@ export interface RadarFile {
   movers: Mover[];
   concentration_warning: string | null;
   breaking: BreakingItem[];
+  pipeline: BreakingItem[];
 }

@@ -77,6 +77,26 @@ BREAKING_FEEDS = [
 # θα ήταν πολύτιμες πηγές για biotech catalysts: GlobeNewswire, BusinessWire,
 # clinicaltrials.gov API. Αν κάποια στιγμή γίνουν προσβάσιμες, προσθέστε τις εδώ.
 
+# --- Pipeline: ΔΙΑΦΟΡΕΤΙΚΟ πράγμα από το BREAKING παραπάνω. Το BREAKING είναι
+# ανακοινώσεις ΑΠΟΤΕΛΕΣΜΑΤΩΝ (κάτι μόλις συνέβη/ανακοινώθηκε). Το PIPELINE είναι
+# δημοσιογραφία για το τι δουλεύει μια εταιρεία ΠΡΙΝ καν φτάσει σε αποτέλεσμα
+# (νέο trial ξεκίνησε, licensing deal, leadership αλλαγή πριν από IND κ.λπ.) —
+# δεν λέει "θα ανέβει η μετοχή", απλά σου δείχνει ΤΙ ΥΠΑΡΧΕΙ ΣΕ ΕΞΕΛΙΞΗ ώστε να
+# ξέρεις ποιο ticker να παρακολουθείς για το μελλοντικό catalyst. Χωρίς επίσημο
+# ημερολόγιο (το ClinicalTrials.gov μπλοκάρει IP-level από αυτό το περιβάλλον,
+# 403 σε κάθε δοκιμή) δεν έχουμε ακριβή ημερομηνία readout — μόνο "αυτό υπάρχει
+# σε εξέλιξη".
+PIPELINE_FEEDS = [
+    {"id": "fiercebiotech", "label": "FierceBiotech",
+     "url": "https://www.fiercebiotech.com/rss/xml"},
+    {"id": "fiercepharma", "label": "FiercePharma",
+     "url": "https://www.fiercepharma.com/rss/xml"},
+    {"id": "biopharmadive", "label": "BioPharma Dive",
+     "url": "https://www.biopharmadive.com/feeds/news/"},
+]
+# Endpoints News (endpts.com) μπλοκάρει με 403 (πιθανό bot-detection/paywall) —
+# θα ήταν η πιο έγκυρη πηγή του κλάδου αν ποτέ γίνει προσβάσιμο.
+
 # --- Καταλυτικές λέξεις: άρθρα με αυτή τη γλώσσα είναι τα πιο πιθανά να
 # προηγηθούν μιας μεγάλης κίνησης τιμής (π.χ. ακριβώς ο τύπος είδησης πίσω
 # από το +117% της Moderna στις 19-20/8) — σημειώνονται ρητά ως "catalyst"
@@ -314,6 +334,19 @@ def main():
     breaking.sort(key=lambda a: (a["catalyst"], a["epoch"]), reverse=True)
     breaking = breaking[:150]  # μόνο τα πιο πρόσφατα — αυτό είναι ραντάρ, όχι αρχείο
 
+    print("\nPipeline (τι δουλεύουν οι εταιρείες πριν φτάσουν σε αποτέλεσμα):")
+    pipeline = []
+    for feed in PIPELINE_FEEDS:
+        try:
+            items = fetch_breaking(feed, patterns, known_tickers)
+            n_catalyst = sum(1 for it in items if it["catalyst"])
+            print(f"  {feed['label']}: {len(items)} άρθρα ({n_catalyst} catalyst)")
+            pipeline.extend(items)
+        except (URLError, HTTPError, TimeoutError, OSError, ET.ParseError) as e:
+            print(f"  ! {feed['label']}: αποτυχία ({e}) — παραλείπεται")
+    pipeline.sort(key=lambda a: (a["catalyst"], a["epoch"]), reverse=True)
+    pipeline = pipeline[:100]
+
     print("\nΜεγάλες κινήσεις τιμής (S&P 500, threshold +%.0f%% — ΕΠΙΒΕΒΑΙΩΣΗ, όχι πρόβλεψη):" % MOVE_THRESHOLD)
     try:
         movers = fetch_sp500_movers(universe)
@@ -344,6 +377,7 @@ def main():
             "movers": movers,
             "concentration_warning": concentration_warning,
             "breaking": breaking,
+            "pipeline": pipeline,
         }, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
@@ -353,7 +387,7 @@ def main():
     )
     n_catalyst_total = sum(1 for a in breaking if a["catalyst"])
     print(f"\nΈγραψα {len(movers)} movers + {len(breaking)} breaking "
-          f"({n_catalyst_total} catalyst) -> {RADAR_JSON}")
+          f"({n_catalyst_total} catalyst) + {len(pipeline)} pipeline -> {RADAR_JSON}")
 
 
 if __name__ == "__main__":

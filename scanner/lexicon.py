@@ -117,7 +117,10 @@ def parse_rss_date(s):
     if not s:
         return None
     s = s.strip()
-    for fmt in ("%a, %d %b %Y %H:%M:%S %Z", "%a, %d %b %Y %H:%M:%S %z"):
+    for fmt in (
+        "%a, %d %b %Y %H:%M:%S %Z", "%a, %d %b %Y %H:%M:%S %z",
+        "%b %d, %Y %I:%M%p",  # π.χ. FierceBiotech: "Aug 21, 2026 9:15am"
+    ):
         try:
             return int(time.mktime(time.strptime(s, fmt)))
         except (ValueError, OverflowError):
@@ -137,9 +140,12 @@ def _local(tag):
 
 
 def _child_text(el, name):
+    """Κείμενο ενός child element, μαζί με τυχόν nested elements μέσα του
+    (π.χ. FierceBiotech γράφει <title><a href="...">Ο τίτλος</a></title> χωρίς
+    CDATA — το απλό .text θα έδινε κενό αφού το κείμενο είναι μέσα στο <a>)."""
     for child in el:
         if _local(child.tag) == name:
-            return (child.text or "").strip()
+            return "".join(child.itertext()).strip()
     return ""
 
 
