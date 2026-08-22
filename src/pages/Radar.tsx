@@ -106,17 +106,30 @@ export function Radar() {
                     >
                       {a.title}
                     </a>
-                    {a.catalyst && (
-                      <Tooltip>
-                        <TooltipTrigger asChild>
-                          <span className="shrink-0 text-lg leading-none">🔬</span>
-                        </TooltipTrigger>
-                        <TooltipContent>
-                          Καταλυτική γλώσσα (κλινική δοκιμή, FDA, συμφωνία) — πιθανό
-                          πρώιμο σήμα
-                        </TooltipContent>
-                      </Tooltip>
-                    )}
+                    <div className="flex shrink-0 items-center gap-1">
+                      {a.small_cap_risk && (
+                        <Tooltip>
+                          <TooltipTrigger asChild>
+                            <span className="text-lg leading-none">⚠️</span>
+                          </TooltipTrigger>
+                          <TooltipContent>
+                            Μικρή κεφαλαιοποίηση εκτός S&amp;P 500/μεγάλων δεικτών —
+                            υψηλότερος κίνδυνος thin trading/pump-and-dump
+                          </TooltipContent>
+                        </Tooltip>
+                      )}
+                      {a.catalyst && (
+                        <Tooltip>
+                          <TooltipTrigger asChild>
+                            <span className="text-lg leading-none">🔬</span>
+                          </TooltipTrigger>
+                          <TooltipContent>
+                            Καταλυτική γλώσσα (κλινική δοκιμή, FDA, συμφωνία) — πιθανό
+                            πρώιμο σήμα
+                          </TooltipContent>
+                        </Tooltip>
+                      )}
+                    </div>
                   </div>
                   {a.summary && (
                     <p className="text-sm text-muted-foreground line-clamp-2">{a.summary}</p>

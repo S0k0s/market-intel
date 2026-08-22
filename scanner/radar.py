@@ -124,11 +124,22 @@ def extract_sec_company_name(title):
     return m.group(1).title() if m else None
 
 
-def fetch_breaking(feed, patterns):
+def fetch_breaking(feed, patterns, known_tickers):
+    """known_tickers = σύμβολα του universe μας (S&P500 + μεγάλοι διεθνείς
+    δείκτες) — όλα mega/large-cap, εγγενώς ρευστά. Ένα ticker που εξάγεται από
+    "(NASDAQ: XYZ)" αλλά ΔΕΝ είναι εκεί μέσα είναι σχεδόν σίγουρα μικρή
+    κεφαλαιοποίηση εκτός βασικών δεικτών — ακριβώς ο τύπος τίτλου όπου το
+    handoff doc προειδοποιεί για thin-liquidity/pump-and-dump ρίσκο. Δεν
+    κάνουμε extra API call για πραγματικό όγκο συναλλαγών (θα πολλαπλασίαζε
+    τα requests) — το "εκτός γνωστού universe" είναι ένα δωρεάν, ήδη διαθέσιμο
+    proxy γι' αυτό το ρίσκο."""
     out = []
     for it in fetch_rss_items(feed["url"], headers=feed.get("headers")):
         combined = it["title"] + " " + it["summary"]
-        tickers = sorted(set(match_tickers(combined, patterns)) | set(extract_exchange_tickers(combined)))
+        matched = set(match_tickers(combined, patterns))
+        exchange_tickers = set(extract_exchange_tickers(combined))
+        tickers = sorted(matched | exchange_tickers)
+        unknown_tickers = sorted(exchange_tickers - known_tickers)
         company_name = None
         if not tickers and feed["id"] == "sec-edgar-8k":
             company_name = extract_sec_company_name(it["title"])
@@ -144,6 +155,7 @@ def fetch_breaking(feed, patterns):
             "tickers": tickers,
             "company_name": company_name,
             "catalyst": is_catalyst(combined),
+            "small_cap_risk": bool(unknown_tickers),
         })
     return out
 
@@ -284,14 +296,16 @@ def main():
     print("Universe:")
     universe = build_universe()
     patterns = build_patterns(universe, BARE_MATCH_DENYLIST, NAME_OVERRIDES, allow_bare=False)
+    known_tickers = set(universe.keys())
 
     print("\nBreaking (primary-source wires — πιθανά πρώιμα σήματα):")
     breaking = []
     for feed in BREAKING_FEEDS:
         try:
-            items = fetch_breaking(feed, patterns)
+            items = fetch_breaking(feed, patterns, known_tickers)
             n_catalyst = sum(1 for it in items if it["catalyst"])
-            print(f"  {feed['label']}: {len(items)} άρθρα ({n_catalyst} catalyst)")
+            n_small_cap = sum(1 for it in items if it["small_cap_risk"])
+            print(f"  {feed['label']}: {len(items)} άρθρα ({n_catalyst} catalyst, {n_small_cap} small-cap risk)")
             breaking.extend(items)
         except (URLError, HTTPError, TimeoutError, OSError, ET.ParseError) as e:
             print(f"  ! {feed['label']}: αποτυχία ({e}) — παραλείπεται")

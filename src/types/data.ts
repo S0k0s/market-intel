@@ -88,6 +88,7 @@ export interface BreakingItem {
   tickers: string[];
   company_name: string | null;
   catalyst: boolean;
+  small_cap_risk: boolean;
 }
 
 export interface RadarFile {
