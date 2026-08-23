@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23T10:49:11Z",
+  "generated_at": "2026-08-23T11:17:17Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 148,
+    "breaking_count": 149,
     "breaking_catalyst_count": 27,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 12,
@@ -52,6 +52,12 @@
       "source_count": 2
     },
     {
+      "ticker": "AXP",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
       "ticker": "DASH",
       "count": 1,
       "catalyst_count": 0,
@@ -59,12 +65,6 @@
     },
     {
       "ticker": "ALNY",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "VNDA",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -453,6 +453,22 @@
       "tickers": [],
       "company_name": "Gsi Technology Inc",
       "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "TTW Announces the Top 50 Travel Solution Cards in the World for 2026",
+      "summary": "NEW YORK, Aug. 23, 2026 /PRNewswire/ -- Travel And Tour World (TTW) presents Top 50 Travel Solution Cards in the World for 2026, charting finance's growing intimacy with travel. Led by The Platinum Card® from American Express, the ranking celebrates products that transform everyd",
+      "url": "https://www.prnewswire.com/news-releases/ttw-announces-the-top-50-travel-solution-cards-in-the-world-for-2026-302857777.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-23T10:56:00Z",
+      "epoch": 1787482560,
+      "sentiment": 0.67,
+      "tickers": [
+        "AXP"
+      ],
+      "company_name": null,
+      "catalyst": false,
       "small_cap_risk": false
     },
     {
