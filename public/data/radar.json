@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23T23:17:00Z",
+  "generated_at": "2026-08-23T23:44:35Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 143,
+    "breaking_count": 142,
     "breaking_catalyst_count": 27,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 12,
@@ -64,7 +64,7 @@
       "source_count": 1
     },
     {
-      "ticker": "DOV",
+      "ticker": "VNDA",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -456,6 +456,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "AG.AL Crowned Esports World Cup 2026 Club Champion After Landmark Competition in Paris",
+      "summary": "AG.AL claims the $7 million Club Championship title after seven weeks featuring more than 2,000 players, 200 Clubs and 25 tournaments 850 million viewers and 440 million hours watched, up 13% and 26% year-on-year, highlight record-breaking event 175,000 tickets sold to esports...",
+      "url": "https://www.prnewswire.com/news-releases/agal-crowned-esports-world-cup-2026-club-champion-after-landmark-competition-in-paris-302857840.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-23T23:16:00Z",
+      "epoch": 1787526960,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Complément d'information sur le renforcement de la famille Ehrmann dans les capitaux d'Artprice by Artmarket dans le cadre de sa mutation «AI-First d'Artprice»",
       "summary": "PARIS, 23 août 2026 /PRNewswire/ -- Comme annoncé dans le communiqué du 2ème T2026 d'Artmarket publié le 13.08.26 sous le titre « Artmarket.com : 2T2026 en hausse, de la transition progressive à la mutation ' AI-FIRST ' d'Artprice», Thierry EHRMANN, fondateur et PDG d'Artmarket.c",
       "url": "https://www.prnewswire.com/news-releases/complement-dinformation-sur-le-renforcement-de-la-famille-ehrmann-dans-les-capitaux-dartprice-by-artmarket-dans-le-cadre-de-sa-mutation-ai-first-dartprice-302857835.html",
@@ -467,20 +481,6 @@
       "tickers": [
         "PGR"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "AG.AL Crowned Esports World Cup 2026 Club Champion After Landmark Competition in Paris",
-      "summary": "AG.AL claims the $7 million Club Championship title after seven weeks featuring more than 2,000 players, 200 Clubs and 25 tournaments 850 million viewers and 440 million hours watched, up 13% and 26% year-on-year, highlight record-breaking event 175,000 tickets sold to esports...",
-      "url": "https://www.prnewswire.com/news-releases/agal-crowned-esports-world-cup-2026-club-champion-after-landmark-competition-in-paris-302857837.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-23T22:25:00Z",
-      "epoch": 1787523900,
-      "sentiment": 0.33,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -611,22 +611,6 @@
       "epoch": 1787487540,
       "sentiment": 0.0,
       "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Airworthy.com Releases 2026 State of General Aviation Parts Report",
-      "summary": "New industry research finds time, availability and access to technical data among the biggest parts challenges facing GA maintenance shops DOVER, Del., Aug. 23, 2026 /PRNewswire/ -- Parts and supply chain challenges continue to put pressure on general aviation maintenance shops, ",
-      "url": "https://www.prnewswire.com/news-releases/airworthycom-releases-2026-state-of-general-aviation-parts-report-302857561.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-23T12:13:00Z",
-      "epoch": 1787487180,
-      "sentiment": 0.0,
-      "tickers": [
-        "DOV"
-      ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
