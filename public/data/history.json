@@ -20,9 +20,9 @@
     },
     {
       "date": "2026-08-23",
-      "score": 42.2,
-      "avg_sentiment": -0.29,
-      "article_count": 2
+      "score": 92.0,
+      "avg_sentiment": 1.0,
+      "article_count": 1
     }
   ],
   "V": [
@@ -46,9 +46,9 @@
     },
     {
       "date": "2026-08-23",
-      "score": 56.0,
+      "score": 54.0,
       "avg_sentiment": 0.0,
-      "article_count": 3
+      "article_count": 2
     }
   ],
   "ADP": [
@@ -308,9 +308,9 @@
     },
     {
       "date": "2026-08-23",
-      "score": 60.5,
-      "avg_sentiment": 0.01,
-      "article_count": 11
+      "score": 61.1,
+      "avg_sentiment": 0.03,
+      "article_count": 16
     }
   ],
   "WMT": [
@@ -334,9 +334,9 @@
     },
     {
       "date": "2026-08-23",
-      "score": 51.5,
-      "avg_sentiment": -0.16,
-      "article_count": 4
+      "score": 37.9,
+      "avg_sentiment": -0.45,
+      "article_count": 3
     }
   ],
   "DOW": [
@@ -360,9 +360,9 @@
     },
     {
       "date": "2026-08-23",
-      "score": 65.1,
-      "avg_sentiment": 0.23,
-      "article_count": 3
+      "score": 64.0,
+      "avg_sentiment": 0.15,
+      "article_count": 4
     }
   ],
   "NDAQ": [
@@ -900,9 +900,9 @@
     },
     {
       "date": "2026-08-23",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
-      "article_count": 1
+      "score": 69.3,
+      "avg_sentiment": 0.33,
+      "article_count": 3
     }
   ],
   "HMC": [
@@ -1169,6 +1169,12 @@
       "score": 65.2,
       "avg_sentiment": 0.33,
       "article_count": 1
+    },
+    {
+      "date": "2026-08-23",
+      "score": 65.2,
+      "avg_sentiment": 0.33,
+      "article_count": 1
     }
   ],
   "VZ": [
@@ -1288,9 +1294,9 @@
     },
     {
       "date": "2026-08-23",
-      "score": 58.0,
+      "score": 54.0,
       "avg_sentiment": 0.0,
-      "article_count": 4
+      "article_count": 2
     }
   ],
   "CPAY": [
@@ -1544,8 +1550,8 @@
     },
     {
       "date": "2026-08-23",
-      "score": 74.2,
-      "avg_sentiment": 0.45,
+      "score": 69.3,
+      "avg_sentiment": 0.33,
       "article_count": 3
     }
   ],
@@ -1777,6 +1783,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-08-23",
+      "score": 54.0,
+      "avg_sentiment": 0.0,
+      "article_count": 2
     }
   ],
   "CVS": [
@@ -1936,9 +1948,9 @@
   "C": [
     {
       "date": "2026-08-23",
-      "score": 67.4,
-      "avg_sentiment": 0.34,
-      "article_count": 2
+      "score": 78.8,
+      "avg_sentiment": 0.67,
+      "article_count": 1
     }
   ],
   "BBY": [
