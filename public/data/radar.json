@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23T12:00:41Z",
+  "generated_at": "2026-08-23T13:00:54Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 149,
+    "breaking_count": 150,
     "breaking_catalyst_count": 27,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 12,
@@ -46,25 +46,25 @@
       "source_count": 1
     },
     {
+      "ticker": "ULTA",
+      "count": 2,
+      "catalyst_count": 0,
+      "source_count": 2
+    },
+    {
       "ticker": "CINF",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
     },
     {
+      "ticker": "DOV",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
       "ticker": "AXP",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "DASH",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "ALNY",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -456,6 +456,80 @@
       "small_cap_risk": false
     },
     {
+      "title": "DREAMO and DREAMOSIS Bring the Collectible Character Into a New Physical-Digital World",
+      "summary": "Novifolium introduces a collectible character and digital universe exploring what happens when collecting no longer ends at the shelf LONDON, Aug. 23, 2026 /PRNewswire/ -- Novifolium is introducing DREAMO and DREAMOSIS, a new physical-digital entertainment concept built around a ",
+      "url": "https://www.prnewswire.com/news-releases/dreamo-and-dreamosis-bring-the-collectible-character-into-a-new-physical-digital-world-302857778.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-23T13:00:00Z",
+      "epoch": 1787490000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Paris Baguette Expands Their Growing Footprint with a New Café Opening in Hilliard, Ohio on August 20",
+      "summary": "Ravi Allipuram set to open his Paris Baguette café at 5139 Raglan St. HILLIARD, Ohio, Aug. 23, 2026 /PRNewswire/ -- Paris Baguette and franchise owner Ravi Allipuram are proud to announce the opening of the newest bakery café at 5139 Raglan St., Dublin, OH 43016, on August 20. Th",
+      "url": "https://www.prnewswire.com/news-releases/paris-baguette-expands-their-growing-footprint-with-a-new-cafe-opening-in-hilliard-ohio-on-august-20-302857750.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-23T13:00:00Z",
+      "epoch": 1787490000,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Bio Ionic Partners with Ulta Beauty on Limited Edition Jade Dream Collection",
+      "summary": "The fan-favorite jade colorway arrives at Ulta Beauty, making the collection more accessible than ever before. NEW YORK, Aug. 23, 2026 /PRNewswire/ -- Bio Ionic announces the launch of the Jade Dream Collection, bringing three of the brand's most-loved styling tools to life in a ",
+      "url": "https://www.prnewswire.com/news-releases/bio-ionic-partners-with-ulta-beauty-on-limited-edition-jade-dream-collection-302857748.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-23T13:00:00Z",
+      "epoch": 1787490000,
+      "sentiment": 0.33,
+      "tickers": [
+        "ULTA"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "AG AL's Gwen Snatches Esports World Cup Club Championship Glory In Unbelievable Trackmania Final",
+      "summary": "Gwendal \"Gwen\" Duparc has lifted the trophy at the inaugural Trackmania at Esports World Cup 2026 tournament and secured AG AL the Club Championship victory Media Lobby PARIS, Aug. 23, 2026 /PRNewswire/ -- Gwendal \"Gwen\" Duparc has done the unthinkable and secured the Esports Wor",
+      "url": "https://www.prnewswire.com/news-releases/ag-als-gwen-snatches-esports-world-cup-club-championship-glory-in-unbelievable-trackmania-final-302857779.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-23T12:19:00Z",
+      "epoch": 1787487540,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Airworthy.com Releases 2026 State of General Aviation Parts Report",
+      "summary": "New industry research finds time, availability and access to technical data among the biggest parts challenges facing GA maintenance shops DOVER, Del., Aug. 23, 2026 /PRNewswire/ -- Parts and supply chain challenges continue to put pressure on general aviation maintenance shops, ",
+      "url": "https://www.prnewswire.com/news-releases/airworthycom-releases-2026-state-of-general-aviation-parts-report-302857561.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-23T12:13:00Z",
+      "epoch": 1787487180,
+      "sentiment": 0.0,
+      "tickers": [
+        "DOV"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "TTW Announces the Top 50 Travel Solution Cards in the World for 2026",
       "summary": "NEW YORK, Aug. 23, 2026 /PRNewswire/ -- Travel And Tour World (TTW) presents Top 50 Travel Solution Cards in the World for 2026, charting finance's growing intimacy with travel. Led by The Platinum Card® from American Express, the ranking celebrates products that transform everyd",
       "url": "https://www.prnewswire.com/news-releases/ttw-announces-the-top-50-travel-solution-cards-in-the-world-for-2026-302857777.html",
@@ -632,69 +706,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "XTEP Unveils World-Class Dual Flagship Running Shoes, Ushering China's Running Footwear into a New Era of Full-Scenario Running",
-      "summary": "SHANGHAI, Aug. 22, 2026 /PRNewswire/ -- Under the theme of \"RUN TO X\", XTEP hosted its 2026 Full-Scenario Running New Product Launch Conference in Shanghai. Integrating new product debuts, elite champion field tests, authoritative academic verification, celebrity crossover experi",
-      "url": "https://www.prnewswire.com/news-releases/xtep-unveils-world-class-dual-flagship-running-shoes-ushering-chinas-running-footwear-into-a-new-era-of-full-scenario-running-302857723.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-22T15:58:00Z",
-      "epoch": 1787414280,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "RayNeo erweitert sein AR-Sortiment für Endverbraucher: Vorstellung der RayNeo iO Smart-Brillen und der kinotauglichen RayNeo GT-Serie",
-      "summary": "LOS ANGELES, 22. August 2026 /PRNewswire/ -- Heute hat RayNeo™, ein weltweit führender Anbieter von Augmented-Reality-Brillen (AR) für Endverbraucher, zwei wegweisende Produktlinien vorgestellt: die RayNeo iO Smart-Brillen und die kinotaugliche RayNeo GT-Serie (bestehend aus RayN",
-      "url": "https://www.prnewswire.com/news-releases/rayneo-erweitert-sein-ar-sortiment-fur-endverbraucher-vorstellung-der-rayneo-io-smart-brillen-und-der-kinotauglichen-rayneo-gt-serie-302857717.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-22T15:35:00Z",
-      "epoch": 1787412900,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "RayNeo élargit sa gamme de produits de réalité augmentée grand public : présentation des lunettes connectées RayNeo iO et de la série RayNeo GT cinématographique",
-      "summary": "LOS ANGELES, 22 août 2026 /PRNewswire/ -- Aujourd'hui, RayNeo™, leader mondial des lunettes de réalité augmentée (RA) grand public, a annoncé le lancement de deux gammes de produits phares : les lunettes connectées RayNeo iO et la gamme RayNeo GT de qualité cinématographique (com",
-      "url": "https://www.prnewswire.com/news-releases/rayneo-elargit-sa-gamme-de-produits-de-realite-augmentee-grand-public--presentation-des-lunettes-connectees-rayneo-io-et-de-la-serie-rayneo-gt-cinematographique-302857716.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-22T15:32:00Z",
-      "epoch": 1787412720,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Federal Court Strikes Down 75-Country Immigrant Visa Ban",
-      "summary": "Colombo & Hurd served as co-counsel; ruling vacates the policy nationwide and reopens visa refusals based solely on nationality NEW YORK, Aug. 22, 2026 /PRNewswire/ -- A federal judge in New York has struck down the U.S. Department of State policy that suspended immigrant visa is",
-      "url": "https://www.prnewswire.com/news-releases/federal-court-strikes-down-75-country-immigrant-visa-ban-302857714.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-22T15:24:00Z",
-      "epoch": 1787412240,
-      "sentiment": -0.33,
-      "tickers": [
-        "V"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Understanding Lymph System Support Supplements: PureHealth Research Highlights Natural Ingredients for Everyday Wellness",
       "summary": "MANASSAS, Va., Aug. 22, 2026 /PRNewswire/ -- PureHealth Research is highlighting the growing consumer interest in lymphatic wellness through everyday nutrition. Lymph system support supplements are formulas that commonly feature botanicals such as Burdock Root, Cleavers, and Echi",
       "url": "https://www.prnewswire.com/news-releases/understanding-lymph-system-support-supplements-purehealth-research-highlights-natural-ingredients-for-everyday-wellness-302842673.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-22T15:00:00Z",
       "epoch": 1787410800,
       "sentiment": 0.0,
