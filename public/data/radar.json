@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23T09:27:21Z",
+  "generated_at": "2026-08-23T09:53:21Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 147,
+    "breaking_count": 148,
     "breaking_catalyst_count": 27,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 12,
@@ -52,6 +52,12 @@
       "source_count": 2
     },
     {
+      "ticker": "DASH",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
       "ticker": "ALNY",
       "count": 1,
       "catalyst_count": 0,
@@ -59,12 +65,6 @@
     },
     {
       "ticker": "VNDA",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "V",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -453,6 +453,22 @@
       "tickers": [],
       "company_name": "Gsi Technology Inc",
       "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Last-Minute Apparel Delivery (2026): Same-Day Options for Outfits, Shoes, and Event Essentials by Consumer365",
+      "summary": "NEW YORK CITY, NY, Aug. 23, 2026 /PRNewswire/ -- Consumer365 has released a new guide examining how same-day retail services can help with last-minute outfit needs, event essentials, and sports or outdoor apparel. The article looks at DoorDash as one way consumers are using deliv",
+      "url": "https://www.prnewswire.com/news-releases/last-minute-apparel-delivery-2026-same-day-options-for-outfits-shoes-and-event-essentials-by-consumer365-302857721.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-23T09:30:00Z",
+      "epoch": 1787477400,
+      "sentiment": 0.0,
+      "tickers": [
+        "DASH"
+      ],
+      "company_name": null,
+      "catalyst": false,
       "small_cap_risk": false
     },
     {
