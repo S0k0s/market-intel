@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23T21:44:21Z",
+  "generated_at": "2026-08-23T21:59:29Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 144,
+    "breaking_count": 143,
     "breaking_catalyst_count": 27,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 12,
@@ -58,13 +58,13 @@
       "source_count": 2
     },
     {
-      "ticker": "DOV",
-      "count": 1,
+      "ticker": "PGR",
+      "count": 2,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "AXP",
+      "ticker": "DOV",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -456,6 +456,38 @@
       "small_cap_risk": false
     },
     {
+      "title": "Complément d'information sur le renforcement de la famille Ehrmann dans les capitaux d'Artprice by Artmarket dans le cadre de sa mutation «AI-First d'Artprice»",
+      "summary": "PARIS, 23 août 2026 /PRNewswire/ -- Comme annoncé dans le communiqué du 2ème T2026 d'Artmarket publié le 13.08.26 sous le titre « Artmarket.com : 2T2026 en hausse, de la transition progressive à la mutation ' AI-FIRST ' d'Artprice», Thierry EHRMANN, fondateur et PDG d'Artmarket.c",
+      "url": "https://www.prnewswire.com/news-releases/complement-dinformation-sur-le-renforcement-de-la-famille-ehrmann-dans-les-capitaux-dartprice-by-artmarket-dans-le-cadre-de-sa-mutation-ai-first-dartprice-302857835.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-23T21:56:00Z",
+      "epoch": 1787522160,
+      "sentiment": 0.0,
+      "tickers": [
+        "PGR"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Additional Information on the Ehrmann Family Increasing Its Equity Stake in Artprice by Artmarket as Part of Artprice's \"AI-First\" Transformation",
+      "summary": "PARIS, Aug. 23, 2026 /PRNewswire/ -- As announced in Artmarket.com's Q2 2026 press release published on August 13, 2026, under the title \"Artmarket.com: Q2 2026 Growth — From Progressive Transition to Artprice's 'AI-FIRST' Mutation\", Thierry Ehrmann, Founder and CEO of Artmarket.",
+      "url": "https://www.prnewswire.com/news-releases/additional-information-on-the-ehrmann-family-increasing-its-equity-stake-in-artprice-by-artmarket-as-part-of-artprices-ai-first-transformation-302857833.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-23T21:51:00Z",
+      "epoch": 1787521860,
+      "sentiment": 0.33,
+      "tickers": [
+        "PGR"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Monster Energy's Max Alran Takes First Place in Downhill Mountain Bike Race at the 2026 WHOOP UCI Mountain Bike World Series Les Gets",
       "summary": "Elite Men Downhill: 19-Year-Old Max Alran from Southern France Claims 1 st Place Elite Women Downhill: 29-Year-Old Marine Cabirou from France Earns 2 nd Place 24-Year-Old Luca Martin from France Claims 2 nd Place in Short Track (XCC) Race Event LES GETS, France, Aug. 23, 2026 /PR",
       "url": "https://www.prnewswire.com/news-releases/monster-energys-max-alran-takes-first-place-in-downhill-mountain-bike-race-at-the-2026-whoop-uci-mountain-bike-world-series-les-gets-302857816.html",
@@ -498,20 +530,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "DREAMO and DREAMOSIS Bring the Collectible Character Into a New Physical-Digital World",
-      "summary": "Novifolium introduces a collectible character and digital universe exploring what happens when collecting no longer ends at the shelf LONDON, Aug. 23, 2026 /PRNewswire/ -- Novifolium is introducing DREAMO and DREAMOSIS, a new physical-digital entertainment concept built around a ",
-      "url": "https://www.prnewswire.com/news-releases/dreamo-and-dreamosis-bring-the-collectible-character-into-a-new-physical-digital-world-302857778.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-23T13:00:00Z",
-      "epoch": 1787490000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Paris Baguette Expands Their Growing Footprint with a New Café Opening in Hilliard, Ohio on August 20",
       "summary": "Ravi Allipuram set to open his Paris Baguette café at 5139 Raglan St. HILLIARD, Ohio, Aug. 23, 2026 /PRNewswire/ -- Paris Baguette and franchise owner Ravi Allipuram are proud to announce the opening of the newest bakery café at 5139 Raglan St., Dublin, OH 43016, on August 20. Th",
       "url": "https://www.prnewswire.com/news-releases/paris-baguette-expands-their-growing-footprint-with-a-new-cafe-opening-in-hilliard-ohio-on-august-20-302857750.html",
@@ -537,6 +555,20 @@
       "tickers": [
         "ULTA"
       ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "DREAMO and DREAMOSIS Bring the Collectible Character Into a New Physical-Digital World",
+      "summary": "Novifolium introduces a collectible character and digital universe exploring what happens when collecting no longer ends at the shelf LONDON, Aug. 23, 2026 /PRNewswire/ -- Novifolium is introducing DREAMO and DREAMOSIS, a new physical-digital entertainment concept built around a ",
+      "url": "https://www.prnewswire.com/news-releases/dreamo-and-dreamosis-bring-the-collectible-character-into-a-new-physical-digital-world-302857778.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-23T13:00:00Z",
+      "epoch": 1787490000,
+      "sentiment": 0.0,
+      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -597,22 +629,6 @@
       "epoch": 1787479200,
       "sentiment": 0.0,
       "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Last-Minute Apparel Delivery (2026): Same-Day Options for Outfits, Shoes, and Event Essentials by Consumer365",
-      "summary": "NEW YORK CITY, NY, Aug. 23, 2026 /PRNewswire/ -- Consumer365 has released a new guide examining how same-day retail services can help with last-minute outfit needs, event essentials, and sports or outdoor apparel. The article looks at DoorDash as one way consumers are using deliv",
-      "url": "https://www.prnewswire.com/news-releases/last-minute-apparel-delivery-2026-same-day-options-for-outfits-shoes-and-event-essentials-by-consumer365-302857721.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-23T09:30:00Z",
-      "epoch": 1787477400,
-      "sentiment": 0.0,
-      "tickers": [
-        "DASH"
-      ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -2001,20 +2017,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "The Artemis Group Launches Growth Strategy Initiative to Connect Space and Defense Clients with Capital Markets",
-      "summary": "Bill Weber, Senior Advisor and former CEO of Firefly Aerospace and KeyW Corporation, to lead the initiative WASHINGTON, Aug. 21, 2026 /PRNewswire/ -- The Artemis Group, the space advisory firm founded by former NASA Chief of Staff Gabe Sherman, today announced the launch of its G",
-      "url": "https://www.prnewswire.com/news-releases/the-artemis-group-launches-growth-strategy-initiative-to-connect-space-and-defense-clients-with-capital-markets-302857429.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-21T16:04:00Z",
-      "epoch": 1787328240,
-      "sentiment": 1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Coordinated Care Brings Free Health Screenings to Washington Communities with Statewide Vision &amp; Dental Van Tour",
       "summary": "Nine-day tour offers free vision and dental screenings to bolster access to critical health services in communities across the state. TACOMA, Wash., Aug. 21, 2026 /PRNewswire/ -- Today, Coordinated Care, Washington's trusted healthcare partner and wholly owned subsidiary of the C",
       "url": "https://www.prnewswire.com/news-releases/coordinated-care-brings-free-health-screenings-to-washington-communities-with-statewide-vision--dental-van-tour-302856982.html",
@@ -2022,20 +2024,6 @@
       "source_id": "prnewswire-health",
       "published_at": "2026-08-21T16:00:00Z",
       "epoch": 1787328000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "In HelloNation, Insurance Expert Kelli Palmquist of Roseau, MN Identifies Homeowners Insurance Gaps in Small Communities",
-      "summary": "ROSEAU, Minn., Aug. 21, 2026 /PRNewswire/ -- Do homeowners in small Minnesota towns have the right insurance coverage for their properties? A HelloNation article explores this important question by highlighting common insurance gaps that affect residents in rural and small-town..",
-      "url": "https://www.prnewswire.com/news-releases/in-hellonation-insurance-expert-kelli-palmquist-of-roseau-mn-identifies-homeowners-insurance-gaps-in-small-communities-302857414.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-21T15:42:00Z",
-      "epoch": 1787326920,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
