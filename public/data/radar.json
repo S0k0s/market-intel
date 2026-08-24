@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T04:54:34Z",
+  "generated_at": "2026-08-24T05:34:38Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 143,
+    "breaking_count": 142,
     "breaking_catalyst_count": 28,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 11,
@@ -470,13 +470,27 @@
       "small_cap_risk": false
     },
     {
-      "title": "Hanmi Pharm Signs Exclusive Licensing Deal with Genentech for Novel Obesity Therapy",
-      "summary": "HM17321, a proprietary UCN2 (urocortin-2) analog, is being developed as a treatment for chronic-weight management and associated conditions, including obesity Total deal value of up to $2.3 billion, including upfront, milestone payments and tiered royalties based on net sales SEO",
-      "url": "https://www.prnewswire.com/news-releases/hanmi-pharm-signs-exclusive-licensing-deal-with-genentech-for-novel-obesity-therapy-302858053.html",
+      "title": "GC Biopharma's Hunter Syndrome Treatment 'Hunterase' Receives Drug Approval in India and Taiwan",
+      "summary": "- Secures approval for 'Hunterase IV' in India and both 'Hunterase IV & ICV' in Taiwan, accelerating expansion into the Asian rare disease market YONGIN, South Korea, Aug. 24, 2026 /PRNewswire/ -- GC Biopharma (006280.KS), a leading global pharmaceutical company based in South Ko",
+      "url": "https://www.prnewswire.com/news-releases/gc-biopharmas-hunter-syndrome-treatment-hunterase-receives-drug-approval-in-india-and-taiwan-302858064.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T04:40:00Z",
-      "epoch": 1787546400,
+      "published_at": "2026-08-24T05:21:00Z",
+      "epoch": 1787548860,
+      "sentiment": 1.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Hanmi Pharm Signs Exclusive Licensing Deal with Genentech for Novel Obesity Therapy",
+      "summary": "HM17321, a proprietary UCN2 (urocortin-2) analog, is being developed as a treatment for chronic-weight management and associated conditions, including obesity Total deal value of up to $2.3 billion, including upfront, milestone payments and tiered royalties based on net sales SEO",
+      "url": "https://www.prnewswire.com/news-releases/hanmi-pharm-signs-exclusive-licensing-deal-with-genentech-for-novel-obesity-therapy-302858059.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T05:03:00Z",
+      "epoch": 1787547780,
       "sentiment": 1.0,
       "tickers": [],
       "company_name": null,
@@ -498,9 +512,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "IBM and the USTA Introduce New AI-Powered Fan Experiences for 2026 US Open",
-      "summary": "NEW YORK, Aug. 24, 2026 /PRNewswire/ -- IBM (NYSE: IBM) and the United States Tennis Association (USTA) today announced new and enhanced AI-powered fan features coming to USOpen.org and the US Open app for this year's tournament. Three new, enhanced AI-powered innovations are des",
-      "url": "https://www.prnewswire.com/news-releases/ibm-and-the-usta-introduce-new-ai-powered-fan-experiences-for-2026-us-open-302857814.html",
+      "title": "IBM Study: Sports Fans Want Streamlined Digital Experiences as Platform Choices Expand",
+      "summary": "AI use among surveyed sports fans increased in 2026, with accuracy driving fan trust Nearly half of respondents would download a single, consolidated sports app -- but only about 3 in 10 would pay for one Managing multiple subscriptions has become a source of frustration for surv",
+      "url": "https://www.prnewswire.com/news-releases/ibm-study-sports-fans-want-streamlined-digital-experiences-as-platform-choices-expand-302857492.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
       "published_at": "2026-08-24T04:01:00Z",
@@ -514,9 +528,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "IBM Study: Sports Fans Want Streamlined Digital Experiences as Platform Choices Expand",
-      "summary": "AI use among surveyed sports fans increased in 2026, with accuracy driving fan trust Nearly half of respondents would download a single, consolidated sports app -- but only about 3 in 10 would pay for one Managing multiple subscriptions has become a source of frustration for surv",
-      "url": "https://www.prnewswire.com/news-releases/ibm-study-sports-fans-want-streamlined-digital-experiences-as-platform-choices-expand-302857492.html",
+      "title": "IBM and the USTA Introduce New AI-Powered Fan Experiences for 2026 US Open",
+      "summary": "NEW YORK, Aug. 24, 2026 /PRNewswire/ -- IBM (NYSE: IBM) and the United States Tennis Association (USTA) today announced new and enhanced AI-powered fan features coming to USOpen.org and the US Open app for this year's tournament. Three new, enhanced AI-powered innovations are des",
+      "url": "https://www.prnewswire.com/news-releases/ibm-and-the-usta-introduce-new-ai-powered-fan-experiences-for-2026-us-open-302857814.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
       "published_at": "2026-08-24T04:01:00Z",
@@ -697,20 +711,6 @@
       "tickers": [
         "PGR"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "The Apex Institute Explains Why Skilled Engineers Still Fail Technical Interviews",
-      "summary": "Plenty of qualified engineers are rejected before anyone questions their skill. The bottleneck is not what they know. It is a process most of them were never trained for. Skilled engineers fail technical interviews because the interview tests a different skill than the job does. ",
-      "url": "https://www.prnewswire.com/news-releases/the-apex-institute-explains-why-skilled-engineers-still-fail-technical-interviews-302857741.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-23T22:00:00Z",
-      "epoch": 1787522400,
-      "sentiment": 0.0,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -2097,20 +2097,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Vivosim Labs, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Coordinated Care Brings Free Health Screenings to Washington Communities with Statewide Vision &amp; Dental Van Tour",
-      "summary": "Nine-day tour offers free vision and dental screenings to bolster access to critical health services in communities across the state. TACOMA, Wash., Aug. 21, 2026 /PRNewswire/ -- Today, Coordinated Care, Washington's trusted healthcare partner and wholly owned subsidiary of the C",
-      "url": "https://www.prnewswire.com/news-releases/coordinated-care-brings-free-health-screenings-to-washington-communities-with-statewide-vision--dental-van-tour-302856982.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-21T16:00:00Z",
-      "epoch": 1787328000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     }
