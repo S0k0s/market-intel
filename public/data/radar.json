@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T22:00:47Z",
+  "generated_at": "2026-08-24T22:43:18Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 142,
@@ -52,14 +52,14 @@
       "source_count": 2
     },
     {
-      "ticker": "HRL",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 2
-    },
-    {
       "ticker": "AEE",
       "count": 2,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "FHN",
+      "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
@@ -372,11 +372,83 @@
       "small_cap_risk": false
     },
     {
+      "title": "Coming Soon: First Horizon Bank to Open New Banking Center in Houston Area",
+      "summary": "MEMPHIS, Tenn., Aug. 24, 2026 /PRNewswire/ -- First Horizon Bank (NYSE: FHN) today announced a new banking center serving the Houston area, expanding access to convenient banking products and services delivered through an exceptional experience. The new banking center is located ",
+      "url": "https://www.prnewswire.com/news-releases/coming-soon-first-horizon-bank-to-open-new-banking-center-in-houston-area-302858723.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-24T22:30:00Z",
+      "epoch": 1787610600,
+      "sentiment": 0.0,
+      "tickers": [
+        "FHN"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "California American Water Supports Cal Fire Response to Timber Fire",
+      "summary": "Water system resources assist firefighting crews MONTEREY COUNTY, Calif., Aug. 24, 2026 /PRNewswire/ -- California American Water is supporting Cal Fire's response to the Timber Fire by providing key water system resources to firefighting crews working to protect communities, pro",
+      "url": "https://www.prnewswire.com/news-releases/california-american-water-supports-cal-fire-response-to-timber-fire-302858762.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T22:27:00Z",
+      "epoch": 1787610420,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "360training Acquires eMedCert, Expanding Its Healthcare Life Support Certification Portfolio",
+      "summary": "AUSTIN, Texas, Aug. 24, 2026 /PRNewswire/ -- 360training.com, Inc., recognized by Newsweek's America's Top Online Learning Providers list, today announced the acquisition of select assets from Electronic Medical Certification (eMedCert.com). The acquisition expands 360training's ",
+      "url": "https://www.prnewswire.com/news-releases/360training-acquires-emedcert-expanding-its-healthcare-life-support-certification-portfolio-302858759.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T22:23:00Z",
+      "epoch": 1787610180,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Golden State Dermatology Expands into Colorado with Acquisition of Summit Dermatology",
+      "summary": "Partnership with respected Colorado Springs practice marks continued expansion of physician-led dermatology network across the Central and Western United States COLORADO SPRINGS, Colo., Aug. 24, 2026 /PRNewswire/ -- Golden State Dermatology (GSD), a physician-led and physician-ow",
+      "url": "https://www.prnewswire.com/news-releases/golden-state-dermatology-expands-into-colorado-with-acquisition-of-summit-dermatology-302858758.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T22:20:00Z",
+      "epoch": 1787610000,
+      "sentiment": 1.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Fresh Brothers Brings Wing It On!'s Championship Wings to Southern California, Expanding Footprint by 20 Locations in a Single Launch",
+      "summary": "Craveworthy Brands Concepts Unite Under One Roof, Creating a New Path for Wing It On!'s Growth and Bringing the Brand to the West Coast for the First Time The Rollout Comes Days Before Wing It On! Returns to the National Buffalo Wing Festival to Defend Its Winning Reputation LOS ",
+      "url": "https://www.prnewswire.com/news-releases/fresh-brothers-brings-wing-it-ons-championship-wings-to-southern-california-expanding-footprint-by-20-locations-in-a-single-launch-302858756.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T22:18:00Z",
+      "epoch": 1787609880,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "GameChange Energy completes commissioning of its Genius Tracker™ for Dannevirke Solar Farm in New Zealand",
       "summary": "SYDNEY, Aug. 25, 2026 /PRNewswire/ -- GameChange Energy, a global provider of renewable energy infrastructure solutions, today announced the successful tracker commissioning of Bright Fern Energy's 23 MWp Dannevirke Solar Farm in New Zealand. The project marks GameChange Energy's",
       "url": "https://www.prnewswire.com/news-releases/gamechange-energy-completes-commissioning-of-its-genius-tracker-for-dannevirke-solar-farm-in-new-zealand-302858676.html",
-      "source": "PR Newswire — Clinical Trials/FDA",
-      "source_id": "prnewswire-trials-fda",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
       "published_at": "2026-08-24T22:00:00Z",
       "epoch": 1787608800,
       "sentiment": 0.0,
@@ -389,8 +461,8 @@
       "title": "HelloNation Article Featuring Pet Grooming Expert Allison Blough Explains Puppy's First Grooming Appointment",
       "summary": "The article outlines what pet owners can expect and how early puppy grooming experiences shape long-term comfort and behavior. SOUTHERN PINES, N.C., Aug. 24, 2026 /PRNewswire/ -- What should pet owners expect from a puppy's first grooming appointment? HelloNation has published an",
       "url": "https://www.prnewswire.com/news-releases/hellonation-article-featuring-pet-grooming-expert-allison-blough-explains-puppys-first-grooming-appointment-302828115.html",
-      "source": "PR Newswire — Clinical Trials/FDA",
-      "source_id": "prnewswire-trials-fda",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
       "published_at": "2026-08-24T22:00:00Z",
       "epoch": 1787608800,
       "sentiment": 0.0,
@@ -403,8 +475,8 @@
       "title": "Centrus Hosts Governor DeWine and JobsOhio at Piketon Uranium Enrichment Facility",
       "summary": "Ohio's growing role in strengthening U.S. energy security, advanced manufacturing, and the domestic nuclear fuel supply chain highlighted by state, federal, and industry leaders High resolution photos/video of the Governor's tour are available HERE. Additional photos and b-roll o",
       "url": "https://www.prnewswire.com/news-releases/centrus-hosts-governor-dewine-and-jobsohio-at-piketon-uranium-enrichment-facility-302858751.html",
-      "source": "PR Newswire — Clinical Trials/FDA",
-      "source_id": "prnewswire-trials-fda",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
       "published_at": "2026-08-24T21:58:00Z",
       "epoch": 1787608680,
       "sentiment": 0.0,
@@ -504,9 +576,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "Revance Appoints Melissa O'Connor as Senior Vice President, Global Regulatory",
-      "summary": "NASHVILLE, Tenn., Aug. 24, 2026 /PRNewswire/ -- Revance, a fast-growing global leader in aesthetics and skincare, today announced the appointment of Melissa O'Connor as Senior Vice President, Global Regulatory. Ms. O'Connor will report directly to Nick Crowe, Chief Operating Offi",
-      "url": "https://www.prnewswire.com/news-releases/revance-appoints-melissa-oconnor-as-senior-vice-president-global-regulatory-302858431.html",
+      "title": "Culture Amp Adds Missing Context to AI, Infusing Culture Intelligence Directly Inside the Tools Leaders Use Daily",
+      "summary": "Managers can now get insights on their team's engagement, performance and culture from anywhere – including Claude, ChatGPT and other AI assistants – without logging into another platform. Culture Amp's culture intelligence is now accessible anywhere, including from ChatGPT and C",
+      "url": "https://www.prnewswire.com/news-releases/culture-amp-adds-missing-context-to-ai-infusing-culture-intelligence-directly-inside-the-tools-leaders-use-daily-302858724.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
       "published_at": "2026-08-24T21:00:00Z",
@@ -518,9 +590,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "Culture Amp Adds Missing Context to AI, Infusing Culture Intelligence Directly Inside the Tools Leaders Use Daily",
-      "summary": "Managers can now get insights on their team's engagement, performance and culture from anywhere – including Claude, ChatGPT and other AI assistants – without logging into another platform. Culture Amp's culture intelligence is now accessible anywhere, including from ChatGPT and C",
-      "url": "https://www.prnewswire.com/news-releases/culture-amp-adds-missing-context-to-ai-infusing-culture-intelligence-directly-inside-the-tools-leaders-use-daily-302858724.html",
+      "title": "Revance Appoints Melissa O'Connor as Senior Vice President, Global Regulatory",
+      "summary": "NASHVILLE, Tenn., Aug. 24, 2026 /PRNewswire/ -- Revance, a fast-growing global leader in aesthetics and skincare, today announced the appointment of Melissa O'Connor as Senior Vice President, Global Regulatory. Ms. O'Connor will report directly to Nick Crowe, Chief Operating Offi",
+      "url": "https://www.prnewswire.com/news-releases/revance-appoints-melissa-oconnor-as-senior-vice-president-global-regulatory-302858431.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
       "published_at": "2026-08-24T21:00:00Z",
@@ -540,20 +612,6 @@
       "published_at": "2026-08-24T20:59:00Z",
       "epoch": 1787605140,
       "sentiment": -0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "SOL Reimagines Cannabis Retail With The Launch of SOL of Potomac - The Penthouse",
-      "summary": "Technology executive and entrepreneur Jack Frost introduces a destination where cannabis, culture, community, content and technology come together. ROCKVILLE, Md., Aug. 24, 2026 /PRNewswire/ -- SOL of Potomac - The Penthouse officially opened its doors today at 350 Fortune Terrac",
-      "url": "https://www.prnewswire.com/news-releases/sol-reimagines-cannabis-retail-with-the-launch-of-sol-of-potomac---the-penthouse-302858694.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T20:49:00Z",
-      "epoch": 1787604540,
-      "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -585,36 +643,6 @@
       "tickers": [
         "JKHY"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Hormel Foods Announces Appointment of Ash Bhumbla as Chief Financial Officer",
-      "summary": "AUSTIN, Minn., Aug. 24, 2026 /PRNewswire/ -- Hormel Foods Corporation (NYSE: HRL), a Fortune 500 global branded food company, today announced the appointment of Ash Bhumbla as executive vice president and chief financial officer, effective Sept. 8. Paul Kuehneman, who has served ",
-      "url": "https://www.prnewswire.com/news-releases/hormel-foods-announces-appointment-of-ash-bhumbla-as-chief-financial-officer-302858642.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T20:30:00Z",
-      "epoch": 1787603400,
-      "sentiment": 0.0,
-      "tickers": [
-        "HRL"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Chase Corporation Acquires Hylomar",
-      "summary": "Strengthens Presence in High-Performance Sealants and Adhesives WESTWOOD, Mass. and WIGAN, England, Aug. 24, 2026 /PRNewswire/ -- Chase Corporation (\"Chase\"), a leading global provider of engineered materials, today announced it has acquired Hylomar Holdings Limited. Hylomar desi",
-      "url": "https://www.prnewswire.com/news-releases/chase-corporation-acquires-hylomar-302858547.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T20:30:00Z",
-      "epoch": 1787603400,
-      "sentiment": 0.0,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -918,22 +946,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "GAMG Announces FINRA Processing of Rule 15c2-11 Submission and OTCQB Application",
-      "summary": "Capital markets developments and leadership appointments support the Company's long-term public company growth strategy ROCKVILLE, Md., Aug. 24, 2026 /PRNewswire/ -- Global Asset Management Group, Inc. (OTC: GAMG) (\"GAMG\" or the \"Company\"), a diversified asset management and hold",
-      "url": "https://www.prnewswire.com/news-releases/gamg-announces-finra-processing-of-rule-15c2-11-submission-and-otcqb-application-302858594.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-24T18:34:00Z",
-      "epoch": 1787596440,
-      "sentiment": 0.33,
-      "tickers": [
-        "GAMG"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "NACD Announces Finalists for 2026 Directorship 100 B. Kenneth West Lifetime Achievement Award and Directors of the Year",
       "summary": "Winners to be announced mid-September WASHINGTON, Aug. 24, 2026 /PRNewswire/ -- The National Association of Corporate Directors® (NACD®), the authority on boardroom practices representing more than 24,000 board members, today announced the finalists for the 2026 NACD Directorship",
       "url": "https://www.prnewswire.com/news-releases/nacd-announces-finalists-for-2026-directorship-100-b-kenneth-west-lifetime-achievement-award-and-directors-of-the-year-302858586.html",
@@ -973,20 +985,6 @@
       "published_at": "2026-08-24T17:53:00Z",
       "epoch": 1787593980,
       "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Dimora Medical Introduces New Pricing for MegaSorb™ Dressings, Expanding Access to Professional-Grade Wound Care",
-      "summary": "NEW YORK, Aug. 24, 2026 /PRNewswire/ -- Dimora Medical, a continuous innovator in high-end medical care supplies, today announced price reductions across its entire MegaSorb™ wound dressing lineup—with select SKUs discounted by up to 29% to make advanced wound management solution",
-      "url": "https://www.prnewswire.com/news-releases/dimora-medical-introduces-new-pricing-for-megasorb-dressings-expanding-access-to-professional-grade-wound-care-302858007.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-24T17:50:00Z",
-      "epoch": 1787593800,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
