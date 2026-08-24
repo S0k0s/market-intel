@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T05:34:38Z",
+  "generated_at": "2026-08-24T06:23:50Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 142,
+    "breaking_count": 145,
     "breaking_catalyst_count": 28,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 11,
@@ -46,25 +46,25 @@
       "source_count": 2
     },
     {
-      "ticker": "IBM",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
       "ticker": "PGR",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "QCOM",
+      "ticker": "PRCT",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "VNDA",
+      "ticker": "WIX",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "LII",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -77,8 +77,8 @@
       "title": "Pulnovo Medical Announces First Two U.S. Patients Enrolled in PULSE-LHD IDE Clinical Trial of Pulmonary Artery Denervation in Treating Pulmonary Hypertension Associated with Left Heart Disease",
       "summary": "NEW YORK, Aug. 23, 2026 /PRNewswire/ -- Pulnovo Medical, a globally recognized pioneer in medical devices for pulmonary hypertension (PH) and heart failure (HF), today announced the enrollment of the first two patients in its PULSE-LHD clinical trial, conducted under a U.S. Food ",
       "url": "https://www.prnewswire.com/news-releases/pulnovo-medical-announces-first-two-us-patients-enrolled-in-pulse-lhd-ide-clinical-trial-of-pulmonary-artery-denervation-in-treating-pulmonary-hypertension-associated-with-left-heart-disease-302857962.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-24T03:05:00Z",
       "epoch": 1787540700,
       "sentiment": 0.0,
@@ -470,11 +470,227 @@
       "small_cap_risk": false
     },
     {
+      "title": "PROCEPT BioRobotics Corporation Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - PRCT",
+      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against PROCEPT BioRobotics Corporation (\"Procept\" or \"the Company\") (NASDAQ: PRCT) violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promu",
+      "url": "https://www.prnewswire.com/news-releases/procept-biorobotics-corporation-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--prct-302857929.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T06:22:00Z",
+      "epoch": 1787552520,
+      "sentiment": -0.67,
+      "tickers": [
+        "PRCT"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Wix.com Ltd. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - WIX",
+      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Wix.com Ltd. (\"Wix\" or \"the Company\") (NASDAQ: WIX) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder by",
+      "url": "https://www.prnewswire.com/news-releases/wixcom-ltd-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--wix-302857924.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T06:17:00Z",
+      "epoch": 1787552220,
+      "sentiment": -0.67,
+      "tickers": [
+        "WIX"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "LII Investors Have Opportunity to Join Lennox International, Inc. Fraud Investigation with SBS Law",
+      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- Schall, Brown & Schwartz LLP (\"SBS\"), a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of Lennox International, Inc. (\"Lennox\" or \"the Company\") (NYSE: LII) for violations of",
+      "url": "https://www.prnewswire.com/news-releases/lii-investors-have-opportunity-to-join-lennox-international-inc-fraud-investigation-with-sbs-law-302857922.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T06:16:00Z",
+      "epoch": 1787552160,
+      "sentiment": -0.33,
+      "tickers": [
+        "LII"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "MO Investors Have Opportunity to Join Altria Group, Inc. Fraud Investigation with SBS Law",
+      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- Schall, Brown & Schwartz LLP (\"SBS\"), a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of Altria Group, Inc. (\"Altria\" or \"the Company\") (NYSE: MO) for violations of the secu",
+      "url": "https://www.prnewswire.com/news-releases/mo-investors-have-opportunity-to-join-altria-group-inc-fraud-investigation-with-sbs-law-302857973.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T06:13:00Z",
+      "epoch": 1787551980,
+      "sentiment": -0.33,
+      "tickers": [
+        "MO"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Cogent Communications Holdings, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - CCOI",
+      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Cogent Communications Holdings, Inc. (\"Cogent\" or \"the Company\") (NASDAQ: CCOI) violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5..",
+      "url": "https://www.prnewswire.com/news-releases/cogent-communications-holdings-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--ccoi-302857923.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T06:13:00Z",
+      "epoch": 1787551980,
+      "sentiment": -0.67,
+      "tickers": [
+        "CCOI"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "New release 'I AM Inner Mastery' offers a roadmap to healing, self-mastery and lasting inner peace",
+      "summary": "A psychospiritual guide exploring mind, body and soul practices to connect with one's highest self ASHEVILLE, N.C., Aug. 24, 2026 /PRNewswire/ -- Author Suzie DeVaughn invites readers to discover the transformative power of inner healing in her latest work, \"I AM Inner Mastery: E",
+      "url": "https://www.prnewswire.com/news-releases/new-release-i-am-inner-mastery-offers-a-roadmap-to-healing-self-mastery-and-lasting-inner-peace-302858019.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T06:00:00Z",
+      "epoch": 1787551200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Signia Introduces MaX, Powered by Acoustic Intelligence™: World's First AI Hearing Aid Platform with 4 DNNs",
+      "summary": "Signia's Acoustic Intelligence™ unites four task-specific Deep Neural Networks to simultaneously understand speech, noise, environment, and the wearer's own voice. 97% of wearers perform better with Signia MaX in noisy group conversations compared to key competitors,1 with MaX al",
+      "url": "https://www.prnewswire.com/news-releases/signia-introduces-max-powered-by-acoustic-intelligence-worlds-first-ai-hearing-aid-platform-with-4-dnns-302857407.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T06:00:00Z",
+      "epoch": 1787551200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "EquipmentShare.com Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - EQPT",
+      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against EquipmentShare.com Inc. (\"EquipmentShare\" or \"the Company\") (NASDAQ: EQPT) violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promul",
+      "url": "https://www.prnewswire.com/news-releases/equipmentsharecom-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--eqpt-302857938.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T05:55:00Z",
+      "epoch": 1787550900,
+      "sentiment": -0.67,
+      "tickers": [
+        "EQPT"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "The 2nd TMElive International Music Awards concluded, bringing together 34 Chinese and international acts to deliver a phenomenal global music celebration",
+      "summary": "HONG KONG, Aug. 24, 2026 /PRNewswire/ -- On August 23, the two-day 2026 TMElive International Music Awards (TIMA) successfully concluded at Kai Tak Stadium in Hong Kong, China. Produced by Tencent Music Entertainment Group, this year's TIMA presented a cross-language, cross-genre",
+      "url": "https://www.prnewswire.com/news-releases/the-2nd-tmelive-international-music-awards-concluded-bringing-together-34-chinese-and-international-acts-to-deliver-a-phenomenal-global-music-celebration-302858069.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T05:54:00Z",
+      "epoch": 1787550840,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "GPGI, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - GPGI",
+      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against GPGI, Inc. f/k/a CompoSecure, Inc. (\"GPGI\" or \"the Company\") (NYSE: GPGI) violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulg",
+      "url": "https://www.prnewswire.com/news-releases/gpgi-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--gpgi-302857918.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T05:54:00Z",
+      "epoch": 1787550840,
+      "sentiment": -0.67,
+      "tickers": [
+        "GPGI"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Photronics, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - PLAB",
+      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Photronics, Inc. (\"Photronics\" or \"the Company\") (NASDAQ: PLAB) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated t",
+      "url": "https://www.prnewswire.com/news-releases/photronics-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--plab-302857915.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T05:52:00Z",
+      "epoch": 1787550720,
+      "sentiment": -0.67,
+      "tickers": [
+        "PLAB"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Planet Fitness, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - PLNT",
+      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Planet Fitness, Inc. (\"Planet Fitness\" or \"the Company\") (NYSE: PLNT) violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated",
+      "url": "https://www.prnewswire.com/news-releases/planet-fitness-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--plnt-302857931.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T05:51:00Z",
+      "epoch": 1787550660,
+      "sentiment": -0.67,
+      "tickers": [
+        "PLNT"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Skanska to build datacenter near Prague, Czechia, for CZK 2.1 billion, about SEK 930M",
+      "summary": "STOCKHOLM, Aug. 24, 2026 /PRNewswire/ -- Skanska has signed a contract with CRA Prague Gateway DC to build a new data center on the outskirts of Prague, Czechia. The contract is worth CZK 2.1 billion, about SEK 930M, which will be included in the order bookings for Europe for the",
+      "url": "https://www.prnewswire.com/news-releases/skanska-to-build-datacenter-near-prague-czechia-for-czk-2-1-billion-about-sek-930m-302858068.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T05:48:00Z",
+      "epoch": 1787550480,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Hub Group, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - HUBG",
+      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Hub Group, Inc. (\"Hub Group\" or \"the Company\") (NASDAQ: HUBG) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated the",
+      "url": "https://www.prnewswire.com/news-releases/hub-group-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--hubg-302857913.html",
+      "source": "PR Newswire — Clinical Trials/FDA",
+      "source_id": "prnewswire-trials-fda",
+      "published_at": "2026-08-24T05:46:00Z",
+      "epoch": 1787550360,
+      "sentiment": -0.67,
+      "tickers": [
+        "HUBG"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
       "title": "GC Biopharma's Hunter Syndrome Treatment 'Hunterase' Receives Drug Approval in India and Taiwan",
       "summary": "- Secures approval for 'Hunterase IV' in India and both 'Hunterase IV & ICV' in Taiwan, accelerating expansion into the Asian rare disease market YONGIN, South Korea, Aug. 24, 2026 /PRNewswire/ -- GC Biopharma (006280.KS), a leading global pharmaceutical company based in South Ko",
       "url": "https://www.prnewswire.com/news-releases/gc-biopharmas-hunter-syndrome-treatment-hunterase-receives-drug-approval-in-india-and-taiwan-302858064.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-24T05:21:00Z",
       "epoch": 1787548860,
       "sentiment": 1.0,
@@ -487,8 +703,8 @@
       "title": "Hanmi Pharm Signs Exclusive Licensing Deal with Genentech for Novel Obesity Therapy",
       "summary": "HM17321, a proprietary UCN2 (urocortin-2) analog, is being developed as a treatment for chronic-weight management and associated conditions, including obesity Total deal value of up to $2.3 billion, including upfront, milestone payments and tiered royalties based on net sales SEO",
       "url": "https://www.prnewswire.com/news-releases/hanmi-pharm-signs-exclusive-licensing-deal-with-genentech-for-novel-obesity-therapy-302858059.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-24T05:03:00Z",
       "epoch": 1787547780,
       "sentiment": 1.0,
@@ -498,85 +714,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "WYF Brings Together 400+ Students for Future Liberal Arts Leadership Summit in Macao",
-      "summary": "MACAU, Aug. 24, 2026 /PRNewswire/ -- World Youth Forum (WYF), an international nonprofit platform engaging 500,000+ young people annually across 30+ countries through education, competitions, conferences and youth-led initiatives, concluded WYF-FLALS 2026 in Macao, bringing toget",
-      "url": "https://www.prnewswire.com/news-releases/wyf-brings-together-400-students-for-future-liberal-arts-leadership-summit-in-macao-302858050.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T04:37:00Z",
-      "epoch": 1787546220,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "IBM Study: Sports Fans Want Streamlined Digital Experiences as Platform Choices Expand",
-      "summary": "AI use among surveyed sports fans increased in 2026, with accuracy driving fan trust Nearly half of respondents would download a single, consolidated sports app -- but only about 3 in 10 would pay for one Managing multiple subscriptions has become a source of frustration for surv",
-      "url": "https://www.prnewswire.com/news-releases/ibm-study-sports-fans-want-streamlined-digital-experiences-as-platform-choices-expand-302857492.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T04:01:00Z",
-      "epoch": 1787544060,
-      "sentiment": 0.0,
-      "tickers": [
-        "IBM"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "IBM and the USTA Introduce New AI-Powered Fan Experiences for 2026 US Open",
-      "summary": "NEW YORK, Aug. 24, 2026 /PRNewswire/ -- IBM (NYSE: IBM) and the United States Tennis Association (USTA) today announced new and enhanced AI-powered fan features coming to USOpen.org and the US Open app for this year's tournament. Three new, enhanced AI-powered innovations are des",
-      "url": "https://www.prnewswire.com/news-releases/ibm-and-the-usta-introduce-new-ai-powered-fan-experiences-for-2026-us-open-302857814.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T04:01:00Z",
-      "epoch": 1787544060,
-      "sentiment": 0.0,
-      "tickers": [
-        "IBM"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "New US$22 Million Education Lifeline for Crisis-Affected Children in Sudan",
-      "summary": "New three-year investment will reach nearly 200,000 crisis-affected children and adolescents, helping them return to safe, inclusive learning while supporting the recovery of Sudan's education system. The announcement comes as Education Cannot Wait launches Hope Starts Here, a gl",
-      "url": "https://www.prnewswire.com/news-releases/new-us22-million-education-lifeline-for-crisis-affected-children-in-sudan-302857883.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T04:00:00Z",
-      "epoch": 1787544000,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "LONGi at UNCCD COP17: Li Zhenguo Explains Two Technological Pathways for PV-Powered Food Security",
-      "summary": "ULAANBAATAR, Mongolia, Aug. 23, 2026 /PRNewswire/ -- From August 17 to 28, 2026, the 17th session of the Conference of the Parties to the United Nations Convention to Combat Desertification (UNCCD COP17) is being held in Ulaanbaatar, Mongolia. During the conference, LONGi partici",
-      "url": "https://www.prnewswire.com/news-releases/longi-at-unccd-cop17-li-zhenguo-explains-two-technological-pathways-for-pv-powered-food-security-302857968.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T03:10:00Z",
-      "epoch": 1787541000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Record $4.95 million raised for heart health in Alberta as Miyu Yamashita wins CPKC Women's Open",
       "summary": "EDMONTON, AB, Aug. 23, 2026 /PRNewswire/ -- The 2026 CPKC Women's Open raised a record $4.95 million to support heart healthcare in Alberta, while on the golf course, Miyu Yamashita concluded a historic performance on Sunday to capture the 2026 CPKC Women's Open and her fourth LP",
       "url": "https://www.prnewswire.com/news-releases/record-4-95-million-raised-for-heart-health-in-alberta-as-miyu-yamashita-wins-cpkc-womens-open-302857940.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-24T02:49:00Z",
       "epoch": 1787539740,
       "sentiment": 1.0,
@@ -586,55 +728,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "Advantech Unveils Qualcomm® Dragonwing™ IQ9-Based Solutions for Industrial Vision Intelligence",
-      "summary": "TAIPEI, Aug. 21, 2026 /PRNewswire/ -- Advantech announced its latest edge AI solutions powered by the Qualcomm® Dragonwing™ IQ-9075 processor, including the AOM-6741 SMARC module, ASR-A503/AFE-A503 robotic controllers, and AIR-055 edge AI system. Designed for industrial-grade vis",
-      "url": "https://www.prnewswire.com/news-releases/advantech-unveils-qualcomm-dragonwing-iq9-based-solutions-for-industrial-vision-intelligence-302857919.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T02:36:00Z",
-      "epoch": 1787538960,
-      "sentiment": 0.33,
-      "tickers": [
-        "QCOM"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Gravity Game Unite, 18 Ağustos'ta Ragnarok Zero: Global'i resmi olarak piyasaya sürdü",
-      "summary": "KUALA LUMPUR, Malezya, 24 Ağustos 2026 /PRNewswire/ -- Küresel oyun şirketi Gravity'nin Malezya merkezli iştiraki Gravity Game Unite (GGU), yeni PC MMORPG oyunu Ragnarok Zero: Global'i 18 Ağustos'ta Güneydoğu Asya, Avrupa ve Okyanusya'da resmi olarak piyasaya sürdü. Güneydoğu Asy",
-      "url": "https://www.prnewswire.com/news-releases/gravity-game-unite-18-austosta-ragnarok-zero-globali-resmi-olarak-piyasaya-surdu-302857912.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T02:25:00Z",
-      "epoch": 1787538300,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Gravity Game Unite Officially Launched Ragnarok Zero: Global on August 18th",
-      "summary": "KUALA LUMPUR, Malaysia, Aug. 24, 2026 /PRNewswire/ -- Global gaming company Gravity's Malaysia-based subsidiary, Gravity Game Unite (GGU), officially launched its new PC MMORPG, Ragnarok Zero: Global, across Southeast Asia, Europe, and Oceania on August 18. Starting August 18 loc",
-      "url": "https://www.prnewswire.com/news-releases/gravity-game-unite-officially-launched-ragnarok-zero-global-on-august-18th-302857905.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T02:19:00Z",
-      "epoch": 1787537940,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Rznomics Joins Lilly Gateway Labs in San Diego to Accelerate RNA Therapeutics",
       "summary": "SEONGNAM, South Korea, Aug. 23, 2026 /PRNewswire/ -- Rznomics Inc.(KOSDAQ: 476830), a biopharmaceutical company specializing in the development of RNA-based gene therapies, announced that it is joining Lilly Gateway Labs (LGL) in San Diego, California. Lilly Gateway Labs is a...",
       "url": "https://www.prnewswire.com/news-releases/rznomics-joins-lilly-gateway-labs-in-san-diego-to-accelerate-rna-therapeutics-302857887.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-24T01:54:00Z",
       "epoch": 1787536440,
       "sentiment": 0.0,
@@ -661,8 +759,8 @@
       "title": "Antengene Announces 2026 Interim Results: Achieves First‑Ever Profitability and Accelerates Value Creation Through Innovative R&amp;D",
       "summary": "SHANGHAI and HONG KONG, Aug. 23, 2026 /PRNewswire/ -- Antengene Corporation Limited (\"Antengene\", SEHK: 6996.HK), a leading innovative, commercial-stage global biotech company dedicated to discovering, developing and commercializing first-in-class and/or best-in-class medicines f",
       "url": "https://www.prnewswire.com/news-releases/antengene-announces-2026-interim-results-achieves-firstever-profitability-and-accelerates-value-creation-through-innovative-rd-302857795.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-24T01:00:00Z",
       "epoch": 1787533200,
       "sentiment": 0.33,
@@ -675,24 +773,10 @@
       "title": "Anbogen Therapeutics and The University of Tokyo Enter Collaborative Research Agreement to Evaluate ABT-301 Across Multiple Tumor Types, Targeting Accelerated Human Clinical Indication Expansion",
       "summary": "TAIPEI, Aug. 23, 2026 /PRNewswire/ -- Anbogen Therapeutics Inc. (TPEx: 7784) (\"Anbogen\" or the \"Company\"), a clinical-stage precision oncology company, today announced that it has entered into a Collaborative Research Agreement (CRA) with the Laboratory of Veterinary Surgery, Gra",
       "url": "https://www.prnewswire.com/news-releases/anbogen-therapeutics-and-the-university-of-tokyo-enter-collaborative-research-agreement-to-evaluate-abt-301-across-multiple-tumor-types-targeting-accelerated-human-clinical-indication-expansion-302857360.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-24T00:00:00Z",
       "epoch": 1787529600,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "AG.AL Crowned Esports World Cup 2026 Club Champion After Landmark Competition in Paris",
-      "summary": "AG.AL claims the $7 million Club Championship title after seven weeks featuring more than 2,000 players, 200 Clubs and 25 tournaments 850 million viewers and 440 million hours watched, up 13% and 26% year-on-year, highlight record-breaking event 175,000 tickets sold to esports...",
-      "url": "https://www.prnewswire.com/news-releases/agal-crowned-esports-world-cup-2026-club-champion-after-landmark-competition-in-paris-302857840.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-23T23:16:00Z",
-      "epoch": 1787526960,
       "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
@@ -1449,20 +1533,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "CorePower Yoga Announces New Flagship Studio Opening in Downtown Brooklyn",
-      "summary": "The brand brings its signature heated, strength-based style of yoga to Downtown Brooklyn with a new flagship studio opening August 22 BROOKLYN, N.Y., Aug. 21, 2026 /PRNewswire/ -- CorePower Yoga, the nation's largest yoga studio brand, announced the opening of a new flagship stud",
-      "url": "https://www.prnewswire.com/news-releases/corepower-yoga-announces-new-flagship-studio-opening-in-downtown-brooklyn-302857447.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-21T16:38:00Z",
-      "epoch": 1787330280,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "8-K - RE/MAX Holdings, Inc. (0001581091) (Filer)",
       "summary": "Filed:  2026-08-21  AccNo:  0001104659-26-099714  Size:  211 KB\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
       "url": "https://www.sec.gov/Archives/edgar/data/1581091/000110465926099714/0001104659-26-099714-index.htm",
@@ -1683,20 +1753,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Toppoint Holdings Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Allies of Skin Celebrates the Launch of Peptint with an Exclusive Los Angeles Event Featuring Amber Mark",
-      "summary": "The Sound Lounge at Revolve at The Grove Unveiled the Grammy-Nominated Singer-Songwriter as the Face of the Brand's New Peptint Campaign LOS ANGELES, Aug. 21, 2026 /PRNewswire/ -- Allies of Skin, the results-driven skincare brand known for its supercharged clinical formulas, cele",
-      "url": "https://www.prnewswire.com/news-releases/allies-of-skin-celebrates-the-launch-of-peptint-with-an-exclusive-los-angeles-event-featuring-amber-mark-302857397.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-21T16:20:00Z",
-      "epoch": 1787329200,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
@@ -2264,6 +2320,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "Community Health Media drives 'credible medical expertise' through physician-led content",
+      "summary": "Education and insight company Community Health Media curates its content library by centering physicians as \"the talent\" and centering its content creation on insightful physician-led conversations.",
+      "url": "https://www.fiercepharma.com/marketing/community-health-media-drives-credible-medical-expertise-through-physician-led-content",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-08-21T13:25:00Z",
+      "epoch": 1787318700,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Lundbeck continues neuroscience evolution as CEO keeps company ‘punching above its weight’",
       "summary": "Almost three years into his tenure as Lundbeck’s CEO, Charl van Zyl is confident the company can prove its mettle as a “neuroscience challenger” capable of “punching above its weight.”",
       "url": "https://www.fiercepharma.com/pharma/lundbeck-continues-neuroscience-evolution-ceo-aims-keep-company-punching-above-its-weight",
@@ -2777,20 +2847,6 @@
       "tickers": [
         "AZN.L"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "CSL shares up 17% as immunoglobulin boost points to signs of recovery",
-      "summary": "After a year of impairments, revenue downgrades and the ousting of its chief executive officer, Australian plasma and vaccine specialist CSL has flashed signs of recovery, projecting mid-single-digit growth in fiscal year 2027 for its largest sector, CSL Behring.",
-      "url": "https://www.fiercepharma.com/pharma/csl-shares-15-it-points-signs-recovery",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-08-18T11:00:00Z",
-      "epoch": 1787050800,
-      "sentiment": 0.33,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
