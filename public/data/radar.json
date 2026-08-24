@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T03:59:29Z",
+  "generated_at": "2026-08-24T04:54:34Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 141,
+    "breaking_count": 143,
     "breaking_catalyst_count": 28,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 11,
@@ -46,6 +46,12 @@
       "source_count": 2
     },
     {
+      "ticker": "IBM",
+      "count": 2,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
       "ticker": "PGR",
       "count": 2,
       "catalyst_count": 0,
@@ -59,12 +65,6 @@
     },
     {
       "ticker": "VNDA",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "LGI",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -470,6 +470,80 @@
       "small_cap_risk": false
     },
     {
+      "title": "Hanmi Pharm Signs Exclusive Licensing Deal with Genentech for Novel Obesity Therapy",
+      "summary": "HM17321, a proprietary UCN2 (urocortin-2) analog, is being developed as a treatment for chronic-weight management and associated conditions, including obesity Total deal value of up to $2.3 billion, including upfront, milestone payments and tiered royalties based on net sales SEO",
+      "url": "https://www.prnewswire.com/news-releases/hanmi-pharm-signs-exclusive-licensing-deal-with-genentech-for-novel-obesity-therapy-302858053.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T04:40:00Z",
+      "epoch": 1787546400,
+      "sentiment": 1.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "WYF Brings Together 400+ Students for Future Liberal Arts Leadership Summit in Macao",
+      "summary": "MACAU, Aug. 24, 2026 /PRNewswire/ -- World Youth Forum (WYF), an international nonprofit platform engaging 500,000+ young people annually across 30+ countries through education, competitions, conferences and youth-led initiatives, concluded WYF-FLALS 2026 in Macao, bringing toget",
+      "url": "https://www.prnewswire.com/news-releases/wyf-brings-together-400-students-for-future-liberal-arts-leadership-summit-in-macao-302858050.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T04:37:00Z",
+      "epoch": 1787546220,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "IBM and the USTA Introduce New AI-Powered Fan Experiences for 2026 US Open",
+      "summary": "NEW YORK, Aug. 24, 2026 /PRNewswire/ -- IBM (NYSE: IBM) and the United States Tennis Association (USTA) today announced new and enhanced AI-powered fan features coming to USOpen.org and the US Open app for this year's tournament. Three new, enhanced AI-powered innovations are des",
+      "url": "https://www.prnewswire.com/news-releases/ibm-and-the-usta-introduce-new-ai-powered-fan-experiences-for-2026-us-open-302857814.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T04:01:00Z",
+      "epoch": 1787544060,
+      "sentiment": 0.0,
+      "tickers": [
+        "IBM"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "IBM Study: Sports Fans Want Streamlined Digital Experiences as Platform Choices Expand",
+      "summary": "AI use among surveyed sports fans increased in 2026, with accuracy driving fan trust Nearly half of respondents would download a single, consolidated sports app -- but only about 3 in 10 would pay for one Managing multiple subscriptions has become a source of frustration for surv",
+      "url": "https://www.prnewswire.com/news-releases/ibm-study-sports-fans-want-streamlined-digital-experiences-as-platform-choices-expand-302857492.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T04:01:00Z",
+      "epoch": 1787544060,
+      "sentiment": 0.0,
+      "tickers": [
+        "IBM"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "New US$22 Million Education Lifeline for Crisis-Affected Children in Sudan",
+      "summary": "New three-year investment will reach nearly 200,000 crisis-affected children and adolescents, helping them return to safe, inclusive learning while supporting the recovery of Sudan's education system. The announcement comes as Education Cannot Wait launches Hope Starts Here, a gl",
+      "url": "https://www.prnewswire.com/news-releases/new-us22-million-education-lifeline-for-crisis-affected-children-in-sudan-302857883.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T04:00:00Z",
+      "epoch": 1787544000,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "LONGi at UNCCD COP17: Li Zhenguo Explains Two Technological Pathways for PV-Powered Food Security",
       "summary": "ULAANBAATAR, Mongolia, Aug. 23, 2026 /PRNewswire/ -- From August 17 to 28, 2026, the 17th session of the Conference of the Parties to the United Nations Convention to Combat Desertification (UNCCD COP17) is being held in Ulaanbaatar, Mongolia. During the conference, LONGi partici",
       "url": "https://www.prnewswire.com/news-releases/longi-at-unccd-cop17-li-zhenguo-explains-two-technological-pathways-for-pv-powered-food-security-302857968.html",
@@ -653,34 +727,6 @@
       "tickers": [
         "PGR"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Monster Energy's Max Alran Takes First Place in Downhill Mountain Bike Race at the 2026 WHOOP UCI Mountain Bike World Series Les Gets",
-      "summary": "Elite Men Downhill: 19-Year-Old Max Alran from Southern France Claims 1 st Place Elite Women Downhill: 29-Year-Old Marine Cabirou from France Earns 2 nd Place 24-Year-Old Luca Martin from France Claims 2 nd Place in Short Track (XCC) Race Event LES GETS, France, Aug. 23, 2026 /PR",
-      "url": "https://www.prnewswire.com/news-releases/monster-energys-max-alran-takes-first-place-in-downhill-mountain-bike-race-at-the-2026-whoop-uci-mountain-bike-world-series-les-gets-302857816.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-23T21:00:00Z",
-      "epoch": 1787518800,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "World's First Autonomous Humanoid Tennis Match: GALBOT Robots Complete 100+ Consecutive Rallies",
-      "summary": "From AlphaGo to AstraTennis: Humanoid Robots Bring AI Into the Physical World BEIJING, Aug. 23, 2026 /PRNewswire/ -- A new milestone in artificial intelligence and robotics was achieved as Galbot humanoid robots competed against human athletes in the world's first live autonomous",
-      "url": "https://www.prnewswire.com/news-releases/worlds-first-autonomous-humanoid-tennis-match-galbot-robots-complete-100-consecutive-rallies-302857810.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-23T19:18:00Z",
-      "epoch": 1787512680,
-      "sentiment": 0.67,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -2063,20 +2109,6 @@
       "published_at": "2026-08-21T16:00:00Z",
       "epoch": 1787328000,
       "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "HCN Global Expands Leadership for a Culture of Health Series Through New Partnership",
-      "summary": "Series Two, developed in partnership with the Society for Health Communication, focuses on preventive care, maternal health and community resilience WASHINGTON, Aug. 21, 2026 /PRNewswire/ -- HCN Global is expanding its Leadership for a Culture of Health webinars with a second ser",
-      "url": "https://www.prnewswire.com/news-releases/hcn-global-expands-leadership-for-a-culture-of-health-series-through-new-partnership-302857405.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-21T15:26:00Z",
-      "epoch": 1787325960,
-      "sentiment": 1.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
