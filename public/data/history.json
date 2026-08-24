@@ -58,9 +58,9 @@
     },
     {
       "date": "2026-08-24",
-      "score": 54.0,
+      "score": 52.0,
       "avg_sentiment": 0.0,
-      "article_count": 2
+      "article_count": 1
     }
   ],
   "ADP": [
@@ -176,9 +176,9 @@
     },
     {
       "date": "2026-08-24",
-      "score": 52.0,
+      "score": 54.0,
       "avg_sentiment": 0.0,
-      "article_count": 1
+      "article_count": 2
     }
   ],
   "MO": [
@@ -290,9 +290,9 @@
     },
     {
       "date": "2026-08-24",
-      "score": 50.6,
-      "avg_sentiment": -0.14,
-      "article_count": 3
+      "score": 65.2,
+      "avg_sentiment": 0.33,
+      "article_count": 1
     }
   ],
   "IHG.L": [
@@ -368,8 +368,8 @@
     },
     {
       "date": "2026-08-24",
-      "score": 56.3,
-      "avg_sentiment": -0.09,
+      "score": 60.8,
+      "avg_sentiment": 0.02,
       "article_count": 19
     }
   ],
@@ -400,9 +400,9 @@
     },
     {
       "date": "2026-08-24",
-      "score": 45.9,
-      "avg_sentiment": -0.2,
-      "article_count": 2
+      "score": 55.6,
+      "avg_sentiment": -0.06,
+      "article_count": 4
     }
   ],
   "DOW": [
@@ -432,8 +432,8 @@
     },
     {
       "date": "2026-08-24",
-      "score": 34.2,
-      "avg_sentiment": -0.5,
+      "score": 40.9,
+      "avg_sentiment": -0.33,
       "article_count": 2
     }
   ],
@@ -480,9 +480,9 @@
     },
     {
       "date": "2026-08-24",
-      "score": 54.0,
+      "score": 52.0,
       "avg_sentiment": 0.0,
-      "article_count": 2
+      "article_count": 1
     }
   ],
   "APP": [
@@ -622,9 +622,9 @@
     },
     {
       "date": "2026-08-24",
-      "score": 52.0,
+      "score": 54.0,
       "avg_sentiment": 0.0,
-      "article_count": 1
+      "article_count": 2
     }
   ],
   "AMD": [
@@ -1192,8 +1192,8 @@
     },
     {
       "date": "2026-08-24",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
+      "score": 65.2,
+      "avg_sentiment": 0.33,
       "article_count": 1
     }
   ],
@@ -1448,8 +1448,8 @@
     },
     {
       "date": "2026-08-24",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
+      "score": 65.2,
+      "avg_sentiment": 0.33,
       "article_count": 1
     }
   ],
@@ -1844,8 +1844,8 @@
     },
     {
       "date": "2026-08-24",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
+      "score": 65.2,
+      "avg_sentiment": 0.33,
       "article_count": 1
     }
   ],
@@ -2052,9 +2052,9 @@
     },
     {
       "date": "2026-08-24",
-      "score": 74.0,
-      "avg_sentiment": 0.5,
-      "article_count": 2
+      "score": 78.8,
+      "avg_sentiment": 0.67,
+      "article_count": 1
     }
   ],
   "GRMN": [
@@ -2497,6 +2497,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-08-24",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "CSU.TO": [
@@ -2904,6 +2910,38 @@
       "date": "2026-08-24",
       "score": 52.0,
       "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "UBER": [
+    {
+      "date": "2026-08-24",
+      "score": 65.2,
+      "avg_sentiment": 0.33,
+      "article_count": 1
+    }
+  ],
+  "SMCI": [
+    {
+      "date": "2026-08-24",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "STZ": [
+    {
+      "date": "2026-08-24",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "CIEN": [
+    {
+      "date": "2026-08-24",
+      "score": 12.0,
+      "avg_sentiment": -1.0,
       "article_count": 1
     }
   ]
