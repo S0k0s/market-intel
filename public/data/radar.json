@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-24T10:05:23Z",
+  "generated_at": "2026-08-24T10:52:49Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 141,
-    "breaking_catalyst_count": 26,
+    "breaking_count": 146,
+    "breaking_catalyst_count": 25,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 11,
     "movers_count": 0
@@ -40,8 +40,26 @@
       "source_count": 1
     },
     {
+      "ticker": "EXR",
+      "count": 2,
+      "catalyst_count": 0,
+      "source_count": 2
+    },
+    {
+      "ticker": "ROG",
+      "count": 2,
+      "catalyst_count": 0,
+      "source_count": 2
+    },
+    {
       "ticker": "PGR",
       "count": 2,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "ULTA",
+      "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
@@ -50,29 +68,25 @@
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
-    },
-    {
-      "ticker": "SUGP",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "ECVT",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "XYF",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
     }
   ],
   "movers": [],
   "concentration_warning": null,
   "breaking": [
+    {
+      "title": "8-K - CALLAN JMB INC. (0002032545) (Filer)",
+      "summary": "Filed:  2026-08-24  AccNo:  0001493152-26-039761  Size:  814 KB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 3.02: Unregistered Sales of Equity Securities\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/2032545/000149315226039761/0001493152-26-039761-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-24T06:15:19Z",
+      "epoch": 1787552119,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Callan Jmb Inc.",
+      "catalyst": true,
+      "small_cap_risk": false
+    },
     {
       "title": "Pulnovo Medical Announces First Two U.S. Patients Enrolled in PULSE-LHD IDE Clinical Trial of Pulmonary Artery Denervation in Treating Pulmonary Hypertension Associated with Left Heart Disease",
       "summary": "NEW YORK, Aug. 23, 2026 /PRNewswire/ -- Pulnovo Medical, a globally recognized pioneer in medical devices for pulmonary hypertension (PH) and heart failure (HF), today announced the enrollment of the first two patients in its PULSE-LHD clinical trial, conducted under a U.S. Food ",
@@ -414,31 +428,133 @@
       "small_cap_risk": false
     },
     {
-      "title": "8-K - Profusa, Inc. (0001859807) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001213900-26-092597  Size:  713 KB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant\n Item 3.02: Unregistered Sales of E",
-      "url": "https://www.sec.gov/Archives/edgar/data/1859807/000121390026092597/0001213900-26-092597-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:05:47Z",
-      "epoch": 1787328347,
+      "title": "K2view Positioned as a Leader &amp; Ace Performer in the SPARK Matrix™: Enterprise Data Fabric, 2026 by QKS Group",
+      "summary": "The QKS Group SPARK Matrix™ provides competitive analysis & ranking of the leading Enterprise Data Fabric vendors. K2view has been recognized as a Leader and Ace Performer for its Micro-Database™-powered Data Product Platform, real-time data virtualization and integration capabil",
+      "url": "https://www.prnewswire.com/news-releases/k2view-positioned-as-a-leader--ace-performer-in-the-spark-matrix-enterprise-data-fabric-2026-by-qks-group-302858227.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T10:51:00Z",
+      "epoch": 1787568660,
       "sentiment": 0.0,
       "tickers": [],
-      "company_name": "Profusa, Inc.",
-      "catalyst": true,
+      "company_name": null,
+      "catalyst": false,
       "small_cap_risk": false
     },
     {
-      "title": "8-K - Chaince Digital Holdings Inc. (0001527762) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001493152-26-039671  Size:  640 KB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1527762/000149315226039671/0001493152-26-039671-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:05:31Z",
-      "epoch": 1787328331,
+      "title": "AG.AL Crowned Esports World Cup 2026 Club Champion After Landmark Competition in Paris",
+      "summary": "AG.AL claims the $7 million Club Championship title after seven weeks featuring more than 2,000 players, 200 Clubs and 25 tournaments 850 million viewers and 440 million hours watched, up 13% and 26% year-on-year, highlight record-breaking event 175,000 tickets sold to esports...",
+      "url": "https://www.prnewswire.com/news-releases/agal-crowned-esports-world-cup-2026-club-champion-after-landmark-competition-in-paris-302858222.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T10:43:00Z",
+      "epoch": 1787568180,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Gas Analyzer Sensor &amp; Detector Market worth $15.05 billion by 2031 - Exclusive Report by MarketsandMarkets™",
+      "summary": "DELRAY BEACH, Fla., Aug. 24, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Gas Analyzer Sensor & Detector Market is expected to be valued at USD 11.35 billion in 2026 and USD 15.05 billion by 2031, recording a CAGR of 5.8% during the forecast period. Browse 200 market",
+      "url": "https://www.prnewswire.com/news-releases/gas-analyzer-sensor--detector-market-worth-15-05-billion-by-2031---exclusive-report-by-marketsandmarkets-302858097.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T10:40:00Z",
+      "epoch": 1787568000,
       "sentiment": 0.0,
       "tickers": [],
-      "company_name": "Chaince Digital Holdings Inc.",
-      "catalyst": true,
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Los robots GALBOT completan más de 100 intercambios consecutivos",
+      "summary": "- Primer partido de tenis humanoide autónomo del mundo: Los robots GALBOT completan más de 100 intercambios consecutivos De AlphaGo a AstraTennis: Los robots humanoides llevan la IA al mundo físico PEKÍN, 24 de agosto de 2026 /PRNewswire/ -- Se ha lanzado un nuevo hito en intelig",
+      "url": "https://www.prnewswire.com/news-releases/los-robots-galbot-completan-mas-de-100-intercambios-consecutivos-302858221.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T10:38:00Z",
+      "epoch": 1787567880,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Extra Space Storage Announces Executive Leadership Transition",
+      "summary": "Joe Margolis to Retire; Noah Springer to Become Extra Space Storage's Chief Executive Officer Effective January 1, 2027 SALT LAKE CITY, Aug. 24, 2026 /PRNewswire/ -- Extra Space Storage Inc. (NYSE: EXR) (the \"Company\") today announced that Noah Springer, President, will become th",
+      "url": "https://www.prnewswire.com/news-releases/extra-space-storage-announces-executive-leadership-transition-302857841.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-24T10:30:00Z",
+      "epoch": 1787567400,
+      "sentiment": 0.0,
+      "tickers": [
+        "EXR"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "XPENG Reports Second Quarter 2026 Unaudited Financial Results",
+      "summary": "Cash position[i] was RMB40.48 billion (US$5.97 billion) as of June 30, 2026 Quarterly total revenues were RMB19.74 billion, a 51.5% increase quarter-over-quarter Quarterly gross margin was 20.7%, an increase of 3.4 percentage points over the same period of 2025 Quarterly vehicle ",
+      "url": "https://www.prnewswire.com/news-releases/xpeng-reports-second-quarter-2026-unaudited-financial-results-302858198.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T10:30:00Z",
+      "epoch": 1787567400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Vision Marine Technologies Signs Letter of Intent for Proposed Business Combination with an Undisclosed Counterparty",
+      "summary": "Proposed combination would create a publicly traded platform expanding the Vision Marine platform of artificial intelligence, autonomous systems, electrification and next-generation marine with the addition of the unmanned aerial vehicles and defense technologies of the counterpa",
+      "url": "https://www.prnewswire.com/news-releases/vision-marine-technologies-signs-letter-of-intent-for-proposed-business-combination-with-an-undisclosed-counterparty-302857830.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T10:30:00Z",
+      "epoch": 1787567400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Climate-Adaptive Hair Care Brand The Potion Studio Announces Retail Expansion Into Ulta Beauty",
+      "summary": "New Retail Partnership Brings Ulta Beauty's First Black- and Middle Eastern-Owned Brand, Expanding Access to Luxury Hair Care for Multi- Ethnic, Clean-Conscious Beauty Enthusiasts LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The Potion Studio has entered Ulta Beauty's assortment of",
+      "url": "https://www.prnewswire.com/news-releases/climate-adaptive-hair-care-brand-the-potion-studio-announces-retail-expansion-into-ulta-beauty-302857618.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T10:26:00Z",
+      "epoch": 1787567160,
+      "sentiment": 0.67,
+      "tickers": [
+        "ULTA"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "XPENG robotics business raises over US$900 million at a post-money valuation of over US$6.3 billion, accelerating physical AI deployment",
+      "summary": "XPENG robotics business raises over US$900 million, at a post-money valuation of over US$6.3 billion, marking the largest single-round private financing ever recorded in China's embodied AI industry. This round was initiated by leading global investors, led by IDG Capital, with..",
+      "url": "https://www.prnewswire.com/news-releases/xpeng-robotics-business-raises-over-us900-million-at-a-post-money-valuation-of-over-us6-3-billion-accelerating-physical-ai-deployment-302858203.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T10:08:00Z",
+      "epoch": 1787566080,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
       "small_cap_risk": false
     },
     {
@@ -619,8 +735,8 @@
       "title": "Grow Therapy Launches a National Campaign Reframing Therapy as a Practice for Progress",
       "summary": "Four musical films capture the personal growth that unfolds when people care for their mental health NEW YORK, Aug. 24, 2026 /PRNewswire/ -- Grow Therapy (Grow) today launched \"Key Change,\" its first national brand campaign, reframing a pervasive assumption: that mental health ca",
       "url": "https://www.prnewswire.com/news-releases/grow-therapy-launches-a-national-campaign-reframing-therapy-as-a-practice-for-progress-302857598.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-24T10:00:00Z",
       "epoch": 1787565600,
       "sentiment": 0.67,
@@ -633,22 +749,8 @@
       "title": "Metal Supermarkets Announces Recipients of 5th Annual Trade School Scholarship",
       "summary": "Premier Metal Supplier Awards $20,000 to Trades Students Across North America TORONTO, Aug. 24, 2026 /PRNewswire/ -- Metal Supermarkets, the world's largest supplier of small-quantity metals, has announced the recipients of its 2026 Trade School Scholarship, awarding $2,500 each ",
       "url": "https://www.prnewswire.com/news-releases/metal-supermarkets-announces-recipients-of-5th-annual-trade-school-scholarship-302857482.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T10:00:00Z",
-      "epoch": 1787565600,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Galaxea AI Demonstrated Full‑Stack Capabilities and Embodied AI Generalization at its WRC 2026 \"Productivity Awakening\" Exhibition",
-      "summary": "BEIJING, Aug. 24, 2026 /PRNewswire/ -- Galaxea AI concluded its \"Productivity Awakening\" exhibition at the 2026 World Robot Conference (WRC). Unlike typical motion‑focused robot showcases, the firm presented over ten multi‑scenario demos to show its full‑stack strength and embodi",
-      "url": "https://www.prnewswire.com/news-releases/galaxea-ai-demonstrated-fullstack-capabilities-and-embodied-ai-generalization-at-its-wrc-2026-productivity-awakening-exhibition-302857784.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Clinical Trials/FDA",
+      "source_id": "prnewswire-trials-fda",
       "published_at": "2026-08-24T10:00:00Z",
       "epoch": 1787565600,
       "sentiment": 0.0,
@@ -674,20 +776,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "BlueNord: Minutes from Extraordinary General Meeting - Merger Plan with Vår Energi Approved",
-      "summary": "NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION, IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY IN ANY JURISDICTION IN WHICH THE RELEASE, PUBLICATION OR DISTRIBUTION WOULD BE UNLAWFUL. THIS ANNOUNCEMENT DOES NOT CONSTITUTE AN OFFER OF ANY OF THE SECURITIES DESCRIBED HEREIN. OSLO, Norwa",
-      "url": "https://www.prnewswire.com/news-releases/bluenord-minutes-from-extraordinary-general-meeting--merger-plan-with-var-energi-approved-302858188.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T09:40:00Z",
-      "epoch": 1787564400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "CB&amp;I secures new Côte d'Ivoire operations and maintenance contract",
       "summary": "ABERDEEN, United Kingdom, Aug. 24, 2026 /PRNewswire/ -- CB&I's Asset Solutions business (formerly part of Petrofac) has been awarded a large* three-year contract in Côte d'Ivoire, for the provision of operations and maintenance services. Under the terms of the contract**, CB&I wi",
       "url": "https://www.prnewswire.com/news-releases/cbi-secures-new-cote-divoire-operations-and-maintenance-contract-302858187.html",
@@ -705,8 +793,8 @@
       "title": "European Commission grants orphan designation for Lundbeck's investigational anti-ACTH monoclonal antibody asedebart for Cushing's syndrome of endogenous origin",
       "summary": "The European Commission has granted orphan designation for asedebart (Lu AG13909), Lundbeck's novel investigational anti-ACTH monoclonal antibody, for the treatment of Cushing's syndrome of endogenous origin Cushing's syndrome of endogenous origin is a rare endocrine disorder dri",
       "url": "https://www.prnewswire.com/news-releases/european-commission-grants-orphan-designation-for-lundbecks-investigational-anti-acth-monoclonal-antibody-asedebart-for-cushings-syndrome-of-endogenous-origin-302858186.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-24T09:35:00Z",
       "epoch": 1787564100,
       "sentiment": 0.0,
@@ -768,6 +856,92 @@
       "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Extra Space Storage Inc. (0001289490) (Filer)",
+      "summary": "Filed:  2026-08-24  AccNo:  0001289490-26-000058  Size:  171 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial",
+      "url": "https://www.sec.gov/Archives/edgar/data/1289490/000128949026000058/0001289490-26-000058-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-24T06:34:28Z",
+      "epoch": 1787553268,
+      "sentiment": 0.0,
+      "tickers": [
+        "EXR"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Comstock Inc. (0001120970) (Filer)",
+      "summary": "Filed:  2026-08-24  AccNo:  0001437749-26-028777  Size:  178 KB\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1120970/000143774926028777/0001437749-26-028777-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-24T06:30:28Z",
+      "epoch": 1787553028,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Comstock Inc.",
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - KLX Energy Services Holdings, Inc. (0001738827) (Filer)",
+      "summary": "Filed:  2026-08-24  AccNo:  0001193125-26-361735  Size:  432 KB\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1738827/000119312526361735/0001193125-26-361735-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-24T06:24:02Z",
+      "epoch": 1787552642,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Klx Energy Services Holdings, Inc.",
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Sable Offshore Corp. (0001831481) (Filer)",
+      "summary": "Filed:  2026-08-24  AccNo:  0001831481-26-000108  Size:  15 MB\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1831481/000183148126000108/0001831481-26-000108-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-24T06:15:47Z",
+      "epoch": 1787552147,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Sable Offshore Corp.",
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Ecovyst Inc. (0001708035) (Filer)",
+      "summary": "Filed:  2026-08-24  AccNo:  0001193125-26-361724  Size:  169 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial",
+      "url": "https://www.sec.gov/Archives/edgar/data/1708035/000119312526361724/0001193125-26-361724-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-24T06:15:31Z",
+      "epoch": 1787552131,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Ecovyst Inc.",
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - BRC Inc. (0001891101) (Filer)",
+      "summary": "Filed:  2026-08-24  AccNo:  0001891101-26-000043  Size:  189 KB\n Item 3.03: Material Modifications to Rights of Security Holders\n Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1891101/000189110126000043/0001891101-26-000043-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-24T06:10:36Z",
+      "epoch": 1787551836,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Brc Inc.",
       "catalyst": false,
       "small_cap_risk": false
     },
@@ -1030,20 +1204,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "AANA Launches Anesthesia Answers, a Patient Education Resource Built by CRNAs/Nurse Anesthesiologists",
-      "summary": "ROSEMONT, Ill., Aug. 22, 2026 /PRNewswire/ -- The American Association of Nurse Anesthesiology (AANA) today announced the launch of Anesthesia Answers, a new patient education resource created by Certified Registered Nurse Anesthetists (CRNAs)/nurse anesthesiologists to help pati",
-      "url": "https://www.prnewswire.com/news-releases/aana-launches-anesthesia-answers-a-patient-education-resource-built-by-crnasnurse-anesthesiologists-302854979.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-22T13:03:00Z",
-      "epoch": 1787403780,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "8-K - Super League Enterprise, Inc. (0001621672) (Filer)",
       "summary": "Filed:  2026-08-24  AccNo:  0001437749-26-028769  Size:  197 KB\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
       "url": "https://www.sec.gov/Archives/edgar/data/1621672/000143774926028769/0001437749-26-028769-index.htm",
@@ -1072,20 +1232,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "Greenberg Traurig Advises TPG AG-Led Consortium on $628M Industrial Real Estate Portfolio Acquisition",
-      "summary": "NEW YORK, Aug. 21, 2026 /PRNewswire/ -- Global law firm Greenberg Traurig, LLP represented a TPG AG-led consortium in its $628 million acquisition of a 53-building industrial real estate portfolio. The portfolio comprises approximately 5.4 million square feet of distribution, log",
-      "url": "https://www.prnewswire.com/news-releases/greenberg-traurig-advises-tpg-ag-led-consortium-on-628m-industrial-real-estate-portfolio-acquisition-302857502.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-21T21:00:00Z",
-      "epoch": 1787346000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "8-K - Roman DBDR Acquisition Corp. II (0002032528) (Filer)",
@@ -2008,76 +2154,6 @@
       "company_name": "Breeze Acquisition Corp. Ii",
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "8-K - NU SKIN ENTERPRISES, INC. (0001021561) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001140361-26-034016  Size:  152 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-      "url": "https://www.sec.gov/Archives/edgar/data/1021561/000114036126034016/0001140361-26-034016-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:06:02Z",
-      "epoch": 1787328362,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Nu Skin Enterprises, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - Star Equity Holdings, Inc. (0001210708) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001210708-26-000082  Size:  255 KB\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1210708/000121070826000082/0001210708-26-000082-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:06:00Z",
-      "epoch": 1787328360,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Star Equity Holdings, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - DarioHealth Corp. (0001533998) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001104659-26-099678  Size:  299 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1533998/000110465926099678/0001104659-26-099678-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:05:36Z",
-      "epoch": 1787328336,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Dariohealth Corp.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - Vertical Data Inc. (0002033264) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001493152-26-039667  Size:  343 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial",
-      "url": "https://www.sec.gov/Archives/edgar/data/2033264/000149315226039667/0001493152-26-039667-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:05:29Z",
-      "epoch": 1787328329,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Vertical Data Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - AIB Data Centers Inc. (0002070542) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001213900-26-092594  Size:  261 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026092594/0001213900-26-092594-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:05:27Z",
-      "epoch": 1787328327,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Aib Data Centers Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
     }
   ],
   "pipeline": [
@@ -2252,6 +2328,22 @@
       "epoch": 1787547600,
       "sentiment": 0.0,
       "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Roche pens $2.5B pact for Hanmi’s clinical-stage obesity drug targeting less-explored mechanism",
+      "summary": "Roche has taken its obesity strategy into uncharted territory via a $190 million upfront payment for a clinical-stage urocortin-2 analog from South Korea’s Hanmi Pharm.",
+      "url": "https://www.fiercebiotech.com/biotech/roche-pens-25b-pact-hanmis-clinical-stage-obesity-drug-targeting-less-used-mechanism",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-08-24T04:44:00Z",
+      "epoch": 1787546640,
+      "sentiment": 0.0,
+      "tickers": [
+        "ROG"
+      ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -2844,20 +2936,6 @@
       "tickers": [
         "JNJ"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Amylyx readies approval push after GLP-1 inhibitor halves blood sugar crashes in ph. 3 win",
-      "summary": "Amylyx Pharmaceuticals’ $35 million bet on the GLP-1 receptor antagonist avexitide appears to have paid off, with the molecule cutting the number of dangerous blood sugar crashes by more than half in patients with a rare endocrine disease.",
-      "url": "https://www.fiercebiotech.com/biotech/amylyx-speeds-toward-approval-glp-1-inhibitor-halves-blood-sugar-crashes-ph-3-win",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-08-17T18:37:00Z",
-      "epoch": 1786991820,
-      "sentiment": 0.0,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
