@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T06:23:50Z",
+  "generated_at": "2026-08-24T07:36:30Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 145,
+    "breaking_count": 146,
     "breaking_catalyst_count": 28,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 11,
@@ -52,19 +52,19 @@
       "source_count": 1
     },
     {
-      "ticker": "PRCT",
+      "ticker": "KLAC",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "WIX",
+      "ticker": "UWMC",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "LII",
+      "ticker": "DNOW",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -470,80 +470,204 @@
       "small_cap_risk": false
     },
     {
-      "title": "PROCEPT BioRobotics Corporation Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - PRCT",
-      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against PROCEPT BioRobotics Corporation (\"Procept\" or \"the Company\") (NASDAQ: PRCT) violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promu",
-      "url": "https://www.prnewswire.com/news-releases/procept-biorobotics-corporation-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--prct-302857929.html",
+      "title": "MacGregor extends Horizon gangway to floating-to-floating personnel transfer",
+      "summary": "MACGREGOR PRESS RELEASE 24 AUGUST 2026 AT 9 AM CEST Certified capability lets crews move between two floating vessels at sea, freeing offshore operators from fixed landing points and port-call scheduling GOTHENBURG, Sweden, Aug. 24, 2026 /PRNewswire/ -- MacGregor has announced th",
+      "url": "https://www.prnewswire.com/news-releases/macgregor-extends-horizon-gangway-to-floating-to-floating-personnel-transfer-302858109.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T06:22:00Z",
-      "epoch": 1787552520,
-      "sentiment": -0.67,
-      "tickers": [
-        "PRCT"
-      ],
+      "published_at": "2026-08-24T07:26:00Z",
+      "epoch": 1787556360,
+      "sentiment": 0.0,
+      "tickers": [],
       "company_name": null,
       "catalyst": false,
-      "small_cap_risk": true
+      "small_cap_risk": false
     },
     {
-      "title": "Wix.com Ltd. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - WIX",
-      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Wix.com Ltd. (\"Wix\" or \"the Company\") (NASDAQ: WIX) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder by",
-      "url": "https://www.prnewswire.com/news-releases/wixcom-ltd-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--wix-302857924.html",
+      "title": "MacGregor advances direct ship-to-well LCO₂ transfer, built on 50 years of proven bow-loading technology",
+      "summary": "MACGREGOR PRESS RELEASE 24 AUGUST 2026 AT 9 AM CEST New Bow Transfer System enables flexible, direct connection between LCO₂ carriers and offshore injection sites, removing the need for costly onshore buffer and conditioning facilities GOTHENBURG, Sweden, Aug. 24, 2026 /PRNewswir",
+      "url": "https://www.prnewswire.com/news-releases/macgregor-advances-direct-ship-to-well-lco-transfer-built-on-50-years-of-proven-bow-loading-technology-302858106.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T06:17:00Z",
-      "epoch": 1787552220,
-      "sentiment": -0.67,
-      "tickers": [
-        "WIX"
-      ],
+      "published_at": "2026-08-24T07:20:00Z",
+      "epoch": 1787556000,
+      "sentiment": 0.0,
+      "tickers": [],
       "company_name": null,
       "catalyst": false,
-      "small_cap_risk": true
+      "small_cap_risk": false
     },
     {
-      "title": "LII Investors Have Opportunity to Join Lennox International, Inc. Fraud Investigation with SBS Law",
-      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- Schall, Brown & Schwartz LLP (\"SBS\"), a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of Lennox International, Inc. (\"Lennox\" or \"the Company\") (NYSE: LII) for violations of",
-      "url": "https://www.prnewswire.com/news-releases/lii-investors-have-opportunity-to-join-lennox-international-inc-fraud-investigation-with-sbs-law-302857922.html",
+      "title": "Scania to showcase its broad marine offering at SMM 2026",
+      "summary": "SÖDERTÄLJE, Sweden,, Aug. 24, 2026 /PRNewswire/ -- Scania will present its marine offering at SMM 2026, demonstrating how its power solutions, electrification capabilities and services meet the needs of a wide variety of marine applications. At the event in Hamburg, Germany, from",
+      "url": "https://www.prnewswire.com/news-releases/scania-to-showcase-its-broad-marine-offering-at-smm-2026-302858105.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T06:16:00Z",
-      "epoch": 1787552160,
-      "sentiment": -0.33,
+      "published_at": "2026-08-24T07:15:00Z",
+      "epoch": 1787555700,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Share buybacks in Ericsson during the period August 17 - August 21, 2026",
+      "summary": "STOCKHOLM, Aug. 24, 2026 /PRNewswire/ -- During the period August 17 - August 21, 2026, Telefonaktiebolaget LM Ericsson (publ) (\"Ericsson\") (LEI code 549300W9JLPW15XIFM52) repurchased own Class B shares (ISIN: SE0000108656) as follows: Date Aggregated daily volume (number of shar",
+      "url": "https://www.prnewswire.com/news-releases/share-buybacks-in-ericsson-during-the-period-august-17---august-21-2026-302858100.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T07:06:00Z",
+      "epoch": 1787555160,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "ImmunoForge Selected for the Ministry of SMEs and Startups' 'Global TIPS R&amp;D' Program… \"Expansion of the LMT Platform\"",
+      "summary": "Development of Leptin receptor-based technology and hybrid LNP platform Combining Blood-Brain Barrier penetration and a one-month sustained-release formulation in a single structure, with potential applications in CNS-targeted therapeutics Technology validated by winning first pl",
+      "url": "https://www.prnewswire.com/news-releases/immunoforge-selected-for-the-ministry-of-smes-and-startups-global-tips-rd-program-expansion-of-the-lmt-platform-302858094.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T07:01:00Z",
+      "epoch": 1787554860,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Corinex stellt Grid Intelligence Node vor: präzise Transparenz über den tatsächlichen Netzzustand im Niederspannungsnetz",
+      "summary": "MANNHEIM, Deutschland, 24. August 2026 /PRNewswire/ -- Corinex hat den Grid Intelligence Node (GIN) vorgestellt. Die Lösung ermöglicht Messungen und Ereigniserkennung nahezu in Echtzeit an Niederspannungsabgängen. GIN liefert hochpräzise Einblicke in den tatsächlichen Netzzustand",
+      "url": "https://www.prnewswire.com/news-releases/corinex-stellt-grid-intelligence-node-vor-prazise-transparenz-uber-den-tatsachlichen-netzzustand-im-niederspannungsnetz-302857770.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T07:00:00Z",
+      "epoch": 1787554800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Corinex lanza el Nodo de Inteligencia de Red para revelar el verdadero estado de la red de baja tensión",
+      "summary": "VANCOUVER, BC, 24 de agosto de 2026 /PRNewswire/ -- Corinex ha anunciado el lanzamiento del Nodo de Inteligencia de Red (GIN), que incorpora mediciones y detección de eventos en tiempo casi real a los alimentadores de baja tensión. GIN proporciona información de alta precisión so",
+      "url": "https://www.prnewswire.com/news-releases/corinex-lanza-el-nodo-de-inteligencia-de-red-para-revelar-el-verdadero-estado-de-la-red-de-baja-tension-302857771.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T07:00:00Z",
+      "epoch": 1787554800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Corinex lance le « Grid Intelligence Node » pour révéler l'état réel du réseau basse tension",
+      "summary": "VANCOUVER, C.-B., 24 août 2026 /PRNewswire/ -- Corinex a annoncé le lancement du « Grid Intelligence Node » (GIN), qui permet d'effectuer des mesures quasi en temps réel et de détecter les événements sur les départs basse tension. GIN offre une vision très précise des conditions ",
+      "url": "https://www.prnewswire.com/news-releases/corinex-lance-le--grid-intelligence-node--pour-reveler-letat-reel-du-reseau-basse-tension-302857769.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T07:00:00Z",
+      "epoch": 1787554800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "From Data to Doorsteps: How Kim Lundgren Associates Is Helping Local Governments Make Climate Action Personal",
+      "summary": "\"All Access with Andy Garcia\" segment explores how the impacts of climate change are local and so are the solutions LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- Kim Lundgren Associates, Inc. (KLA), an award-winning, mission-driven climate consultancy, is featured in an upcoming seg",
+      "url": "https://www.prnewswire.com/news-releases/from-data-to-doorsteps-how-kim-lundgren-associates-is-helping-local-governments-make-climate-action-personal-302856442.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T07:00:00Z",
+      "epoch": 1787554800,
+      "sentiment": 0.0,
       "tickers": [
-        "LII"
+        "KLAC"
       ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
     {
-      "title": "MO Investors Have Opportunity to Join Altria Group, Inc. Fraud Investigation with SBS Law",
-      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- Schall, Brown & Schwartz LLP (\"SBS\"), a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of Altria Group, Inc. (\"Altria\" or \"the Company\") (NYSE: MO) for violations of the secu",
-      "url": "https://www.prnewswire.com/news-releases/mo-investors-have-opportunity-to-join-altria-group-inc-fraud-investigation-with-sbs-law-302857973.html",
+      "title": "Corinex Launches Grid Intelligence Node to Reveal the True State of the Low-Voltage Grid",
+      "summary": "VANCOUVER, BC, Aug. 24, 2026 /PRNewswire/ -- Corinex has announced the launch of the Grid Intelligence Node (GIN), bringing near-real-time measurement and event detection to low-voltage feeders. GIN provides high-precision insight into actual network conditions, creating a grid-t",
+      "url": "https://www.prnewswire.com/news-releases/corinex-launches-grid-intelligence-node-to-reveal-the-true-state-of-the-low-voltage-grid-302857768.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T06:13:00Z",
-      "epoch": 1787551980,
-      "sentiment": -0.33,
-      "tickers": [
-        "MO"
-      ],
+      "published_at": "2026-08-24T07:00:00Z",
+      "epoch": 1787554800,
+      "sentiment": 0.67,
+      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
     {
-      "title": "Cogent Communications Holdings, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - CCOI",
-      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Cogent Communications Holdings, Inc. (\"Cogent\" or \"the Company\") (NASDAQ: CCOI) violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5..",
-      "url": "https://www.prnewswire.com/news-releases/cogent-communications-holdings-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--ccoi-302857923.html",
+      "title": "Emerson's Advanced Measurement Instrumentation Selected by Equinor to Optimize Operations, Accelerate Development",
+      "summary": "Broad measurement portfolio to enhance reliable and efficient operations across global energy assets Emerson and Equinor will collaborate to advance technology innovation and digital operations across Equinor's global onshore and offshore assets. Emerson's broad measurement portf",
+      "url": "https://www.prnewswire.com/news-releases/emersons-advanced-measurement-instrumentation-selected-by-equinor-to-optimize-operations-accelerate-development-302857353.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T06:13:00Z",
-      "epoch": 1787551980,
+      "published_at": "2026-08-24T07:00:00Z",
+      "epoch": 1787554800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "UWM Holdings Corporation Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - UWMC",
+      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against UWM Holdings Corporation (\"UWM\" or \"the Company\") (NYSE: UWMC) violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereu",
+      "url": "https://www.prnewswire.com/news-releases/uwm-holdings-corporation-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--uwmc-302857945.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T06:56:00Z",
+      "epoch": 1787554560,
       "sentiment": -0.67,
       "tickers": [
-        "CCOI"
+        "UWMC"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "DNOW Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - DNOW",
+      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against DNOW Inc. (\"DNOW\" or \"the Company\") (NYSE: DNOW) violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder by the U.",
+      "url": "https://www.prnewswire.com/news-releases/dnow-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--dnow-302857947.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T06:35:00Z",
+      "epoch": 1787553300,
+      "sentiment": -0.67,
+      "tickers": [
+        "DNOW"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Rackspace Technology, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - RXT",
+      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Rackspace Technology, Inc. (\"Rackspace\" or \"the Company\") (NASDAQ: RXT) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promu",
+      "url": "https://www.prnewswire.com/news-releases/rackspace-technology-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--rxt-302857946.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T06:29:00Z",
+      "epoch": 1787552940,
+      "sentiment": -0.67,
+      "tickers": [
+        "RXT"
       ],
       "company_name": null,
       "catalyst": false,
@@ -553,8 +677,8 @@
       "title": "New release 'I AM Inner Mastery' offers a roadmap to healing, self-mastery and lasting inner peace",
       "summary": "A psychospiritual guide exploring mind, body and soul practices to connect with one's highest self ASHEVILLE, N.C., Aug. 24, 2026 /PRNewswire/ -- Author Suzie DeVaughn invites readers to discover the transformative power of inner healing in her latest work, \"I AM Inner Mastery: E",
       "url": "https://www.prnewswire.com/news-releases/new-release-i-am-inner-mastery-offers-a-roadmap-to-healing-self-mastery-and-lasting-inner-peace-302858019.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-24T06:00:00Z",
       "epoch": 1787551200,
       "sentiment": 0.0,
@@ -567,8 +691,8 @@
       "title": "Signia Introduces MaX, Powered by Acoustic Intelligence™: World's First AI Hearing Aid Platform with 4 DNNs",
       "summary": "Signia's Acoustic Intelligence™ unites four task-specific Deep Neural Networks to simultaneously understand speech, noise, environment, and the wearer's own voice. 97% of wearers perform better with Signia MaX in noisy group conversations compared to key competitors,1 with MaX al",
       "url": "https://www.prnewswire.com/news-releases/signia-introduces-max-powered-by-acoustic-intelligence-worlds-first-ai-hearing-aid-platform-with-4-dnns-302857407.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-24T06:00:00Z",
       "epoch": 1787551200,
       "sentiment": 0.0,
@@ -576,114 +700,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "EquipmentShare.com Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - EQPT",
-      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against EquipmentShare.com Inc. (\"EquipmentShare\" or \"the Company\") (NASDAQ: EQPT) violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promul",
-      "url": "https://www.prnewswire.com/news-releases/equipmentsharecom-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--eqpt-302857938.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T05:55:00Z",
-      "epoch": 1787550900,
-      "sentiment": -0.67,
-      "tickers": [
-        "EQPT"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "The 2nd TMElive International Music Awards concluded, bringing together 34 Chinese and international acts to deliver a phenomenal global music celebration",
-      "summary": "HONG KONG, Aug. 24, 2026 /PRNewswire/ -- On August 23, the two-day 2026 TMElive International Music Awards (TIMA) successfully concluded at Kai Tak Stadium in Hong Kong, China. Produced by Tencent Music Entertainment Group, this year's TIMA presented a cross-language, cross-genre",
-      "url": "https://www.prnewswire.com/news-releases/the-2nd-tmelive-international-music-awards-concluded-bringing-together-34-chinese-and-international-acts-to-deliver-a-phenomenal-global-music-celebration-302858069.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T05:54:00Z",
-      "epoch": 1787550840,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "GPGI, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - GPGI",
-      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against GPGI, Inc. f/k/a CompoSecure, Inc. (\"GPGI\" or \"the Company\") (NYSE: GPGI) violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulg",
-      "url": "https://www.prnewswire.com/news-releases/gpgi-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--gpgi-302857918.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T05:54:00Z",
-      "epoch": 1787550840,
-      "sentiment": -0.67,
-      "tickers": [
-        "GPGI"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Photronics, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - PLAB",
-      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Photronics, Inc. (\"Photronics\" or \"the Company\") (NASDAQ: PLAB) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated t",
-      "url": "https://www.prnewswire.com/news-releases/photronics-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--plab-302857915.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T05:52:00Z",
-      "epoch": 1787550720,
-      "sentiment": -0.67,
-      "tickers": [
-        "PLAB"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Planet Fitness, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - PLNT",
-      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Planet Fitness, Inc. (\"Planet Fitness\" or \"the Company\") (NYSE: PLNT) violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated",
-      "url": "https://www.prnewswire.com/news-releases/planet-fitness-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--plnt-302857931.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T05:51:00Z",
-      "epoch": 1787550660,
-      "sentiment": -0.67,
-      "tickers": [
-        "PLNT"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Skanska to build datacenter near Prague, Czechia, for CZK 2.1 billion, about SEK 930M",
-      "summary": "STOCKHOLM, Aug. 24, 2026 /PRNewswire/ -- Skanska has signed a contract with CRA Prague Gateway DC to build a new data center on the outskirts of Prague, Czechia. The contract is worth CZK 2.1 billion, about SEK 930M, which will be included in the order bookings for Europe for the",
-      "url": "https://www.prnewswire.com/news-releases/skanska-to-build-datacenter-near-prague-czechia-for-czk-2-1-billion-about-sek-930m-302858068.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T05:48:00Z",
-      "epoch": 1787550480,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Hub Group, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - HUBG",
-      "summary": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Hub Group, Inc. (\"Hub Group\" or \"the Company\") (NASDAQ: HUBG) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated the",
-      "url": "https://www.prnewswire.com/news-releases/hub-group-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--hubg-302857913.html",
-      "source": "PR Newswire — Clinical Trials/FDA",
-      "source_id": "prnewswire-trials-fda",
-      "published_at": "2026-08-24T05:46:00Z",
-      "epoch": 1787550360,
-      "sentiment": -0.67,
-      "tickers": [
-        "HUBG"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
     },
     {
       "title": "GC Biopharma's Hunter Syndrome Treatment 'Hunterase' Receives Drug Approval in India and Taiwan",
@@ -1501,20 +1517,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Nexgel, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Joint Statement from the American Society of Health-System Pharmacists (ASHP) and the American Pharmacists Association (APhA)",
-      "summary": "BETHESDA, Md., Aug. 21, 2026 /PRNewswire/ -- ASHP and APhA are deeply saddened by the reported harm experienced by Glenda Dorton and by the devastating impact this event has had on her family and loved ones. We also recognize that other patients were reportedly harmed, and our th",
-      "url": "https://www.prnewswire.com/news-releases/joint-statement-from-the-american-society-of-health-system-pharmacists-ashp-and-the-american-pharmacists-association-apha-302857449.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-21T16:42:00Z",
-      "epoch": 1787330520,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
