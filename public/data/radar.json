@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23T23:59:34Z",
+  "generated_at": "2026-08-24T01:49:59Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 142,
+    "breaking_count": 138,
     "breaking_catalyst_count": 27,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 12,
@@ -46,12 +46,6 @@
       "source_count": 1
     },
     {
-      "ticker": "ULTA",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 2
-    },
-    {
       "ticker": "CINF",
       "count": 2,
       "catalyst_count": 0,
@@ -65,6 +59,12 @@
     },
     {
       "ticker": "VNDA",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "LGI",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -456,6 +456,48 @@
       "small_cap_risk": false
     },
     {
+      "title": "Consortium launches cross-regional pilot on post-quantum security with participation from banks and regulatory stakeholders",
+      "summary": "Convened by the Responsible Fintech Institute with Safeheron as technology partner, to evaluate and eventually open-source quantum-resilient infrastructure for wallet generation and digital asset transfers in a regulated, cross-jurisdiction setting. SINGAPORE, Aug. 23, 2026 /PRNe",
+      "url": "https://www.prnewswire.com/news-releases/consortium-launches-cross-regional-pilot-on-post-quantum-security-with-participation-from-banks-and-regulatory-stakeholders-302857693.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-24T01:00:00Z",
+      "epoch": 1787533200,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Antengene Announces 2026 Interim Results: Achieves First‑Ever Profitability and Accelerates Value Creation Through Innovative R&amp;D",
+      "summary": "SHANGHAI and HONG KONG, Aug. 23, 2026 /PRNewswire/ -- Antengene Corporation Limited (\"Antengene\", SEHK: 6996.HK), a leading innovative, commercial-stage global biotech company dedicated to discovering, developing and commercializing first-in-class and/or best-in-class medicines f",
+      "url": "https://www.prnewswire.com/news-releases/antengene-announces-2026-interim-results-achieves-firstever-profitability-and-accelerates-value-creation-through-innovative-rd-302857795.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T01:00:00Z",
+      "epoch": 1787533200,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Anbogen Therapeutics and The University of Tokyo Enter Collaborative Research Agreement to Evaluate ABT-301 Across Multiple Tumor Types, Targeting Accelerated Human Clinical Indication Expansion",
+      "summary": "TAIPEI, Aug. 23, 2026 /PRNewswire/ -- Anbogen Therapeutics Inc. (TPEx: 7784) (\"Anbogen\" or the \"Company\"), a clinical-stage precision oncology company, today announced that it has entered into a Collaborative Research Agreement (CRA) with the Laboratory of Veterinary Surgery, Gra",
+      "url": "https://www.prnewswire.com/news-releases/anbogen-therapeutics-and-the-university-of-tokyo-enter-collaborative-research-agreement-to-evaluate-abt-301-across-multiple-tumor-types-targeting-accelerated-human-clinical-indication-expansion-302857360.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T00:00:00Z",
+      "epoch": 1787529600,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "AG.AL Crowned Esports World Cup 2026 Club Champion After Landmark Competition in Paris",
       "summary": "AG.AL claims the $7 million Club Championship title after seven weeks featuring more than 2,000 players, 200 Clubs and 25 tournaments 850 million viewers and 440 million hours watched, up 13% and 26% year-on-year, highlight record-breaking event 175,000 tickets sold to esports...",
       "url": "https://www.prnewswire.com/news-releases/agal-crowned-esports-world-cup-2026-club-champion-after-landmark-competition-in-paris-302857840.html",
@@ -551,64 +593,6 @@
       "source_id": "prnewswire-public-co",
       "published_at": "2026-08-23T13:04:00Z",
       "epoch": 1787490240,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "DREAMO and DREAMOSIS Bring the Collectible Character Into a New Physical-Digital World",
-      "summary": "Novifolium introduces a collectible character and digital universe exploring what happens when collecting no longer ends at the shelf LONDON, Aug. 23, 2026 /PRNewswire/ -- Novifolium is introducing DREAMO and DREAMOSIS, a new physical-digital entertainment concept built around a ",
-      "url": "https://www.prnewswire.com/news-releases/dreamo-and-dreamosis-bring-the-collectible-character-into-a-new-physical-digital-world-302857778.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-23T13:00:00Z",
-      "epoch": 1787490000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Paris Baguette Expands Their Growing Footprint with a New Café Opening in Hilliard, Ohio on August 20",
-      "summary": "Ravi Allipuram set to open his Paris Baguette café at 5139 Raglan St. HILLIARD, Ohio, Aug. 23, 2026 /PRNewswire/ -- Paris Baguette and franchise owner Ravi Allipuram are proud to announce the opening of the newest bakery café at 5139 Raglan St., Dublin, OH 43016, on August 20. Th",
-      "url": "https://www.prnewswire.com/news-releases/paris-baguette-expands-their-growing-footprint-with-a-new-cafe-opening-in-hilliard-ohio-on-august-20-302857750.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-23T13:00:00Z",
-      "epoch": 1787490000,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Bio Ionic Partners with Ulta Beauty on Limited Edition Jade Dream Collection",
-      "summary": "The fan-favorite jade colorway arrives at Ulta Beauty, making the collection more accessible than ever before. NEW YORK, Aug. 23, 2026 /PRNewswire/ -- Bio Ionic announces the launch of the Jade Dream Collection, bringing three of the brand's most-loved styling tools to life in a ",
-      "url": "https://www.prnewswire.com/news-releases/bio-ionic-partners-with-ulta-beauty-on-limited-edition-jade-dream-collection-302857748.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-23T13:00:00Z",
-      "epoch": 1787490000,
-      "sentiment": 0.33,
-      "tickers": [
-        "ULTA"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "AG AL's Gwen Snatches Esports World Cup Club Championship Glory In Unbelievable Trackmania Final",
-      "summary": "Gwendal \"Gwen\" Duparc has lifted the trophy at the inaugural Trackmania at Esports World Cup 2026 tournament and secured AG AL the Club Championship victory Media Lobby PARIS, Aug. 23, 2026 /PRNewswire/ -- Gwendal \"Gwen\" Duparc has done the unthinkable and secured the Esports Wor",
-      "url": "https://www.prnewswire.com/news-releases/ag-als-gwen-snatches-esports-world-cup-club-championship-glory-in-unbelievable-trackmania-final-302857779.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-23T12:19:00Z",
-      "epoch": 1787487540,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -1543,20 +1527,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "CPL Announces Next Phase of Leadership as Firm Continues Growth and Strategic Momentum",
-      "summary": "Todd Liebert transitioned to a Senior Advisor role August 1; Chris Colby stepping in to lead CPL while the company conducts a search for its next chief executive ROCHESTER, N.Y., Aug. 21, 2026 /PRNewswire/ -- CPL announced a planned leadership transition designed to support the f",
-      "url": "https://www.prnewswire.com/news-releases/cpl-announces-next-phase-of-leadership-as-firm-continues-growth-and-strategic-momentum-302857441.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-21T16:22:00Z",
-      "epoch": 1787329320,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "8-K - Silexion Therapeutics Corp (0002022416) (Filer)",
       "summary": "Filed:  2026-08-21  AccNo:  0001178913-26-004223  Size:  240 KB\n Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing",
       "url": "https://www.sec.gov/Archives/edgar/data/2022416/000117891326004223/0001178913-26-004223-index.htm",
@@ -2062,34 +2032,6 @@
       "source_id": "prnewswire-health",
       "published_at": "2026-08-21T14:15:00Z",
       "epoch": 1787321700,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Four Seasons Yachts Introduces The Lanserhof Reset, A Transformative Longevity Experience, During its Inaugural Transatlantic Crossing",
-      "summary": "A personalized wellness residency aboard Four Seasons I, designed to restore mind, body and soul at sea TORONTO, Aug. 21, 2026 /PRNewswire/ -- Today, Four Seasons Yachts announced The Lanserhof Reset, designed to enhance the transatlantic experience aboard Four Seasons I. Develop",
-      "url": "https://www.prnewswire.com/news-releases/four-seasons-yachts-introduces-the-lanserhof-reset-a-transformative-longevity-experience-during-its-inaugural-transatlantic-crossing-302856932.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-21T14:00:00Z",
-      "epoch": 1787320800,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "In HelloNation, Expert Optometrist Dr. Harlan Snyder Explains Medical Eye Care vs. Routine Vision Exams",
-      "summary": "The article explains when patients need routine vision exams or medical eye care to protect long-term eye health. ALHAMBRA, Calif., Aug. 21, 2026 /PRNewswire/ -- What is the difference between medical eye care and routine vision exams? A new HelloNation article provides the answe",
-      "url": "https://www.prnewswire.com/news-releases/in-hellonation-expert-optometrist-dr-harlan-snyder-explains-medical-eye-care-vs-routine-vision-exams-302857342.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-21T13:12:00Z",
-      "epoch": 1787317920,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
