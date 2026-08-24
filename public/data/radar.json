@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-24T11:23:26Z",
+  "generated_at": "2026-08-24T11:53:30Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 150,
-    "breaking_catalyst_count": 24,
+    "breaking_count": 145,
+    "breaking_catalyst_count": 27,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 11,
     "movers_count": 0
@@ -17,9 +17,9 @@
     },
     {
       "ticker": "ROG",
-      "count": 3,
+      "count": 4,
       "catalyst_count": 1,
-      "source_count": 3
+      "source_count": 4
     },
     {
       "ticker": "AZN.L",
@@ -30,6 +30,12 @@
     {
       "ticker": "MRK",
       "count": 2,
+      "catalyst_count": 1,
+      "source_count": 1
+    },
+    {
+      "ticker": "MLM",
+      "count": 1,
       "catalyst_count": 1,
       "source_count": 1
     },
@@ -46,25 +52,19 @@
       "source_count": 1
     },
     {
-      "ticker": "PGR",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 2
-    },
-    {
       "ticker": "EXR",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
     },
     {
-      "ticker": "RGNX",
+      "ticker": "DGX",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "LH",
+      "ticker": "RGNX",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -73,6 +73,20 @@
   "movers": [],
   "concentration_warning": null,
   "breaking": [
+    {
+      "title": "IceCure Signs Exclusive Distribution Agreement for ProSense® Cryoablation Systems in the Netherlands",
+      "summary": "Agreement expands ProSense® commercialization in the Netherlands as cryoablation advances to Phase III in the Netherlands-based independent THERMAC breast cancer cryoablation trial after achieving the highest complete ablation rate among evaluated thermal ablation technologies CA",
+      "url": "https://www.prnewswire.com/news-releases/icecure-signs-exclusive-distribution-agreement-for-prosense-cryoablation-systems-in-the-netherlands-302858160.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T11:50:00Z",
+      "epoch": 1787572200,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
     {
       "title": "Roche receives FDA clearance for Elecsys® pTau217, advancing Alzheimer's disease assessment across primary and specialty care",
       "summary": "First and only FDA-cleared, single-biomarker blood test supporting both rule-in and rule-out assessment of amyloid pathology across primary and specialty care settings The test delivers consistency across clinical settings by using the same validated cutoffs in primary and specia",
@@ -84,6 +98,36 @@
       "sentiment": 0.0,
       "tickers": [
         "ROG"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - RUM Group Inc. (0001830081) (Filer)",
+      "summary": "Filed:  2026-08-24  AccNo:  0001213900-26-092801  Size:  271 KB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 3.02: Unregistered Sales of Equity Securities\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1830081/000121390026092801/0001213900-26-092801-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-24T07:36:49Z",
+      "epoch": 1787557009,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Rum Group Inc.",
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - MARTIN MARIETTA MATERIALS INC (0000916076) (Filer)",
+      "summary": "Filed:  2026-08-24  AccNo:  0000950157-26-000946  Size:  649 KB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 2.01: Completion of Acquisition or Disposition of Assets\n Item 3.02: Unregistered Sales of Equity Securities\n Item 5.02: Departure of Directors or Certain ",
+      "url": "https://www.sec.gov/Archives/edgar/data/916076/000095015726000946/0000950157-26-000946-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-24T07:33:53Z",
+      "epoch": 1787556833,
+      "sentiment": 0.0,
+      "tickers": [
+        "MLM"
       ],
       "company_name": null,
       "catalyst": true,
@@ -416,6 +460,149 @@
       "small_cap_risk": false
     },
     {
+      "title": "CHIPOTLE DROPS BOGOS EVERY TIME TAYLOR FRITZ WINS AS HE CHASES HISTORY IN NEW YORK",
+      "summary": "Chipotle is teaming up with superfan and top-ranked U.S. men's tennis player Taylor Fritz to launch \"Every Win Tastes Better,\" giving fans a chance to score BUY-ONE-GET-ONE (BOGO) entrée offers after every Fritz men's singles victory in New York After each win, Fritz will share a",
+      "url": "https://www.prnewswire.com/news-releases/chipotle-drops-bogos-every-time-taylor-fritz-wins-as-he-chases-history-in-new-york-302858005.html",
+      "source": "PR Newswire — Clinical Trials/FDA",
+      "source_id": "prnewswire-trials-fda",
+      "published_at": "2026-08-24T11:53:00Z",
+      "epoch": 1787572380,
+      "sentiment": 1.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Are ITGR, VREX, HZO, SYNA Obtaining Fair Deals for their Shareholders?",
+      "summary": "Insiders may stand to receive substantial financial benefits not available to ordinary shareholders. The proposed transactions may contain terms that could limit superior competing offers. Shareholders are encouraged to contact the firm to discuss their rights and options at no c",
+      "url": "https://www.prnewswire.com/news-releases/are-itgr-vrex-hzo-syna-obtaining-fair-deals-for-their-shareholders-302858153.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T11:52:00Z",
+      "epoch": 1787572320,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "New Book Contains 365 Short Daily Devotionals to Inspire Readers to Overcome Negative Experiences and Reclaim Sovereignty",
+      "summary": "Crafted as a daily guide to help acknowledge day-to-day victories CINCINNATI, Aug. 24, 2026 /PRNewswire/ -- A financial strategist and coach who has based her practice on emotional and psycho-spiritual support and development, has compiled a collection of daily devotionals culled",
+      "url": "https://www.prnewswire.com/news-releases/new-book-contains-365-short-daily-devotionals-to-inspire-readers-to-overcome-negative-experiences-and-reclaim-sovereignty-302857540.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T11:50:00Z",
+      "epoch": 1787572200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Are CHMI, ARX, HHS Obtaining Fair Deals for their Shareholders?",
+      "summary": "Insiders may stand to receive substantial financial benefits not available to ordinary shareholders. The proposed transactions may contain terms that could limit superior competing offers. Shareholders are encouraged to contact the firm to discuss their rights and options at no c",
+      "url": "https://www.prnewswire.com/news-releases/are-chmi-arx-hhs-obtaining-fair-deals-for-their-shareholders-302858150.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T11:47:00Z",
+      "epoch": 1787572020,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "PowerBank Corporation Appoints Nicole Rusaw, CPA, CA as Chief Financial Officer",
+      "summary": "Appointment strengthens PowerBank's financial leadership as the Company scales its North American energy and digital infrastructure platform Ms. Rusaw brings over 20 years of public company finance leadership and has a proven track record of guiding companies through periods of t",
+      "url": "https://www.prnewswire.com/news-releases/powerbank-corporation-appoints-nicole-rusaw-cpa-ca-as-chief-financial-officer-302857633.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T11:45:00Z",
+      "epoch": 1787571900,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "BTC Digital Ltd. Announces Georgia 10MW Cryptocurrency Computing Infrastructure Approaching Deployment Readiness",
+      "summary": "Deployment of High-Performance Mining Machines Expected Within Approximately Two Months; Facility Designed to Support Up to Approximately 900,000 TH/s of Theoretical Computing Capacity at Full Deployment SINGAPORE, Aug. 24, 2026 /PRNewswire/ -- BTC Digital Ltd. (\"BTCT\" or the \"Co",
+      "url": "https://www.prnewswire.com/news-releases/btc-digital-ltd-announces-georgia-10mw-cryptocurrency-computing-infrastructure-approaching-deployment-readiness-302858099.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-24T11:30:00Z",
+      "epoch": 1787571000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Flexpoint Announces Sale of ArtesRx to Linden Capital Partners",
+      "summary": "CHICAGO, Aug. 24, 2026 /PRNewswire/ -- Flexpoint Ford (\"Flexpoint\"), a specialist private equity investment firm focused on financial services and adjacent verticals, announced today the successful exit of its investment in ArtesRx, LLC (\"ArtesRx\" or the \"Company\") to Linden Capi",
+      "url": "https://www.prnewswire.com/news-releases/flexpoint-announces-sale-of-artesrx-to-linden-capital-partners-302857838.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-24T11:30:00Z",
+      "epoch": 1787571000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Innovative Eyewear Announces Expansion Into More than 150 Stores of One of the Largest Big Box Retailers in the United States",
+      "summary": "MIAMI, Aug. 24, 2026 /PRNewswire/ -- Innovative Eyewear, Inc. (\"Innovative Eyewear\" or the \"Company\") (NASDAQ: LUCY; LUCYW), the manufacturer of smart eyewear under the Lucyd®, Lucyd Armor®, Reebok®, Eddie Bauer® and Nautica® brands, is pleased to announce that its upcoming test ",
+      "url": "https://www.prnewswire.com/news-releases/innovative-eyewear-announces-expansion-into-more-than-150-stores-of-one-of-the-largest-big-box-retailers-in-the-united-states-302857950.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T11:30:00Z",
+      "epoch": 1787571000,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Vector Science &amp; Therapeutics (TSXV: PAIN) Begins Peptide Production as First Suite at LyoGenesis Manufacturing Comes Online",
+      "summary": "55,000 vials of peptides will be produced from this production suite and are pre-sold Milestone facility meets cGMP, FDA, and ISO quality standards on schedule; remaining three suites to launch in September MEQUON, Wis., Aug. 24, 2026 /PRNewswire/ -- Vector Science & Therapeutics",
+      "url": "https://www.prnewswire.com/news-releases/vector-science--therapeutics-tsxv-pain-begins-peptide-production-as-first-suite-at-lyogenesis-manufacturing-comes-online-302857980.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T11:30:00Z",
+      "epoch": 1787571000,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Quest Diagnostics to Offer FDA-Cleared Roche pTau217 Blood Test to Assess Alzheimer's Disease Pathology",
+      "summary": "Test to join the company's expansive portfolio of Quest AD-Detect® blood tests for assessing symptomatic patients Quest also launching a new multi-biomarker AD-Detect® lab-developed blood test with low 10% indeterminate rate, so more patients can receive an actionable insight SEC",
+      "url": "https://www.prnewswire.com/news-releases/quest-diagnostics-to-offer-fda-cleared-roche-ptau217-blood-test-to-assess-alzheimers-disease-pathology-302858247.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T11:24:00Z",
+      "epoch": 1787570640,
+      "sentiment": 0.0,
+      "tickers": [
+        "DGX",
+        "ROG"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Omdia H1 2026: Hisense Ranks No. 1 Globally in 100-Inch-and-Above TV Shipments",
       "summary": "QINGDAO, China, Aug. 24, 2026 /PRNewswire/ -- Hisense, a leading brand in global consumer electronics and home appliances, ranked No. 1 globally in shipments of TVs 100 inches and above in H1 2026, according to Omdia, accounting for a 55.1% market share. The result reflects deman",
       "url": "https://www.prnewswire.com/news-releases/omdia-h1-2026-hisense-ranks-no-1-globally-in-100-inch-and-above-tv-shipments-302858246.html",
@@ -444,6 +631,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "Smart HVAC systems change the way homeowners use energy",
+      "summary": "C & C Heating & Air Conditioning explains how technology enhances comfort and optimizes home energy use DETROIT, Aug. 24, 2026 /PRNewswire/ -- Michigan homeowners are no strangers to the region's severe \"whiplash weather,\" where record 60-degree warmth can plunge into heavy snow ",
+      "url": "https://www.prnewswire.com/news-releases/smart-hvac-systems-change-the-way-homeowners-use-energy-302856927.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T11:15:00Z",
+      "epoch": 1787570100,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "PostNet Celebrates Franchise Standouts While Building Momentum for 2027",
       "summary": "Annual conference spotlights core values, regional performance and growth strategies DENVER, Aug. 24, 2026 /PRNewswire/ -- PostNet, a global leader in high-quality printing and shipping solutions, recently hosted its annual conference at the Chattanooga Convention Center in Chatt",
       "url": "https://www.prnewswire.com/news-releases/postnet-celebrates-franchise-standouts-while-building-momentum-for-2027-302855595.html",
@@ -458,13 +659,13 @@
       "small_cap_risk": false
     },
     {
-      "title": "Smart HVAC systems change the way homeowners use energy",
-      "summary": "C & C Heating & Air Conditioning explains how technology enhances comfort and optimizes home energy use DETROIT, Aug. 24, 2026 /PRNewswire/ -- Michigan homeowners are no strangers to the region's severe \"whiplash weather,\" where record 60-degree warmth can plunge into heavy snow ",
-      "url": "https://www.prnewswire.com/news-releases/smart-hvac-systems-change-the-way-homeowners-use-energy-302856927.html",
+      "title": "Arclin Signs UN Global Compact, Advancing Commitment to Sustainable Innovation &amp; Responsible Operations",
+      "summary": "ALPHARETTA, Ga., Aug. 24, 2026 /PRNewswire/ -- Arclin, a leading materials science company, today announced that it has joined the United Nations (UN) Global Compact, the world's largest corporate sustainability initiative. Through this commitment, Arclin reinforces its longstand",
+      "url": "https://www.prnewswire.com/news-releases/arclin-signs-un-global-compact-advancing-commitment-to-sustainable-innovation--responsible-operations-302857517.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T11:15:00Z",
-      "epoch": 1787570100,
+      "published_at": "2026-08-24T11:07:00Z",
+      "epoch": 1787569620,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -480,20 +681,6 @@
       "published_at": "2026-08-24T11:07:00Z",
       "epoch": 1787569620,
       "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Arclin Signs UN Global Compact, Advancing Commitment to Sustainable Innovation &amp; Responsible Operations",
-      "summary": "ALPHARETTA, Ga., Aug. 24, 2026 /PRNewswire/ -- Arclin, a leading materials science company, today announced that it has joined the United Nations (UN) Global Compact, the world's largest corporate sustainability initiative. Through this commitment, Arclin reinforces its longstand",
-      "url": "https://www.prnewswire.com/news-releases/arclin-signs-un-global-compact-advancing-commitment-to-sustainable-innovation--responsible-operations-302857517.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T11:07:00Z",
-      "epoch": 1787569620,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -574,20 +761,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "NEXA Lending Acquires UMortgage as Casa and Kortas Join Forces",
-      "summary": "The acquisition brings Anthony Casa to NEXA as an Executive Partner and adds more than $2 billion in annual mortgage volume to the organization. PHOENIX, Aug. 24, 2026 /PRNewswire/ -- NEXA Lending announced today its acquisition of UMortgage, bringing one of the country's most re",
-      "url": "https://www.prnewswire.com/news-releases/nexa-lending-acquires-umortgage-as-casa-and-kortas-join-forces-302857866.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-24T11:00:00Z",
-      "epoch": 1787569200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Four Oridian Capital Partners Portfolio Companies Named to the 2026 Inc. 5000 List of Fastest-Growing Private Companies in America",
       "summary": "WASHINGTON, Aug. 24, 2026 /PRNewswire/ -- Oridian Capital Partners (\"Oridian\"), a lower-middle-market private equity firm (formerly known as HCI Equity Partners), today announced that four of its portfolio companies have been named to the 2026 Inc. 5000 list of the fastest-growin",
       "url": "https://www.prnewswire.com/news-releases/four-oridian-capital-partners-portfolio-companies-named-to-the-2026-inc-5000-list-of-fastest-growing-private-companies-in-america-302857522.html",
@@ -616,11 +789,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "New Episode of Advancements Airing on Saturday, August 29, 2026",
-      "summary": "Go behind the scenes to uncover how technology and innovation are strengthening foundations across industries. JUPITER, Fla., Aug. 24, 2026 /PRNewswire/ -- Advancements with Ted Danson proudly announces the upcoming broadcast of a new episode, scheduled to air on Saturday, August",
-      "url": "https://www.prnewswire.com/news-releases/new-episode-of-advancements-airing-on-saturday-august-29-2026-302856696.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "title": "NEXA Lending Acquires UMortgage as Casa and Kortas Join Forces",
+      "summary": "The acquisition brings Anthony Casa to NEXA as an Executive Partner and adds more than $2 billion in annual mortgage volume to the organization. PHOENIX, Aug. 24, 2026 /PRNewswire/ -- NEXA Lending announced today its acquisition of UMortgage, bringing one of the country's most re",
+      "url": "https://www.prnewswire.com/news-releases/nexa-lending-acquires-umortgage-as-casa-and-kortas-join-forces-302857866.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
       "published_at": "2026-08-24T11:00:00Z",
       "epoch": 1787569200,
       "sentiment": 0.0,
@@ -633,8 +806,8 @@
       "title": "Vanda Pharmaceuticals Granted Orphan Designation for Imsidolimab for the Treatment of Generalized Pustular Psoriasis by the European Commission",
       "summary": "WASHINGTON, Aug. 24, 2026 /PRNewswire/ -- Vanda Pharmaceuticals Inc. (Vanda) (Nasdaq: VNDA) today announced that its investigational drug imsidolimab has received Orphan Designation from the European Commission, based on the positive opinion received from the European Medicines A",
       "url": "https://www.prnewswire.com/news-releases/vanda-pharmaceuticals-granted-orphan-designation-for-imsidolimab-for-the-treatment-of-generalized-pustular-psoriasis-by-the-european-commission-302857847.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-24T11:00:00Z",
       "epoch": 1787569200,
       "sentiment": 0.0,
@@ -646,107 +819,17 @@
       "small_cap_risk": true
     },
     {
-      "title": "Sealed Air Expands Paper Cushioning Portfolio with New ProPad® Mini System",
-      "summary": "CHARLOTTE, N.C., Aug. 24, 2026 /PRNewswire/ -- Sealed Air, a global leader in protective packaging, has expanded its paper cushioning portfolio with the introduction of the SEALED AIR® brand ProPad® Mini, a compact system that extends the company's scalable protective packaging s",
-      "url": "https://www.prnewswire.com/news-releases/sealed-air-expands-paper-cushioning-portfolio-with-new-propad-mini-system-302857034.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T11:00:00Z",
-      "epoch": 1787569200,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Following Its $2 Million Kickstarter Success, xLean Brings AI Agent-Powered Floor-Washing Robot to IFA 2026",
-      "summary": "DOVER, Del., Aug. 24, 2026 /PRNewswire/ -- xLean Robotics will showcase xLean TR1, the world's first dual-form transformable floor-washing robot, at IFA 2026 from Sept. 4–8, following a preview at ShowStoppers @ IFA, on Sept. 3 at Messe Berlin. xLean TR1 returns to Berlin with fo",
-      "url": "https://www.prnewswire.com/news-releases/following-its-2-million-kickstarter-success-xlean-brings-ai-agent-powered-floor-washing-robot-to-ifa-2026-302857687.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T11:00:00Z",
-      "epoch": 1787569200,
-      "sentiment": 0.33,
-      "tickers": [
-        "DOV"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "BRINSUPRI® (brensocatib) Approved by Japan's Ministry of Health, Labour and Welfare for the Treatment of Patients With Non-Cystic Fibrosis Bronchiectasis, a Serious, Chronic Lung Disease",
       "summary": "—First-in-Disease and First-in-Class Therapy Approved in Japan for Patients With Non-Cystic Fibrosis Bronchiectasis (NCFB), a Progressive Disease That Can Lead to Permanent Lung Damage— BRIDGEWATER, N.J., Aug. 24, 2026 /PRNewswire/ -- Insmed Incorporated (Nasdaq: INSM), a people-",
       "url": "https://www.prnewswire.com/news-releases/brinsupri-brensocatib-approved-by-japans-ministry-of-health-labour-and-welfare-for-the-treatment-of-patients-with-non-cystic-fibrosis-bronchiectasis-a-serious-chronic-lung-disease-302858166.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-24T11:00:00Z",
       "epoch": 1787569200,
       "sentiment": 0.0,
       "tickers": [
         "INSM",
         "PGR"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Nouvelle étude mondiale d'IKEA : Près de 4 personnes sur 10 mènent une « protestation silencieuse » contre le désordre qui règne chez elles",
-      "summary": "MALMÖ, Suède, 24 août 2026 /PRNewswire/ -- Dans 38 % des foyers, quelqu'un laisse discrètement des objets traîner en espérant que quelqu'un d'autre s'en chargera. (Ils ne le feront pas.) Bienvenue à la manifestation silencieuse. C'est l'une des nombreuses conclusions du rapport I",
-      "url": "https://www.prnewswire.com/news-releases/nouvelle-etude-mondiale-dikea--pres-de-4-personnes-sur-10-menent-une--protestation-silencieuse--contre-le-desordre-qui-regne-chez-elles-302857295.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T11:00:00Z",
-      "epoch": 1787569200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Neue weltweite IKEA-Studie: Fast 4 von 10 Menschen führen wegen Unordnung im Haushalt einen „stillen Protest\" durch",
-      "summary": "MALMÖ, Schweden, 24. August 2026 /PRNewswire/ -- In 38 % der Haushalte lässt jemand heimlich Dinge herumliegen und hofft, dass sich jemand anderes darum kümmert. (Das werden sie nicht.) Willkommen beim stillen Protest. Das ist eine von vielen Erkenntnissen aus dem IKEA-Bericht „S",
-      "url": "https://www.prnewswire.com/news-releases/neue-weltweite-ikea-studie-fast-4-von-10-menschen-fuhren-wegen-unordnung-im-haushalt-einen-stillen-protest-durch-302857300.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T11:00:00Z",
-      "epoch": 1787569200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Verdera Energy to Sponsor and Attend the Los Alamos Nuclear Forum",
-      "summary": "VANCOUVER, BC, Aug. 24, 2026 /PRNewswire/ -- Verdera Energy Corp. (TSXV: V) (OTCQB: VUECF) (\"Verdera\" or the \"Company\") announced today that Janet Lee-Sheriff, Chief Executive Officer, will deliver welcoming remarks, along with Scott Lopez, the Founder and Chief Executive Officer",
-      "url": "https://www.prnewswire.com/news-releases/verdera-energy-to-sponsor-and-attend-the-los-alamos-nuclear-forum-302857630.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T11:00:00Z",
-      "epoch": 1787569200,
-      "sentiment": 0.0,
-      "tickers": [
-        "VUECF"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "NAPCO Security Technologies, Inc. Reports Fiscal Q4 and Full Year 2026 Results",
-      "summary": "AMITYVILLE, N.Y., Aug. 24, 2026 /PRNewswire/ -- NAPCO Security Technologies, Inc. (NASDAQ: NSSC), one of the leading manufacturers and designers of high-tech electronic security equipment, wireless communication devices for intrusion and fire alarm systems and the related recurri",
-      "url": "https://www.prnewswire.com/news-releases/napco-security-technologies-inc-reports-fiscal-q4-and-full-year-2026-results-302857743.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T11:00:00Z",
-      "epoch": 1787569200,
-      "sentiment": 0.0,
-      "tickers": [
-        "NSSC"
       ],
       "company_name": null,
       "catalyst": false,
@@ -813,52 +896,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "Toxin Free USA, Organic Consumers Association, and Beyond Pesticides Sue Driscoll's For Deceptive Environmental and Sustainability Marketing Claims of Blueberries and Strawberries",
-      "summary": "WASHINGTON, Aug. 24, 2026 /PRNewswire/ -- Nonprofits Toxin Free USA (TFUSA), Organic Consumers Association (OCA), and Beyond Pesticides (BP) filed a consumer protection lawsuit against Driscoll's Inc. alleging deceptive marketing of its berries. Driscoll's is the world's largest ",
-      "url": "https://www.prnewswire.com/news-releases/toxin-free-usa-organic-consumers-association-and-beyond-pesticides-sue-driscolls-for-deceptive-environmental-and-sustainability-marketing-claims-of-blueberries-and-strawberries-302857061.html",
-      "source": "PR Newswire — Biotechnology",
-      "source_id": "prnewswire-biotech",
-      "published_at": "2026-08-24T11:00:00Z",
-      "epoch": 1787569200,
-      "sentiment": -0.33,
-      "tickers": [
-        "BP.L"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Casi 4 de cada 10 personas están llevando a cabo una \"protesta silenciosa\" por el desorden en sus hogares",
-      "summary": "- Nuevo estudio global de IKEA: Casi 4 de cada 10 personas están llevando a cabo una \"protesta silenciosa\" por el desorden en sus hogares MALMÖ, Suecia, 24 de agosto de 2026 /PRNewswire/ -- En el 38% de los hogares, alguien deja cosas tiradas sin hacer nada, esperando que otra pe",
-      "url": "https://www.prnewswire.com/news-releases/casi-4-de-cada-10-personas-estan-llevando-a-cabo-una-protesta-silenciosa-por-el-desorden-en-sus-hogares-302857308.html",
-      "source": "PR Newswire — Biotechnology",
-      "source_id": "prnewswire-biotech",
-      "published_at": "2026-08-24T11:00:00Z",
-      "epoch": 1787569200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
-      "summary": "Revolutionary design will bring Arm-native applications to IBM's flagship mainframes and servers, broadening software choice for enterprise computing ARMONK, N.Y., Aug. 24, 2026 /PRNewswire/ -- At the annual Hot Chips conference, IBM (NYSE: IBM) today is announcing the first...",
-      "url": "https://www.prnewswire.com/news-releases/ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone-302857811.html",
-      "source": "PR Newswire — Biotechnology",
-      "source_id": "prnewswire-biotech",
-      "published_at": "2026-08-24T11:00:00Z",
-      "epoch": 1787569200,
-      "sentiment": 0.33,
-      "tickers": [
-        "IBM"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Protiviti Professionals Named 2026 Top Consultants by Consulting Magazine",
       "summary": "Honored for leadership in cybersecurity, financial crime compliance, AI-enabled consulting and enterprise transformation MENLO PARK, Calif., Aug. 24, 2026 /PRNewswire/ -- Four Protiviti leaders have been named 2026 Top Consultants by Consulting magazine. The recognition honors...",
       "url": "https://www.prnewswire.com/news-releases/protiviti-professionals-named-2026-top-consultants-by-consulting-magazine-302857683.html",
@@ -919,22 +956,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Robo.ai Inc. Reports First Half 2026 Financial Results",
-      "summary": "Shareholders' Equity Swings to US$95.8 Million from a US$116.1 Million Deficit DUBAI, UAE, Aug. 24, 2026 /PRNewswire/ -- Robo.ai Inc. (Nasdaq: AIIO) (\"Robo.ai\" or the \"Company\"), a UAE-based Nasdaq-listed company, today announced its unaudited financial results for the six months",
-      "url": "https://www.prnewswire.com/news-releases/roboai-inc-reports-first-half-2026-financial-results-302858141.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-24T10:00:00Z",
-      "epoch": 1787565600,
-      "sentiment": 0.0,
-      "tickers": [
-        "AIIO"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "SU Group Secures Exclusive Macao Rights for Award-Winning Robotic Infrastructure Inspection Solution",
       "summary": "New partnership expands SU Group's technology portfolio, strengthens its newly established Macao operation and creates a platform for broader geographic growth HONG KONG, Aug. 24, 2026 /PRNewswire/ -- SU Group Holdings Limited (Nasdaq: SUGP) (\"SU Group\" or the \"Company\"), an inte",
       "url": "https://www.prnewswire.com/news-releases/su-group-secures-exclusive-macao-rights-for-award-winning-robotic-infrastructure-inspection-solution-302858197.html",
@@ -945,6 +966,22 @@
       "sentiment": 1.0,
       "tickers": [
         "SUGP"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Robo.ai Inc. Reports First Half 2026 Financial Results",
+      "summary": "Shareholders' Equity Swings to US$95.8 Million from a US$116.1 Million Deficit DUBAI, UAE, Aug. 24, 2026 /PRNewswire/ -- Robo.ai Inc. (Nasdaq: AIIO) (\"Robo.ai\" or the \"Company\"), a UAE-based Nasdaq-listed company, today announced its unaudited financial results for the six months",
+      "url": "https://www.prnewswire.com/news-releases/roboai-inc-reports-first-half-2026-financial-results-302858141.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-24T10:00:00Z",
+      "epoch": 1787565600,
+      "sentiment": 0.0,
+      "tickers": [
+        "AIIO"
       ],
       "company_name": null,
       "catalyst": false,
@@ -1051,34 +1088,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "American Parkinson Disease Association Launches Spanish-Language Microsite, Expanding Support for Underserved Parkinson's Community",
-      "summary": "NEW YORK, Aug. 24, 2026 /PRNewswire/ -- The American Parkinson Disease Association (APDA) today announced the launch of a new Spanish-language microsite, expanding access to critical information and resources for Spanish-speaking people living with Parkinson's disease (PD) and th",
-      "url": "https://www.prnewswire.com/news-releases/american-parkinson-disease-association-launches-spanish-language-microsite-expanding-support-for-underserved-parkinsons-community-302854268.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-24T09:27:00Z",
-      "epoch": 1787563620,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "PCB Technologies Announces Winning of a USD 65 Million Tender for the Supply of Medical PCB Assembly Products in 2027-2028",
-      "summary": "MIGDAL HAEMEK, Israel, Aug. 24, 2026 /PRNewswire/ -- PCB Technologies (TASE: PCBT), a global leader in advanced electronic and PCB manufacturing solutions, is pleased to announce that on August 23, 2026, it was awarded a tender for the supply of electronic packaging products in 2",
-      "url": "https://www.prnewswire.com/news-releases/pcb-technologies-announces-winning-of-a-usd-65-million-tender-for-the-supply-of-medical-pcb-assembly-products-in-2027-2028-302858131.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-24T09:00:00Z",
-      "epoch": 1787562000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "KPMG PRI becomes first verification body accredited by ANAB for Section 45Z clean fuel certifications",
       "summary": "New accreditation scope supports independent certification of fuel production and carbon-intensity information for U.S. clean-fuel producers CHICAGO, Aug. 24, 2026 /PRNewswire/ -- KPMG Performance Registrar Inc. (KPMG PRI), a subsidiary of KPMG Canada, has become the first verifi",
       "url": "https://www.prnewswire.com/news-releases/kpmg-pri-becomes-first-verification-body-accredited-by-anab-for-section-45z-clean-fuel-certifications-302857836.html",
@@ -1089,6 +1098,48 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Edible Garden AG Inc (0001809750) (Filer)",
+      "summary": "Filed:  2026-08-24  AccNo:  0001477932-26-005237  Size:  164 KB\n Item 8.01: Other Events",
+      "url": "https://www.sec.gov/Archives/edgar/data/1809750/000147793226005237/0001477932-26-005237-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-24T07:45:46Z",
+      "epoch": 1787557546,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Edible Garden Ag Inc",
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Soluna Holdings, Inc (0000064463) (Filer)",
+      "summary": "Filed:  2026-08-24  AccNo:  0001493152-26-039781  Size:  271 KB\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/64463/000149315226039781/0001493152-26-039781-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-24T07:30:42Z",
+      "epoch": 1787556642,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Soluna Holdings, Inc",
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Evolution Metals & Technologies Corp. (0001866226) (Filer)",
+      "summary": "Filed:  2026-08-24  AccNo:  0001213900-26-092795  Size:  196 KB\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026092795/0001213900-26-092795-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-08-24T07:26:42Z",
+      "epoch": 1787556402,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Evolution Metals & Technologies Corp.",
       "catalyst": false,
       "small_cap_risk": false
     },
@@ -1119,20 +1170,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Ani Pharmaceuticals Inc",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "ImmunoForge Selected for the Ministry of SMEs and Startups' 'Global TIPS R&amp;D' Program… \"Expansion of the LMT Platform\"",
-      "summary": "Development of Leptin receptor-based technology and hybrid LNP platform Combining Blood-Brain Barrier penetration and a one-month sustained-release formulation in a single structure, with potential applications in CNS-targeted therapeutics Technology validated by winning first pl",
-      "url": "https://www.prnewswire.com/news-releases/immunoforge-selected-for-the-ministry-of-smes-and-startups-global-tips-rd-program-expansion-of-the-lmt-platform-302858094.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-24T07:01:00Z",
-      "epoch": 1787554860,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
@@ -1289,50 +1326,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Fortress Private Lending Fund",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "New release 'I AM Inner Mastery' offers a roadmap to healing, self-mastery and lasting inner peace",
-      "summary": "A psychospiritual guide exploring mind, body and soul practices to connect with one's highest self ASHEVILLE, N.C., Aug. 24, 2026 /PRNewswire/ -- Author Suzie DeVaughn invites readers to discover the transformative power of inner healing in her latest work, \"I AM Inner Mastery: E",
-      "url": "https://www.prnewswire.com/news-releases/new-release-i-am-inner-mastery-offers-a-roadmap-to-healing-self-mastery-and-lasting-inner-peace-302858019.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-24T06:00:00Z",
-      "epoch": 1787551200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Consortium launches cross-regional pilot on post-quantum security with participation from banks and regulatory stakeholders",
-      "summary": "Convened by the Responsible Fintech Institute with Safeheron as technology partner, to evaluate and eventually open-source quantum-resilient infrastructure for wallet generation and digital asset transfers in a regulated, cross-jurisdiction setting. SINGAPORE, Aug. 23, 2026 /PRNe",
-      "url": "https://www.prnewswire.com/news-releases/consortium-launches-cross-regional-pilot-on-post-quantum-security-with-participation-from-banks-and-regulatory-stakeholders-302857693.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-24T01:00:00Z",
-      "epoch": 1787533200,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Complément d'information sur le renforcement de la famille Ehrmann dans les capitaux d'Artprice by Artmarket dans le cadre de sa mutation «AI-First d'Artprice»",
-      "summary": "PARIS, 23 août 2026 /PRNewswire/ -- Comme annoncé dans le communiqué du 2ème T2026 d'Artmarket publié le 13.08.26 sous le titre « Artmarket.com : 2T2026 en hausse, de la transition progressive à la mutation ' AI-FIRST ' d'Artprice», Thierry EHRMANN, fondateur et PDG d'Artmarket.c",
-      "url": "https://www.prnewswire.com/news-releases/complement-dinformation-sur-le-renforcement-de-la-famille-ehrmann-dans-les-capitaux-dartprice-by-artmarket-dans-le-cadre-de-sa-mutation-ai-first-dartprice-302857835.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-23T23:03:00Z",
-      "epoch": 1787526180,
-      "sentiment": 0.0,
-      "tickers": [
-        "PGR"
-      ],
-      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
@@ -2155,76 +2148,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Imax Corp",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001527541-26-000314  Size:  246 KB\n Item 3.03: Material Modifications to Rights of Security Holders\n Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1527541/000152754126000314/0001527541-26-000314-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:11:02Z",
-      "epoch": 1787328662,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Wheeler Real Estate Investment Trust, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - UNITED FIRE GROUP INC (0000101199) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0000101199-26-000056  Size:  205 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item 7.01: Regulation FD Disclosure\n Item 8.01: Other Eve",
-      "url": "https://www.sec.gov/Archives/edgar/data/101199/000010119926000056/0000101199-26-000056-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:10:40Z",
-      "epoch": 1787328640,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "United Fire Group Inc",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - Aqua Metals, Inc. (0001621832) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001437749-26-028733  Size:  174 KB\n Item 5.07: Submission of Matters to a Vote of Security Holders",
-      "url": "https://www.sec.gov/Archives/edgar/data/1621832/000143774926028733/0001437749-26-028733-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:10:33Z",
-      "epoch": 1787328633,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Aqua Metals, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - Bleichroeder Acquisition Corp. II (0002088295) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001213900-26-092600  Size:  291 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/2088295/000121390026092600/0001213900-26-092600-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:10:29Z",
-      "epoch": 1787328629,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Bleichroeder Acquisition Corp. Ii",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - MANNKIND CORP (0000899460) (Filer)",
-      "summary": "Filed:  2026-08-21  AccNo:  0001193125-26-361105  Size:  155 KB\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/899460/000119312526361105/0001193125-26-361105-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-21T16:10:16Z",
-      "epoch": 1787328616,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Mannkind Corp",
       "catalyst": false,
       "small_cap_risk": false
     }
