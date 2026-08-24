@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T01:49:59Z",
+  "generated_at": "2026-08-24T02:59:14Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 138,
+    "breaking_count": 140,
     "breaking_catalyst_count": 27,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 12,
@@ -58,13 +58,13 @@
       "source_count": 1
     },
     {
-      "ticker": "VNDA",
+      "ticker": "QCOM",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "LGI",
+      "ticker": "VNDA",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -456,6 +456,78 @@
       "small_cap_risk": false
     },
     {
+      "title": "Record $4.95 million raised for heart health in Alberta as Miyu Yamashita wins CPKC Women's Open",
+      "summary": "EDMONTON, AB, Aug. 23, 2026 /PRNewswire/ -- The 2026 CPKC Women's Open raised a record $4.95 million to support heart healthcare in Alberta, while on the golf course, Miyu Yamashita concluded a historic performance on Sunday to capture the 2026 CPKC Women's Open and her fourth LP",
+      "url": "https://www.prnewswire.com/news-releases/record-4-95-million-raised-for-heart-health-in-alberta-as-miyu-yamashita-wins-cpkc-womens-open-302857940.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T02:49:00Z",
+      "epoch": 1787539740,
+      "sentiment": 1.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Advantech Unveils Qualcomm® Dragonwing™ IQ9-Based Solutions for Industrial Vision Intelligence",
+      "summary": "TAIPEI, Aug. 21, 2026 /PRNewswire/ -- Advantech announced its latest edge AI solutions powered by the Qualcomm® Dragonwing™ IQ-9075 processor, including the AOM-6741 SMARC module, ASR-A503/AFE-A503 robotic controllers, and AIR-055 edge AI system. Designed for industrial-grade vis",
+      "url": "https://www.prnewswire.com/news-releases/advantech-unveils-qualcomm-dragonwing-iq9-based-solutions-for-industrial-vision-intelligence-302857919.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T02:36:00Z",
+      "epoch": 1787538960,
+      "sentiment": 0.33,
+      "tickers": [
+        "QCOM"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Gravity Game Unite, 18 Ağustos'ta Ragnarok Zero: Global'i resmi olarak piyasaya sürdü",
+      "summary": "KUALA LUMPUR, Malezya, 24 Ağustos 2026 /PRNewswire/ -- Küresel oyun şirketi Gravity'nin Malezya merkezli iştiraki Gravity Game Unite (GGU), yeni PC MMORPG oyunu Ragnarok Zero: Global'i 18 Ağustos'ta Güneydoğu Asya, Avrupa ve Okyanusya'da resmi olarak piyasaya sürdü. Güneydoğu Asy",
+      "url": "https://www.prnewswire.com/news-releases/gravity-game-unite-18-austosta-ragnarok-zero-globali-resmi-olarak-piyasaya-surdu-302857912.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T02:25:00Z",
+      "epoch": 1787538300,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Gravity Game Unite Officially Launched Ragnarok Zero: Global on August 18th",
+      "summary": "KUALA LUMPUR, Malaysia, Aug. 24, 2026 /PRNewswire/ -- Global gaming company Gravity's Malaysia-based subsidiary, Gravity Game Unite (GGU), officially launched its new PC MMORPG, Ragnarok Zero: Global, across Southeast Asia, Europe, and Oceania on August 18. Starting August 18 loc",
+      "url": "https://www.prnewswire.com/news-releases/gravity-game-unite-officially-launched-ragnarok-zero-global-on-august-18th-302857905.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T02:19:00Z",
+      "epoch": 1787537940,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Rznomics Joins Lilly Gateway Labs in San Diego to Accelerate RNA Therapeutics",
+      "summary": "SEONGNAM, South Korea, Aug. 23, 2026 /PRNewswire/ -- Rznomics Inc.(KOSDAQ: 476830), a biopharmaceutical company specializing in the development of RNA-based gene therapies, announced that it is joining Lilly Gateway Labs (LGL) in San Diego, California. Lilly Gateway Labs is a...",
+      "url": "https://www.prnewswire.com/news-releases/rznomics-joins-lilly-gateway-labs-in-san-diego-to-accelerate-rna-therapeutics-302857887.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T01:54:00Z",
+      "epoch": 1787536440,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Consortium launches cross-regional pilot on post-quantum security with participation from banks and regulatory stakeholders",
       "summary": "Convened by the Responsible Fintech Institute with Safeheron as technology partner, to evaluate and eventually open-source quantum-resilient infrastructure for wallet generation and digital asset transfers in a regulated, cross-jurisdiction setting. SINGAPORE, Aug. 23, 2026 /PRNe",
       "url": "https://www.prnewswire.com/news-releases/consortium-launches-cross-regional-pilot-on-post-quantum-security-with-participation-from-banks-and-regulatory-stakeholders-302857693.html",
@@ -580,20 +652,6 @@
       "published_at": "2026-08-23T19:18:00Z",
       "epoch": 1787512680,
       "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Asphalt Expert Robert Stewart Explains Asphalt Driveway Installation Preparation in HelloNation",
-      "summary": "The article outlines site clearing, asphalt base preparation, grading, and driveway maintenance planning before installation. MANCHESTER, N.H., Aug. 23, 2026 /PRNewswire/ -- What should homeowners in Manchester, New Hampshire, do before an asphalt driveway is installed? A HelloNa",
-      "url": "https://www.prnewswire.com/news-releases/asphalt-expert-robert-stewart-explains-asphalt-driveway-installation-preparation-in-hellonation-302857335.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-23T13:04:00Z",
-      "epoch": 1787490240,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -2004,34 +2062,6 @@
       "source_id": "prnewswire-health",
       "published_at": "2026-08-21T15:00:00Z",
       "epoch": 1787324400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "LumenStim se prepara para lanzar en Kickstarter su sistema de blanqueamiento dental de última generación",
-      "summary": "El sistema de blanqueamiento dental LumenStim Teeth, aprobado por Kickstarter, incorpora el blanqueamiento sin peróxido al cepillado diario, mientras la empresa avanza en las solicitudes de patente globales para su tecnología de cuidado bucal. PLEASANTON, California, 21 de agosto",
-      "url": "https://www.prnewswire.com/news-releases/lumenstim-se-prepara-para-lanzar-en-kickstarter-su-sistema-de-blanqueamiento-dental-de-ultima-generacion-302857391.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-21T15:00:00Z",
-      "epoch": 1787324400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Flow Cytometry Market worth $10.57 billion by 2034 - Exclusive Report by MarketsandMarkets™",
-      "summary": "DELRAY BEACH, Fla., Aug. 21, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Flow Cytometry Market is projected to reach USD 10.57 billion by 2034 from USD 5.56 billion in 2026, at a CAGR of 8.4% during the forecast period. Browse 722 market data Tables and 59 Figures s",
-      "url": "https://www.prnewswire.com/news-releases/flow-cytometry-market-worth-10-57-billion-by-2034---exclusive-report-by-marketsandmarkets-302857185.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-21T14:15:00Z",
-      "epoch": 1787321700,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
