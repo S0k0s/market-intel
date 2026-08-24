@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T02:59:14Z",
+  "generated_at": "2026-08-24T03:59:29Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 140,
-    "breaking_catalyst_count": 27,
+    "breaking_count": 141,
+    "breaking_catalyst_count": 28,
     "pipeline_count": 59,
-    "pipeline_catalyst_count": 12,
+    "pipeline_catalyst_count": 11,
     "movers_count": 0
   },
   "trending_tickers": [
@@ -20,12 +20,6 @@
       "count": 3,
       "catalyst_count": 1,
       "source_count": 3
-    },
-    {
-      "ticker": "BMY",
-      "count": 2,
-      "catalyst_count": 1,
-      "source_count": 2
     },
     {
       "ticker": "MRK",
@@ -68,11 +62,31 @@
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
+    },
+    {
+      "ticker": "LGI",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
     }
   ],
   "movers": [],
   "concentration_warning": null,
   "breaking": [
+    {
+      "title": "Pulnovo Medical Announces First Two U.S. Patients Enrolled in PULSE-LHD IDE Clinical Trial of Pulmonary Artery Denervation in Treating Pulmonary Hypertension Associated with Left Heart Disease",
+      "summary": "NEW YORK, Aug. 23, 2026 /PRNewswire/ -- Pulnovo Medical, a globally recognized pioneer in medical devices for pulmonary hypertension (PH) and heart failure (HF), today announced the enrollment of the first two patients in its PULSE-LHD clinical trial, conducted under a U.S. Food ",
+      "url": "https://www.prnewswire.com/news-releases/pulnovo-medical-announces-first-two-us-patients-enrolled-in-pulse-lhd-ide-clinical-trial-of-pulmonary-artery-denervation-in-treating-pulmonary-hypertension-associated-with-left-heart-disease-302857962.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T03:05:00Z",
+      "epoch": 1787540700,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
     {
       "title": "8-K - Starling Oncology, Inc. (0001799191) (Filer)",
       "summary": "Filed:  2026-08-21  AccNo:  0001079973-26-001169  Size:  1 MB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant\n Item 9.01: Financial Statements and ",
@@ -453,6 +467,20 @@
       "tickers": [],
       "company_name": "Gsi Technology Inc",
       "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "LONGi at UNCCD COP17: Li Zhenguo Explains Two Technological Pathways for PV-Powered Food Security",
+      "summary": "ULAANBAATAR, Mongolia, Aug. 23, 2026 /PRNewswire/ -- From August 17 to 28, 2026, the 17th session of the Conference of the Parties to the United Nations Convention to Combat Desertification (UNCCD COP17) is being held in Ulaanbaatar, Mongolia. During the conference, LONGi partici",
+      "url": "https://www.prnewswire.com/news-releases/longi-at-unccd-cop17-li-zhenguo-explains-two-technological-pathways-for-pv-powered-food-security-302857968.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-24T03:10:00Z",
+      "epoch": 1787541000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
       "small_cap_risk": false
     },
     {
@@ -2053,20 +2081,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "Ceretone and Easter Seals Greater Houston Bring Hearing Technology to Local Seniors Through Community Initiative",
-      "summary": "Organizations came together to help seniors use technology with confidence and shape the future of hearing care HOUSTON, Aug. 21, 2026 /PRNewswire/ -- Ceretone, a direct-to-consumer hearing technology company, partnered with Easter Seals Greater Houston, Catholic Charities, and A",
-      "url": "https://www.prnewswire.com/news-releases/ceretone-and-easter-seals-greater-houston-bring-hearing-technology-to-local-seniors-through-community-initiative-302857215.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-21T15:00:00Z",
-      "epoch": 1787324400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     }
   ],
   "pipeline": [
@@ -2213,22 +2227,6 @@
       "epoch": 1787067840,
       "sentiment": -0.67,
       "tickers": [],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Biokin bispecific ADC iza-bren hits goal in lung cancer trial, boosting case for BMS’ global test",
-      "summary": "Biokin Pharma’s iza-bren, a first-in-class antibody-drug conjugate partnered with Bristol Myers Squibb, has posted another positive phase 3 readout.",
-      "url": "https://www.fiercepharma.com/pharma/biokin-bispecific-adc-iza-bren-hits-goal-lung-cancer-trial-boosting-case-bms-global-test",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-08-18T11:06:00Z",
-      "epoch": 1787051160,
-      "sentiment": 0.0,
-      "tickers": [
-        "BMY"
-      ],
       "company_name": null,
       "catalyst": true,
       "small_cap_risk": false
@@ -2573,6 +2571,20 @@
       "source_id": "biopharmadive",
       "published_at": "2026-08-19T11:30:00Z",
       "epoch": 1787139000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "When is the new who: The importance of timing in HCP marketing",
+      "summary": "HCP marketers have spent years perfecting whom to reach. The harder question, and the one that decides whether a message lands, is when.",
+      "url": "https://www.fiercepharma.com/sponsored/when-new-who-importance-timing-hcp-marketing",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-08-19T11:13:00Z",
+      "epoch": 1787137980,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
