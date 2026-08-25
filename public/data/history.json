@@ -70,9 +70,9 @@
     },
     {
       "date": "2026-08-25",
-      "score": 65.2,
-      "avg_sentiment": 0.33,
-      "article_count": 1
+      "score": 60.6,
+      "avg_sentiment": 0.17,
+      "article_count": 2
     }
   ],
   "ADP": [
@@ -168,8 +168,8 @@
     },
     {
       "date": "2026-08-25",
-      "score": 78.8,
-      "avg_sentiment": 0.67,
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -332,9 +332,9 @@
     },
     {
       "date": "2026-08-25",
-      "score": 65.2,
-      "avg_sentiment": 0.33,
-      "article_count": 1
+      "score": 55.2,
+      "avg_sentiment": 0.03,
+      "article_count": 2
     }
   ],
   "IHG.L": [
@@ -422,9 +422,9 @@
     },
     {
       "date": "2026-08-25",
-      "score": 61.2,
-      "avg_sentiment": 0.03,
-      "article_count": 21
+      "score": 58.9,
+      "avg_sentiment": -0.03,
+      "article_count": 17
     }
   ],
   "WMT": [
@@ -498,9 +498,9 @@
     },
     {
       "date": "2026-08-25",
-      "score": 38.2,
-      "avg_sentiment": -0.45,
-      "article_count": 3
+      "score": 58.9,
+      "avg_sentiment": -0.03,
+      "article_count": 7
     }
   ],
   "NDAQ": [
@@ -552,8 +552,8 @@
     },
     {
       "date": "2026-08-25",
-      "score": 78.8,
-      "avg_sentiment": 0.67,
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -622,9 +622,9 @@
     },
     {
       "date": "2026-08-25",
-      "score": 59.6,
-      "avg_sentiment": 0.14,
-      "article_count": 2
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "9618.HK": [
@@ -1248,9 +1248,9 @@
     },
     {
       "date": "2026-08-25",
-      "score": 65.2,
-      "avg_sentiment": 0.33,
-      "article_count": 1
+      "score": 74.0,
+      "avg_sentiment": 0.5,
+      "article_count": 2
     }
   ],
   "HMC": [
@@ -1404,6 +1404,12 @@
     },
     {
       "date": "2026-08-24",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-08-25",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -1791,6 +1797,12 @@
       "score": 65.2,
       "avg_sentiment": 0.33,
       "article_count": 1
+    },
+    {
+      "date": "2026-08-25",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "AIR.DE": [
@@ -1804,6 +1816,12 @@
       "date": "2026-08-24",
       "score": 65.2,
       "avg_sentiment": 0.33,
+      "article_count": 1
+    },
+    {
+      "date": "2026-08-25",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -2199,6 +2217,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-08-25",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "ETN": [
@@ -2252,6 +2276,12 @@
       "date": "2026-08-24",
       "score": 78.8,
       "avg_sentiment": 0.67,
+      "article_count": 1
+    },
+    {
+      "date": "2026-08-25",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -2487,6 +2517,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-08-25",
+      "score": 54.0,
+      "avg_sentiment": 0.0,
+      "article_count": 2
     }
   ],
   "TSM": [
@@ -2917,6 +2953,12 @@
       "score": 25.2,
       "avg_sentiment": -0.67,
       "article_count": 1
+    },
+    {
+      "date": "2026-08-25",
+      "score": 78.8,
+      "avg_sentiment": 0.67,
+      "article_count": 1
     }
   ],
   "DIS": [
@@ -3128,6 +3170,12 @@
       "date": "2026-08-24",
       "score": 38.8,
       "avg_sentiment": -0.33,
+      "article_count": 1
+    },
+    {
+      "date": "2026-08-25",
+      "score": 78.8,
+      "avg_sentiment": 0.67,
       "article_count": 1
     }
   ],
@@ -3488,6 +3536,38 @@
     }
   ],
   "ENR.DE": [
+    {
+      "date": "2026-08-25",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "FICO": [
+    {
+      "date": "2026-08-25",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "ADSK": [
+    {
+      "date": "2026-08-25",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "BMO.TO": [
+    {
+      "date": "2026-08-25",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "CMG": [
     {
       "date": "2026-08-25",
       "score": 52.0,
