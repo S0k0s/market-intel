@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25T21:52:44Z",
+  "generated_at": "2026-08-25T22:22:20Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 46,
+    "breaking_count": 45,
     "breaking_catalyst_count": 1,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 12,
@@ -40,31 +40,31 @@
       "source_count": 2
     },
     {
+      "ticker": "ADBE",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "AMZN",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "UBER",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "ADBT",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
       "ticker": "AAPL",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "MS",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "UHS",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "WFC",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "BHVN",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -86,6 +86,96 @@
       "company_name": null,
       "catalyst": true,
       "small_cap_risk": false
+    },
+    {
+      "title": "MFour Data Research Names Nikhil Nair Senior Vice President of Data Science &amp; Governance",
+      "summary": "Former Amazon, Uber and Adobe analytics leader joins MFour to advance its connected first-party data and AI strategy IRVINE, Calif., Aug. 25, 2026 /PRNewswire/ -- MFour Data Research today announced that Nikhil Nair has joined the company as Senior Vice President of Data Science ",
+      "url": "https://www.prnewswire.com/news-releases/mfour-data-research-names-nikhil-nair-senior-vice-president-of-data-science--governance-302859872.html",
+      "source": "PR Newswire — Biotechnology",
+      "source_id": "prnewswire-biotech",
+      "published_at": "2026-08-25T22:20:00Z",
+      "epoch": 1787696400,
+      "sentiment": 0.0,
+      "tickers": [
+        "ADBE",
+        "AMZN",
+        "UBER"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "/C O R R E C T I O N -- Annie/",
+      "summary": "In the news release, Annie Unveils the First Digital Coworker for Dental Teams, issued 25-Aug-2026 by Annie over PR Newswire, we are advised by the company that there is a change to the release. The complete, corrected release follows: Annie Unveils the First Digital Coworker for",
+      "url": "https://www.prnewswire.com/news-releases/annie-unveils-the-first-digital-coworker-for-dental-teams-302858505.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T22:17:00Z",
+      "epoch": 1787696220,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Ocean Edge Resort and Golf Club Provides Notice of Data Security Event",
+      "summary": "CAPE COD, Mass., Aug. 25, 2026 /PRNewswire/ -- Today, Ocean Edge Resort and Golf Club (\"Ocean Edge\") issued notice of a data security event that potentially affected information related to certain individuals. On July 31, 2025, Ocean Edge became aware of suspicious activity withi",
+      "url": "https://www.prnewswire.com/news-releases/ocean-edge-resort-and-golf-club-provides-notice-of-data-security-event-302859868.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T22:15:00Z",
+      "epoch": 1787696100,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Stowers scientists develop a new way to visualize what AI models learn from DNA -- and discover how to control what the models learn next",
+      "summary": "The AI model interpretation method, PISA, shows what genomic AI models learn, allowing scientists to separate experimental bias from biology, train more focused models, and uncover unexpected insights related to gene regulation and genetic disease. What's new, and why it matters:",
+      "url": "https://www.prnewswire.com/news-releases/stowers-scientists-develop-a-new-way-to-visualize-what-ai-models-learn-from-dna--and-discover-how-to-control-what-the-models-learn-next-302859867.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T22:00:00Z",
+      "epoch": 1787695200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Miles for Mercy raises more than $4,000 before riders hit the road",
+      "summary": "Frederick-area businesses push annual fundraiser for Frederick Health Hospice toward its $5,000 goal FREDERICK, Md., Aug. 25, 2026 /PRNewswire/ -- American Iron Speed-n-Cycle has raised more than $4,000 for Frederick Health Hospice through community sponsorships for the 2nd Annua",
+      "url": "https://www.prnewswire.com/news-releases/miles-for-mercy-raises-more-than-4-000-before-riders-hit-the-road-302859790.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T22:00:00Z",
+      "epoch": 1787695200,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Advasa Holdings, Inc. completed a direct listing on Nasdaq under the ticker symbol \"ADBT\"",
+      "summary": "TOKYO and NEW YORK, Aug. 25, 2026 /PRNewswire/ -- Advasa Holdings, Inc. (Nasdaq: ADBT) (\"ADVASA\" or the \"Company\"), a fintech payment holding company providing Earned Wage Access (EWA) and next-generation financial infrastructure solutions through its Japanese operating subsidiar",
+      "url": "https://www.prnewswire.com/news-releases/advasa-holdings-inc-completed-a-direct-listing-on-nasdaq-under-the-ticker-symbol-adbt-302859866.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-25T21:59:00Z",
+      "epoch": 1787695140,
+      "sentiment": 0.0,
+      "tickers": [
+        "ADBT"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
     },
     {
       "title": "Energizer® Ultimate Child Shield™ Honored as a 2026 Baby Safety Alliance® Awards of Excellence Finalist",
@@ -220,39 +310,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "The Inner Circle acknowledges Mike Carriero as an Inner Circle Five Year",
-      "summary": "OVIEDO, Fla., Aug. 25, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Mike Carriero is acknowledged as an Inner Circle Five Year for his contributions to Construction Management. Mike Carriero has built a successful career in construction management through more t",
-      "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-mike-carriero-as-an-inner-circle-five-year-302859744.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-25T21:08:00Z",
-      "epoch": 1787692080,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "The Inner Circle acknowledges Susan K. Sparkman, MD as a 2026 Legacy Achiever",
       "summary": "BELLAIRE, Texas, Aug. 25, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Susan K. Sparkman, MD is acknowledged as a 2026 Legacy Achiever for her contributions to Psychiatry and Integrative Mental Health. Dr. Susan K. Sparkman has established a remarkable legacy in",
       "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-susan-k-sparkman-md-as-a-2026-legacy-achiever-302859831.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-25T21:08:00Z",
-      "epoch": 1787692080,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "The Inner Circle acknowledges Yogesh Kanjee as a Inner Circle Executive",
-      "summary": "EASTVALE, Calif., Aug. 25, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Yogesh Kanjee is recognized as a Inner Circle Executive for his contributions to Global AV Integration and Technology Leadership. Yogesh Kanjee has built a distinguished career marked by pro",
-      "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-yogesh-kanjee-as-a-inner-circle-executive-302859778.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-25T21:08:00Z",
       "epoch": 1787692080,
       "sentiment": 0.0,
@@ -265,8 +327,8 @@
       "title": "The Inner Circle acknowledges Denise Glasscock as a Pinnacle Professional Member Inner Circle of Excellence",
       "summary": "WESLEY CHAPEL, Fla., Aug. 25, 2026 /PRNewswire/ -- Denise Glasscock is the founder and chief technology officer of InnovalifeCloud Consulting, leading healthcare, government and commercial clients in AI, cloud and digital transformation to improve outcomes and create human impact",
       "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-denise-glasscock-as-a-pinnacle-professional-member-inner-circle-of-excellence-302859813.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-25T21:08:00Z",
       "epoch": 1787692080,
       "sentiment": 0.0,
@@ -279,25 +341,11 @@
       "title": "The Inner Circle acknowledges Tessa M. Meyer, MD as a Pinnacle Professional of The Year for Excellence",
       "summary": "OKLAHOMA CITY, Aug. 25, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Tessa M. Meyer, MD is honored as a Pinnacle Professional of The Year for Excellence in Aesthetic and Reconstructive Surgery. Dr. Tessa M. Meyer has established herself as a highly regarded gene",
       "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-tessa-m-meyer-md-as-a-pinnacle-professional-of-the-year-for-excellence-302859784.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-25T21:08:00Z",
       "epoch": 1787692080,
       "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "The Inner Circle acknowledges Michael Ervin Hicks, Jr. as an Inner Circle Lifetime",
-      "summary": "HARRISBURG, Pa., Aug. 25, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Michael Ervin Hicks, Jr. is acknowledged as an Inner Circle Lifetime for his contributions to Leadership in Supply Chain and Operations. Michael Ervin Hicks, Jr. has established a strong care",
-      "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-michael-ervin-hicks-jr-as-an-inner-circle-lifetime-302859765.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-25T21:08:00Z",
-      "epoch": 1787692080,
-      "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -668,34 +716,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Avive, East Carolina University and Greenville Fire-Rescue Join Forces for Campus-Wide CPR/AED Training Day, Advancing Greenville's Vision to Become a 4-Minute Community",
-      "summary": "SAN FRANCISCO, Aug. 25, 2026 /PRNewswire/ -- Avive Solutions, Inc. and Greenville NC Fire-Rescue are bringing a CPR and AED (automated external defibrillator) training event at East Carolina University (ECU) on August 26, 2026, aiming to train more than 3,000 students, faculty, a",
-      "url": "https://www.prnewswire.com/news-releases/avive-east-carolina-university-and-greenville-fire-rescue-join-forces-for-campus-wide-cpraed-training-day-advancing-greenvilles-vision-to-become-a-4-minute-community-302859736.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-25T18:45:00Z",
-      "epoch": 1787683500,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Women Leaders Association Names Dr. Megan Laabs as First Washington Coaching Partner, Bringing Brain Science to Executive Coaching for the Region's Women Professionals",
-      "summary": "New Coaching Partners program connects the association's Washington members with rigorously vetted, proven executive coaches — beginning with a Harvard-trained clinical neuropsychologist who spent 13 years with the Department of Defense, including nine advising senior leaders at ",
-      "url": "https://www.prnewswire.com/news-releases/women-leaders-association-names-dr-megan-laabs-as-first-washington-coaching-partner-bringing-brain-science-to-executive-coaching-for-the-regions-women-professionals-302859729.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-25T18:40:00Z",
-      "epoch": 1787683200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Die SWI Group treibt den Übergang zur digitalen Infrastruktur voran",
       "summary": "SINGAPUR und AMSTERDAM, 25. August 2026 /PRNewswire/ -- SWI Capital Holding Ltd (Euronext Amsterdam: SWICH) („SWI Group\") bestätigt heute die strategische Neuausrichtung, die ihre Geschäftsstrategie im vergangenen Jahr grundlegend verändert hat: Über 80 % des Kapitals der Gruppe ",
       "url": "https://www.prnewswire.com/news-releases/die-swi-group-treibt-den-ubergang-zur-digitalen-infrastruktur-voran-302859725.html",
@@ -708,36 +728,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "Excelsior Ambulance Appoints Marvin McLellan as Chief Executive Officer",
-      "summary": "Experienced Healthcare Executive to Lead Company's Next Phase of Accelerated Growth, Innovation, and Clinical Excellence LUDOWICI, Ga., Aug. 25, 2026 /PRNewswire/ -- Excelsior Ambulance, a leading innovator in patient transportation and emergency medical services operating across",
-      "url": "https://www.prnewswire.com/news-releases/excelsior-ambulance-appoints-marvin-mclellan-as-chief-executive-officer-302857471.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-25T18:34:00Z",
-      "epoch": 1787682840,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Royce Global Trust (NYSE: RGT) as of Jul 31, 2026",
-      "summary": "NEW YORK, Aug. 25, 2026 /PRNewswire/ -- A closed-end fund that invests in global equities using a disciplined value approach Average weekly trading volume of approximately 75,977 shares Fund's adviser has more than 50 years of small- and micro-cap investment experience CLOSING PR",
-      "url": "https://www.prnewswire.com/news-releases/royce-global-trust-nyse-rgt-as-of-jul-31-2026-302859708.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-25T18:19:00Z",
-      "epoch": 1787681940,
-      "sentiment": 0.0,
-      "tickers": [
-        "RGT"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
     }
   ],
   "pipeline": [
