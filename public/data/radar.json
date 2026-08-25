@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25T03:30:19Z",
+  "generated_at": "2026-08-25T04:23:19Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 143,
+    "breaking_count": 146,
     "breaking_catalyst_count": 22,
     "pipeline_count": 60,
     "pipeline_catalyst_count": 14,
@@ -11,9 +11,9 @@
   "trending_tickers": [
     {
       "ticker": "MRNA",
-      "count": 4,
+      "count": 3,
       "catalyst_count": 2,
-      "source_count": 3
+      "source_count": 2
     },
     {
       "ticker": "ROG",
@@ -58,13 +58,13 @@
       "source_count": 1
     },
     {
-      "ticker": "GNL",
+      "ticker": "RKT",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "RKT",
+      "ticker": "FHN",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -77,8 +77,8 @@
       "title": "Antengene Receives Clinical Trial Approval in Australia for Phase I ATTRACT Study of ATG-201 (CD19 x CD3 TCE) in B Cell-related Autoimmune Diseases",
       "summary": "SHANGHAI and HONG KONG, Aug. 24, 2026 /PRNewswire/ -- Antengene Corporation Limited (\"Antengene\", SEHK: 6996.HK), a leading innovative, commercial-stage global biotech company dedicated to discovering, developing and commercializing first-in-class and/or best-in-class medicines f",
       "url": "https://www.prnewswire.com/news-releases/antengene-receives-clinical-trial-approval-in-australia-for-phase-i-attract-study-of-atg-201-cd19-x-cd3-tce-in-b-cell-related-autoimmune-diseases-302858137.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-25T00:30:00Z",
       "epoch": 1787617800,
       "sentiment": 0.33,
@@ -386,6 +386,104 @@
       "small_cap_risk": false
     },
     {
+      "title": "Hoymiles introduceert twee nieuwe oplossingen voor snellere en slimmere noodstroomvoorziening voor de hele woning",
+      "summary": "HANGZHOU, China, 25 augustus 2026 /PRNewswire/ -- Nu steeds meer huiseigenaren op zoek zijn naar een betrouwbare noodstroomvoorziening voor de hele woning, blijven traditionele oplossingen vaak complex om te installeren en beperkt qua flexibiliteit. Vandaag heeft Hoymiles de gloe",
+      "url": "https://www.prnewswire.com/news-releases/hoymiles-introduceert-twee-nieuwe-oplossingen-voor-snellere-en-slimmere-noodstroomvoorziening-voor-de-hele-woning-302858964.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T04:13:00Z",
+      "epoch": 1787631180,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Galileo Robotics stellt auf der WRC 2026 den Galileo X vor und bricht mit seinem „Embodied Ground Mobility System\" mit herkömmlichen Bauformen",
+      "summary": "BEIJING, 25. August 2026 /PRNewswire/ -- Auf der World Robot Conference 2026 (WRC 2026) stellte Galileo, ein führendes chinesisches Unternehmen im Bereich der Robotik mit verkörperter Intelligenz, das bahnbrechende Galileo X der nächsten Generation vor – sein neues „Embodied Grou",
+      "url": "https://www.prnewswire.com/news-releases/galileo-robotics-stellt-auf-der-wrc-2026-den-galileo-x-vor-und-bricht-mit-seinem-embodied-ground-mobility-system-mit-herkommlichen-bauformen-302858960.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T04:09:00Z",
+      "epoch": 1787630940,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "WaterField Designs Introduces Traverse Sling With Distinctive Diagonal Zipper",
+      "summary": "Handcrafted in small batches in San Francisco, the compact 2.5-liter crossbody pairs a structured-yet-packable design with EcoPak™ or waxed canvas and full-grain leather. SAN FRANCISCO, Aug. 25, 2026 /PRNewswire/ -- WaterField Designs, a San Francisco manufacturer of premium bags",
+      "url": "https://www.prnewswire.com/news-releases/waterfield-designs-introduces-traverse-sling-with-distinctive-diagonal-zipper-302858526.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T04:04:00Z",
+      "epoch": 1787630640,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "EIN OFFENER BRIEF VON ROBERT STRYK AN PRÄSIDENT VLADIMIR PUTIN",
+      "summary": "DIE „STRYK-DOKTRIN\": MODERNISIEREN, NICHT VERWESTLICHEN PRÄSIDENT TRUMP KANN DEN DIESEN KRIEG BEENDEN WASHINGTON, 25. August 2026 /PRNewswire/ -- Sehr geehrter Herr Präsident Putin, Mein Name auf autet, meine E-Mail-Adresse ist und mein Name lautet Robert Stryk. Ich bin Amerikane",
+      "url": "https://www.prnewswire.com/news-releases/ein-offener-brief-von-robert-stryk-an-prasident-vladimir-putin-302858950.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T04:01:00Z",
+      "epoch": 1787630460,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Mistral und HUMAIN geben strategische Zusammenarbeit bekannt, um die eigenständige KI in Saudi-Arabien und der Region voranzutreiben",
+      "summary": "RIAD, Saudi-Arabien, 25. August 2026 /PRNewswire/ -- Mistral und HUMAIN gaben heute eine strategische Zusammenarbeit bekannt, die sich auf KI-Infrastruktur, die Entwicklung fortschrittlicher Modelle sowie die Einführung von KI-Lösungen in Saudi-Arabien und der gesamten Region ers",
+      "url": "https://www.prnewswire.com/news-releases/mistral-und-humain-geben-strategische-zusammenarbeit-bekannt-um-die-eigenstandige-ki-in-saudi-arabien-und-der-region-voranzutreiben-302858947.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T03:57:00Z",
+      "epoch": 1787630220,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "LETTRE OUVERTE DE ROBERT STRYK AU PRÉSIDENT VLADIMIR POUTINE",
+      "summary": "LA DOCTRINE DE L'STRYK : MODERNISER, PAS OCCIDENTALISER LE PRÉSIDENT TRUMP PEUT-IL METTRE FIN À CETTE GUERRE WASHINGTON, 25 août 2026 /PRNewswire/ -- Monsieur le Président Poutine, Mon nom sur est Robert Stryk. Je suis américain, fils d'un immigrant ukrainien, et pacifiste : je s",
+      "url": "https://www.prnewswire.com/news-releases/lettre-ouverte-de-robert-stryk-au-president-vladimir-poutine-302858944.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T03:55:00Z",
+      "epoch": 1787630100,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "GreenTree Hospitality Group Ltd. Reports Second Quarter of 2026 Financial Results",
+      "summary": "Total revenues decreased by 18.7% year over year to RMB235.1 million (US$34.7 million)[1]. Income from operations was RMB48.2 million (US$7.1 million)[1] compared to RMB49.2 million for the second quarter of 2025. Net income was RMB21.3 million (US$3.1 million)[1] compared to RMB",
+      "url": "https://www.prnewswire.com/news-releases/greentree-hospitality-group-ltd-reports-second-quarter-of-2026-financial-results-302858931.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T03:44:00Z",
+      "epoch": 1787629440,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Surgeons Choice Medical Center Data Breach: Edelson Lechtzin LLP Launches Investigation Into Exposure of Personal Information",
       "summary": "National class action firm offering free case evaluations to individuals impacted by the Surgeons Choice Medical Center cybersecurity incident SOUTHFIELD, Mich., Aug. 24, 2026 /PRNewswire/ -- Edelson Lechtzin LLP, a national class action law firm, is investigating data privacy cl",
       "url": "https://www.prnewswire.com/news-releases/surgeons-choice-medical-center-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information-302858856.html",
@@ -414,34 +512,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "La marque de mini-PC VZMORE fait ses débuts mondiaux lors du salon ShowStoppers @ IFA 2026, apportant des innovations thermiques de pointe aux mini-PC",
-      "summary": "BERLIN, 25 août 2026 /PRNewswire/ -- VZMORE, une marque allemande de mini-PC spécialisée dans les solutions informatiques de bureau à la fois performantes et silencieuses, fera ses débuts publics lors du salon ShowStoppers @ IFA 2026 à Berlin. La société présentera quatre produit",
-      "url": "https://www.prnewswire.com/news-releases/la-marque-de-mini-pc-vzmore-fait-ses-debuts-mondiaux-lors-du-salon-showstoppers--ifa-2026-apportant-des-innovations-thermiques-de-pointe-aux-mini-pc-302857393.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-25T02:15:00Z",
-      "epoch": 1787624100,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "La marca de mini PCs VZMORE debuta mundialmente en ShowStoppers @ IFA 2026",
-      "summary": "- La marca de mini PCs VZMORE debuta mundialmente en ShowStoppers @ IFA 2026, aportando innovación térmica avanzada a los mini PCs BERLÍN, 25 de agosto de 2026 /PRNewswire/ -- VZMORE, una marca alemana de mini PC centrada en la informática de escritorio silenciosa y de alto rendi",
-      "url": "https://www.prnewswire.com/news-releases/la-marca-de-mini-pcs-vzmore-debuta-mundialmente-en-showstoppers--ifa-2026-302857267.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-25T02:15:00Z",
-      "epoch": 1787624100,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Die Mini-PC-Marke VZMORE feiert ihr weltweites Debüt auf der ShowStoppers @ IFA 2026 und führt fortschrittliche Kühltechnologie für Mini-PCs ein",
       "summary": "BERLIN, 25. August 2026 /PRNewswire/ -- VZMORE, eine Mini-PC-Marke in deutschem Besitz mit Fokus auf leistungsstarke und leise Desktop-Systeme, präsentiert sich auf der ShowStoppers @ IFA 2026 in Berlin erstmals der Öffentlichkeit. Das Unternehmen wird vier Vorzeigeprodukte vorst",
       "url": "https://www.prnewswire.com/news-releases/die-mini-pc-marke-vzmore-feiert-ihr-weltweites-debut-auf-der-showstoppers--ifa-2026-und-fuhrt-fortschrittliche-kuhltechnologie-fur-mini-pcs-ein-302857622.html",
@@ -459,6 +529,34 @@
       "title": "Mini PC Brand VZMORE Makes Global Debut at ShowStoppers @ IFA 2026, Bringing Advanced Thermal Innovation to Mini PCs",
       "summary": "BERLIN, Aug. 25, 2026 /PRNewswire/ -- VZMORE, a German-owned Mini PC brand focused on high-performance and quiet desktop computing, will make its public debut at ShowStoppers @ IFA 2026 in Berlin. The company will showcase four flagship products—the AX9 Max, iX9 Max, iX9 Ultra an",
       "url": "https://www.prnewswire.com/news-releases/mini-pc-brand-vzmore-makes-global-debut-at-showstoppers--ifa-2026-bringing-advanced-thermal-innovation-to-mini-pcs-302857184.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T02:15:00Z",
+      "epoch": 1787624100,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "La marque de mini-PC VZMORE fait ses débuts mondiaux lors du salon ShowStoppers @ IFA 2026, apportant des innovations thermiques de pointe aux mini-PC",
+      "summary": "BERLIN, 25 août 2026 /PRNewswire/ -- VZMORE, une marque allemande de mini-PC spécialisée dans les solutions informatiques de bureau à la fois performantes et silencieuses, fera ses débuts publics lors du salon ShowStoppers @ IFA 2026 à Berlin. La société présentera quatre produit",
+      "url": "https://www.prnewswire.com/news-releases/la-marque-de-mini-pc-vzmore-fait-ses-debuts-mondiaux-lors-du-salon-showstoppers--ifa-2026-apportant-des-innovations-thermiques-de-pointe-aux-mini-pc-302857393.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T02:15:00Z",
+      "epoch": 1787624100,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "La marca de mini PCs VZMORE debuta mundialmente en ShowStoppers @ IFA 2026",
+      "summary": "- La marca de mini PCs VZMORE debuta mundialmente en ShowStoppers @ IFA 2026, aportando innovación térmica avanzada a los mini PCs BERLÍN, 25 de agosto de 2026 /PRNewswire/ -- VZMORE, una marca alemana de mini PC centrada en la informática de escritorio silenciosa y de alto rendi",
+      "url": "https://www.prnewswire.com/news-releases/la-marca-de-mini-pcs-vzmore-debuta-mundialmente-en-showstoppers--ifa-2026-302857267.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
       "published_at": "2026-08-25T02:15:00Z",
@@ -519,64 +617,6 @@
       "source_id": "prnewswire-public-co",
       "published_at": "2026-08-25T00:42:00Z",
       "epoch": 1787618520,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "HelloNation Article Examines Wheel Alignment After Pothole Damage Featuring Automotive Expert Devon Reed",
-      "summary": "The article explains how drivers can recognize alignment issues and protect their tires and suspension after road impacts. WOODLAND, Wash., Aug. 24, 2026 /PRNewswire/ -- How can drivers tell if pothole damage has affected their vehicle's alignment? The answer is provided in a Hel",
-      "url": "https://www.prnewswire.com/news-releases/hellonation-article-examines-wheel-alignment-after-pothole-damage-featuring-automotive-expert-devon-reed-302858312.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-25T00:27:00Z",
-      "epoch": 1787617620,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Greenberg Traurig Advises Global Net Lease on $535M Modiv Industrial Acquisition",
-      "summary": "NEW YORK, Aug. 24, 2026 /PRNewswire/ -- Global law firm Greenberg Traurig, LLP represented Global Net Lease, Inc. (NYSE: GNL) in its acquisition of Modiv Industrial, Inc., helping the company add a $535 million portfolio of industrial net-lease properties across the United States",
-      "url": "https://www.prnewswire.com/news-releases/greenberg-traurig-advises-global-net-lease-on-535m-modiv-industrial-acquisition-302858807.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-25T00:10:00Z",
-      "epoch": 1787616600,
-      "sentiment": 0.0,
-      "tickers": [
-        "GNL"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "From Asakusabashi, Tokyo, to the world",
-      "summary": "Sketch holds 80% of Japan's window coating market, has sold in over 40 countries, and their product has been applied over 1.4 million square meters worldwide. Its newest product for international markets is the UV Shield PU, a clear UV coating that goes on with a roller. TOKYO, A",
-      "url": "https://www.prnewswire.com/news-releases/from-asakusabashi-tokyo-to-the-world-302858809.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-25T00:03:00Z",
-      "epoch": 1787616180,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "CHT Security Receives Frost &amp; Sullivan's 2026 Taiwan Company of the Year Recognition for Excellence in Cybersecurity Services",
-      "summary": "This recognition highlights CHT Security's leadership in AI-enabled security operations, cyber resilience, and customer-centric cybersecurity services that support secure digital transformation. SAN ANTONIO, Texas, Aug. 24, 2026 /PRNewswire/ -- Frost & Sullivan is pleased to anno",
-      "url": "https://www.prnewswire.com/news-releases/cht-security-receives-frost--sullivans-2026-taiwan-company-of-the-year-recognition-for-excellence-in-cybersecurity-services-302857822.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-25T00:00:00Z",
-      "epoch": 1787616000,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -788,6 +828,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "AllianceBernstein National Municipal Income Fund, Inc. RELEASES MONTHLY PORTFOLIO UPDATE",
+      "summary": "NEW YORK, Aug. 24, 2026 /PRNewswire/ -- AllianceBernstein National Municipal Income Fund, Inc. [NYSE: AFB] (the \"Fund\") today released its monthly portfolio update as of July 31, 2026. AllianceBernstein National Municipal Income Fund, Inc. Top 10 Fixed-Income Holdings Portfolio %",
+      "url": "https://www.prnewswire.com/news-releases/alliancebernstein-national-municipal-income-fund-inc-releases-monthly-portfolio-update-302858563.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-24T20:06:00Z",
+      "epoch": 1787601960,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "ALLIANCEBERNSTEIN CLOSED-END FUNDS ANNOUNCE DISTRIBUTION RATES",
       "summary": "NEW YORK, Aug. 24, 2026 /PRNewswire/ -- The AllianceBernstein Closed-End Funds declared the following distributions today: FUND NAME AND DISTRIBUTIONS EX-DATE RECORD DATE PAYMENT DATE AllianceBernstein Global High Income Fund, Inc. (NYSE: AWF) 9/3/2026 9/3/2026 9/18/2026 $0.0655 ",
       "url": "https://www.prnewswire.com/news-releases/alliancebernstein-closed-end-funds-announce-distribution-rates-302858626.html",
@@ -807,20 +861,6 @@
       "title": "AllianceBernstein Global High Income Fund, Inc. RELEASES MONTHLY PORTFOLIO UPDATE",
       "summary": "NEW YORK, Aug. 24, 2026 /PRNewswire/ -- AllianceBernstein Global High Income Fund, Inc. [NYSE: AWF] (the \"Fund\") today released its monthly portfolio update as of July 31, 2026. AllianceBernstein Global High Income Fund, Inc. Top 10 Fixed-Income Holdings Portfolio % 1) U.S. Treas",
       "url": "https://www.prnewswire.com/news-releases/alliancebernstein-global-high-income-fund-inc-releases-monthly-portfolio-update-302858566.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-24T20:06:00Z",
-      "epoch": 1787601960,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "AllianceBernstein National Municipal Income Fund, Inc. RELEASES MONTHLY PORTFOLIO UPDATE",
-      "summary": "NEW YORK, Aug. 24, 2026 /PRNewswire/ -- AllianceBernstein National Municipal Income Fund, Inc. [NYSE: AFB] (the \"Fund\") today released its monthly portfolio update as of July 31, 2026. AllianceBernstein National Municipal Income Fund, Inc. Top 10 Fixed-Income Holdings Portfolio %",
-      "url": "https://www.prnewswire.com/news-releases/alliancebernstein-national-municipal-income-fund-inc-releases-monthly-portfolio-update-302858563.html",
       "source": "PR Newswire — Financial",
       "source_id": "prnewswire-financial",
       "published_at": "2026-08-24T20:06:00Z",
@@ -2313,6 +2353,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "Young startups miss out on biotech venture funding rebound, MassBio says",
+      "summary": "A new report found that the sizes of seed rounds and Series A financings for Massachusetts biotech startups are going in opposite directions, as funding slows for young companies with the &ldquo;riskiest science.&rdquo;",
+      "url": "https://www.biopharmadive.com/news/massbio-industry-biotech-vc-ipo-funding-licensing/828621/",
+      "source": "BioPharma Dive",
+      "source_id": "biopharmadive",
+      "published_at": "2026-08-25T00:01:00Z",
+      "epoch": 1787616060,
+      "sentiment": -0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Merck, AZ lawsuits against Medicare price negotiations swatted down",
       "summary": "Courts in Maryland and Washington, D.C., have rejected separate lawsuits by Merck and AstraZeneca against the Centers for Medicare &amp; Medicaid Services' drug price negotiation program.",
       "url": "https://www.fiercepharma.com/pharma/merck-az-lawsuits-against-medicare-price-negotiations-are-swatted-away",
@@ -2640,22 +2694,6 @@
       "epoch": 1787228485,
       "sentiment": 0.33,
       "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Cancer vaccine win restores Wall Street’s faith in Moderna",
-      "summary": "Moderna gained $45 billion in market value in a single day, a surge that brought the company&rsquo;s stock to levels not seen since 2024 &mdash; and saddled it with expectations that may be tough to meet.&nbsp;",
-      "url": "https://www.biopharmadive.com/news/moderna-merck-intismeran-melanoma-vaccine-stock-reaction/828332/",
-      "source": "BioPharma Dive",
-      "source_id": "biopharmadive",
-      "published_at": "2026-08-20T11:19:46Z",
-      "epoch": 1787224786,
-      "sentiment": 0.67,
-      "tickers": [
-        "MRNA"
-      ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
