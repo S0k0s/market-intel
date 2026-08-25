@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25T01:23:47Z",
+  "generated_at": "2026-08-25T02:36:38Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 141,
-    "breaking_catalyst_count": 23,
+    "breaking_count": 143,
+    "breaking_catalyst_count": 22,
     "pipeline_count": 60,
     "pipeline_catalyst_count": 14,
     "movers_count": 0
@@ -30,12 +30,6 @@
     {
       "ticker": "MRK",
       "count": 2,
-      "catalyst_count": 1,
-      "source_count": 1
-    },
-    {
-      "ticker": "SCX",
-      "count": 1,
       "catalyst_count": 1,
       "source_count": 1
     },
@@ -68,6 +62,12 @@
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
+    },
+    {
+      "ticker": "RKT",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
     }
   ],
   "movers": [],
@@ -86,22 +86,6 @@
       "company_name": null,
       "catalyst": true,
       "small_cap_risk": false
-    },
-    {
-      "title": "SCX.ai (ASX: SCX) Strategic Partnership With Global AI Leader DDN to Power Australia's Largest Sovereign AI Inferencing Cloud",
-      "summary": "Alliance to scale sovereign AI capacity as demand for Australian-based AI infrastructure grows SYDNEY, Aug. 24, 2026 /PRNewswire/ -- Australian sovereign AI infrastructure pioneer SCX.ai and global AI data intelligence leader DDN today announced a landmark partnership to expand a",
-      "url": "https://www.prnewswire.com/news-releases/scxai-asx-scx-strategic-partnership-with-global-ai-leader-ddn-to-power-australias-largest-sovereign-ai-inferencing-cloud-302858797.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T23:42:00Z",
-      "epoch": 1787614920,
-      "sentiment": 0.67,
-      "tickers": [
-        "SCX"
-      ],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": true
     },
     {
       "title": "Astellas Doses First Patient in Phase 3 Study of ASP2138 in CLDN18.2-postive and HER2-negative locally advanced unresectable or metastatic gastric or gastroesophageal junction (GEJ) adenocarcinoma",
@@ -402,6 +386,118 @@
       "small_cap_risk": false
     },
     {
+      "title": "Surgeons Choice Medical Center Data Breach: Edelson Lechtzin LLP Launches Investigation Into Exposure of Personal Information",
+      "summary": "National class action firm offering free case evaluations to individuals impacted by the Surgeons Choice Medical Center cybersecurity incident SOUTHFIELD, Mich., Aug. 24, 2026 /PRNewswire/ -- Edelson Lechtzin LLP, a national class action law firm, is investigating data privacy cl",
+      "url": "https://www.prnewswire.com/news-releases/surgeons-choice-medical-center-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information-302858856.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T02:29:00Z",
+      "epoch": 1787624940,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "TCL remporte six EISA Awards, illustrant ainsi sa suprématie dans le domaine des téléviseurs haut de gamme et des systèmes audio pour home cinéma",
+      "summary": "PARIS, 25 août 2026 /PRNewswire/ -- TCL, leader mondial de l'électronique grand public et première marque mondiale de téléviseurs Mini LED[1], a remporté six EISA Awards, l'une des plus prestigieuses distinctions européennes en matière d'innovation audiovisuelle. Couvrant à la fo",
+      "url": "https://www.prnewswire.com/news-releases/tcl-remporte-six-eisa-awards-illustrant-ainsi-sa-suprematie-dans-le-domaine-des-televiseurs-haut-de-gamme-et-des-systemes-audio-pour-home-cinema-302858851.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T02:16:00Z",
+      "epoch": 1787624160,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "La marca de mini PCs VZMORE debuta mundialmente en ShowStoppers @ IFA 2026",
+      "summary": "- La marca de mini PCs VZMORE debuta mundialmente en ShowStoppers @ IFA 2026, aportando innovación térmica avanzada a los mini PCs BERLÍN, 25 de agosto de 2026 /PRNewswire/ -- VZMORE, una marca alemana de mini PC centrada en la informática de escritorio silenciosa y de alto rendi",
+      "url": "https://www.prnewswire.com/news-releases/la-marca-de-mini-pcs-vzmore-debuta-mundialmente-en-showstoppers--ifa-2026-302857267.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T02:15:00Z",
+      "epoch": 1787624100,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "La marque de mini-PC VZMORE fait ses débuts mondiaux lors du salon ShowStoppers @ IFA 2026, apportant des innovations thermiques de pointe aux mini-PC",
+      "summary": "BERLIN, 25 août 2026 /PRNewswire/ -- VZMORE, une marque allemande de mini-PC spécialisée dans les solutions informatiques de bureau à la fois performantes et silencieuses, fera ses débuts publics lors du salon ShowStoppers @ IFA 2026 à Berlin. La société présentera quatre produit",
+      "url": "https://www.prnewswire.com/news-releases/la-marque-de-mini-pc-vzmore-fait-ses-debuts-mondiaux-lors-du-salon-showstoppers--ifa-2026-apportant-des-innovations-thermiques-de-pointe-aux-mini-pc-302857393.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T02:15:00Z",
+      "epoch": 1787624100,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Die Mini-PC-Marke VZMORE feiert ihr weltweites Debüt auf der ShowStoppers @ IFA 2026 und führt fortschrittliche Kühltechnologie für Mini-PCs ein",
+      "summary": "BERLIN, 25. August 2026 /PRNewswire/ -- VZMORE, eine Mini-PC-Marke in deutschem Besitz mit Fokus auf leistungsstarke und leise Desktop-Systeme, präsentiert sich auf der ShowStoppers @ IFA 2026 in Berlin erstmals der Öffentlichkeit. Das Unternehmen wird vier Vorzeigeprodukte vorst",
+      "url": "https://www.prnewswire.com/news-releases/die-mini-pc-marke-vzmore-feiert-ihr-weltweites-debut-auf-der-showstoppers--ifa-2026-und-fuhrt-fortschrittliche-kuhltechnologie-fur-mini-pcs-ein-302857622.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T02:15:00Z",
+      "epoch": 1787624100,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Mini PC Brand VZMORE Makes Global Debut at ShowStoppers @ IFA 2026, Bringing Advanced Thermal Innovation to Mini PCs",
+      "summary": "BERLIN, Aug. 25, 2026 /PRNewswire/ -- VZMORE, a German-owned Mini PC brand focused on high-performance and quiet desktop computing, will make its public debut at ShowStoppers @ IFA 2026 in Berlin. The company will showcase four flagship products—the AX9 Max, iX9 Max, iX9 Ultra an",
+      "url": "https://www.prnewswire.com/news-releases/mini-pc-brand-vzmore-makes-global-debut-at-showstoppers--ifa-2026-bringing-advanced-thermal-innovation-to-mini-pcs-302857184.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T02:15:00Z",
+      "epoch": 1787624100,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Turner Construction Company Data Breach: Edelson Lechtzin LLP Launches Investigation Into Exposure of Personal Information",
+      "summary": "National class action firm offering free case evaluations to individuals impacted by the Turner Construction Company cybersecurity incident NEW YORK, Aug. 24, 2026 /PRNewswire/ -- Edelson Lechtzin LLP, a national class action law firm, is investigating data privacy claims arising",
+      "url": "https://www.prnewswire.com/news-releases/turner-construction-company-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information-302858847.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T02:13:00Z",
+      "epoch": 1787623980,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "L2 Aviation and Gotonomi Extend UAV Connectivity Beyond Cellular Reach",
+      "summary": "Collaboration combines L2 Aviation's integration and certification expertise with Gotonomi's compact satellite communications technology to support reliable operations in remote and connectivity-constrained environments. ERLANGER, Ky. and CAMBRIDGE, England and CINCINNATI, Aug. 2",
+      "url": "https://www.prnewswire.com/news-releases/l2-aviation-and-gotonomi-extend-uav-connectivity-beyond-cellular-reach-302858775.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-25T01:26:00Z",
+      "epoch": 1787621160,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "LG ELECTRONICS BRINGS HIGH-EFFICIENCY LIVING TO MORE CONSUMERS AT IFA 2026",
       "summary": "Extending Advanced Energy-Saving Technologies Beyond Flagship Models to a Broader Appliance Portfolio News Summary LG expands advanced energy-saving technologies beyond flagship products to bring high-efficiency home appliances to a broader range of consumers at IFA 2026. Through",
       "url": "https://www.prnewswire.com/news-releases/lg-electronics-brings-high-efficiency-living-to-more-consumers-at-ifa-2026-302858296.html",
@@ -417,7 +513,7 @@
     },
     {
       "title": "European Telcos Push EMEA 5G Mobile Core Revenue to a New High in 2Q 2026, According to Dell'Oro Group",
-      "summary": "Sharp IMS Revenue Contraction Brings Down Market REDWOOD CITY, Calif., Aug. 19, 2026 /PRNewswire/ -- According to a recently published report from Dell'Oro Group, the trusted source for market information about the telecommunications, security, networks, and data center industrie",
+      "summary": "Sharp IMS Revenue Contraction Brings Down Market REDWOOD CITY, Calif., Aug. 24, 2026 /PRNewswire/ -- According to a recently published report from Dell'Oro Group, the trusted source for market information about the telecommunications, security, networks, and data center industrie",
       "url": "https://www.prnewswire.com/news-releases/european-telcos-push-emea-5g-mobile-core-revenue-to-a-new-high-in-2q-2026-according-to-delloro-group-302858820.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
@@ -482,78 +578,6 @@
       "published_at": "2026-08-25T00:00:00Z",
       "epoch": 1787616000,
       "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "SiMa.ai and AVerMedia to Showcase Integrated Drone AI Solution at August 27, 2026 Drone Seminar",
-      "summary": "The integrated drone solution delivers production-ready AI computing designed to help OEMs accelerate development and move efficiently toward commercial deployment. SAN JOSE, Calif. and TAIPEI, Taiwan, Aug. 24, 2026 /PRNewswire/ -- SiMa.ai and AVerMedia will showcase a production",
-      "url": "https://www.prnewswire.com/news-releases/simaai-and-avermedia-to-showcase-integrated-drone-ai-solution-at-august-27-2026-drone-seminar-302858789.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-25T00:00:00Z",
-      "epoch": 1787616000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "AGNTCon + MCPCon Japan to Convene Builders Advancing Production-Ready Agentic AI",
-      "summary": "Industry leaders and open source innovators from SoftBank, Hitachi, NTT, Google, Microsoft, Anthropic, and more will gather in Tokyo to explore the standards, infrastructure, security and governance needed to operate AI agents in production. Summary The Agentic AI Foundation (AAI",
-      "url": "https://www.prnewswire.com/news-releases/agntcon--mcpcon-japan-to-convene-builders-advancing-production-ready-agentic-ai-302858755.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-25T00:00:00Z",
-      "epoch": 1787616000,
-      "sentiment": 0.0,
-      "tickers": [
-        "MSFT"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "The Justice Department in its press release allowed the SEC to hide the three inconvenient and undisputed facts, According to Attorney Lanny J. Davis",
-      "summary": "Statement by Lanny J. Davis, Attorney for Ainet Corp and Deepak Jain WASHINGTON, Aug. 24, 2026 /PRNewswire/ -- Lanny J. Davis, attorney for Ainet and Depak Jain, issued the following statement in response to the SEC - DOJ press release. FIRST, this was contract that the SEC descr",
-      "url": "https://www.prnewswire.com/news-releases/the-justice-department-in-its-press-release-allowed-the-sec-to-hide-the-three-inconvenient-and-undisputed-facts-according-to-attorney-lanny-j-davis-302858801.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T23:48:00Z",
-      "epoch": 1787615280,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Omdia 1. Halbjahr 2026: Hisense belegt weltweit Platz 1 bei den Auslieferungen von Fernsehern ab 100 Zoll",
-      "summary": "QINGDAO, China, 25. August 2026 /PRNewswire/ -- Hisense, eine führende Marke im Bereich der globalen Unterhaltungselektronik und Haushaltsgeräte, belegte laut Omdia im ersten Halbjahr 2026 weltweit den ersten Platz bei den Auslieferungen von Fernsehern mit einer Bildschirmdiagona",
-      "url": "https://www.prnewswire.com/news-releases/omdia-1-halbjahr-2026-hisense-belegt-weltweit-platz-1-bei-den-auslieferungen-von-fernsehern-ab-100-zoll-302858799.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T23:45:00Z",
-      "epoch": 1787615100,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "muVpix Original Swipe Left: Dying for Love Named Vertical of the Year as Platform Launches Romeo &amp; Juliet, Reimagined",
-      "summary": "The acclaimed thriller earned three awards at the 2026 VERTIES, while muVpix's newest original series is quickly emerging as another fan favorite LOS ANGELES, Aug. 24, 2026 /PRNewswire/ -- muVpix, the U.S.-based vertical entertainment platform owned by BlackForge Distribution, ce",
-      "url": "https://www.prnewswire.com/news-releases/muvpix-original-swipe-left-dying-for-love-named-vertical-of-the-year-as-platform-launches-romeo--juliet-reimagined-302858798.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-24T23:42:00Z",
-      "epoch": 1787614920,
-      "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
