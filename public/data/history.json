@@ -332,9 +332,9 @@
     },
     {
       "date": "2026-08-25",
-      "score": 65.2,
-      "avg_sentiment": 0.33,
-      "article_count": 1
+      "score": 91.7,
+      "avg_sentiment": 0.94,
+      "article_count": 2
     }
   ],
   "IHG.L": [
@@ -422,9 +422,9 @@
     },
     {
       "date": "2026-08-25",
-      "score": 60.4,
-      "avg_sentiment": 0.01,
-      "article_count": 16
+      "score": 69.3,
+      "avg_sentiment": 0.23,
+      "article_count": 15
     }
   ],
   "WMT": [
@@ -460,9 +460,9 @@
     },
     {
       "date": "2026-08-25",
-      "score": 45.9,
-      "avg_sentiment": -0.2,
-      "article_count": 2
+      "score": 53.2,
+      "avg_sentiment": -0.07,
+      "article_count": 3
     }
   ],
   "DOW": [
@@ -498,8 +498,8 @@
     },
     {
       "date": "2026-08-25",
-      "score": 74.2,
-      "avg_sentiment": 0.35,
+      "score": 70.6,
+      "avg_sentiment": 0.27,
       "article_count": 7
     }
   ],
@@ -622,9 +622,9 @@
     },
     {
       "date": "2026-08-25",
-      "score": 52.0,
+      "score": 54.0,
       "avg_sentiment": 0.0,
-      "article_count": 1
+      "article_count": 2
     }
   ],
   "9618.HK": [
@@ -750,9 +750,9 @@
     },
     {
       "date": "2026-08-25",
-      "score": 78.2,
-      "avg_sentiment": 0.56,
-      "article_count": 3
+      "score": 73.9,
+      "avg_sentiment": 0.35,
+      "article_count": 6
     }
   ],
   "LOW": [
@@ -1357,6 +1357,12 @@
       "score": 65.2,
       "avg_sentiment": 0.33,
       "article_count": 1
+    },
+    {
+      "date": "2026-08-25",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "PSN.L": [
@@ -1410,9 +1416,9 @@
     },
     {
       "date": "2026-08-25",
-      "score": 54.0,
+      "score": 52.0,
       "avg_sentiment": 0.0,
-      "article_count": 2
+      "article_count": 1
     }
   ],
   "BP.L": [
@@ -1946,9 +1952,9 @@
     },
     {
       "date": "2026-08-25",
-      "score": 56.0,
+      "score": 54.0,
       "avg_sentiment": 0.0,
-      "article_count": 3
+      "article_count": 2
     }
   ],
   "VRSK": [
@@ -1986,6 +1992,12 @@
       "date": "2026-08-22",
       "score": 65.2,
       "avg_sentiment": 0.33,
+      "article_count": 1
+    },
+    {
+      "date": "2026-08-25",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -2385,6 +2397,12 @@
       "score": 54.0,
       "avg_sentiment": 0.0,
       "article_count": 2
+    },
+    {
+      "date": "2026-08-25",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "PFE": [
@@ -3024,9 +3042,9 @@
     },
     {
       "date": "2026-08-25",
-      "score": 38.6,
-      "avg_sentiment": -0.39,
-      "article_count": 2
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "LULU": [
