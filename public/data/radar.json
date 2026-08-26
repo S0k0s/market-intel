@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T03:38:39Z",
+  "generated_at": "2026-08-26T04:24:09Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 150,
@@ -52,6 +52,12 @@
       "source_count": 2
     },
     {
+      "ticker": "RY.TO",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
       "ticker": "JOYY",
       "count": 1,
       "catalyst_count": 0,
@@ -59,12 +65,6 @@
     },
     {
       "ticker": "BTGO",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "BIIB",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -286,6 +286,78 @@
       "small_cap_risk": false
     },
     {
+      "title": "RBC richt een geïntegreerde divisie voor wereldwijde transactiebankieren op, waarin de sterke punten van toonaangevende bedrijfsonderdelen worden gebundeld",
+      "summary": "Het nieuwe gezamenlijke leiderschap brengt de transactiebankactiviteiten van RBC binnen de hele bank samen, zodat klanten naadloos over de grenzen heen kunnen worden bediend TORONTO, 26 augustus 2026 /PRNewswire/ -- Royal Bank of Canada (RBC) heeft vandaag de formele oprichting v",
+      "url": "https://www.prnewswire.com/news-releases/rbc-richt-een-geintegreerde-divisie-voor-wereldwijde-transactiebankieren-op-waarin-de-sterke-punten-van-toonaangevende-bedrijfsonderdelen-worden-gebundeld-302860137.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-26T04:20:00Z",
+      "epoch": 1787718000,
+      "sentiment": 0.0,
+      "tickers": [
+        "RY.TO"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "MegazoneCloud Launches Its Gemini Enterprise Center of Excellence to Accelerate Enterprise AI Adoption",
+      "summary": "Dedicated division leverages multimodal AI and agentic workflows to move global clients from pilot to production. ROCHESTER, N.Y., Aug. 25, 2026 /PRNewswire/ -- MegazoneCloud, a global AI-Native Managed Service Provider (MSP) and a Premier Partner in the Google Cloud Co-sell, Goo",
+      "url": "https://www.prnewswire.com/news-releases/megazonecloud-launches-its-gemini-enterprise-center-of-excellence-to-accelerate-enterprise-ai-adoption-302860116.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-26T04:13:00Z",
+      "epoch": 1787717580,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Consumer Trust in AI Is on Track to Grow by 15 Percentage Points by 2030",
+      "summary": "New BCG Research Finds That in More Than Half of AI-Assisted Journeys, AI Introduces Consumers to New Brands Nearly a Third of Consumers Now Use AI at Some Point in Their Purchase Journey, Roughly Triple the Rate of 18 Months Ago Value, Not Price Alone, Is Driving Purchase Decisi",
+      "url": "https://www.prnewswire.com/news-releases/consumer-trust-in-ai-is-on-track-to-grow-by-15-percentage-points-by-2030-302859907.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-26T04:01:00Z",
+      "epoch": 1787716860,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "New book calls Christians to strengthen biblical discernment in an age of spiritual deception",
+      "summary": "'The Devil In Bethel: How to Discern Satan's Demonic Teachers, Prophets, Idols, and Tools in God's Church' released RANCHO CUCAMONGA, Calif., Aug. 26, 2026 /PRNewswire/ -- Christian clinical counselor Aaron G. Cisneros invites believers to take a closer look at biblical discernme",
+      "url": "https://www.prnewswire.com/news-releases/new-book-calls-christians-to-strengthen-biblical-discernment-in-an-age-of-spiritual-deception-302859871.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-26T04:00:00Z",
+      "epoch": 1787716800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "TIER IV to showcase integrated AI, data, and computing solution for SDVs at Automotive World 2026",
+      "summary": "TOKYO, Aug. 26, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, will showcase a solution for software-defined vehicles (SDVs) that integrates AI, data, and computing at Automotive World 2026, to be held at Makuhari Messe from",
+      "url": "https://www.prnewswire.com/news-releases/tier-iv-to-showcase-integrated-ai-data-and-computing-solution-for-sdvs-at-automotive-world-2026-302859969.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-26T04:00:00Z",
+      "epoch": 1787716800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Aulumu Redefines Urban Transit with Its New B01/B02 Urban Gear Sling Bags",
       "summary": "Beyond Storage. Redefining Carry. SHENZHEN, China, Aug. 26, 2026 /PRNewswire/ -- Aulumu is expanding its magnetic ecosystem beyond the smartphone and into Urban Transit with the introduction of the B01 Urban Transit Gear Sling Bag and the B02 Urban Quick-Access Phone Sling Bag. D",
       "url": "https://www.prnewswire.com/news-releases/aulumu-redefines-urban-transit-with-its-new-b01b02-urban-gear-sling-bags-302860043.html",
@@ -470,55 +542,13 @@
       "small_cap_risk": false
     },
     {
-      "title": "NAVER D2SF Invests in F4GE, a Defense and Manufacturing Infrastructure Startup",
-      "summary": "-F4GE connects Korea's manufacturing network with global demand from defense and advanced manufacturing companies, building a programmable manufacturing network -Standardizes data from Korea's core manufacturing factories and converts it to meet global buyer requirements, support",
-      "url": "https://www.prnewswire.com/news-releases/naver-d2sf-invests-in-f4ge-a-defense-and-manufacturing-infrastructure-startup-302859450.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-26T00:30:00Z",
-      "epoch": 1787704200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Vector Science and Therapeutics Corp. Enters Into an Investor Relations Agreement and Grants Options",
       "summary": "MEQUON, Wis., Aug. 25, 2026 /PRNewswire/ -- Vector Science and Therapeutics Corp. (TSXV: PAIN) (\"Vector\" or the \"Company\") is pleased to announce that the Company has entered into an investor relations agreement (the \"IR Agreement\") with RedChip Companies, Inc. (\"RedChip\") throug",
       "url": "https://www.prnewswire.com/news-releases/vector-science-and-therapeutics-corp-enters-into-an-investor-relations-agreement-and-grants-options-302859924.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-26T00:27:00Z",
       "epoch": 1787704020,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "La abogada especializada en lesiones personales de BD&amp;J, Elizabeth A. Hernández, ha sido galardonada con el Premio Luminarias 2026 del Colegio de Abogadas Latinas",
-      "summary": "LOS ÁNGELES, California, 25 de agosto de 2026 /PRNewswire-HISPANIC PR WIRE/ -- La prestigiosa abogada especializada en lesiones personales de BD&J, Elizabeth A. Hernández, ha sido galardonada con el Premio Luminarias 2026, otorgado por la Asociación de Abogadas Latinas de (LLBA).",
-      "url": "https://www.prnewswire.com/news-releases/la-abogada-especializada-en-lesiones-personales-de-bd-amp-j-elizabeth-a-hernandez-ha-sido-galardonada-con-el-premio-luminarias-2026-del-colegio-de-abogadas-latinas-843130252.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-26T00:22:00Z",
-      "epoch": 1787703720,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Utility Global stelt Erik Meuleman aan als Chief Technology Officer om de commercialisering van zijn eigen H2Gen-technologie te bevorderen",
-      "summary": "Veteraan uit de sector brengt meer dan 20 jaar ervaring mee met het bevorderen van decarbonisatietechnologieën van onderzoek tot commerciële toepassing HOUSTON, 26 augustus 2026 /PRNewswire/ -- Utility Global (\"Utility\"), een wereldwijd bedrijf dat economische industriële decarbo",
-      "url": "https://www.prnewswire.com/news-releases/utility-global-stelt-erik-meuleman-aan-als-chief-technology-officer-om-de-commercialisering-van-zijn-eigen-h2gen-technologie-te-bevorderen-302859920.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-26T00:14:00Z",
-      "epoch": 1787703240,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -749,6 +779,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "The Inner Circle acknowledges Susan K. Sparkman, MD as a 2026 Legacy Achiever",
+      "summary": "BELLAIRE, Texas, Aug. 25, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Susan K. Sparkman, MD is acknowledged as a 2026 Legacy Achiever for her contributions to Psychiatry and Integrative Mental Health. Dr. Susan K. Sparkman has established a remarkable legacy in",
+      "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-susan-k-sparkman-md-as-a-2026-legacy-achiever-302859831.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-08-25T21:08:00Z",
+      "epoch": 1787692080,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "The Inner Circle acknowledges Denise Glasscock as a Pinnacle Professional Member Inner Circle of Excellence",
       "summary": "WESLEY CHAPEL, Fla., Aug. 25, 2026 /PRNewswire/ -- Denise Glasscock is the founder and chief technology officer of InnovalifeCloud Consulting, leading healthcare, government and commercial clients in AI, cloud and digital transformation to improve outcomes and create human impact",
       "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-denise-glasscock-as-a-pinnacle-professional-member-inner-circle-of-excellence-302859813.html",
@@ -777,37 +821,23 @@
       "small_cap_risk": false
     },
     {
-      "title": "The Inner Circle acknowledges Dr. Marie - E Ramas as an Inner Circle Lifetime",
-      "summary": "NASHUA, N.H., Aug. 25, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Dr. Marie - E Ramas is honored as a Inner Circle Lifetime for her contributions to Leadership in Health Equity and Practice Innovation. Dr. Marie Elizabeth Ramas, MD FAAFP, is a family physician",
-      "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-dr-marie---e-ramas-as-an-inner-circle-lifetime-302859821.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-25T21:08:00Z",
-      "epoch": 1787692080,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "The Inner Circle acknowledges Susan K. Sparkman, MD as a 2026 Legacy Achiever",
-      "summary": "BELLAIRE, Texas, Aug. 25, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Susan K. Sparkman, MD is acknowledged as a 2026 Legacy Achiever for her contributions to Psychiatry and Integrative Mental Health. Dr. Susan K. Sparkman has established a remarkable legacy in",
-      "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-susan-k-sparkman-md-as-a-2026-legacy-achiever-302859831.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-25T21:08:00Z",
-      "epoch": 1787692080,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "The Inner Circle acknowledges Tessa M. Meyer, MD as a Pinnacle Professional of The Year for Excellence",
       "summary": "OKLAHOMA CITY, Aug. 25, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Tessa M. Meyer, MD is honored as a Pinnacle Professional of The Year for Excellence in Aesthetic and Reconstructive Surgery. Dr. Tessa M. Meyer has established herself as a highly regarded gene",
       "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-tessa-m-meyer-md-as-a-pinnacle-professional-of-the-year-for-excellence-302859784.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-08-25T21:08:00Z",
+      "epoch": 1787692080,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "The Inner Circle acknowledges Dr. Marie - E Ramas as an Inner Circle Lifetime",
+      "summary": "NASHUA, N.H., Aug. 25, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Dr. Marie - E Ramas is honored as a Inner Circle Lifetime for her contributions to Leadership in Health Equity and Practice Innovation. Dr. Marie Elizabeth Ramas, MD FAAFP, is a family physician",
+      "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-dr-marie---e-ramas-as-an-inner-circle-lifetime-302859821.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
       "published_at": "2026-08-25T21:08:00Z",
@@ -1002,20 +1032,6 @@
       "source_id": "prnewswire-financial",
       "published_at": "2026-08-25T19:08:00Z",
       "epoch": 1787684880,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Consumer Watchdog &amp; Wildfire Survivors Call on Lawmakers to Reject Gov's 11th-Hour Legislative Utility Bail Out for Fires They Cause; Urge \"No Lines Between Survivors\"",
-      "summary": "SACRAMENTO, Calif., Aug. 25, 2026 /PRNewswire/ -- Over fifty wildfire survivors from across California gathered outside the Capitol building today to call on California lawmakers to stand with survivors and reject a plan by the governor in the final days of the legislative sessio",
-      "url": "https://www.prnewswire.com/news-releases/consumer-watchdog--wildfire-survivors-call-on-lawmakers-to-reject-govs-11th-hour-legislative-utility-bail-out-for-fires-they-cause-urge-no-lines-between-survivors-302859753.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-25T19:03:00Z",
-      "epoch": 1787684580,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -2189,20 +2205,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Vyome Holdings, Inc",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - Bain Capital Private Credit (0001899017) (Filer)",
-      "summary": "Filed:  2026-08-25  AccNo:  0001193125-26-365111  Size:  208 KB\n Item 3.02: Unregistered Sales of Equity Securities\n Item 7.01: Regulation FD Disclosure\n Item 8.01: Other Events",
-      "url": "https://www.sec.gov/Archives/edgar/data/1899017/000119312526365111/0001193125-26-365111-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-25T16:05:10Z",
-      "epoch": 1787673910,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Bain Capital Private Credit",
       "catalyst": false,
       "small_cap_risk": false
     }
