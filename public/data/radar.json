@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T05:04:29Z",
+  "generated_at": "2026-08-26T05:49:43Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 150,
@@ -52,19 +52,19 @@
       "source_count": 2
     },
     {
+      "ticker": "SONY",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "BP.L",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
       "ticker": "RY.TO",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "JOYY",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "BTGO",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -77,8 +77,8 @@
       "title": "Caliway's CBL-514 Combination Therapy Cleared by U.S. FDA for Phase 2 Trial; Pivotal Phase 3 Trial SUPREME-01 Initiates Enrollment",
       "summary": "FDA IND Clearance for CBL-0201WR—Caliway has cleared its Investigational New Drug application for CBL-0201WR, a Phase 2 trial evaluating CBL-514 in combination with tirzepatide. U.S. IRB Approval for Pivotal Phase 3 Trial SUPREME-01 (CBL-0301)—The protocol amendment for the pivot",
       "url": "https://www.prnewswire.com/news-releases/caliways-cbl-514-combination-therapy-cleared-by-us-fda-for-phase-2-trial-pivotal-phase-3-trial-supreme-01-initiates-enrollment-302859956.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-26T01:24:00Z",
       "epoch": 1787707440,
       "sentiment": 0.33,
@@ -272,11 +272,43 @@
       "small_cap_risk": false
     },
     {
+      "title": "Las figuras más destacadas del entretenimiento respaldan a Stability AI en su última ronda de financiación",
+      "summary": "La financiación total asciende a 232 millones de dólares con la nueva gerencia y un grupo de inversores formado por Electronic Arts, Sony Music Group, Universal Music Group, Warner Music Group y otras empresas. LOS ÁNGELES, 26 de agosto de 2026 /PRNewswire/ -- Stability AI, líder",
+      "url": "https://www.prnewswire.com/news-releases/las-figuras-mas-destacadas-del-entretenimiento-respaldan-a-stability-ai-en-su-ultima-ronda-de-financiacion-302860249.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-26T05:38:00Z",
+      "epoch": 1787722680,
+      "sentiment": 0.0,
+      "tickers": [
+        "SONY"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Aker BP has started production from the Skarv Satellites",
+      "summary": "LYSAKER, Norway, Aug. 26, 2026 /PRNewswire/ -- Aker BP has started production from the Skarv Satellite Project, which comprises the Alve Nord, Idun Nord and Ørn fields in the Norwegian Sea. The project has been executed efficiently, with production starting one year ahead of the ",
+      "url": "https://www.prnewswire.com/news-releases/aker-bp-has-started-production-from-the-skarv-satellites-302860247.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-26T05:37:00Z",
+      "epoch": 1787722620,
+      "sentiment": 0.0,
+      "tickers": [
+        "BP.L"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Silver Palace wurde bei den gamescom Awards nominiert für „Best Mobile Game\" - zeitgleich feierte der brandneue Trailer bei der Opening Night Live seine Premiere.",
       "summary": "Silver Palace kommt zur gamescom: Stimmen Sie bei den Awards ab, spielen Sie das Spiel vor Ort an und begeben Sie sich auf ein geheimnisvolles Detektivabenteuer. SINGAPUR, 26. August 2026 /PRNewswire/ -- Das mit der Unreal Engine 5 entwickelte Open-World-Action-RPG Silver Palace ",
       "url": "https://www.prnewswire.com/news-releases/silver-palace-wurde-bei-den-gamescom-awards-nominiert-fur-best-mobile-game--zeitgleich-feierte-der-brandneue-trailer-bei-der-opening-night-live-seine-premiere-302860205.html",
-      "source": "PR Newswire — Biotechnology",
-      "source_id": "prnewswire-biotech",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
       "published_at": "2026-08-26T05:03:00Z",
       "epoch": 1787720580,
       "sentiment": 0.0,
@@ -289,8 +321,8 @@
       "title": "Silver Palace nommé aux gamescom awards dans les catégorie Best Mobile Game, et dévoile une nouvelle bande-annonce à l'ONL",
       "summary": "Silver Palace sera présent à la gamescom, où les joueurs pourront voter pour le jeu et l'essayer sur place, avant de plonger dans une mystérieuse aventure de détective. SINGAPOUR, 26 août 2026 /PRNewswire/ -- Silver Palace, le RPG d'action en monde ouvert développé par Elementa a",
       "url": "https://www.prnewswire.com/news-releases/silver-palace-nomme-aux-gamescom-awards-dans-les-categorie-best-mobile-game-et-devoile-une-nouvelle-bande-annonce-a-lonl-302860204.html",
-      "source": "PR Newswire — Biotechnology",
-      "source_id": "prnewswire-biotech",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
       "published_at": "2026-08-26T05:02:00Z",
       "epoch": 1787720520,
       "sentiment": 0.0,
@@ -517,8 +549,8 @@
       "title": "The SBB Research Group Foundation Sponsors Women United of Lake County",
       "summary": "CHICAGO, Aug. 25, 2026 /PRNewswire/ -- Women United of Lake County collaborated in a volunteer initiative alongside the SBB Research Group Foundation, which partners with local nonprofits through its Champion A Charity Program. Volunteers gathered to assemble 60 early learning an",
       "url": "https://www.prnewswire.com/news-releases/the-sbb-research-group-foundation-sponsors-women-united-of-lake-county-302859957.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-26T01:25:00Z",
       "epoch": 1787707500,
       "sentiment": 0.0,
@@ -536,20 +568,6 @@
       "published_at": "2026-08-26T01:23:00Z",
       "epoch": 1787707380,
       "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "GOFO Expands Its Dallas Central Primary Hub, Raising Daily Capacity to 800,000 Parcels, With a Nationwide Network Upgrade Set for Completion Ahead of Peak Season",
-      "summary": "A newly added 200,000-square-foot facility and a large-scale double-deck cross-belt sorter lift the hub to 45,000 parcels per hour across its systems DALLAS, Aug. 25, 2026 /PRNewswire/ -- GOFO, a technology-driven last-mile delivery carrier, celebrated the expansion of its Dallas",
-      "url": "https://www.prnewswire.com/news-releases/gofo-expands-its-dallas-central-primary-hub-raising-daily-capacity-to-800-000-parcels-with-a-nationwide-network-upgrade-set-for-completion-ahead-of-peak-season-302859939.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-26T00:58:00Z",
-      "epoch": 1787705880,
-      "sentiment": 1.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -689,20 +707,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Stowers scientists develop a new way to visualize what AI models learn from DNA -- and discover how to control what the models learn next",
-      "summary": "The AI model interpretation method, PISA, shows what genomic AI models learn, allowing scientists to separate experimental bias from biology, train more focused models, and uncover unexpected insights related to gene regulation and genetic disease. What's new, and why it matters:",
-      "url": "https://www.prnewswire.com/news-releases/stowers-scientists-develop-a-new-way-to-visualize-what-ai-models-learn-from-dna--and-discover-how-to-control-what-the-models-learn-next-302859867.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-25T22:00:00Z",
-      "epoch": 1787695200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Miles for Mercy raises more than $4,000 before riders hit the road",
       "summary": "Frederick-area businesses push annual fundraiser for Frederick Health Hospice toward its $5,000 goal FREDERICK, Md., Aug. 25, 2026 /PRNewswire/ -- American Iron Speed-n-Cycle has raised more than $4,000 for Frederick Health Hospice through community sponsorships for the 2nd Annua",
       "url": "https://www.prnewswire.com/news-releases/miles-for-mercy-raises-more-than-4-000-before-riders-hit-the-road-302859790.html",
@@ -711,6 +715,20 @@
       "published_at": "2026-08-25T22:00:00Z",
       "epoch": 1787695200,
       "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Stowers scientists develop a new way to visualize what AI models learn from DNA -- and discover how to control what the models learn next",
+      "summary": "The AI model interpretation method, PISA, shows what genomic AI models learn, allowing scientists to separate experimental bias from biology, train more focused models, and uncover unexpected insights related to gene regulation and genetic disease. What's new, and why it matters:",
+      "url": "https://www.prnewswire.com/news-releases/stowers-scientists-develop-a-new-way-to-visualize-what-ai-models-learn-from-dna--and-discover-how-to-control-what-the-models-learn-next-302859867.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-08-25T22:00:00Z",
+      "epoch": 1787695200,
+      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -793,37 +811,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "The Inner Circle acknowledges Susan K. Sparkman, MD as a 2026 Legacy Achiever",
-      "summary": "BELLAIRE, Texas, Aug. 25, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Susan K. Sparkman, MD is acknowledged as a 2026 Legacy Achiever for her contributions to Psychiatry and Integrative Mental Health. Dr. Susan K. Sparkman has established a remarkable legacy in",
-      "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-susan-k-sparkman-md-as-a-2026-legacy-achiever-302859831.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-25T21:08:00Z",
-      "epoch": 1787692080,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "The Inner Circle acknowledges Denise Glasscock as a Pinnacle Professional Member Inner Circle of Excellence",
       "summary": "WESLEY CHAPEL, Fla., Aug. 25, 2026 /PRNewswire/ -- Denise Glasscock is the founder and chief technology officer of InnovalifeCloud Consulting, leading healthcare, government and commercial clients in AI, cloud and digital transformation to improve outcomes and create human impact",
       "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-denise-glasscock-as-a-pinnacle-professional-member-inner-circle-of-excellence-302859813.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-25T21:08:00Z",
-      "epoch": 1787692080,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "The Inner Circle acknowledges Tessa M. Meyer, MD as a Pinnacle Professional of The Year for Excellence",
-      "summary": "OKLAHOMA CITY, Aug. 25, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Tessa M. Meyer, MD is honored as a Pinnacle Professional of The Year for Excellence in Aesthetic and Reconstructive Surgery. Dr. Tessa M. Meyer has established herself as a highly regarded gene",
-      "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-tessa-m-meyer-md-as-a-pinnacle-professional-of-the-year-for-excellence-302859784.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
       "published_at": "2026-08-25T21:08:00Z",
@@ -852,6 +842,34 @@
       "title": "The Inner Circle acknowledges Dr. Marie - E Ramas as an Inner Circle Lifetime",
       "summary": "NASHUA, N.H., Aug. 25, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Dr. Marie - E Ramas is honored as a Inner Circle Lifetime for her contributions to Leadership in Health Equity and Practice Innovation. Dr. Marie Elizabeth Ramas, MD FAAFP, is a family physician",
       "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-dr-marie---e-ramas-as-an-inner-circle-lifetime-302859821.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-08-25T21:08:00Z",
+      "epoch": 1787692080,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "The Inner Circle acknowledges Susan K. Sparkman, MD as a 2026 Legacy Achiever",
+      "summary": "BELLAIRE, Texas, Aug. 25, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Susan K. Sparkman, MD is acknowledged as a 2026 Legacy Achiever for her contributions to Psychiatry and Integrative Mental Health. Dr. Susan K. Sparkman has established a remarkable legacy in",
+      "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-susan-k-sparkman-md-as-a-2026-legacy-achiever-302859831.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-08-25T21:08:00Z",
+      "epoch": 1787692080,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "The Inner Circle acknowledges Tessa M. Meyer, MD as a Pinnacle Professional of The Year for Excellence",
+      "summary": "OKLAHOMA CITY, Aug. 25, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Tessa M. Meyer, MD is honored as a Pinnacle Professional of The Year for Excellence in Aesthetic and Reconstructive Surgery. Dr. Tessa M. Meyer has established herself as a highly regarded gene",
+      "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-tessa-m-meyer-md-as-a-pinnacle-professional-of-the-year-for-excellence-302859784.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
       "published_at": "2026-08-25T21:08:00Z",
@@ -2191,20 +2209,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Cb Financial Services, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - Vyome Holdings, Inc (0001427570) (Filer)",
-      "summary": "Filed:  2026-08-25  AccNo:  0001213900-26-093512  Size:  233 KB\n Item 2.02: Results of Operations and Financial Condition\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1427570/000121390026093512/0001213900-26-093512-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-25T16:05:29Z",
-      "epoch": 1787673929,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Vyome Holdings, Inc",
       "catalyst": false,
       "small_cap_risk": false
     }
