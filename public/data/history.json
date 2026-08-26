@@ -227,6 +227,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-08-26",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "MO": [
@@ -266,6 +272,12 @@
     },
     {
       "date": "2026-08-21",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-08-26",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -368,9 +380,9 @@
     },
     {
       "date": "2026-08-26",
-      "score": 78.2,
-      "avg_sentiment": 0.55,
-      "article_count": 3
+      "score": 91.7,
+      "avg_sentiment": 0.94,
+      "article_count": 2
     }
   ],
   "IHG.L": [
@@ -470,9 +482,9 @@
     },
     {
       "date": "2026-08-26",
-      "score": 63.6,
-      "avg_sentiment": 0.09,
-      "article_count": 13
+      "score": 61.5,
+      "avg_sentiment": 0.04,
+      "article_count": 16
     }
   ],
   "WMT": [
@@ -514,9 +526,9 @@
     },
     {
       "date": "2026-08-26",
-      "score": 52.7,
-      "avg_sentiment": -0.08,
-      "article_count": 3
+      "score": 45.9,
+      "avg_sentiment": -0.2,
+      "article_count": 2
     }
   ],
   "DOW": [
@@ -558,9 +570,9 @@
     },
     {
       "date": "2026-08-26",
-      "score": 71.0,
-      "avg_sentiment": 0.28,
-      "article_count": 6
+      "score": 73.6,
+      "avg_sentiment": 0.34,
+      "article_count": 5
     }
   ],
   "NDAQ": [
@@ -840,8 +852,8 @@
     },
     {
       "date": "2026-08-26",
-      "score": 73.7,
-      "avg_sentiment": 0.44,
+      "score": 60.8,
+      "avg_sentiment": 0.12,
       "article_count": 3
     }
   ],
@@ -974,9 +986,9 @@
     },
     {
       "date": "2026-08-26",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
-      "article_count": 1
+      "score": 47.4,
+      "avg_sentiment": -0.16,
+      "article_count": 2
     }
   ],
   "NXT.L": [
@@ -1032,9 +1044,9 @@
     },
     {
       "date": "2026-08-26",
-      "score": 31.7,
-      "avg_sentiment": -0.56,
-      "article_count": 2
+      "score": 53.1,
+      "avg_sentiment": -0.07,
+      "article_count": 3
     }
   ],
   "BAC": [
@@ -1262,6 +1274,12 @@
       "date": "2026-08-25",
       "score": 52.0,
       "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-08-26",
+      "score": 38.8,
+      "avg_sentiment": -0.33,
       "article_count": 1
     }
   ],
@@ -2261,6 +2279,12 @@
       "score": 78.8,
       "avg_sentiment": 0.67,
       "article_count": 1
+    },
+    {
+      "date": "2026-08-26",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "JPM": [
@@ -3090,8 +3114,8 @@
     },
     {
       "date": "2026-08-26",
-      "score": 38.8,
-      "avg_sentiment": -0.33,
+      "score": 78.8,
+      "avg_sentiment": 0.67,
       "article_count": 1
     }
   ],
