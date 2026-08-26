@@ -380,9 +380,9 @@
     },
     {
       "date": "2026-08-26",
-      "score": 55.0,
-      "avg_sentiment": 0.03,
-      "article_count": 2
+      "score": 65.2,
+      "avg_sentiment": 0.33,
+      "article_count": 1
     }
   ],
   "IHG.L": [
@@ -482,9 +482,9 @@
     },
     {
       "date": "2026-08-26",
-      "score": 62.9,
-      "avg_sentiment": 0.07,
-      "article_count": 20
+      "score": 60.5,
+      "avg_sentiment": 0.01,
+      "article_count": 27
     }
   ],
   "WMT": [
@@ -526,9 +526,9 @@
     },
     {
       "date": "2026-08-26",
-      "score": 45.9,
-      "avg_sentiment": -0.2,
-      "article_count": 2
+      "score": 53.5,
+      "avg_sentiment": -0.06,
+      "article_count": 3
     }
   ],
   "DOW": [
@@ -570,9 +570,9 @@
     },
     {
       "date": "2026-08-26",
-      "score": 60.0,
-      "avg_sentiment": 0.0,
-      "article_count": 6
+      "score": 56.9,
+      "avg_sentiment": -0.08,
+      "article_count": 9
     }
   ],
   "NDAQ": [
@@ -986,9 +986,9 @@
     },
     {
       "date": "2026-08-26",
-      "score": 47.4,
-      "avg_sentiment": -0.16,
-      "article_count": 2
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "NXT.L": [
@@ -1398,9 +1398,9 @@
     },
     {
       "date": "2026-08-26",
-      "score": 65.2,
-      "avg_sentiment": 0.33,
-      "article_count": 1
+      "score": 60.7,
+      "avg_sentiment": 0.17,
+      "article_count": 2
     }
   ],
   "HMC": [
@@ -1954,9 +1954,9 @@
     },
     {
       "date": "2026-08-26",
-      "score": 54.0,
+      "score": 52.0,
       "avg_sentiment": 0.0,
-      "article_count": 2
+      "article_count": 1
     }
   ],
   "CPAY": [
@@ -2471,6 +2471,12 @@
       "score": 38.8,
       "avg_sentiment": -0.33,
       "article_count": 1
+    },
+    {
+      "date": "2026-08-26",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "LRCX": [
@@ -2526,6 +2532,12 @@
     },
     {
       "date": "2026-08-25",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-08-26",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -2628,8 +2640,8 @@
     },
     {
       "date": "2026-08-26",
-      "score": 65.2,
-      "avg_sentiment": 0.33,
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -2880,9 +2892,9 @@
     },
     {
       "date": "2026-08-26",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
-      "article_count": 1
+      "score": 34.0,
+      "avg_sentiment": -0.5,
+      "article_count": 2
     }
   ],
   "TSM": [
@@ -3398,6 +3410,12 @@
       "date": "2026-08-25",
       "score": 52.0,
       "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-08-26",
+      "score": 78.8,
+      "avg_sentiment": 0.67,
       "article_count": 1
     }
   ],
@@ -4025,6 +4043,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-08-26",
+      "score": 78.8,
+      "avg_sentiment": 0.67,
+      "article_count": 1
     }
   ],
   "ENR.DE": [
@@ -4032,6 +4056,12 @@
       "date": "2026-08-25",
       "score": 52.0,
       "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-08-26",
+      "score": 78.8,
+      "avg_sentiment": 0.67,
       "article_count": 1
     }
   ],
@@ -4239,6 +4269,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-08-26",
+      "score": 38.8,
+      "avg_sentiment": -0.33,
+      "article_count": 1
     }
   ],
   "INTU": [
@@ -4250,9 +4286,9 @@
     },
     {
       "date": "2026-08-26",
-      "score": 54.0,
-      "avg_sentiment": 0.0,
-      "article_count": 2
+      "score": 78.8,
+      "avg_sentiment": 0.67,
+      "article_count": 1
     }
   ],
   "CCL": [
@@ -4296,6 +4332,38 @@
     }
   ],
   "RCL": [
+    {
+      "date": "2026-08-26",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "FLEX": [
+    {
+      "date": "2026-08-26",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "EOAN.DE": [
+    {
+      "date": "2026-08-26",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "GDDY": [
+    {
+      "date": "2026-08-26",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "NA.TO": [
     {
       "date": "2026-08-26",
       "score": 52.0,
