@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-26T04:24:09Z",
+  "generated_at": "2026-08-26T05:04:29Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 150,
-    "breaking_catalyst_count": 15,
+    "breaking_catalyst_count": 14,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 12,
     "movers_count": 0
@@ -82,20 +82,6 @@
       "published_at": "2026-08-26T01:24:00Z",
       "epoch": 1787707440,
       "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Ivonescimab Plus Chemotherapy Demonstrates Significant Overall Survival Benefit Versus Durvalumab Plus Chemotherapy in First-Line Biliary Tract Cancer: HARMONi-GI1 Meets Primary Endpoint",
-      "summary": "HONG KONG, Aug. 25, 2026 /PRNewswire/ -- Akeso, Inc. (9926.HK) (\"Akeso\" or the \"Company\") is pleased to announce that a pre-specified interim analysis assessed by the Independent Data Monitoring Committee (IDMC) of the randomized, controlled, double-blinded, multicenter, registra",
-      "url": "https://www.prnewswire.com/news-releases/ivonescimab-plus-chemotherapy-demonstrates-significant-overall-survival-benefit-versus-durvalumab-plus-chemotherapy-in-first-line-biliary-tract-cancer-harmoni-gi1-meets-primary-endpoint-302859811.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-25T21:00:00Z",
-      "epoch": 1787691600,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": true,
@@ -286,6 +272,62 @@
       "small_cap_risk": false
     },
     {
+      "title": "Silver Palace wurde bei den gamescom Awards nominiert für „Best Mobile Game\" - zeitgleich feierte der brandneue Trailer bei der Opening Night Live seine Premiere.",
+      "summary": "Silver Palace kommt zur gamescom: Stimmen Sie bei den Awards ab, spielen Sie das Spiel vor Ort an und begeben Sie sich auf ein geheimnisvolles Detektivabenteuer. SINGAPUR, 26. August 2026 /PRNewswire/ -- Das mit der Unreal Engine 5 entwickelte Open-World-Action-RPG Silver Palace ",
+      "url": "https://www.prnewswire.com/news-releases/silver-palace-wurde-bei-den-gamescom-awards-nominiert-fur-best-mobile-game--zeitgleich-feierte-der-brandneue-trailer-bei-der-opening-night-live-seine-premiere-302860205.html",
+      "source": "PR Newswire — Biotechnology",
+      "source_id": "prnewswire-biotech",
+      "published_at": "2026-08-26T05:03:00Z",
+      "epoch": 1787720580,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Silver Palace nommé aux gamescom awards dans les catégorie Best Mobile Game, et dévoile une nouvelle bande-annonce à l'ONL",
+      "summary": "Silver Palace sera présent à la gamescom, où les joueurs pourront voter pour le jeu et l'essayer sur place, avant de plonger dans une mystérieuse aventure de détective. SINGAPOUR, 26 août 2026 /PRNewswire/ -- Silver Palace, le RPG d'action en monde ouvert développé par Elementa a",
+      "url": "https://www.prnewswire.com/news-releases/silver-palace-nomme-aux-gamescom-awards-dans-les-categorie-best-mobile-game-et-devoile-une-nouvelle-bande-annonce-a-lonl-302860204.html",
+      "source": "PR Newswire — Biotechnology",
+      "source_id": "prnewswire-biotech",
+      "published_at": "2026-08-26T05:02:00Z",
+      "epoch": 1787720520,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Harel Insurance Investments and Financial Services reports record second quarter 2026 results; comprehensive income up 30% to NIS 1.024 billion, ROE 37%",
+      "summary": "TEL AVIV, Israel, Aug. 26, 2026 /PRNewswire/ -- Harel Insurance Investments and Financial Services, a leading Israeli insurance and financial group (TASE: HARL) (\"Harel Insurance Investments\", \"the Group\" or \"the Company\") today reported its second quarter and first half 2026 res",
+      "url": "https://www.prnewswire.com/news-releases/harel-insurance-investments-and-financial-services-reports-record-second-quarter-2026-results-comprehensive-income-up-30-to-nis-1-024-billion-roe-37-302860184.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-26T04:52:00Z",
+      "epoch": 1787719920,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Silver Palace Nominated for gamescom Best Mobile Game Award as New Trailer Debuts at Opening Night Live",
+      "summary": "Silver Palace makes its gamescom debut, inviting players to vote and embark on a mysterious detective adventure. SINGAPORE, Aug. 26, 2026 /PRNewswire/ -- Elementa's Unreal Engine 5-powered open-world action RPG Silver Palace, has been shortlisted for this year's gamescom Best Mob",
+      "url": "https://www.prnewswire.com/news-releases/silver-palace-nominated-for-gamescom-best-mobile-game-award-as-new-trailer-debuts-at-opening-night-live-302860141.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-26T04:35:00Z",
+      "epoch": 1787718900,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "RBC richt een geïntegreerde divisie voor wereldwijde transactiebankieren op, waarin de sterke punten van toonaangevende bedrijfsonderdelen worden gebundeld",
       "summary": "Het nieuwe gezamenlijke leiderschap brengt de transactiebankactiviteiten van RBC binnen de hele bank samen, zodat klanten naadloos over de grenzen heen kunnen worden bediend TORONTO, 26 augustus 2026 /PRNewswire/ -- Royal Bank of Canada (RBC) heeft vandaag de formele oprichting v",
       "url": "https://www.prnewswire.com/news-releases/rbc-richt-een-geintegreerde-divisie-voor-wereldwijde-transactiebankieren-op-waarin-de-sterke-punten-van-toonaangevende-bedrijfsonderdelen-worden-gebundeld-302860137.html",
@@ -330,9 +372,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "New book calls Christians to strengthen biblical discernment in an age of spiritual deception",
-      "summary": "'The Devil In Bethel: How to Discern Satan's Demonic Teachers, Prophets, Idols, and Tools in God's Church' released RANCHO CUCAMONGA, Calif., Aug. 26, 2026 /PRNewswire/ -- Christian clinical counselor Aaron G. Cisneros invites believers to take a closer look at biblical discernme",
-      "url": "https://www.prnewswire.com/news-releases/new-book-calls-christians-to-strengthen-biblical-discernment-in-an-age-of-spiritual-deception-302859871.html",
+      "title": "TIER IV to showcase integrated AI, data, and computing solution for SDVs at Automotive World 2026",
+      "summary": "TOKYO, Aug. 26, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, will showcase a solution for software-defined vehicles (SDVs) that integrates AI, data, and computing at Automotive World 2026, to be held at Makuhari Messe from",
+      "url": "https://www.prnewswire.com/news-releases/tier-iv-to-showcase-integrated-ai-data-and-computing-solution-for-sdvs-at-automotive-world-2026-302859969.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
       "published_at": "2026-08-26T04:00:00Z",
@@ -344,9 +386,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "TIER IV to showcase integrated AI, data, and computing solution for SDVs at Automotive World 2026",
-      "summary": "TOKYO, Aug. 26, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, will showcase a solution for software-defined vehicles (SDVs) that integrates AI, data, and computing at Automotive World 2026, to be held at Makuhari Messe from",
-      "url": "https://www.prnewswire.com/news-releases/tier-iv-to-showcase-integrated-ai-data-and-computing-solution-for-sdvs-at-automotive-world-2026-302859969.html",
+      "title": "New book calls Christians to strengthen biblical discernment in an age of spiritual deception",
+      "summary": "'The Devil In Bethel: How to Discern Satan's Demonic Teachers, Prophets, Idols, and Tools in God's Church' released RANCHO CUCAMONGA, Calif., Aug. 26, 2026 /PRNewswire/ -- Christian clinical counselor Aaron G. Cisneros invites believers to take a closer look at biblical discernme",
+      "url": "https://www.prnewswire.com/news-releases/new-book-calls-christians-to-strengthen-biblical-discernment-in-an-age-of-spiritual-deception-302859871.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
       "published_at": "2026-08-26T04:00:00Z",
@@ -514,34 +556,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Combos Makes Its Global Debut at Gamescom, Bringing AI-Created Games by Everyday Creators",
-      "summary": "The AI game creation platform arrives in Cologne with 10+ playable titles built by creators with no coding background and a growing community of 300,000+ creators across 110+ countries COLOGNE, Germany, Aug. 25, 2026 /PRNewswire/ -- Combos, the AI game creation platform by Conver",
-      "url": "https://www.prnewswire.com/news-releases/combos-makes-its-global-debut-at-gamescom-bringing-ai-created-games-by-everyday-creators-302859934.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-26T00:52:00Z",
-      "epoch": 1787705520,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "BEYONCÉ REALIZARÁ UNA DONACIÓN PERSONAL DE UN MILLÓN DE DÓLARES A ORGANIZACIONES DE COLOMBIA PARA COLABORAR EN LAS LABORES DE AYUDA HUMANITARIA TRAS EL RECIENTE TERREMOTO",
-      "summary": "NUEVA YORK, 25 de agosto de 2026 /PRNewswire-HISPANIC PR WIRE/ -- Hoy, Beyoncé anuncia una donación personal de 1 millón de dólares estadounidenses a organizaciones que actualmente trabajan sobre el terreno en Colombia en labores de ayuda humanitaria tras la devastación causada p",
-      "url": "https://www.prnewswire.com/news-releases/beyonce-realizara-una-donacion-personal-de-un-millon-de-dolares-a-organizaciones-de-colombia-para-colaborar-en-las-labores-de-ayuda-humanitaria-tras-el-reciente-terremoto-897939741.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-26T00:33:00Z",
-      "epoch": 1787704380,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Vector Science and Therapeutics Corp. Enters Into an Investor Relations Agreement and Grants Options",
       "summary": "MEQUON, Wis., Aug. 25, 2026 /PRNewswire/ -- Vector Science and Therapeutics Corp. (TSXV: PAIN) (\"Vector\" or the \"Company\") is pleased to announce that the Company has entered into an investor relations agreement (the \"IR Agreement\") with RedChip Companies, Inc. (\"RedChip\") throug",
       "url": "https://www.prnewswire.com/news-releases/vector-science-and-therapeutics-corp-enters-into-an-investor-relations-agreement-and-grants-options-302859924.html",
@@ -675,20 +689,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Miles for Mercy raises more than $4,000 before riders hit the road",
-      "summary": "Frederick-area businesses push annual fundraiser for Frederick Health Hospice toward its $5,000 goal FREDERICK, Md., Aug. 25, 2026 /PRNewswire/ -- American Iron Speed-n-Cycle has raised more than $4,000 for Frederick Health Hospice through community sponsorships for the 2nd Annua",
-      "url": "https://www.prnewswire.com/news-releases/miles-for-mercy-raises-more-than-4-000-before-riders-hit-the-road-302859790.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-25T22:00:00Z",
-      "epoch": 1787695200,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Stowers scientists develop a new way to visualize what AI models learn from DNA -- and discover how to control what the models learn next",
       "summary": "The AI model interpretation method, PISA, shows what genomic AI models learn, allowing scientists to separate experimental bias from biology, train more focused models, and uncover unexpected insights related to gene regulation and genetic disease. What's new, and why it matters:",
       "url": "https://www.prnewswire.com/news-releases/stowers-scientists-develop-a-new-way-to-visualize-what-ai-models-learn-from-dna--and-discover-how-to-control-what-the-models-learn-next-302859867.html",
@@ -697,6 +697,20 @@
       "published_at": "2026-08-25T22:00:00Z",
       "epoch": 1787695200,
       "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Miles for Mercy raises more than $4,000 before riders hit the road",
+      "summary": "Frederick-area businesses push annual fundraiser for Frederick Health Hospice toward its $5,000 goal FREDERICK, Md., Aug. 25, 2026 /PRNewswire/ -- American Iron Speed-n-Cycle has raised more than $4,000 for Frederick Health Hospice through community sponsorships for the 2nd Annua",
+      "url": "https://www.prnewswire.com/news-releases/miles-for-mercy-raises-more-than-4-000-before-riders-hit-the-road-302859790.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-08-25T22:00:00Z",
+      "epoch": 1787695200,
+      "sentiment": 0.67,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -807,9 +821,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "The Inner Circle acknowledges Joy A. Gottshall as a 2026 Pinnacle Woman of The Year",
-      "summary": "GREENSBORO, N.C., Aug. 25, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Joy A. Gottshall is acknowledged as a 2026 Pinnacle Woman of The Year for her contributions to School Psychology and Student Support. Joy A. Gottshall has built a respected career in school.",
-      "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-joy-a-gottshall-as-a-2026-pinnacle-woman-of-the-year-302859783.html",
+      "title": "The Inner Circle acknowledges Tessa M. Meyer, MD as a Pinnacle Professional of The Year for Excellence",
+      "summary": "OKLAHOMA CITY, Aug. 25, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Tessa M. Meyer, MD is honored as a Pinnacle Professional of The Year for Excellence in Aesthetic and Reconstructive Surgery. Dr. Tessa M. Meyer has established herself as a highly regarded gene",
+      "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-tessa-m-meyer-md-as-a-pinnacle-professional-of-the-year-for-excellence-302859784.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
       "published_at": "2026-08-25T21:08:00Z",
@@ -821,9 +835,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "The Inner Circle acknowledges Tessa M. Meyer, MD as a Pinnacle Professional of The Year for Excellence",
-      "summary": "OKLAHOMA CITY, Aug. 25, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Tessa M. Meyer, MD is honored as a Pinnacle Professional of The Year for Excellence in Aesthetic and Reconstructive Surgery. Dr. Tessa M. Meyer has established herself as a highly regarded gene",
-      "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-tessa-m-meyer-md-as-a-pinnacle-professional-of-the-year-for-excellence-302859784.html",
+      "title": "The Inner Circle acknowledges Joy A. Gottshall as a 2026 Pinnacle Woman of The Year",
+      "summary": "GREENSBORO, N.C., Aug. 25, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Joy A. Gottshall is acknowledged as a 2026 Pinnacle Woman of The Year for her contributions to School Psychology and Student Support. Joy A. Gottshall has built a respected career in school.",
+      "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-joy-a-gottshall-as-a-2026-pinnacle-woman-of-the-year-302859783.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
       "published_at": "2026-08-25T21:08:00Z",
@@ -1023,20 +1037,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "Nearly One-Third of CRE Asset Managers Make Major Capital Decisions on Gut Instinct, New Survey Finds",
-      "summary": "Research among 166 commercial real estate professionals finds 69% have paid more for capital work that earlier maintenance would have prevented CHICAGO, Aug. 25, 2026 /PRNewswire/ -- SITE Technologies, a provider of AI-assisted asset intelligence solutions for commercial real est",
-      "url": "https://www.prnewswire.com/news-releases/nearly-one-third-of-cre-asset-managers-make-major-capital-decisions-on-gut-instinct-new-survey-finds-302859698.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-25T19:08:00Z",
-      "epoch": 1787684880,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "8-K - Quartzsea Acquisition Corp (0002047455) (Filer)",
