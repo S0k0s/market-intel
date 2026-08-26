@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
-import { Moon, Sun, TrendingUp, Rocket } from "lucide-react";
+import { Moon, Sun, TrendingUp, Rocket, RefreshCw } from "lucide-react";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
 import { Button } from "@/components/ui/button";
+import { refreshAllData } from "@/hooks/useJsonData";
 import { NewsFeed } from "@/pages/NewsFeed";
 import { Rankings } from "@/pages/Rankings";
 import { Portfolio } from "@/pages/Portfolio";
@@ -25,6 +26,15 @@ function useTheme() {
 
 function App() {
   const { dark, toggle } = useTheme();
+  const [refreshing, setRefreshing] = useState(false);
+
+  function handleRefresh() {
+    setRefreshing(true);
+    refreshAllData();
+    // Καθαρά UI feedback (spin) — τα ίδια τα hooks δεν εκθέτουν πότε τελειώνουν
+    // όλα τα ταυτόχρονα refetches, οπότε ένα σταθερό μικρό διάστημα αρκεί.
+    setTimeout(() => setRefreshing(false), 1000);
+  }
 
   return (
     <div className="min-h-svh bg-background">
@@ -39,9 +49,20 @@ function App() {
               </p>
             </div>
           </div>
-          <Button variant="ghost" size="icon" onClick={toggle} aria-label="Εναλλαγή θέματος">
-            {dark ? <Sun className="size-4" /> : <Moon className="size-4" />}
-          </Button>
+          <div className="flex items-center gap-1">
+            <Button
+              variant="ghost"
+              size="icon"
+              onClick={handleRefresh}
+              aria-label="Ανανέωση δεδομένων"
+              disabled={refreshing}
+            >
+              <RefreshCw className={`size-4 ${refreshing ? "animate-spin" : ""}`} />
+            </Button>
+            <Button variant="ghost" size="icon" onClick={toggle} aria-label="Εναλλαγή θέματος">
+              {dark ? <Sun className="size-4" /> : <Moon className="size-4" />}
+            </Button>
+          </div>
         </div>
       </header>
 
