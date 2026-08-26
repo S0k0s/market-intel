@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-26T01:03:47Z",
+  "generated_at": "2026-08-26T02:39:16Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 150,
-    "breaking_catalyst_count": 14,
+    "breaking_catalyst_count": 15,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 12,
     "movers_count": 0
@@ -52,6 +52,12 @@
       "source_count": 2
     },
     {
+      "ticker": "JOYY",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
       "ticker": "BTGO",
       "count": 1,
       "catalyst_count": 0,
@@ -62,17 +68,25 @@
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
-    },
-    {
-      "ticker": "VEEV",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
     }
   ],
   "movers": [],
   "concentration_warning": null,
   "breaking": [
+    {
+      "title": "Caliway's CBL-514 Combination Therapy Cleared by U.S. FDA for Phase 2 Trial; Pivotal Phase 3 Trial SUPREME-01 Initiates Enrollment",
+      "summary": "FDA IND Clearance for CBL-0201WR—Caliway has cleared its Investigational New Drug application for CBL-0201WR, a Phase 2 trial evaluating CBL-514 in combination with tirzepatide. U.S. IRB Approval for Pivotal Phase 3 Trial SUPREME-01 (CBL-0301)—The protocol amendment for the pivot",
+      "url": "https://www.prnewswire.com/news-releases/caliways-cbl-514-combination-therapy-cleared-by-us-fda-for-phase-2-trial-pivotal-phase-3-trial-supreme-01-initiates-enrollment-302859956.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-26T01:24:00Z",
+      "epoch": 1787707440,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
     {
       "title": "Ivonescimab Plus Chemotherapy Demonstrates Significant Overall Survival Benefit Versus Durvalumab Plus Chemotherapy in First-Line Biliary Tract Cancer: HARMONi-GI1 Meets Primary Endpoint",
       "summary": "HONG KONG, Aug. 25, 2026 /PRNewswire/ -- Akeso, Inc. (9926.HK) (\"Akeso\" or the \"Company\") is pleased to announce that a pre-specified interim analysis assessed by the Independent Data Monitoring Committee (IDMC) of the randomized, controlled, double-blinded, multicenter, registra",
@@ -272,6 +286,106 @@
       "small_cap_risk": false
     },
     {
+      "title": "JOYY Reports Second Quarter 2026 Financial Results: Total Revenues Increase to US$590.8 Million, Driven by Growth Across Core Businesses",
+      "summary": "SINGAPORE, Aug. 25, 2026 /PRNewswire/ -- JOYY Inc. (NASDAQ: JOYY) (\"JOYY\" or the \"Company\"), a leading global technology company, today announced its unaudited financial results for the second quarter ended June 30, 2026. In the second quarter, JOYY generated total revenues of US",
+      "url": "https://www.prnewswire.com/news-releases/joyy-reports-second-quarter-2026-financial-results-total-revenues-increase-to-us590-8-million-driven-by-growth-across-core-businesses-302859993.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-26T02:16:00Z",
+      "epoch": 1787710560,
+      "sentiment": 0.33,
+      "tickers": [
+        "JOYY"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Kutta Technologies' KTAC Controller Approved for DCMA Blue List",
+      "summary": "Approval reinforces KTAC as a trusted, mission-ready control solution for unmanned systems PHOENIX, Aug. 25, 2026 /PRNewswire/ -- Kutta Technologies (Kutta), a leader in unmanned systems control software and hardware, today announced that its Kutta Tactical Controller (KTAC) has ",
+      "url": "https://www.prnewswire.com/news-releases/kutta-technologies-ktac-controller-approved-for-dcma-blue-list-302858054.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-26T02:05:00Z",
+      "epoch": 1787709900,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "The Dollywood Foundation Honors the Life and Legacy of Dolly Parton",
+      "summary": "Foundation to carry forward Dolly's lifelong mission of inspiring children, families and communities through generosity, opportunity and love SEVIERVILLE, Tenn., Aug. 25, 2026 /PRNewswire/ -- The Dollywood Foundation today joins millions of people around the world in mourning the",
+      "url": "https://www.prnewswire.com/news-releases/the-dollywood-foundation-honors-the-life-and-legacy-of-dolly-parton-302859979.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-26T01:50:00Z",
+      "epoch": 1787709000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Antaisolar Joins United Nations Global Compact and Releases 2025 ESG Report",
+      "summary": "XIAMEN, China, Aug. 25, 2026 /PRNewswire/ -- Antaisolar, a leading expert in digital and intelligent PV mounting system solutions, announced its official participation in the United Nations Global Compact (UNGC) and the release of its 2025 ESG Report, marking two key milestones i",
+      "url": "https://www.prnewswire.com/news-releases/antaisolar-joins-united-nations-global-compact-and-releases-2025-esg-report-302859976.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-26T01:46:00Z",
+      "epoch": 1787708760,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "American Alliance for Equal Rights Announces Settlement of Whistleblower Suit Against Deloitte",
+      "summary": "FORT WORTH, Texas, Aug. 25, 2026 /PRNewswire/ -- Today, the Alliance—together with the United States of America, Florida, and Indiana—announced a settlement with Deloitte. Represented by Consovoy McCarthy PLLC, the Alliance filed a complaint in the Northern District of Texas unde",
+      "url": "https://www.prnewswire.com/news-releases/american-alliance-for-equal-rights-announces-settlement-of-whistleblower-suit-against-deloitte-302859961.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-26T01:29:00Z",
+      "epoch": 1787707740,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "The SBB Research Group Foundation Sponsors Women United of Lake County",
+      "summary": "CHICAGO, Aug. 25, 2026 /PRNewswire/ -- Women United of Lake County collaborated in a volunteer initiative alongside the SBB Research Group Foundation, which partners with local nonprofits through its Champion A Charity Program. Volunteers gathered to assemble 60 early learning an",
+      "url": "https://www.prnewswire.com/news-releases/the-sbb-research-group-foundation-sponsors-women-united-of-lake-county-302859957.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-26T01:25:00Z",
+      "epoch": 1787707500,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Founder Securities Chief Economist Yan Xiang: China's Capital Market Is Better Aligned and More Effective in Backing the New Growth Drivers",
+      "summary": "BEIJING, Aug. 19, 2026 /PRNewswire/ -- The Political Bureau of the CPC Central Committee convened a meeting on July 30 to assess the current economic landscape and set priorities for the second half of the year. On capital markets, the meeting called for deepening comprehensive r",
+      "url": "https://www.prnewswire.com/news-releases/founder-securities-chief-economist-yan-xiang-chinas-capital-market-is-better-aligned-and-more-effective-in-backing-the-new-growth-drivers-302859955.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-26T01:23:00Z",
+      "epoch": 1787707380,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "GOFO Expands Its Dallas Central Primary Hub, Raising Daily Capacity to 800,000 Parcels, With a Nationwide Network Upgrade Set for Completion Ahead of Peak Season",
       "summary": "A newly added 200,000-square-foot facility and a large-scale double-deck cross-belt sorter lift the hub to 45,000 parcels per hour across its systems DALLAS, Aug. 25, 2026 /PRNewswire/ -- GOFO, a technology-driven last-mile delivery carrier, celebrated the expansion of its Dallas",
       "url": "https://www.prnewswire.com/news-releases/gofo-expands-its-dallas-central-primary-hub-raising-daily-capacity-to-800-000-parcels-with-a-nationwide-network-upgrade-set-for-completion-ahead-of-peak-season-302859939.html",
@@ -459,20 +573,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Egg Tuck to Bring Its Signature Soft-Scrambled Egg Sandwiches to San Diego's Little Italy",
-      "summary": "First San Diego restaurant marks another step in the fast-growing breakfast concept's expansion into major U.S. metropolitan markets SAN DIEGO, Aug. 25, 2026 /PRNewswire/ -- Egg Tuck, the fast-casual breakfast concept that has built a following around its signature soft-scrambled",
-      "url": "https://www.prnewswire.com/news-releases/egg-tuck-to-bring-its-signature-soft-scrambled-egg-sandwiches-to-san-diegos-little-italy-302859889.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-25T22:55:00Z",
-      "epoch": 1787698500,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Memorial Healthcare System Appoints Irfan Mirza as Chief Financial Officer",
       "summary": "HOLLYWOOD, Fla., Aug. 25, 2026 /PRNewswire/ -- Memorial Healthcare System has named Irfan Mirza as its Chief Financial Officer, recognizing his leadership in aligning Memorial's financial strategy with its mission to deliver exceptional patient care, support strategic growth and.",
       "url": "https://www.prnewswire.com/news-releases/memorial-healthcare-system-appoints-irfan-mirza-as-chief-financial-officer-302859818.html",
@@ -490,8 +590,8 @@
       "title": "Waystar Expands Executive Leadership to Accelerate Innovation and Growth",
       "summary": "Appointments extend world-class technology expertise and commercial leadership to advance Waystar's vision for the autonomous revenue cycle LEHI, Utah and LOUISVILLE, Ky., Aug. 25, 2026 /PRNewswire/ -- Waystar (Nasdaq: WAY), a provider of leading healthcare payment software, toda",
       "url": "https://www.prnewswire.com/news-releases/waystar-expands-executive-leadership-to-accelerate-innovation-and-growth-302859885.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-25T22:37:00Z",
       "epoch": 1787697420,
       "sentiment": 0.67,
@@ -506,8 +606,8 @@
       "title": "Walden Media Group Named Agency of Record for Stonegate Pharmacy",
       "summary": "WMG will lead go to market strategy for one of the fastest growing compounding pharmacies in the country as Stonegate Pharmacy expands nationally AUSTIN, Texas, Aug. 25, 2026 /PRNewswire/ -- Walden Media Group (WMG®) is named as Agency of Record for Stonegate Pharmacy, one of the",
       "url": "https://www.prnewswire.com/news-releases/walden-media-group-named-agency-of-record-for-stonegate-pharmacy-302859884.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-25T22:34:00Z",
       "epoch": 1787697240,
       "sentiment": 1.0,
@@ -517,42 +617,14 @@
       "small_cap_risk": false
     },
     {
-      "title": "/C O R R E C T I O N -- American Packaging Corporation/",
-      "summary": "In the news release, APC Elevates Tea Packaging with Advanced Coatings, Material Optimization, and Precision Slitting, issued 24-Aug-2026 by American Packaging Corporation over PR Newswire, we are advised by the company that changes have been made. The complete, corrected release",
-      "url": "https://www.prnewswire.com/news-releases/apc-elevates-tea-packaging-with-advanced-coatings-material-optimization-and-precision-slitting-302858449.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-25T22:33:00Z",
-      "epoch": 1787697180,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Walden Media Group named as Approved Agency Partner for WellBiz Brands",
       "summary": "Agency expands partnership across Drybar, Elements Massage, Radiant Waxing, Amazing Lash Studio, and Fitness Together following three years of proven results with Amazing Lash Studio franchisees AUSTIN, Texas, Aug. 25, 2026 /PRNewswire/ -- Walden Media Group (WMG®), a growth mark",
       "url": "https://www.prnewswire.com/news-releases/walden-media-group-named-as-approved-agency-partner-for-wellbiz-brands-302859882.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-25T22:27:00Z",
       "epoch": 1787696820,
       "sentiment": 1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "PureTalk: NEW CAMPAIGN PLEDGES $250,000 TO AMERICA'S WARRIOR PARTNERSHIP, A NATIONAL NONPROFIT DEDICATED TO IMPROVING THE LIVES OF VETERANS",
-      "summary": "Medal of Honor Recipient shares why veteran support and patriotism should be a priority during America's 250th anniversary COVINGTON, Ga., Aug. 25, 2026 /PRNewswire/ -- BACKGROUND: As America approaches its 250th birthday, a new campaign is putting action behind the celebrations.",
-      "url": "https://www.prnewswire.com/news-releases/puretalk-new-campaign-pledges-250-000-to-americas-warrior-partnership-a-national-nonprofit-dedicated-to-improving-the-lives-of-veterans-302859880.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-25T22:26:00Z",
-      "epoch": 1787696760,
-      "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -789,22 +861,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Federal Court Enters Judgment Confirming RA Capital and Avilar Therapeutics Willfully and Maliciously Misappropriated Trade Secret Developed at Yale, Formalizing $4 Million Award to Biohaven and Yale University",
-      "summary": "NEW HAVEN, Conn., Aug. 25, 2026 /PRNewswire/ -- Biohaven Ltd. and/or its wholly owned subsidiaries (\"Biohaven\") (NYSE: BHVN) and Yale University (\"Yale\") today announced that the U.S. District Court for the District of Delaware has entered judgment in their favor in the trade sec",
-      "url": "https://www.prnewswire.com/news-releases/federal-court-enters-judgment-confirming-ra-capital-and-avilar-therapeutics-willfully-and-maliciously-misappropriated-trade-secret-developed-at-yale-formalizing-4-million-award-to-biohaven-and-yale-university-302859834.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-25T20:41:00Z",
-      "epoch": 1787690460,
-      "sentiment": 0.0,
-      "tickers": [
-        "BHVN"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "WheelMetrics Brings Systematic Stock Selection to Retail Investors Using the Wheel Strategy",
       "summary": "Founded by computer scientist and former AI entrepreneur Adrian Rosebrock, WheelMetrics helps traders evaluate the stocks behind their options trades before chasing premiums WASHINGTON, Aug. 25, 2026 /PRNewswire/ -- WheelMetrics, an educational and stock-screening platform for re",
       "url": "https://www.prnewswire.com/news-releases/wheelmetrics-brings-systematic-stock-selection-to-retail-investors-using-the-wheel-strategy-302859833.html",
@@ -852,20 +908,6 @@
       "url": "https://www.prnewswire.com/news-releases/in-hellonation-insurance-expert-courtney-paat-explains-florida-auto-insurance-explained-coverage-and-requirements-302859823.html",
       "source": "PR Newswire — Financial",
       "source_id": "prnewswire-financial",
-      "published_at": "2026-08-25T20:29:00Z",
-      "epoch": 1787689740,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Tampa General Hospital Ranked No. 6 Among Florida Employers on Forbes' 2026 America's Best Employers for Women List",
-      "summary": "Forbes recognizes Tampa General as the highest-ranked healthcare and social services employer in the Tampa Bay region, reflecting its commitment to helping women build careers, advance into leadership and thrive at every stage of life. TAMPA, Fla., Aug. 25, 2026 /PRNewswire/ -- T",
-      "url": "https://www.prnewswire.com/news-releases/tampa-general-hospital-ranked-no-6-among-florida-employers-on-forbes-2026-americas-best-employers-for-women-list-302859822.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
       "published_at": "2026-08-25T20:29:00Z",
       "epoch": 1787689740,
       "sentiment": 0.0,
@@ -976,22 +1018,6 @@
       "epoch": 1787684580,
       "sentiment": 0.0,
       "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "RBC schafft einen einheitlichen Geschäftsbereich „Global Transaction Banking\" und bündelt dabei die Stärken führender Geschäftsbereiche",
-      "summary": "Die neue gemeinsame Führung bündelt die Transaktionsbank-Kompetenzen der RBC bankweit, um Kunden nahtlos über Grenzen hinweg zu betreuen TORONTO, 25. August 2026 /PRNewswire/ -- Die Royal Bank of Canada (RBC) gab heute die offizielle Gründung des Geschäftsbereichs „Global Transac",
-      "url": "https://www.prnewswire.com/news-releases/rbc-schafft-einen-einheitlichen-geschaftsbereich-global-transaction-banking-und-bundelt-dabei-die-starken-fuhrender-geschaftsbereiche-302859748.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-25T19:00:00Z",
-      "epoch": 1787684400,
-      "sentiment": 0.0,
-      "tickers": [
-        "RY.TO"
-      ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -2177,34 +2203,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Bain Capital Private Credit",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - Spyre Therapeutics, Inc. (0001636282) (Filer)",
-      "summary": "Filed:  2026-08-25  AccNo:  0001636282-26-000105  Size:  225 KB\n Item 7.01: Regulation FD Disclosure\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1636282/000163628226000105/0001636282-26-000105-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-25T16:04:39Z",
-      "epoch": 1787673879,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Spyre Therapeutics, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - FLYEXCLUSIVE INC. (0001843973) (Filer)",
-      "summary": "Filed:  2026-08-25  AccNo:  0001193125-26-365105  Size:  207 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1843973/000119312526365105/0001193125-26-365105-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-08-25T16:03:02Z",
-      "epoch": 1787673782,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Flyexclusive Inc.",
       "catalyst": false,
       "small_cap_risk": false
     }
