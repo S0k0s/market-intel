@@ -518,9 +518,9 @@
     },
     {
       "date": "2026-08-27",
-      "score": 66.5,
-      "avg_sentiment": 0.16,
-      "article_count": 31
+      "score": 68.3,
+      "avg_sentiment": 0.21,
+      "article_count": 30
     }
   ],
   "WMT": [
@@ -618,9 +618,9 @@
     },
     {
       "date": "2026-08-27",
-      "score": 56.0,
-      "avg_sentiment": 0.0,
-      "article_count": 3
+      "score": 68.4,
+      "avg_sentiment": 0.36,
+      "article_count": 2
     }
   ],
   "NDAQ": [
@@ -684,6 +684,12 @@
     },
     {
       "date": "2026-08-25",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-08-27",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -1070,9 +1076,9 @@
     },
     {
       "date": "2026-08-27",
-      "score": 80.8,
-      "avg_sentiment": 0.67,
-      "article_count": 2
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "NXT.L": [
@@ -2086,8 +2092,8 @@
     },
     {
       "date": "2026-08-27",
-      "score": 62.3,
-      "avg_sentiment": 0.06,
+      "score": 64.3,
+      "avg_sentiment": 0.11,
       "article_count": 6
     }
   ],
@@ -2150,9 +2156,9 @@
     },
     {
       "date": "2026-08-27",
-      "score": 78.7,
-      "avg_sentiment": 0.47,
-      "article_count": 5
+      "score": 85.8,
+      "avg_sentiment": 0.65,
+      "article_count": 7
     }
   ],
   "DAL": [
@@ -2522,8 +2528,8 @@
     },
     {
       "date": "2026-08-27",
-      "score": 92.0,
-      "avg_sentiment": 1.0,
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -2814,9 +2820,9 @@
     },
     {
       "date": "2026-08-27",
-      "score": 87.4,
-      "avg_sentiment": 0.68,
-      "article_count": 5
+      "score": 81.6,
+      "avg_sentiment": 0.54,
+      "article_count": 10
     }
   ],
   "GRMN": [
@@ -3219,6 +3225,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-08-27",
+      "score": 92.0,
+      "avg_sentiment": 1.0,
+      "article_count": 1
     }
   ],
   "DOV": [
@@ -3287,6 +3299,12 @@
       "score": 40.6,
       "avg_sentiment": -0.33,
       "article_count": 2
+    },
+    {
+      "date": "2026-08-27",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "XOM": [
@@ -3606,6 +3624,12 @@
       "date": "2026-08-24",
       "score": 52.0,
       "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-08-27",
+      "score": 25.2,
+      "avg_sentiment": -0.67,
       "article_count": 1
     }
   ],
@@ -3956,6 +3980,12 @@
       "date": "2026-08-26",
       "score": 65.2,
       "avg_sentiment": 0.33,
+      "article_count": 1
+    },
+    {
+      "date": "2026-08-27",
+      "score": 25.2,
+      "avg_sentiment": -0.67,
       "article_count": 1
     }
   ],
@@ -4345,6 +4375,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-08-27",
+      "score": 92.0,
+      "avg_sentiment": 1.0,
+      "article_count": 1
     }
   ],
   "CMG": [
@@ -4658,8 +4694,8 @@
     },
     {
       "date": "2026-08-27",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
+      "score": 78.8,
+      "avg_sentiment": 0.67,
       "article_count": 1
     }
   ],
@@ -4724,6 +4760,54 @@
       "date": "2026-08-27",
       "score": 12.0,
       "avg_sentiment": -1.0,
+      "article_count": 1
+    }
+  ],
+  "FSLR": [
+    {
+      "date": "2026-08-27",
+      "score": 74.0,
+      "avg_sentiment": 0.5,
+      "article_count": 2
+    }
+  ],
+  "HRL": [
+    {
+      "date": "2026-08-27",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "DG": [
+    {
+      "date": "2026-08-27",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "REGN": [
+    {
+      "date": "2026-08-27",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "VEEV": [
+    {
+      "date": "2026-08-27",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "RELIANCE.NS": [
+    {
+      "date": "2026-08-27",
+      "score": 38.8,
+      "avg_sentiment": -0.33,
       "article_count": 1
     }
   ]
