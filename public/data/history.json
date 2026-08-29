@@ -572,9 +572,9 @@
     },
     {
       "date": "2026-08-29",
-      "score": 63.7,
-      "avg_sentiment": 0.09,
-      "article_count": 9
+      "score": 64.6,
+      "avg_sentiment": 0.12,
+      "article_count": 8
     }
   ],
   "WMT": [
@@ -634,9 +634,9 @@
     },
     {
       "date": "2026-08-29",
-      "score": 54.6,
-      "avg_sentiment": -0.04,
-      "article_count": 3
+      "score": 59.4,
+      "avg_sentiment": -0.01,
+      "article_count": 5
     }
   ],
   "DOW": [
@@ -696,9 +696,9 @@
     },
     {
       "date": "2026-08-29",
-      "score": 58.0,
+      "score": 56.0,
       "avg_sentiment": 0.0,
-      "article_count": 4
+      "article_count": 3
     }
   ],
   "NDAQ": [
@@ -1012,9 +1012,9 @@
     },
     {
       "date": "2026-08-29",
-      "score": 52.0,
+      "score": 54.0,
       "avg_sentiment": 0.0,
-      "article_count": 1
+      "article_count": 2
     }
   ],
   "AMD": [
@@ -1053,6 +1053,12 @@
       "score": 60.8,
       "avg_sentiment": 0.12,
       "article_count": 3
+    },
+    {
+      "date": "2026-08-29",
+      "score": 54.0,
+      "avg_sentiment": 0.0,
+      "article_count": 2
     }
   ],
   "LOW": [
@@ -1352,9 +1358,9 @@
     },
     {
       "date": "2026-08-29",
-      "score": 78.8,
-      "avg_sentiment": 0.67,
-      "article_count": 1
+      "score": 56.5,
+      "avg_sentiment": 0.06,
+      "article_count": 2
     }
   ],
   "0267.HK": [
@@ -1431,6 +1437,12 @@
       "score": 38.8,
       "avg_sentiment": -0.33,
       "article_count": 1
+    },
+    {
+      "date": "2026-08-29",
+      "score": 65.2,
+      "avg_sentiment": 0.33,
+      "article_count": 1
     }
   ],
   "BLK": [
@@ -1480,6 +1492,12 @@
     },
     {
       "date": "2026-08-27",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-08-29",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -1858,9 +1876,9 @@
     },
     {
       "date": "2026-08-29",
-      "score": 82.8,
-      "avg_sentiment": 0.67,
-      "article_count": 3
+      "score": 76.7,
+      "avg_sentiment": 0.47,
+      "article_count": 4
     }
   ],
   "PSN.L": [
@@ -2908,9 +2926,9 @@
     },
     {
       "date": "2026-08-29",
-      "score": 52.0,
+      "score": 54.0,
       "avg_sentiment": 0.0,
-      "article_count": 1
+      "article_count": 2
     }
   ],
   "PSX": [
@@ -2918,6 +2936,12 @@
       "date": "2026-08-22",
       "score": 65.2,
       "avg_sentiment": 0.33,
+      "article_count": 1
+    },
+    {
+      "date": "2026-08-29",
+      "score": 78.8,
+      "avg_sentiment": 0.67,
       "article_count": 1
     }
   ],
@@ -3078,9 +3102,9 @@
     },
     {
       "date": "2026-08-29",
-      "score": 52.0,
+      "score": 54.0,
       "avg_sentiment": 0.0,
-      "article_count": 1
+      "article_count": 2
     }
   ],
   "WDAY": [
@@ -3216,9 +3240,9 @@
     },
     {
       "date": "2026-08-29",
-      "score": 71.4,
-      "avg_sentiment": 0.33,
-      "article_count": 4
+      "score": 70.4,
+      "avg_sentiment": 0.26,
+      "article_count": 5
     }
   ],
   "GRMN": [
@@ -3407,6 +3431,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-08-29",
+      "score": 74.0,
+      "avg_sentiment": 0.5,
+      "article_count": 2
     }
   ],
   "BRK.B": [
@@ -3798,8 +3828,8 @@
     },
     {
       "date": "2026-08-29",
-      "score": 67.4,
-      "avg_sentiment": 0.33,
+      "score": 87.4,
+      "avg_sentiment": 0.84,
       "article_count": 2
     }
   ],
@@ -3955,6 +3985,12 @@
       "score": 65.2,
       "avg_sentiment": 0.33,
       "article_count": 1
+    },
+    {
+      "date": "2026-08-29",
+      "score": 74.0,
+      "avg_sentiment": 0.5,
+      "article_count": 2
     }
   ],
   "MCD": [
@@ -4604,9 +4640,9 @@
     },
     {
       "date": "2026-08-29",
-      "score": 27.2,
+      "score": 25.2,
       "avg_sentiment": -0.67,
-      "article_count": 2
+      "article_count": 1
     }
   ],
   "MSCI": [
@@ -5080,9 +5116,9 @@
     },
     {
       "date": "2026-08-29",
-      "score": 54.0,
+      "score": 52.0,
       "avg_sentiment": 0.0,
-      "article_count": 2
+      "article_count": 1
     }
   ],
   "NEM": [
@@ -5640,6 +5676,14 @@
     }
   ],
   "EBAY": [
+    {
+      "date": "2026-08-29",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "RMD": [
     {
       "date": "2026-08-29",
       "score": 52.0,
