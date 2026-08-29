@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-29T17:22:41Z",
+  "generated_at": "2026-08-29T19:53:54Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 140,
+    "breaking_count": 142,
     "breaking_catalyst_count": 23,
     "pipeline_count": 57,
-    "pipeline_catalyst_count": 7,
+    "pipeline_catalyst_count": 8,
     "movers_count": 0
   },
   "trending_tickers": [
     {
       "ticker": "AZN.L",
-      "count": 3,
-      "catalyst_count": 1,
+      "count": 4,
+      "catalyst_count": 2,
       "source_count": 2
     },
     {
@@ -77,8 +77,8 @@
       "title": "NATURE Randomized Controlled Trial Meets Primary Endpoint Evaluating enVast-Assisted Mechanical Thrombectomy in Large-Thrombus STEMI",
       "summary": "Results showed a reduction in infarct size compared with conventional PCI in STEMI patients with large thrombus burden. Results were presented as Late-Breaking Science at ESC Congress 2026. DALLAS, Texas, Aug. 29, 2026 /PRNewswire/ -- Vesalio today announced results from the NATU",
       "url": "https://www.prnewswire.com/news-releases/nature-randomized-controlled-trial-meets-primary-endpoint-evaluating-envast-assisted-mechanical-thrombectomy-in-large-thrombus-stemi-302863297.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-29T12:43:00Z",
       "epoch": 1788007380,
       "sentiment": 0.0,
@@ -400,6 +400,62 @@
       "small_cap_risk": false
     },
     {
+      "title": "XCMG представляет первый в мире кольцевой кран грузоподъемностью 14 000 тонн, переопределяющий подъем сверхтяжелых грузов",
+      "summary": "СЮЙЧЖОУ, Китай, 29 августа 2026 г. /PRNewswire/ -- Компания XCMG объявила о том, что с конвейера сошел первый в мире кольцевой кран грузоподъемностью 14 000 тонн, что стало историческим прорывом в технологии подъема сверхтяжелых грузов. Разработанный совместно XCMG и Sinopec Heav",
+      "url": "https://www.prnewswire.com/news-releases/xcmg--------14-000------302864332.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-29T19:24:00Z",
+      "epoch": 1788031440,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "XCMG představilo první prstencový jeřáb na světě s nosností 14 000 tun",
+      "summary": "XUZHOU, Čína, 29. srpna 2026 /PRNewswire/ -- Společnost XCMG oznámila, že z výrobní linky sjela první hlavní jednotka prvního prstencového jeřábu s nosností 14 000 tun na světě, což představuje historický průlom v technologii zvedání mimořádně těžkých břemen. Jeřáb, vyvinutý spol",
+      "url": "https://www.prnewswire.com/news-releases/xcmg-pedstavilo-prvni-prstencovy-jeab-na-svt-s-nosnosti-14-000-tun-302864331.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-29T19:10:00Z",
+      "epoch": 1788030600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Parksy.com Free Driver Tools In One App: Fine Appeals, Sign Scanning, Car Finding and Crash Reports",
+      "summary": "A fine under the wiper, a sign you cannot decode, a car you cannot find, a crash to document — Parksy built a free tool for each and skipped the invoice. SYDNEY, Aug. 29, 2026 /PRNewswire/ -- Parksy (parksy.com) has gathered its free driver tools into a single hub, and the collec",
+      "url": "https://www.prnewswire.com/news-releases/parksycom-free-driver-tools-in-one-app-fine-appeals-sign-scanning-car-finding-and-crash-reports-302864327.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-29T19:05:00Z",
+      "epoch": 1788030300,
+      "sentiment": -1.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Hozpitality Celebrates California's Top 30 General Managers at Inaugural Hozpitality's Best GM Powerlist 2026",
+      "summary": "LOS ANGELES, Aug. 29, 2026 /PRNewswire/ -- Hozpitality Group celebrated the achievements of California's leading hospitality professionals on August 28 with the inaugural Hozpitality's Best GM Powerlist – California 2026, held at The Westin Los Angeles Airport. The invitation-onl",
+      "url": "https://www.prnewswire.com/news-releases/hozpitality-celebrates-californias-top-30-general-managers-at-inaugural-hozpitalitys-best-gm-powerlist-2026-302864324.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-29T18:38:00Z",
+      "epoch": 1788028680,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Women Leaders Association Adds Lisa Reilly as Boston Coaching Partner, Bringing 23 Years of Biotech Leadership and Her Reclamation Method to High-Achieving Women",
       "summary": "The association's Boston Coaching Partners roster grows to three — adding an executive and career coach who helps high-performing women lead with clarity, confidence, and authenticity without sacrificing themselves in the process BOSTON, Aug. 29, 2026 /PRNewswire/ -- The Women Le",
       "url": "https://www.prnewswire.com/news-releases/women-leaders-association-adds-lisa-reilly-as-boston-coaching-partner-bringing-23-years-of-biotech-leadership-and-her-reclamation-method-to-high-achieving-women-302864321.html",
@@ -470,20 +526,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Lanny Davis cites decision by Yosemite Park Service staff for favorable environmental reasons to reduce auto pollution a minor land swap with no effect on Yosemite parklands",
-      "summary": "WASHINGTON, Aug. 29, 2026 /PRNewswire/ -- Statement of Lanny J. Davis, counsel to Kingsbarn Realty Capital Over the last six months, Kingsbarn Realty Capital and I have been working directly and cooperating with National Park Service staff at Yosemite National Park in California ",
-      "url": "https://www.prnewswire.com/news-releases/lanny-davis-cites-decision-by-yosemite-park-service-staff-for-favorable-environmental-reasons-to-reduce-auto-pollution-a-minor-land-swap-with-no-effect-on-yosemite-parklands-895606972.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-29T13:09:00Z",
-      "epoch": 1788008940,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Syrien verzeichnet erste internationale Kartentransaktion seit mehr als 15 Jahren mit Mastercard und der QNB Group",
       "summary": "Die Transaktion erfolgt im Anschluss an die Wiederanbindung des nationalen Zahlungsverkehrs-Ökosystems an das globale Netzwerk von Mastercard Die erste Zahlung ebnet den Weg für die internationale Kartenakzeptanz in Syrien DAMASKUS, Syrien, 29. August 2026 /PRNewswire/ -- Masterc",
       "url": "https://www.prnewswire.com/news-releases/syrien-verzeichnet-erste-internationale-kartentransaktion-seit-mehr-als-15-jahren-mit-mastercard-und-der-qnb-group-302863284.html",
@@ -495,20 +537,6 @@
       "tickers": [
         "MA"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "China Daily: 'A Date with China•Meet Xinjiang' intl media tour kicks off in Urumqi",
-      "summary": "URUMQI, China, Aug. 29, 2026 /PRNewswire/ -- The 2026 \"A Date with China: Meet Xinjiang\" international media tour officially commenced on Aug 25 in Urumqi, the capital of the Xinjiang Uygur autonomous region. The event aimed to build bridges for cross-cultural storytelling, bring",
-      "url": "https://www.prnewswire.com/news-releases/china-daily-a-date-with-chinameet-xinjiang-intl-media-tour-kicks-off-in-urumqi-302863259.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-29T05:55:00Z",
-      "epoch": 1787982900,
-      "sentiment": 0.0,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -2091,6 +2119,22 @@
   ],
   "pipeline": [
     {
+      "title": "ESC: AZ, Ionis' Wainua post-mortem throws water on silencer-plus-stabilizer approach in ATTR-CM",
+      "summary": "After a surprise washout in a recent phase 3 trial of AstraZeneca and Ionis’ antisense oligonucleotide Wainua, the likely reason for the miss is being laid bare, in a potential ill omen for others pursuing silencer drugs in transthyretin-mediated amyloid cardiomyopathy.",
+      "url": "https://www.fiercepharma.com/pharma/esc-az-ionis-wainua-post-mortem-throws-water-silencer-plus-stabilizer-approach-attr-cm",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-08-29T12:18:00Z",
+      "epoch": 1788005880,
+      "sentiment": -0.33,
+      "tickers": [
+        "AZN.L"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
       "title": "BioNTech-Genentech cancer vax records more deaths than control in scrapped ph. 2 test",
       "summary": "Following Merck and Moderna’s phase 3 triumph with a Keytruda-paired personalized mRNA cancer vaccine, a similar shot from BioNTech and Genentech has faltered in a reminder of the approach’s struggles as a standalone therapy.",
       "url": "https://www.fiercebiotech.com/biotech/biontech-genentech-personalized-cancer-vaccine-posts-worse-patient-survival-terminated-ph-2",
@@ -2793,20 +2837,6 @@
       "published_at": "2026-08-25T16:03:00Z",
       "epoch": 1787673780,
       "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Teva faces fresh antitrust scrutiny, this time via competition probe in Turkey",
-      "summary": "Teva is increasingly highlighting its innovative drug bona fides these days, seeking to style itself as both a novel drug-producing biopharma and a generics powerhouse.",
-      "url": "https://www.fiercepharma.com/pharma/teva-faces-fresh-antitrust-scrutiny-time-competition-probe-turkey",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-08-25T14:13:00Z",
-      "epoch": 1787667180,
-      "sentiment": -0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
