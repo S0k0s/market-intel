@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-29T22:16:34Z",
+  "generated_at": "2026-08-30T00:31:36Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 145,
+    "breaking_count": 146,
     "breaking_catalyst_count": 23,
     "pipeline_count": 57,
     "pipeline_catalyst_count": 8,
@@ -397,6 +397,20 @@
       "tickers": [],
       "company_name": "Branchout Food Inc.",
       "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "SCHEELS Opens 35th Location to Massive Crowds in Cedar Park, Texas",
+      "summary": "Employee-owned industry leader expands footprint to Central Texas, showcasing the future of brick-and-mortar experiential retail with record foot traffic CEDAR PARK, Texas, Aug. 29, 2026 /PRNewswire/ -- Employee-owned All Sports retailer SCHEELS officially opened its newest locat",
+      "url": "https://www.prnewswire.com/news-releases/scheels-opens-35th-location-to-massive-crowds-in-cedar-park-texas-302864339.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-29T22:17:00Z",
+      "epoch": 1788041820,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
       "small_cap_risk": false
     },
     {
@@ -822,22 +836,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Nektar Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-      "summary": "SAN FRANCISCO, Aug. 28, 2026 /PRNewswire/ -- Nektar Therapeutics (NASDAQ: NKTR) today announced that, on August 20, 2026, the Organization and Compensation Committee of Nektar's Board of Directors granted non-qualified stock options to purchase an aggregate of 25,200 shares of it",
-      "url": "https://www.prnewswire.com/news-releases/nektar-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635c4-302863080.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-28T20:15:00Z",
-      "epoch": 1787948100,
-      "sentiment": 0.0,
-      "tickers": [
-        "NKTR"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "Zimmer Biomet Announces Quarterly Dividend for Third Quarter of 2026",
       "summary": "WARSAW, Ind., Aug. 28, 2026 /PRNewswire/ -- Zimmer Biomet Holdings, Inc. (NYSE and SIX: ZBH), a global medical technology leader, today announced that its Board of Directors has approved the payment of a quarterly cash dividend to stockholders for the third quarter of 2026. The c",
       "url": "https://www.prnewswire.com/news-releases/zimmer-biomet-announces-quarterly-dividend-for-third-quarter-of-2026-302863013.html",
@@ -852,6 +850,22 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
+    },
+    {
+      "title": "Nektar Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+      "summary": "SAN FRANCISCO, Aug. 28, 2026 /PRNewswire/ -- Nektar Therapeutics (NASDAQ: NKTR) today announced that, on August 20, 2026, the Organization and Compensation Committee of Nektar's Board of Directors granted non-qualified stock options to purchase an aggregate of 25,200 shares of it",
+      "url": "https://www.prnewswire.com/news-releases/nektar-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635c4-302863080.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-08-28T20:15:00Z",
+      "epoch": 1787948100,
+      "sentiment": 0.0,
+      "tickers": [
+        "NKTR"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
     },
     {
       "title": "La Syrie réalise sa première transaction internationale par carte depuis plus de 15 ans, en collaboration avec Mastercard et le groupe QNB",
