@@ -1,14 +1,20 @@
 {
-  "generated_at": "2026-08-31T03:20:08Z",
+  "generated_at": "2026-08-31T09:58:39Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 150,
-    "breaking_catalyst_count": 24,
+    "breaking_catalyst_count": 25,
     "pipeline_count": 57,
     "pipeline_catalyst_count": 8,
     "movers_count": 0
   },
   "trending_tickers": [
+    {
+      "ticker": "AMGN",
+      "count": 3,
+      "catalyst_count": 2,
+      "source_count": 3
+    },
     {
       "ticker": "AZN.L",
       "count": 4,
@@ -23,12 +29,6 @@
     },
     {
       "ticker": "MRNA",
-      "count": 2,
-      "catalyst_count": 1,
-      "source_count": 2
-    },
-    {
-      "ticker": "AMGN",
       "count": 2,
       "catalyst_count": 1,
       "source_count": 2
@@ -64,7 +64,7 @@
       "source_count": 1
     },
     {
-      "ticker": "OKE",
+      "ticker": "NVDA",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 1
@@ -73,6 +73,22 @@
   "movers": [],
   "concentration_warning": null,
   "breaking": [
+    {
+      "title": "AMGEN'S REPATHA® REDUCES RISK OF DEATH IN PATIENTS AT HIGH RISK FOR A FIRST HEART ATTACK OR STROKE",
+      "summary": "Repatha is the First and Only PCSK9 Inhibitor Shown to Lower the Risk of Dying from All Causes, Including Cardiovascular Events, in High-Risk Primary Prevention Patients in a Phase 3 Trial Separate Global Real-World Analyses Show Persistent Gaps in Lipid Management, With Many Hig",
+      "url": "https://www.prnewswire.com/news-releases/amgens-repatha-reduces-risk-of-death-in-patients-at-high-risk-for-a-first-heart-attack-or-stroke-302864758.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-08-31T07:18:00Z",
+      "epoch": 1788160680,
+      "sentiment": -1.0,
+      "tickers": [
+        "AMGN"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
     {
       "title": "Ascletis Announces First Participant Dosed in a Global Phase III Clinical Program of Once-Daily Oral Small Molecule GLP-1 Receptor Agonist ASC30 for Chronic Weight Management",
       "summary": "- Expected to enroll approximately 4,600 participants with obesity or overweight across two pivotal trials (AURORA-1 and AURORA-2) in the U.S., Europe, and Canada. - Global Phase III clinical program to investigate efficacy and safety of three maintenance doses (20 mg, 40 mg, and",
@@ -414,27 +430,13 @@
       "small_cap_risk": false
     },
     {
-      "title": "Georgia's Hudson waits out a win in Bassmaster Rookie of the Year race",
-      "summary": "CLAYTON, N.Y., Aug. 30, 2026 /PRNewswire/ -- On paper, Caleb Hudson's path to the 2026 Pro-Guide Batteries Elite Series Rookie of the Year title seemed smooth. The 24-year-old Georgia pro took over the lead against a heralded set of first years after the circuit's second stop and",
-      "url": "https://www.prnewswire.com/news-releases/georgias-hudson-waits-out-a-win-in-bassmaster-rookie-of-the-year-race-302864518.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-31T02:55:00Z",
-      "epoch": 1788144900,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "CHINT Showcased Advanced Power Solutions at CIGRE 2026",
-      "summary": "PARIS, Aug. 31, 2026 /PRNewswire/ -- As Europe's power grids evolve to accommodate renewable energy, electrification and rapidly growing electricity demand, CHINT, a trusted provider of integrated power and energy solutions, showcased its latest power solutions at CIGRE 2026, hig",
-      "url": "https://www.prnewswire.com/news-releases/chint-showcased-advanced-power-solutions-at-cigre-2026-302864562.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-31T02:55:00Z",
-      "epoch": 1788144900,
+      "title": "YFORE presenta un sistema de detección por radar UWB multiescenario para vehículos de próxima generación",
+      "summary": "SUWANEE, Ga., 31 de agosto de 2026 /PRNewswire/ -- YFORE Technology, proveedor de automoción global de primer nivel, presentó su avanzada cartera de sensores de radar de banda ultraancha (UWB) y sus aplicaciones multiescenario ampliadas en sus instalaciones de Suwanee, Georgia. G",
+      "url": "https://www.prnewswire.com/news-releases/yfore-presenta-un-sistema-de-deteccion-por-radar-uwb-multiescenario-para-vehiculos-de-proxima-generacion-302864844.html",
+      "source": "PR Newswire — Biotechnology",
+      "source_id": "prnewswire-biotech",
+      "published_at": "2026-08-31T09:57:00Z",
+      "epoch": 1788170220,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -442,27 +444,27 @@
       "small_cap_risk": false
     },
     {
-      "title": "Niutech signe un accord avec un géant mondial de l'énergie pour la mise en place d'une ligne de pyrolyse des déchets plastiques destinée à la production de carburant d'aviation durable (CAD)",
-      "summary": "JINAN, Chine, 31 août 2026 /PRNewswire/ -- Niutech Technology Group Co., Ltd. (en abrégé « Niutech »), fournisseur mondial de solutions de pyrolyse industrielle continue, a signé un contrat de vente avec un géant mondial de l'énergie portant sur une ligne de production industriel",
-      "url": "https://www.prnewswire.com/news-releases/niutech-signe-un-accord-avec-un-geant-mondial-de-lenergie-pour-la-mise-en-place-dune-ligne-de-pyrolyse-des-dechets-plastiques-destinee-a-la-production-de-carburant-daviation-durable-cad-302864526.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-31T02:06:00Z",
-      "epoch": 1788141960,
-      "sentiment": 0.0,
+      "title": "Jake's Motorcars Offers Online Pre-Approval for Financing Your Next Luxury Buy in San Diego, CA",
+      "summary": "SAN DIEGO and LA JOLLA, Calif., Aug. 31, 2026 /PRNewswire/ -- Jake's Motorcars is making it easier for luxury and exotic vehicle shoppers in San Diego, CA, to take the first step toward a new automotive purchase or lease. Through an online financing pre-approval process, prospect",
+      "url": "https://www.prnewswire.com/news-releases/jakes-motorcars-offers-online-pre-approval-for-financing-your-next-luxury-buy-in-san-diego-ca-302864743.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-31T09:56:00Z",
+      "epoch": 1788170160,
+      "sentiment": 0.67,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
     {
-      "title": "MOEA's DoIT Showcases 31 Innovative Technologies at Meet Greater South",
-      "summary": "AI Expands Across Industries as Technology Drives Industrial Upgrading in Central and Southern Taiwan TAIPEI, Aug. 30, 2026 /PRNewswire/ -- On August 28, the Department of Industrial Technology (DoIT), Ministry of Economic Affairs (MOEA), unveiled 31 innovative technologies at th",
-      "url": "https://www.prnewswire.com/news-releases/moeas-doit-showcases-31-innovative-technologies-at-meet-greater-south-302864522.html",
+      "title": "Fosun International Holds 2026 Interim Results Presentation: Unlocking Core Pathways, Accelerating Growth in Industries where we Excel",
+      "summary": "HONG KONG, Aug. 31, 2026 /PRNewswire/ -- On the morning of 28 August, Fosun International held its 2026 interim results presentation in Hong Kong. This marks Fosun's return to Hong Kong to hold a results presentation for the first time in six years. The results presentation was a",
+      "url": "https://www.prnewswire.com/news-releases/fosun-international-holds-2026-interim-results-presentation-unlocking-core-pathways-accelerating-growth-in-industries-where-we-excel-302864829.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-31T01:55:00Z",
-      "epoch": 1788141300,
+      "published_at": "2026-08-31T09:37:00Z",
+      "epoch": 1788169020,
       "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
@@ -470,29 +472,89 @@
       "small_cap_risk": false
     },
     {
-      "title": "Kung clinches first Bassmaster Elite Series title at St. Lawrence River",
-      "summary": "CLAYTON, N.Y., Aug. 30, 2026 /PRNewswire/ -- Evan Kung entered this week's Lowrance Bassmaster Elite at the St. Lawrence River in danger of losing his spot on the Progressive Bassmaster Elite Series for 2027. Not only did he save his spot on tour, the Canadian went ahead and won ",
-      "url": "https://www.prnewswire.com/news-releases/kung-clinches-first-bassmaster-elite-series-title-at-st-lawrence-river-302864519.html",
+      "title": "Nevada Organic Phosphate Announces Continued Excellent Low Heavy Metal Assays for Drill Hole MM26-10 at Murdock Mountain and Promotional Activity Engagement",
+      "summary": "VANCOUVER, BC, Aug. 31, 2026 /PRNewswire/ -- Nevada Organic Phosphate Inc. (\"NOP\" or the \"Company\") (CSE: NOP) (OTCQB: NOPFF), a B.C. based leader in organic sedimentary phosphate exploration, is pleased to announce that the heavy metal contaminant assays from the Upper Phosphati",
+      "url": "https://www.prnewswire.com/news-releases/nevada-organic-phosphate-announces-continued-excellent-low-heavy-metal-assays-for-drill-hole-mm26-10-at-murdock-mountain-and-promotional-activity-engagement-302864585.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-31T01:50:00Z",
-      "epoch": 1788141000,
-      "sentiment": -0.33,
+      "published_at": "2026-08-31T09:35:00Z",
+      "epoch": 1788168900,
+      "sentiment": 0.0,
       "tickers": [
-        "PGR"
+        "NOPFF"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Best Design Software for Small Businesses (2026): CorelDRAW Features and Workflows Highlighted by Consumer365",
+      "summary": "NEW YORK, Aug. 31, 2026 /PRNewswire/ -- Consumer365 has published a new review of CorelDRAW Graphics Suite 2026, analyzing how the professional design toolkit serves small businesses with print-intensive work. The assessment gives priority to the operational needs of print shops,",
+      "url": "https://www.prnewswire.com/news-releases/best-design-software-for-small-businesses-2026-coreldraw-features-and-workflows-highlighted-by-consumer365-302864438.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-31T09:30:00Z",
+      "epoch": 1788168600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Nutex Health Hospitals Earn Multiple Community Honors in Second Quarter 2026",
+      "summary": "HOUSTON, Aug. 31, 2026 /PRNewswire/ -- Nutex Health Inc. (\"Nutex Health\" or the \"Company\") (NASDAQ: NUTX), a physician-led, integrated healthcare delivery system comprised of 28 state-of-the-art micro hospitals and hospital outpatient departments in 12 states and primary care-cen",
+      "url": "https://www.prnewswire.com/news-releases/nutex-health-hospitals-earn-multiple-community-honors-in-second-quarter-2026-302863096.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-31T09:30:00Z",
+      "epoch": 1788168600,
+      "sentiment": 0.0,
+      "tickers": [
+        "NUTX"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "TCL CSOT Showcases New Innovations and Insights into the Future of Displays at DIC EXPO 2026",
+      "summary": "SHANGHAI, Aug. 31, 2026 /PRNewswire/ -- TCL CSOT began its exhibition at the Display Innovation China Expo 2026 (DIC EXPO 2026) in Shanghai. Under the theme \"Empowering Diverse Applications, Elevating Display Experiences,\" the exhibition presents TCL CSOT's cutting-edge display..",
+      "url": "https://www.prnewswire.com/news-releases/tcl-csot-showcases-new-innovations-and-insights-into-the-future-of-displays-at-dic-expo-2026-302864816.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-31T09:16:00Z",
+      "epoch": 1788167760,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "EQT closes combination with Coller Capital",
+      "summary": "Coller Capital, now operating as Coller EQT, is one of the largest dedicated secondaries platforms globally, with deep expertise in both LP and GP-led secondaries The combination positions EQT in the fast-growing secondaries market - which saw transaction volume surpass $120bn in",
+      "url": "https://www.prnewswire.com/news-releases/eqt-closes-combination-with-coller-capital-302864808.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-31T09:01:00Z",
+      "epoch": 1788166860,
+      "sentiment": 0.0,
+      "tickers": [
+        "EQT"
       ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
     {
-      "title": "DoGo Power Empowers New Power Systems with AI and Grid-Forming Energy Storage",
-      "summary": "SÃO PAULO, Aug. 31, 2026 /PRNewswire/ -- Intersolar South America 2026, one of the leading exhibitions and conferences in the Latin American solar industry, took place in São Paulo from 25 to 27 August. During the event, DoGo participated in a roundtable discussion jointly hosted",
-      "url": "https://www.prnewswire.com/news-releases/dogo-power-empowers-new-power-systems-with-ai-and-grid-forming-energy-storage-302864517.html",
+      "title": "Himel remporte le prix d'excellence technologique et apporte une nouvelle approche aux produits électriques du quotidien",
+      "summary": "HONG KONG, 31 août 2026 /PRNewswire/ -- Himel a été récompensée lors des Hong Kong Business Technology Excellence Awards 2026, remportant le prix dans la catégorie « Technologies vertes – Industrie manufacturière » grâce à sa gamme de dispositifs de câblage NERIO. Ces prix récomp",
+      "url": "https://www.prnewswire.com/news-releases/himel-remporte-le-prix-dexcellence-technologique-et-apporte-une-nouvelle-approche-aux-produits-electriques-du-quotidien-302864807.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-31T01:47:00Z",
-      "epoch": 1788140820,
+      "published_at": "2026-08-31T09:01:00Z",
+      "epoch": 1788166860,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -500,15 +562,292 @@
       "small_cap_risk": false
     },
     {
-      "title": "Dowinx Reframes Everyday Seating Around the Way People Really Live",
-      "summary": "The QL-66B6 Executive Office Chair brings adaptive comfort to hybrid spaces for work, gaming and relaxation HONG KONG and LOS ANGELES, Aug. 30, 2026 /PRNewswire/ -- As the consumer technology industry looks toward IFA 2026 and the future of connected living, Dowinx is focusing on",
-      "url": "https://www.prnewswire.com/news-releases/dowinx-reframes-everyday-seating-around-the-way-people-really-live-302864516.html",
+      "title": "Castle in the Clouds Hires Kate Armenio as Director of Business Operations",
+      "summary": "MOULTONBOROUGH, N.H., Aug. 31, 2026 /PRNewswire/ -- – Castle in the Clouds added another member to their senior management team with the recent hire of Kate Armenio of Conway, NH, as Director of Business Operations. In the role of Director of Business Operations, Kate will provid",
+      "url": "https://www.prnewswire.com/news-releases/castle-in-the-clouds-hires-kate-armenio-as-director-of-business-operations-302854895.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-31T01:43:00Z",
-      "epoch": 1788140580,
+      "published_at": "2026-08-31T09:00:00Z",
+      "epoch": 1788166800,
       "sentiment": 0.0,
       "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "AutoShop Answers Announces Eric Twiggs as Vice President of Member Services",
+      "summary": "HOUSTON, Aug. 31, 2026 /PRNewswire/ -- AutoShop Answers today announced the appointment of Eric Twiggs as its new Vice President of Member Services, strengthening the organization's commitment to delivering greater value, resources, education, and innovative programs to automotiv",
+      "url": "https://www.prnewswire.com/news-releases/autoshop-answers-announces-eric-twiggs-as-vice-president-of-member-services-302863104.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-31T09:00:00Z",
+      "epoch": 1788166800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "La technologie FanWall de LONGWELL EC permet de réduire de 38 % la consommation énergétique des ventilateurs CRAH des centres de données IA de nouvelle génération",
+      "summary": "L'un des trois principaux équipementiers mondiaux spécialisés dans le refroidissement de précision est passé de la phase de validation des spécifications à la production en série en 90 jours ; la contribution du système CRAH à l'indicateur d'efficacité énergétique s'est améliorée",
+      "url": "https://www.prnewswire.com/news-releases/la-technologie-fanwall-de-longwell-ec-permet-de-reduire-de-38--la-consommation-energetique-des-ventilateurs-crah-des-centres-de-donnees-ia-de-nouvelle-generation-302864806.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-31T09:00:00Z",
+      "epoch": 1788166800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "YFORE presenta el sistema de detección en cabina ODMS para mejorar la seguridad en la cabina",
+      "summary": "SUWANEE, Ga., 31 de agosto de 2026 /PRNewswire/ -- Con motivo de la inauguración oficial de su planta de fabricación en Norteamérica, ubicada en Georgia, el proveedor global de primer nivel YFORE Technology presentó su Sistema de Monitoreo de Ocupantes y Conductor (ODMS), una sol",
+      "url": "https://www.prnewswire.com/news-releases/yfore-presenta-el-sistema-de-deteccion-en-cabina-odms-para-mejorar-la-seguridad-en-la-cabina-302864804.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-31T08:55:00Z",
+      "epoch": 1788166500,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Helsinki Becomes a Meeting Place for Design - Helsinki Design Week and Habitare Bring the Industry Together",
+      "summary": "HELSINKI, 31 August 2026 /PRNewswire/ -- In the capital of the world's happiest country, design is an inseparable part of everyday life. In late summer, Helsinki Design Week and the Habitare design fair shine the spotlight on design and bring together designers, companies and aud",
+      "url": "https://www.prnewswire.com/news-releases/helsinki-becomes-a-meeting-place-for-design--helsinki-design-week-and-habitare-bring-the-industry-together-302864799.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-31T08:42:00Z",
+      "epoch": 1788165720,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Globaler Tier-1-Zulieferer YFORE bringt seriengefertigte Anti-Pinch-Sensoren auf den Markt",
+      "summary": "SUWANEE, Georgia, 31. August 2026 /PRNewswire/ -- Der Global Tier-1-Zulieferer YFORE Technology hat sein Werk in Suwanee, Georgia, offiziell in Betrieb genommen und präsentiert dort seine marktbewährten Anti-Pinch-Sensor-Lösungen. Durch den Einsatz von Nearshore-Fertigung liefert",
+      "url": "https://www.prnewswire.com/news-releases/globaler-tier-1-zulieferer-yfore-bringt-seriengefertigte-anti-pinch-sensoren-auf-den-markt-302864772.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-31T08:30:00Z",
+      "epoch": 1788165000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Global Tier-1 YFORE Introduces Mass-Produced Anti-Pinch Sensors",
+      "summary": "SUWANEE, Ga., Aug. 31, 2026 /PRNewswire/ -- Global Tier-1 supplier YFORE Technology officially commissioned its Suwanee, Georgia facility, showcasing its market-validated Anti-Pinch Sensor solutions. Leveraging near-shore manufacturing, YFORE delivers automotive-grade, highly res",
+      "url": "https://www.prnewswire.com/news-releases/global-tier-1-yfore-introduces-mass-produced-anti-pinch-sensors-302864532.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-31T08:30:00Z",
+      "epoch": 1788165000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "A Voice Across the World: Hokkien Music &amp; Culture Concert Gives New Voice to a Thousand-Year-Old Tradition Heritage",
+      "summary": "Sold-out Huizhou premiere marks the first YUELAIMEI Hokkien-language song concert staged in mainland China outside the language's place of origin HUIZHOU, China, Aug. 31, 2026 /PRNewswire/ -- On the evening of August 21, the Hokkien Music & Culture Global Tour • 2026 Original Hok",
+      "url": "https://www.prnewswire.com/news-releases/a-voice-across-the-world-hokkien-music--culture-concert-gives-new-voice-to-a-thousand-year-old-tradition-heritage-302864792.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-31T08:22:00Z",
+      "epoch": 1788164520,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Singapore Judiciary Strengthens Judicial and Legal Cooperation within ASEAN in Bangkok Meetings",
+      "summary": "SINGAPORE, Aug. 31, 2026 /PRNewswire/ -- The Singapore Judiciary, led by The Honourable the Chief Justice Sundaresh Menon, participated in the 15th ASEAN Law Association (ALA) General Assembly, 47th ALA Governing Council Meeting and 13th Council of ASEAN Chief Justices (CACJ) Mee",
+      "url": "https://www.prnewswire.com/news-releases/singapore-judiciary-strengthens-judicial-and-legal-cooperation-within-asean-in-bangkok-meetings-302864785.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-31T08:09:00Z",
+      "epoch": 1788163740,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "KuCoin Partners with FinChain to Integrate FUSD into Its RWA Collateral Mirroring Solution",
+      "summary": "PROVIDENCIALES, Turks and Caicos Islands, Aug. 31, 2026 /PRNewswire/ -- KuCoin, a leading global cryptocurrency exchange built on trust, today announced a partnership with FinChain to integrate FUSD into KuCoin's RWA Collateral Mirroring Solution (RCMS). Through RCMS, yield-beari",
+      "url": "https://www.prnewswire.com/news-releases/kucoin-partners-with-finchain-to-integrate-fusd-into-its-rwa-collateral-mirroring-solution-302864780.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-31T08:00:00Z",
+      "epoch": 1788163200,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "EzPaycheck: User-Friendly and Flexible In-House Payroll Solution from Halfpricesoft.com",
+      "summary": "ezPaycheck is the payroll software built to accommodate the small business owner's budget. REDMOND, Wash., Aug. 31, 2026 /PRNewswire/ -- Managing small business payroll and year-end compliance requires fast, dependable tools that keep operations running smoothly. Halfpricesoft.co",
+      "url": "https://www.prnewswire.com/news-releases/ezpaycheck-user-friendly-and-flexible-in-house-payroll-solution-from-halfpricesoftcom-302849828.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-31T08:00:00Z",
+      "epoch": 1788163200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "YFORE Unveils Multi-Scenario UWB Radar Sensing for Next-Gen Vehicles",
+      "summary": "SUWANEE, Ga., Aug. 31, 2026 /PRNewswire/ -- Global Tier-1 automotive supplier YFORE Technology showcased its advanced Ultra-Wideband (UWB) radar sensing portfolio and expanded multi-scenario applications at its Suwanee, Georgia facility. Powered by proprietary high-precision algo",
+      "url": "https://www.prnewswire.com/news-releases/yfore-unveils-multi-scenario-uwb-radar-sensing-for-next-gen-vehicles-302864523.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-31T08:00:00Z",
+      "epoch": 1788163200,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Announcement of change in the total number of votes in AB SKF",
+      "summary": "GOTHENBURG, Sweden, Aug. 31, 2026 /PRNewswire/ -- Due to a conversion of shares from Series A to Series B in accordance with AB SKF's Articles of Association, the Company confirms the following. As per 31 August 2026 there are a total of 455,351,068 shares in AB SKF, out of which",
+      "url": "https://www.prnewswire.com/news-releases/announcement-of-change-in-the-total-number-of-votes-in-ab-skf-302864716.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-31T06:20:00Z",
+      "epoch": 1788157200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "SWI wird NVIDIA Cloud Partner (NCP)",
+      "summary": "AMSTERDAM, 31. August 2026 /PRNewswire/ -- Die SWI Group (AMS: SWICH, eine Investmentgesellschaft mit einer Leistungskapazität von 3,6 Gigawatt in Europa und den USA, hat bekannt gegeben, dass sie als „Preferred Partner\" dem NVIDIA Cloud Partner (NCP)-Programm beigetreten ist. Di",
+      "url": "https://www.prnewswire.com/news-releases/swi-wird-nvidia-cloud-partner-ncp-302864424.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-31T06:00:00Z",
+      "epoch": 1788156000,
+      "sentiment": 0.0,
+      "tickers": [
+        "NVDA"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "SWI becomes an NVIDIA Cloud Partner (NCP)",
+      "summary": "AMSTERDAM, Aug. 31, 2026 /PRNewswire/ -- SWI Group (AMS: SWICH), an investment firm with 3.6 gigawatts of power capacity across Europe and the US, has announced that it has become a member of the NVIDIA Cloud Partner (NCP) program as a Preferred Partner. SWI Group joins a select ",
+      "url": "https://www.prnewswire.com/news-releases/swi-becomes-an-nvidia-cloud-partner-ncp-302864398.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-31T06:00:00Z",
+      "epoch": 1788156000,
+      "sentiment": 0.0,
+      "tickers": [
+        "NVDA"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "BioMarin Announces Global Settlement with Ascendis Pharma A/S; Ascendis Will Pay Royalties to BioMarin on Yuviwel Sales in U.S., EU, Brazil and South Korea",
+      "summary": "Agreement Resolves all Pending Patent-Related Proceedings Between BioMarin and Ascendis SAN RAFAEL, Calif., Aug. 30, 2026 /PRNewswire/ -- BioMarin Pharmaceutical Inc. (Nasdaq: BMRN) today announced that it has entered into binding terms with Ascendis Pharma A/S, resolving the pat",
+      "url": "https://www.prnewswire.com/news-releases/biomarin-announces-global-settlement-with-ascendis-pharma-as-ascendis-will-pay-royalties-to-biomarin-on-yuviwel-sales-in-us-eu-brazil-and-south-korea-302864555.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-08-31T06:00:00Z",
+      "epoch": 1788156000,
+      "sentiment": 0.0,
+      "tickers": [
+        "BMRN"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Samsung Biologics publishes prospectus for PolyPeptide public tender offer",
+      "summary": "Direct subsidiary Samsung Peptide AG acting as formal offeror of the public tender offer Publication of offer prospectus follows pre-announcement on July 20, 2026 Largest individual shareholder committed to tender all of its PolyPeptide shares into offer Main offer period expecte",
+      "url": "https://www.prnewswire.com/news-releases/samsung-biologics-publishes-prospectus-for-polypeptide-public-tender-offer-302864574.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-08-31T05:00:00Z",
+      "epoch": 1788152400,
+      "sentiment": 0.0,
+      "tickers": [
+        "005930.KS"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "HUAWEI WATCH D3 Makes Early Debut at ESC Congress 2026: A New Era in Wrist-Based Blood Pressure Management",
+      "summary": "MUNICH, Aug. 31, 2026 /PRNewswire/ -- The European Society of Cardiology Congress (ESC Congress 2026), one of the world's most influential academic gatherings in cardiovascular medicine, officially kicked off today in Munich, Germany. Huawei showcased its latest innovations in he",
+      "url": "https://www.prnewswire.com/news-releases/huawei-watch-d3-makes-early-debut-at-esc-congress-2026-a-new-era-in-wrist-based-blood-pressure-management-302864640.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-08-31T04:23:00Z",
+      "epoch": 1788150180,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "SIBIONICS Showcases GS3 in Melbourne, Advancing More Efficient, AI-Powered Glucose Monitoring",
+      "summary": "MELBOURNE, Australia, Aug. 31, 2026 /PRNewswire/ -- SIBIONICS showcased its sensor innovation and AI-powered glucose monitoring at the joint IDF-WPR, ADC and Metabolic Diseases 2026 congress, held in Melbourne from 18–21 August. Through Booth #1, a scientific symposium and on-sit",
+      "url": "https://www.prnewswire.com/news-releases/sibionics-showcases-gs3-in-melbourne-advancing-more-efficient-ai-powered-glucose-monitoring-302864635.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-08-31T04:19:00Z",
+      "epoch": 1788149940,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Growing Sportcation Travel Trend: Trip.com Group Reports 40% Increase in Active Travel Booking GMV",
+      "summary": "SINGAPORE, Aug. 30, 2026 /PRNewswire/ -- Active travel or 'sportcations' are becoming the next big travel trend, with Trip.com Group seeing a strong double-digit increase in booking GMV. From cycling through mountain passes to joining diving camps and wellness retreats, active tr",
+      "url": "https://www.prnewswire.com/news-releases/growing-sportcation-travel-trend-tripcom-group-reports-40-increase-in-active-travel-booking-gmv-302864611.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-08-31T03:39:00Z",
+      "epoch": 1788147540,
+      "sentiment": 0.33,
+      "tickers": [
+        "9961.HK",
+        "BKNG"
+      ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -517,8 +856,8 @@
       "title": "David Lozano Wins King of the Mountains at the Philadelphia Cycling Classic",
       "summary": "Spaniard living with type 1 diabetes takes the climber's jersey as America's biggest one-day race returns after a decade away PHILADELPHIA, Aug. 30, 2026 /PRNewswire/ -- David Lozano (ESP) of Team Novo Nordisk, the world's first all-diabetes professional cycling team, won the Kin",
       "url": "https://www.prnewswire.com/news-releases/david-lozano-wins-king-of-the-mountains-at-the-philadelphia-cycling-classic-302864494.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-31T01:06:00Z",
       "epoch": 1788138360,
       "sentiment": 0.33,
@@ -528,136 +867,16 @@
       "small_cap_risk": false
     },
     {
-      "title": "LG ELECTRONICS UNVEILS THE NEXT EVOLUTION OF AI HOME AT IFA 2026",
-      "summary": "Introducing ThinQ Claw and Expanded AI Home Experiences Powered by Contextual Intelligence News Summary LG unveils the next evolution of AI Home at IFA 2026, leveraging upgraded contextual intelligence to recommend relevant actions, coordinate connected devices and services, and ",
-      "url": "https://www.prnewswire.com/news-releases/lg-electronics-unveils-the-next-evolution-of-ai-home-at-ifa-2026-302864370.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-31T01:00:00Z",
-      "epoch": 1788138000,
-      "sentiment": 1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "WuXi AppTec Continues to Reward Shareholders, Further Increasing Interim Dividend to RMB 1.51 Billion",
       "summary": "SHANGHAI, Aug. 30, 2026 /PRNewswire/ -- WuXi AppTec Co., Ltd. (Stock Codes: 603259.SH/2359.HK), a leading global pharmaceutical CRDMO (Contract Research, Development, and Manufacturing Organization), announces the distribution of its 2026 interim cash dividend. Building on its in",
       "url": "https://www.prnewswire.com/news-releases/wuxi-apptec-continues-to-reward-shareholders-further-increasing-interim-dividend-to-rmb-1-51-billion-302864374.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-31T00:00:00Z",
       "epoch": 1788134400,
       "sentiment": 0.67,
       "tickers": [
         "2359.HK"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "McKinney makes history … again … becoming the youngest AOY winner in B.A.S.S. history",
-      "summary": "CLAYTON, N.Y., Aug. 30, 2026 /PRNewswire/ -- Trey McKinney has finally defeated the Johnstons. Thanks to a second-place finish in a heavy-weight battle at the Lowrance Bassmaster Elite at the St. Lawrence River, the third-year pro from Carbondale, Ill., claimed his first Progress",
-      "url": "https://www.prnewswire.com/news-releases/mckinney-makes-history--again--becoming-the-youngest-aoy-winner-in-bass-history-302864478.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-30T23:49:00Z",
-      "epoch": 1788133740,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Family Federation for World Peace and Unification Leads Hundreds in Las Vegas Prayer Vigil for the Mother of Peace Ahead of South Korea Verdict",
-      "summary": "LAS VEGAS, Aug. 30, 2026 /PRNewswire/ -- Hundreds of people gathered Sunday outside the International Peace Education Center in Las Vegas for a prayer vigil in support of Dr. Hak Ja Han Moon, known worldwide as the Mother of Peace, as she awaits a verdict in a closely watched cri",
-      "url": "https://www.prnewswire.com/news-releases/family-federation-for-world-peace-and-unification-leads-hundreds-in-las-vegas-prayer-vigil-for-the-mother-of-peace-ahead-of-south-korea-verdict-302864468.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-30T21:49:00Z",
-      "epoch": 1788126540,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "ONEOK Announces Cash Tender Offers in Connection with $5 Billion Debt Repayment Plan",
-      "summary": "TULSA, Okla., Aug. 30, 2026 /PRNewswire/ -- ONEOK, Inc. (NYSE: OKE) today announced the commencement of cash tender offers (\"Tender Offers\") to purchase up to an aggregate principal amount that will not result in an aggregate purchase price that exceeds $2 billion (subject to inc",
-      "url": "https://www.prnewswire.com/news-releases/oneok-announces-cash-tender-offers-in-connection-with-5-billion-debt-repayment-plan-302864461.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-30T20:45:00Z",
-      "epoch": 1788122700,
-      "sentiment": 0.0,
-      "tickers": [
-        "OKE"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "ONEOK to Acquire Brazos Midstream's Permian Midland Basin Assets for $4.425 Billion",
-      "summary": "Acquisition Increases Momentum Toward the High End of ONEOK's Mid- to High- Single-Digit Adjusted EBITDA Growth Target Over the Next Five to Seven Years Expected to Be Immediately Accretive to Earnings and Free Cash Flow Per Share $9 Billion Minority Equity Investment from Apollo",
-      "url": "https://www.prnewswire.com/news-releases/oneok-to-acquire-brazos-midstreams-permian-midland-basin-assets-for-4-425-billion-302864458.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-30T20:40:00Z",
-      "epoch": 1788122400,
-      "sentiment": 0.67,
-      "tickers": [
-        "OKE"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "PG&amp;E Statement on Senate Bill 492",
-      "summary": "OAKLAND, Calif., Aug. 30, 2026 /PRNewswire/ -- Pacific Gas and Electric Company (PG&E) today released a statement on Senate Bill 492. \"On Saturday, the California Legislature amended Senate Bill 492 to address the state's wildfire risk reduction and recovery framework. While the ",
-      "url": "https://www.prnewswire.com/news-releases/pge-statement-on-senate-bill-492-302864453.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-30T20:01:00Z",
-      "epoch": 1788120060,
-      "sentiment": -0.33,
-      "tickers": [
-        "PCG"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Global Times: How Chinese NEVs gain ground in global markets, providing greener, smarter mobility",
-      "summary": "BEIJING, Aug. 30, 2026 /PRNewswire/ -- This year, the 47th Bangkok International Motor Show was held at the IMPACT Arena, Exhibition and Convention Center. BYD's booth was packed, with crowds lining up to check out the vehicles on display. Increasingly, Chinese new-energy vehicle",
-      "url": "https://www.prnewswire.com/news-releases/global-times-how-chinese-nevs-gain-ground-in-global-markets-providing-greener-smarter-mobility-302864402.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-30T14:12:00Z",
-      "epoch": 1788099120,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "NASA's Roman Space Telescope launches with BAE Systems-built scientific instruments",
-      "summary": "The Nancy Grace Roman Space Telescope is the latest NASA astrophysics flagship observatory supported by BAE Systems, following Hubble and Webb BROOMFIELD, Colo., Aug. 30, 2026 /PRNewswire/ -- BAE Systems (LON: BA) is celebrating the successful launch of NASA's Nancy Grace Roman S",
-      "url": "https://www.prnewswire.com/news-releases/nasas-roman-space-telescope-launches-with-bae-systems-built-scientific-instruments-302864401.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-30T13:57:00Z",
-      "epoch": 1788098220,
-      "sentiment": 0.67,
-      "tickers": [
-        "BA.L"
       ],
       "company_name": null,
       "catalyst": false,
@@ -882,20 +1101,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "IGEL breidt met Teguar-hardware de endpointopties voor gezondheidszorg- en industriële omgevingen uit",
-      "summary": "De speciaal voor dit doel ontwikkelde medische en industriële systemen van Teguar bieden compatibele hardwareopties voor IGEL-implementaties in gespecialiseerde endpointomgevingen FORT LAUDERDALE, Fla., 28 augustus 2026 /PRNewswire/ -- IGEL®, een wereldwijd softwarebedrijf dat he",
-      "url": "https://www.prnewswire.com/news-releases/igel-breidt-met-teguar-hardware-de-endpointopties-voor-gezondheidszorg--en-industriele-omgevingen-uit-302863170.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-28T21:23:00Z",
-      "epoch": 1787952180,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "CoinDealerPro - Inventory Management Software for Professional Coin and Bullion Dealers",
       "summary": "CoinDealerPro has a successful debut - inventory management for numismatic-related businesses PITTSBURGH, Aug. 28, 2026 /PRNewswire/ -- CoinDealerPro, an inventory management software platform built for professional coin dealers, online sellers, bullion traders, shop owners and w",
       "url": "https://www.prnewswire.com/news-releases/coindealerpro---inventory-management-software-for-professional-coin-and-bullion-dealers-302863169.html",
@@ -956,214 +1161,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "IGEL erweitert mit Teguar-Hardware das Angebot an Endgeräten für das Gesundheitswesen und industrielle Umgebungen",
-      "summary": "Die speziell entwickelten medizinischen und industriellen Systeme von Teguar erweitern die Auswahl kompatibler Hardware für IGEL-Implementierungen in spezialisierten Einsatzumgebungen für Endgeräte. FORT LAUDERDALE, Florida, 28. August 2026 /PRNewswire/ -- IGEL®, ein weltweit tät",
-      "url": "https://www.prnewswire.com/news-releases/igel-erweitert-mit-teguar-hardware-das-angebot-an-endgeraten-fur-das-gesundheitswesen-und-industrielle-umgebungen-302863161.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-28T20:55:00Z",
-      "epoch": 1787950500,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Mandatory Fast Pay For Wildfire Survivors Would Have Prevented Public From Finding Evidence That Showed Edison Started The Eaton Fire, Legislators Need To Make Voluntary, Says Consumer Watchdog",
-      "summary": "SACRAMENTO, Calif., Aug. 28, 2026 /PRNewswire/ -- Consumer Watchdog said that if Governor Newsom's mandatory Fast Pay proposal – requiring wildfire survivors to complete the program before filing a lawsuit – had been law the public would not have learned that Edison's transmissio",
-      "url": "https://www.prnewswire.com/news-releases/mandatory-fast-pay-for-wildfire-survivors-would-have-prevented-public-from-finding-evidence-that-showed-edison-started-the-eaton-fire-legislators-need-to-make-voluntary-says-consumer-watchdog-302863153.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-28T20:36:00Z",
-      "epoch": 1787949360,
-      "sentiment": -0.33,
-      "tickers": [
-        "ETN"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Noah Holdings Limited Announces Changes to the Board and Board Committees",
-      "summary": "SINGAPORE, Aug. 28, 2026 /PRNewswire/ -- Noah Holdings Limited (the \"Company\" or \"Noah\") (NYSE: NOAH and HKEX: 6686), a leading and pioneer wealth management service provider offering comprehensive one-stop advisory services on global investment and asset allocation primarily for",
-      "url": "https://www.prnewswire.com/news-releases/noah-holdings-limited-announces-changes-to-the-board-and-board-committees-302862857.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-28T20:30:00Z",
-      "epoch": 1787949000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Spoločnosť IGEL rozširuje možnosti koncových bodov o hardvér Teguar pre zdravotníctvo a priemyselné prostredie",
-      "summary": "Špeciálne vyvinuté zdravotnícke a priemyselné systémy od spoločnosti Teguar pridávajú kompatibilné hardvérové možnosti pre nasadenie systémov IGEL v špecializovaných koncových prostrediach FORT LAUDERDALE, Florida, 28. augusta 2026 /PRNewswire/ -- IGEL®, globálna softvérová spolo",
-      "url": "https://www.prnewswire.com/news-releases/spolonos-igel-roziruje-monosti-koncovych-bodov-o-hardver-teguar-pre-zdravotnictvo-a-priemyselne-prostredie-302863145.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-28T20:19:00Z",
-      "epoch": 1787948340,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Nektar Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-      "summary": "SAN FRANCISCO, Aug. 28, 2026 /PRNewswire/ -- Nektar Therapeutics (NASDAQ: NKTR) today announced that, on August 20, 2026, the Organization and Compensation Committee of Nektar's Board of Directors granted non-qualified stock options to purchase an aggregate of 25,200 shares of it",
-      "url": "https://www.prnewswire.com/news-releases/nektar-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635c4-302863080.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-28T20:15:00Z",
-      "epoch": 1787948100,
-      "sentiment": 0.0,
-      "tickers": [
-        "NKTR"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Zimmer Biomet Announces Quarterly Dividend for Third Quarter of 2026",
-      "summary": "WARSAW, Ind., Aug. 28, 2026 /PRNewswire/ -- Zimmer Biomet Holdings, Inc. (NYSE and SIX: ZBH), a global medical technology leader, today announced that its Board of Directors has approved the payment of a quarterly cash dividend to stockholders for the third quarter of 2026. The c",
-      "url": "https://www.prnewswire.com/news-releases/zimmer-biomet-announces-quarterly-dividend-for-third-quarter-of-2026-302863013.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-28T20:15:00Z",
-      "epoch": 1787948100,
-      "sentiment": 0.67,
-      "tickers": [
-        "ZBH"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "La Syrie réalise sa première transaction internationale par carte depuis plus de 15 ans, en collaboration avec Mastercard et le groupe QNB",
-      "summary": "Cette opération fait suite au rattachement de l'écosystème de paiement du pays au réseau mondial de Mastercard Ce premier paiement ouvre la voie à l'acceptation des cartes bancaires internationales en Syrie DAMAS, Syrie, 28 août 2026 /PRNewswire/ -- Mastercard et le groupe QNB on",
-      "url": "https://www.prnewswire.com/news-releases/la-syrie-realise-sa-premiere-transaction-internationale-par-carte-depuis-plus-de-15-ans-en-collaboration-avec-mastercard-et-le-groupe-qnb-302863141.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-28T20:14:00Z",
-      "epoch": 1787948040,
-      "sentiment": 0.0,
-      "tickers": [
-        "MA"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "ALLIANCEBERNSTEIN GLOBAL HIGH INCOME FUND, INC. REPORTS FIRST QUARTER EARNINGS",
-      "summary": "NEW YORK, Aug. 28, 2026 /PRNewswire/ -- AllianceBernstein Global High Income Fund, Inc. (NYSE: AWF), a registered closed‑end investment company, today announced earnings for the first quarter ended June 30, 2026. Total net assets of the Fund on June 30, 2026 were $979,297,146 as ",
-      "url": "https://www.prnewswire.com/news-releases/alliancebernstein-global-high-income-fund-inc-reports-first-quarter-earnings-302863045.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-28T20:06:00Z",
-      "epoch": 1787947560,
-      "sentiment": 0.0,
-      "tickers": [
-        "AWF"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "CNFinance Announces First Half of 2026 Unaudited Financial Results",
-      "summary": "GUANGZHOU, China, Aug. 28, 2026 /PRNewswire/ -- CNFinance Holdings Limited (NYSE: CNF) (\"CNFinance\" or the \"Company\"), a leading home equity loan service provider in China, today announced its unaudited financial results for the first half of 2026 ended June 30, 2026. \"During the",
-      "url": "https://www.prnewswire.com/news-releases/cnfinance-announces-first-half-of-2026-unaudited-financial-results-302862920.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-28T20:05:00Z",
-      "epoch": 1787947500,
-      "sentiment": 0.0,
-      "tickers": [
-        "CNF"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Armor Health Establishes Dedicated Client Relations Executive Providing Leadership to Strengthen Partnerships and Support Continued Expansion",
-      "summary": "MIAMI, Aug. 28, 2026 /PRNewswire/ -- Armor Health (ArmorHealthcare.com), a national provider of correctional healthcare, has named Tamara Taylor, RN, CCHP the Regional Vice President of Client Relations, a newly created position focused on strengthening the company's partnerships",
-      "url": "https://www.prnewswire.com/news-releases/armor-health-establishes-dedicated-client-relations-executive-providing-leadership-to-strengthen-partnerships-and-support-continued-expansion-302863137.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-28T20:03:00Z",
-      "epoch": 1787947380,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "California Legislature Protects Wildfire Survivors' Rights and Rejects Higher Insurance Costs, Says Consumer Watchdog",
-      "summary": "Legislature Stands Up to Governor Newsom and His Utility Allies, Delivering a Major Victory for Wildfire Survivors and Consumers SACRAMENTO, Calif., Aug. 28, 2026 /PRNewswire/ -- Every Fire Survivor's Network and Consumer Watchdog praised the California Senate and Assembly today ",
-      "url": "https://www.prnewswire.com/news-releases/california-legislature-protects-wildfire-survivors-rights-and-rejects-higher-insurance-costs-says-consumer-watchdog-302863135.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-28T20:01:00Z",
-      "epoch": 1787947260,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Watercrest Senior Living Group Honors Sheena Jeffries for a Decade of Impactful Leadership and Service to Seniors",
-      "summary": "VERO BEACH, Fla., Aug. 28, 2026 /PRNewswire/ -- Watercrest Senior Living Group proudly celebrates the ten-year employment anniversary of Sheena Jeffries, Director of Resident and Family Experience, recognizing a decade of exceptional leadership, advocacy and service dedicated to ",
-      "url": "https://www.prnewswire.com/news-releases/watercrest-senior-living-group-honors-sheena-jeffries-for-a-decade-of-impactful-leadership-and-service-to-seniors-302863107.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-28T19:52:00Z",
-      "epoch": 1787946720,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Evonik élargit ses capacités d'administration de médicaments à base de lipides grâce à une nouvelle installation de fabrication conforme aux BPF à Vancouver",
-      "summary": "La nouvelle installation conforme aux BPF (bonnes pratiques de fabrication) répondra à la demande croissante en développement de nanoparticules lipidiques (NPL) et en fabrication de produits médicamenteux destinés aux essais cliniques Evonik investit plus de 150 millions CAD (93 ",
-      "url": "https://www.prnewswire.com/news-releases/evonik-elargit-ses-capacites-dadministration-de-medicaments-a-base-de-lipides-grace-a-une-nouvelle-installation-de-fabrication-conforme-aux-bpf-a-vancouver-302863121.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-28T19:50:00Z",
-      "epoch": 1787946600,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Wise F&amp;I's Amy Counts Named 2026 NAMAD Woman of the Year",
-      "summary": "ST. LOUIS, Aug. 28, 2026 /PRNewswire/ -- AD). Wise F&I is proud to announce that Amy Counts, Regional Vice President of Client Success, has been named the 2026 NAMAD Woman of the Year by the National Association of Minority Automobile Dealers (NAMAD). The annual award recognizes.",
-      "url": "https://www.prnewswire.com/news-releases/wise-fis-amy-counts-named-2026-namad-woman-of-the-year-302863123.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-28T19:50:00Z",
-      "epoch": 1787946600,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "8-K - Brand Engagement Network Inc. (0001838163) (Filer)",
@@ -2359,6 +2356,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "The next frontier: Advancing foundation models with multimodal data",
+      "summary": "What&#39;s possible when AI models can learn from additional health data modalities to create a more complete understanding of human health?",
+      "url": "https://www.biopharmadive.com/spons/the-next-frontier-advancing-foundation-models-with-multimodal-data/828675/",
+      "source": "BioPharma Dive",
+      "source_id": "biopharmadive",
+      "published_at": "2026-08-31T05:00:00Z",
+      "epoch": 1788152400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Takeda bolsters blood cancer portfolio with FDA nod for Mimrylo in polycythemia vera",
       "summary": "The FDA has approved Takeda’s Mimrylo (rusfertide) for polycythemia vera, introducing a new mechanism to the nonmalignant rare blood cancer and handing CEO Julie Kim another major regulatory win since taking the helm.",
       "url": "https://www.fiercepharma.com/pharma/takeda-bolsters-blood-cancer-portfolio-fda-approval-mimrylo-polycythemia-vera",
@@ -2760,6 +2771,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "China in Global Clinical Development: Why Early Inclusion Matters",
+      "summary": "Leading biotechs are rethinking China’s role in global clinical development. Early inclusion can unlock significant value.",
+      "url": "https://www.fiercebiotech.com/sponsored/china-global-clinical-development-why-early-inclusion-matters",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-08-26T16:32:00Z",
+      "epoch": 1787761920,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Gilead christens Bixlenvo with FDA nod for new HIV treatment combo tablet",
       "summary": "Some 20 years after helping introduce the first once-daily single-tablet HIV regimen, Gilead Sciences has crossed the regulatory finish line with a new oral treatment option in the U.S.",
       "url": "https://www.fiercepharma.com/pharma/gilead-christens-bixlenvo-fda-nod-new-hiv-treatment-combo-pill",
@@ -2826,20 +2851,6 @@
       "published_at": "2026-08-26T11:31:00Z",
       "epoch": 1787743860,
       "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Biohaven trades cash for ‘upside’ with $795M epilepsy drug deal",
-      "summary": "Faced with a dwindling bank account after a series of research setbacks, Biohaven is letting go of its most advanced experimental drug in a deal one analyst viewed as a &ldquo;surprising&rdquo; transaction.",
-      "url": "https://www.biopharmadive.com/news/biohaven-sk-opakalim-epilepsy-drug-deal/828799/",
-      "source": "BioPharma Dive",
-      "source_id": "biopharmadive",
-      "published_at": "2026-08-26T11:17:41Z",
-      "epoch": 1787743061,
-      "sentiment": 1.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -3003,20 +3014,6 @@
       "tickers": [
         "MCK"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Why a Texas congressman believes Chinese biotechs are 'beating us on our ground game'",
-      "summary": "The “knowledge base is going to start shifting quickly to China,” Rep. Nathaniel Moran, R-Texas, a member of the House Select Committee on China, told Fierce.",
-      "url": "https://www.fiercebiotech.com/biotech/texas-congressman-tells-fierce-why-chinese-biotechs-are-beating-us-our-ground-game",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-08-23T23:02:00Z",
-      "epoch": 1787526120,
-      "sentiment": 0.0,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
