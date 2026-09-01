@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T21:53:32Z",
+  "generated_at": "2026-09-01T23:45:14Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 150,
@@ -52,19 +52,19 @@
       "source_count": 1
     },
     {
-      "ticker": "CHTR",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "BARC.L",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
       "ticker": "AMZN",
+      "count": 2,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "TDS",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "AGRO",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -244,6 +244,255 @@
       "small_cap_risk": false
     },
     {
+      "title": "Telephone and Data Systems Announces It Is No Longer Pursuing the Acquisition of Public Shares of Array Digital Infrastructure",
+      "summary": "TDS Expects to Recommence Repurchase Program CHICAGO, Sept. 1, 2026 /PRNewswire/ -- Telephone and Data Systems, Inc. (NYSE: TDS) (the \"Company\" or \"TDS\") today announced that it is no longer pursuing the acquisition of the Common Shares of Array Digital Infrastructure, Inc. (NYSE",
+      "url": "https://www.prnewswire.com/news-releases/telephone-and-data-systems-announces-it-is-no-longer-pursuing-the-acquisition-of-public-shares-of-array-digital-infrastructure-302866945.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-01T23:41:00Z",
+      "epoch": 1788306060,
+      "sentiment": 0.0,
+      "tickers": [
+        "TDS"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "AB 2529, Sponsored by Cities of Hidden Hills and Carson, Passes the Legislature and Heads to the Governor",
+      "summary": "HIDDEN HILLS, Calif., Sept. 1, 2026 /PRNewswire/ -- Assembly Bill 2529 (Johnson), the Government Claims Act measure co-sponsored by the Cities of Hidden Hills and Carson, has passed both houses of the California Legislature and is headed to the Governor's desk. The bill cleared t",
+      "url": "https://www.prnewswire.com/news-releases/ab-2529-sponsored-by-cities-of-hidden-hills-and-carson-passes-the-legislature-and-heads-to-the-governor-302866943.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-01T23:38:00Z",
+      "epoch": 1788305880,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Kareem's Lebanese Kitchen Opens Its Doors with Ribbon Cutting in Gaithersburg",
+      "summary": "Third-generation Lebanese Chef Rachid Eido joins community leaders to celebrate Kareem's debut at Rio Lakefront GAITHERSBURG, Md., Sept. 1, 2026 /PRNewswire/ -- The Mediterranean and the Chesapeake are sharing a table in Gaithersburg. Kareem's Lebanese Kitchen officially celebrat",
+      "url": "https://www.prnewswire.com/news-releases/kareems-lebanese-kitchen-opens-its-doors-with-ribbon-cutting-in-gaithersburg-302866898.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-01T23:30:00Z",
+      "epoch": 1788305400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Clean electricity supplied 40% of new energy demand in 2025. Faster deployment and sectoral breakthroughs can cut emissions permanently, says annual Energy Transition Monitor",
+      "summary": "A progress paradox: Clean electricity is growing more than twice the speed of overall energy supply, but emissions are not yet falling as overall demand for both fossil and clean energy is simultaneously expanding - driven by data centres, higher cooling needs and heavy industry.",
+      "url": "https://www.prnewswire.com/news-releases/clean-electricity-supplied-40-of-new-energy-demand-in-2025-faster-deployment-and-sectoral-breakthroughs-can-cut-emissions-permanently-says-annual-energy-transition-monitor-302866742.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-01T23:01:00Z",
+      "epoch": 1788303660,
+      "sentiment": -0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "The American Diabetes Association Audit and Governance Committee Releases Independent Review",
+      "summary": "ARLINGTON, Va., Sept. 1, 2026 /PRNewswire/ -- The American Diabetes Association® (ADA) Audit and Governance Committee (AGC) has released its independent review of events that took place on June 5, 2026, at the 2026 annual Scientific Sessions, in New Orleans, La. The ADA Board of ",
+      "url": "https://www.prnewswire.com/news-releases/the-american-diabetes-association-audit-and-governance-committee-releases-independent-review-302866922.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-01T23:00:00Z",
+      "epoch": 1788303600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Adecoagro Completes Acquisition of Caarapó Mill and Integrates It Into Its Cluster in Mato Grosso do Sul",
+      "summary": "LUXEMBOURG, Sept. 1, 2026 /PRNewswire/ -- Adecoagro S.A. (NYSE: AGRO) (\"Adecoagro\" or the \"Company\"), a leading sustainable production company in South America, announced today that it has completed the acquisition of the Caarapó Mill from Raízen Group, following the satisfaction",
+      "url": "https://www.prnewswire.com/news-releases/adecoagro-completes-acquisition-of-caarapo-mill-and-integrates-it-into-its-cluster-in-mato-grosso-do-sul-302866919.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-01T22:43:00Z",
+      "epoch": 1788302580,
+      "sentiment": 0.0,
+      "tickers": [
+        "AGRO"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Try Before You Buy: Azazie Brings In-Person Bridesmaid Dress Experience to San Diego",
+      "summary": "LOS ANGELES, Sept. 1, 2026 /PRNewswire/ -- Azazie, the leading direct-to-consumer special-occasion brand, is bringing its bridesmaid dress pop-up to San Diego on Sunday, September 6, 2026, from 9:00 a.m. to 5:30 p.m. at the Liberty Ballroom at Courtyard San Diego Airport/Liberty ",
+      "url": "https://www.prnewswire.com/news-releases/try-before-you-buy-azazie-brings-in-person-bridesmaid-dress-experience-to-san-diego-302866918.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-01T22:43:00Z",
+      "epoch": 1788302580,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Suzelle Snowden Started With One Class on the Beach 30 years ago, Now She's Running the World's Largest Fitness &amp; Wellness Travel Empire Fit Bodies Inc and Just Signed Hyatt All Inclusive Collection.",
+      "summary": "Fit Bodies, Inc. collaborates with Hyatt's Inclusive Collection to create and enhance wellness experiences across seven of Hyatt's premier resort brands. Guests at Hyatt resorts throughout Mexico, the Caribbean, and Central America can enjoy innovative fitness programming, sports",
+      "url": "https://www.prnewswire.com/news-releases/suzelle-snowden-started-with-one-class-on-the-beach-30-years-ago-now-shes-running-the-worlds-largest-fitness--wellness-travel-empire-fit-bodies-inc-and-just-signed-hyatt-all-inclusive-collection-302866913.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-01T22:34:00Z",
+      "epoch": 1788302040,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "A Shrinking Supply of New Physical Games May Be Making Old Ones Scarcer and More Valuable",
+      "summary": "Physical game spending fell to $1.5 billion in calendar year 2025, even as exceptional vintage sealed copies have reached seven-figure auction prices, according to Circana and Heritage Auctions. MORTON GROVE, Ill., Sept. 1, 2026 /PRNewswire/ -- The market for physical video games",
+      "url": "https://www.prnewswire.com/news-releases/a-shrinking-supply-of-new-physical-games-may-be-making-old-ones-scarcer-and-more-valuable-302866910.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-01T22:31:00Z",
+      "epoch": 1788301860,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "'Rejoice in Christ': Salt Lake Temple Celebration Welcomes the World",
+      "summary": "Reservations open as Church leaders invite people everywhere to participate in person and online in 2027 SALT LAKE CITY, Sept. 1, 2026 /PRNewswire/ -- The Church of Jesus Christ of Latter-day Saints on Tuesday invited people around the world to participate in the 2027 Salt Lake T",
+      "url": "https://www.prnewswire.com/news-releases/rejoice-in-christ-salt-lake-temple-celebration-welcomes-the-world-302866907.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-01T22:30:00Z",
+      "epoch": 1788301800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "AMAZON TEAMSTERS AT DJT6 TO LAUNCH UNFAIR LABOR PRACTICE STRIKE",
+      "summary": "Workers to Walk Off the Job at Amazon's Largest U.S. Facility RIVERSIDE, Calif., Sept. 1, 2026 /PRNewswire/ -- Amazon Teamsters at the DJT6 facility in Riverside, California — Amazon's largest warehouse facility in the United States — will launch a one-day unfair labor practice (",
+      "url": "https://www.prnewswire.com/news-releases/amazon-teamsters-at-djt6-to-launch-unfair-labor-practice-strike-302866909.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-01T22:28:00Z",
+      "epoch": 1788301680,
+      "sentiment": 0.67,
+      "tickers": [
+        "AMZN"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Common Threads Expands Digital Training Platform to Bring 23 Years of Nutrition Education Online, Launching September 15th",
+      "summary": "AUSTIN, Texas, Sept. 1, 2026 /PRNewswire/ -- After 23 years of teaching children and families about nutrition and healthy cooking, Common Threads is taking the educational experience online. The national nonprofit today announced an expansion of TEACH (Teaching Everyone About Coo",
+      "url": "https://www.prnewswire.com/news-releases/common-threads-expands-digital-training-platform-to-bring-23-years-of-nutrition-education-online-launching-september-15th-302866869.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-01T22:15:00Z",
+      "epoch": 1788300900,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Manulife Financial Corporation Prices U.S. Public Offering of Subordinated Notes",
+      "summary": "C$ unless otherwise stated TSX/NYSE/PSE: MFC SEHK:945 TORONTO, Sept. 1, 2026 /CNW/ -- Manulife Financial Corporation (NYSE: MFC) (the \"Company\") today announced that it has priced a public offering in the United States of U.S.$750,000,000 aggregate principal amount of 6.146% subo",
+      "url": "https://www.prnewswire.com/news-releases/manulife-financial-corporation-prices-u-s-public-offering-of-subordinated-notes-803634504.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-01T22:14:00Z",
+      "epoch": 1788300840,
+      "sentiment": 0.0,
+      "tickers": [
+        "MFC",
+        "MFC.TO"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Holly Paz, Former IRS Large Business &amp; International Commissioner and Architect of Section 48 Implementation, Joins alliant",
+      "summary": "HOUSTON, Sept. 1, 2026 /PRNewswire/ -- alliant is pleased to announce the addition of Holly Paz to its stellar bench of tax luminaries. Paz most recently served as Commissioner of the Internal Revenue Service's Large Business & International (LB&I) Division. Paz arrives after mor",
+      "url": "https://www.prnewswire.com/news-releases/holly-paz-former-irs-large-business--international-commissioner-and-architect-of-section-48-implementation-joins-alliant-302866894.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-01T22:02:00Z",
+      "epoch": 1788300120,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "NEXA Lending Launches NEXA Unlimited, Giving Loan Officers Access to 100% of All Loans",
+      "summary": "PHOENIX, Sept. 1, 2026 /PRNewswire/ -- NEXA Lending today announced the launch of NEXA Unlimited, a new model designed to fundamentally change what loan officers should expect from their mortgage company. Through NEXA Unlimited, loan officers can access 100% of the revenues from ",
+      "url": "https://www.prnewswire.com/news-releases/nexa-lending-launches-nexa-unlimited-giving-loan-officers-access-to-100-of-all-loans-302866893.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-01T22:01:00Z",
+      "epoch": 1788300060,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Highland Opportunities and Income Fund Announces the Regular Monthly Distribution",
+      "summary": "DALLAS, Sept. 1, 2026 /PRNewswire/ -- The Highland Opportunities and Income Fund (NYSE: HFRO) (\"HFRO\" or the \"Fund\") today announced its regular monthly distribution on its common stock of $0.0385 per share. The distribution will be payable on September 30, 2026, to shareholders ",
+      "url": "https://www.prnewswire.com/news-releases/highland-opportunities-and-income-fund-announces-the-regular-monthly-distribution-302866879.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-01T22:00:00Z",
+      "epoch": 1788300000,
+      "sentiment": 0.0,
+      "tickers": [
+        "HFRO"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "RELISH, Orange County's Premier Immersive Food, Wine &amp; Spirits Experience, Returns for Three-Day Celebration",
+      "summary": "NEWPORT BEACH, Calif., Sept. 1, 2026 /PRNewswire/ -- The countdown is on for RELISH, Orange County's premier immersive food, wine and spirits experience, created by Celebrity Chef Jamie Gwen and Celebrity Event Planner Nicole Hirsty of Cobalt Events. Returning for its second year",
+      "url": "https://www.prnewswire.com/news-releases/relish-orange-countys-premier-immersive-food-wine--spirits-experience-returns-for-three-day-celebration-302866888.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-01T21:53:00Z",
+      "epoch": 1788299580,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "The Most Important Commute by Zum Founder and CEO Ritu Narayan Named #1 Amazon Bestseller in Education Administration",
       "summary": "New book makes the case that reliable student mobility is fundamental to access to education REDWOOD CITY, Calif., Sept. 1, 2026 /PRNewswire/ -- The Most Important Commute, the new book by Zūm Founder and CEO Ritu Narayan, has reached #1 on Amazon's bestseller list in Education..",
       "url": "https://www.prnewswire.com/news-releases/the-most-important-commute-by-zum-founder-and-ceo-ritu-narayan-named-1-amazon-bestseller-in-education-administration-302866882.html",
@@ -260,132 +509,13 @@
       "small_cap_risk": false
     },
     {
-      "title": "Fly-E Group, Inc. Announces First Quarter of Fiscal Year 2027 Financial Results",
-      "summary": "NEW YORK, Sept. 1, 2026 /PRNewswire/ -- Fly-E Group, Inc. (Nasdaq: FLYE) (\"Fly-E\" or the \"Company\"), an electric vehicle company engaged in designing, installing, selling, and renting smart electric motorcycles, electric bikes, and electric scooters, today announced its financial",
-      "url": "https://www.prnewswire.com/news-releases/fly-e-group-inc-announces-first-quarter-of-fiscal-year-2027-financial-results-302866881.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-01T21:38:00Z",
-      "epoch": 1788298680,
-      "sentiment": 0.0,
-      "tickers": [
-        "FLYE"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Nauticus Robotics, Inc. Announces Substantially Stronger Q3 Offshore Activity with Both ROV Systems Deployed",
-      "summary": "Comanche ROV systems are currently operating on commercial projects in the U.S. Northeast and Gulf Coast HOUSTON, Sept. 1, 2026 /PRNewswire/ -- Nauticus Robotics, Inc. (NASDAQ: KITT, \"Nauticus\" or the \"Company\"), a developer of autonomous subsea robots and autonomy software, toda",
-      "url": "https://www.prnewswire.com/news-releases/nauticus-robotics-inc-announces-substantially-stronger-q3-offshore-activity-with-both-rov-systems-deployed-302866868.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-01T21:32:00Z",
-      "epoch": 1788298320,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "OMNIS ENERGY: SIX OBJECTIONS SET STAGE FOR SEPTEMBER 3 PLEASANTS BANKRUPTCY HEARING",
-      "summary": "Omnis and Quantum file four objections; WVEDA and U.S. Trustee file separate objections ahead of September 3 hearing BELMONT, W.Va., Sept. 1, 2026 /PRNewswire/ -- Six objections have been filed concerning relief sought in the Chapter 11 case of Omnis Pleasants, LLC, owner and ope",
-      "url": "https://www.prnewswire.com/news-releases/omnis-energy-six-objections-set-stage-for-september-3-pleasants-bankruptcy-hearing-302866877.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-01T21:31:00Z",
-      "epoch": 1788298260,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Zoomlion stärkt seine lokale Präsenz in Europa durch eine Ausweitung der Zusammenarbeit in den Bereichen Service, Fertigung und Technologie",
-      "summary": "CHANGSHA, China, 1. September 2026 /PRNewswire/ -- Zoomlion Heavy Industry Science & Technology Co., Ltd. („Zoomlion\" oder „das Unternehmen\") baut seine lokalen Aktivitäten in Europa aus, nachdem am 19. August im Zoomlion-Werk in Deutschland ein Partnertreffen stattfand und ein B",
-      "url": "https://www.prnewswire.com/news-releases/zoomlion-starkt-seine-lokale-prasenz-in-europa-durch-eine-ausweitung-der-zusammenarbeit-in-den-bereichen-service-fertigung-und-technologie-302866875.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-01T21:28:00Z",
-      "epoch": 1788298080,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "New National Survey From MedStar Health Finds Many Men Over 55 Are Missing Prostate Cancer Screening",
       "summary": "COLUMBIA, Md., Sept. 1, 2026 /PRNewswire/ -- A new national survey from MedStar Health suggests millions of men age 55 and older may be missing chances to get screened for prostate cancer, even though it is one of the most common cancers in men. Of surveyed men age 55 and older, ",
       "url": "https://www.prnewswire.com/news-releases/new-national-survey-from-medstar-health-finds-many-men-over-55-are-missing-prostate-cancer-screening-302866874.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-01T21:26:00Z",
       "epoch": 1788297960,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Charter to Participate in Citi Global TMT Conference",
-      "summary": "STAMFORD, Conn., Sept. 1, 2026 /PRNewswire/ -- Charter Communications, Inc. (NASDAQ: CHTR) (along with its subsidiaries, \"Charter\") today announced that Jessica Fischer, Chief Financial Officer, will participate in the Citi Global TMT Conference in New York, New York on Thursday,",
-      "url": "https://www.prnewswire.com/news-releases/charter-to-participate-in-citi-global-tmt-conference-302866867.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-01T21:20:00Z",
-      "epoch": 1788297600,
-      "sentiment": 0.0,
-      "tickers": [
-        "CHTR"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "ICOGT, Stratejik Uluslararası Genişlemenin Yeni Bir Aşamasını Duyurdu",
-      "summary": "DUBAİ, BAE, 2 Eylül 2026 /PRNewswire/ -- INTERNATIONAL COMPANY OIL & GAS SERVICES & GENERAL TRADING L.L.C, Grubun sürekli gelişiminde önemli bir dönüm noktası niteliğindeki stratejik uluslararası genişlemenin yeni bir aşamasını duyurmaktan memnuniyet duyar. Yenilenen stratejinin.",
-      "url": "https://www.prnewswire.com/news-releases/icogt-stratejik-uluslararas-genilemenin-yeni-bir-aamasn-duyurdu-302866864.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-01T21:16:00Z",
-      "epoch": 1788297360,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Charter to Participate in Goldman Sachs Investor Conference",
-      "summary": "STAMFORD, Conn., Sept. 1, 2026 /PRNewswire/ -- Charter Communications, Inc. (NASDAQ: CHTR) (along with its subsidiaries, \"Charter\") today announced that Chris Winfrey, President and Chief Executive Officer, will participate in the Goldman Sachs Communacopia + Technology Conferenc",
-      "url": "https://www.prnewswire.com/news-releases/charter-to-participate-in-goldman-sachs-investor-conference-302866863.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-01T21:15:00Z",
-      "epoch": 1788297300,
-      "sentiment": 0.0,
-      "tickers": [
-        "CHTR",
-        "GS"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "CALLAHEAD™ Introduces the WHITE WASH™ Restroom -- A \"50 Years in the Making\" Innovation Redefining Portable Sanitation",
-      "summary": "Porcelain fixtures, marine-grade construction, four-season climate control, hot and cold running water, and a fully self-contained water and waste system bring the comfort and functionality of a permanent bathroom to a portable restroom. NEW YORK, Sept. 1, 2026 /PRNewswire/ -- CA",
-      "url": "https://www.prnewswire.com/news-releases/callahead-introduces-the-white-wash-restroom--a-50-years-in-the-making-innovation-redefining-portable-sanitation-302866848.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-01T21:14:00Z",
-      "epoch": 1788297240,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -396,28 +526,14 @@
       "title": "Veeva Falcon Safety arbeitet mit allen E2B-konformen Sicherheitssystemen über sämtliche Eingangskanäle hinweg zusammen",
       "summary": "PLEASANTON, Kalifornien, 1. September 2026 /PRNewswire/ -- Veeva Systems (NYSE: VEEV) hat heute Veeva Falcon Safety angekündigt – eine auf autonomen Agenten basierende Lösung für das Sicherheitsmanagement, die die Erfassung unerwünschter Ereignisse, die Fallbearbeitung und die...",
       "url": "https://www.prnewswire.com/news-releases/veeva-falcon-safety-arbeitet-mit-allen-e2b-konformen-sicherheitssystemen-uber-samtliche-eingangskanale-hinweg-zusammen-302866860.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-01T21:13:00Z",
       "epoch": 1788297180,
       "sentiment": 0.0,
       "tickers": [
         "VEEV"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "OCI Energy, Arava Power and project partners break ground on 347 MWdc SunRoper Solar project, supporting growing energy demand near Houston",
-      "summary": "WHARTON COUNTY, Texas, Sept. 1, 2026 /PRNewswire/ -- OCI Energy, Arava Power and project partners today took part in the groundbreaking of the 347 MWdc SunRoper Solar project, celebrating the start of construction on a major new solar facility in Wharton County, Texas. Expected t",
-      "url": "https://www.prnewswire.com/news-releases/oci-energy-arava-power-and-project-partners-break-ground-on-347-mwdc-sunroper-solar-project-supporting-growing-energy-demand-near-houston-302866858.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-01T21:10:00Z",
-      "epoch": 1788297000,
-      "sentiment": 0.0,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -442,8 +558,8 @@
       "title": "Veeva Falcon Safety sera compatible avec tous les systèmes de sécurité conformes à la norme E2B, quel que soit le canal de recueil",
       "summary": "PLEASANTON, Californie, 1er septembre 2026 /PRNewswire/ -- Veeva Systems (NYSE : VEEV) a annoncé aujourd'hui le lancement de Veeva Falcon Safety, une solution d'opérations de sécurité basée sur l'agentique, destinée à rationaliser la saisie des événements indésirables, le traitem",
       "url": "https://www.prnewswire.com/news-releases/veeva-falcon-safety-sera-compatible-avec-tous-les-systemes-de-securite-conformes-a-la-norme-e2b-quel-que-soit-le-canal-de-recueil-302866854.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-01T21:08:00Z",
       "epoch": 1788296880,
       "sentiment": 0.0,
@@ -455,48 +571,17 @@
       "small_cap_risk": false
     },
     {
-      "title": "ALIMENTATION COUCHE-TARD ANNOUNCES ITS RESULTS FOR ITS FIRST QUARTER OF FISCAL YEAR 2027",
-      "summary": "LAVAL, QC, Sept. 1, 2026 /PRNewswire/ -- Alimentation Couche-Tard Inc. (\"Couche-Tard\" or the \"Corporation\") (TSX: ATD) announces its results for its first quarter ended July 19, 2026. Executive Comments on the Quarter Alex Miller, President and Chief Executive Officer, said: \"We ",
-      "url": "https://www.prnewswire.com/news-releases/alimentation-couche-tard-announces-its-results-for-its-first-quarter-of-fiscal-year-2027-302866433.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-01T21:05:00Z",
-      "epoch": 1788296700,
-      "sentiment": 0.0,
-      "tickers": [
-        "ATD",
-        "ATD.TO"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "El sistema de seguridad Veeva Falcon funciona con todos los sistemas de seguridad compatibles con E2B",
       "summary": "- El sistema de seguridad Veeva Falcon funciona con todos los sistemas de seguridad compatibles con E2B en cualquier canal de admisión PLEASANTON, California, 1 de septiembre de 2026 /PRNewswire/ -- Veeva Systems (NYSE: VEEV) anunció hoy Veeva Falcon Safety, un producto de operac",
       "url": "https://www.prnewswire.com/news-releases/el-sistema-de-seguridad-veeva-falcon-funciona-con-todos-los-sistemas-de-seguridad-compatibles-con-e2b-302866852.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-01T21:02:00Z",
       "epoch": 1788296520,
       "sentiment": 0.0,
       "tickers": [
         "VEEV"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Premier test de l'offensive européenne en faveur des jeunes entreprises en croissance : l'initiative « Future 500 » repère 100 champions mondiaux potentiels",
-      "summary": "Un projet pilote de sélection fondé sur des données a pu cibler 100 entreprises slovènes à forte croissance, dont le chiffre d'affaires cumulé a doublé pour atteindre 2,1 milliards d'euros Ce cadre permet de détecter les futurs champions européens, alors que l'UE mobilise jusqu'à",
-      "url": "https://www.prnewswire.com/news-releases/premier-test-de-loffensive-europeenne-en-faveur-des-jeunes-entreprises-en-croissance--linitiative--future-500--repere-100-champions-mondiaux-potentiels-302866850.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-01T21:01:00Z",
-      "epoch": 1788296460,
-      "sentiment": 0.0,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -516,27 +601,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "Wheaton Precious Metals Announces Investor Day Webcast on September 16, 2026",
-      "summary": "VANCOUVER, BC, Sept. 1, 2026 /PRNewswire/ -- Wheaton Precious Metals™ Corp. (\"Wheaton\" or the \"Company\") is pleased to announce that it will host an Investor Day webcast on Wednesday, September 16, 2026, starting at 9:00am Eastern Time. Speakers will include Haytham Hodaly, Presi",
-      "url": "https://www.prnewswire.com/news-releases/wheaton-precious-metals-announces-investor-day-webcast-on-september-16-2026-302866728.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-01T21:00:00Z",
-      "epoch": 1788296400,
-      "sentiment": 0.0,
-      "tickers": [
-        "WPM.TO"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "M SOCIAL COLLECTIVE BRINGS SPORT, WELLNESS AND COMMUNITY TO TIMES SQUARE DURING US OPEN WEEK",
       "summary": "M Social Collective: New York Times Square Edition united ATP players, wellness leaders and sustainability partners for two days of movement, recovery and connection at M Social Hotel New York Times Square Link to imagery: HERE Photo Credit: M Social Hotel New York Times Square N",
       "url": "https://www.prnewswire.com/news-releases/m-social-collective-brings-sport-wellness-and-community-to-times-square-during-us-open-week-302866847.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-01T20:56:00Z",
       "epoch": 1788296160,
       "sentiment": 0.0,
@@ -686,20 +755,18 @@
       "small_cap_risk": false
     },
     {
-      "title": "MSC Income Fund Announces Completion of $150.0 Million Investment Grade Notes Offering",
-      "summary": "HOUSTON, Sept. 1, 2026 /PRNewswire/ -- MSC Income Fund, Inc. (NYSE: MSIF) (\"MSC Income\" or the \"Fund\") is pleased to announce the closing of a private notes offering totaling $150.0 million in aggregate principal amount (the \"Notes\"). The Notes are unsecured and bear interest at ",
-      "url": "https://www.prnewswire.com/news-releases/msc-income-fund-announces-completion-of-150-0-million-investment-grade-notes-offering-302866487.html",
+      "title": "John Hancock Closed-End Funds Declare Monthly Distributions",
+      "summary": "BOSTON, Sept. 1, 2026 /PRNewswire/ -- The John Hancock closed-end funds listed below declared their monthly distributions today as follows: Declaration Date: September 1, 2026 Ex Date: September 11, 2026 Record Date: September 11, 2026 Payment Date: September 30, 2026 Ticker Fund",
+      "url": "https://www.prnewswire.com/news-releases/john-hancock-closed-end-funds-declare-monthly-distributions-302866796.html",
       "source": "PR Newswire — Financial",
       "source_id": "prnewswire-financial",
       "published_at": "2026-09-01T20:15:00Z",
       "epoch": 1788293700,
-      "sentiment": 0.0,
-      "tickers": [
-        "MSIF"
-      ],
+      "sentiment": 0.33,
+      "tickers": [],
       "company_name": null,
       "catalyst": false,
-      "small_cap_risk": true
+      "small_cap_risk": false
     },
     {
       "title": "Hyperscale Data Highlights Blockchain Software Revenue Growth; Second Quarter Other Revenue, Consisting Largely of Blockchain-Related Revenue, Increased 647%",
@@ -718,18 +785,20 @@
       "small_cap_risk": true
     },
     {
-      "title": "John Hancock Closed-End Funds Declare Monthly Distributions",
-      "summary": "BOSTON, Sept. 1, 2026 /PRNewswire/ -- The John Hancock closed-end funds listed below declared their monthly distributions today as follows: Declaration Date: September 1, 2026 Ex Date: September 11, 2026 Record Date: September 11, 2026 Payment Date: September 30, 2026 Ticker Fund",
-      "url": "https://www.prnewswire.com/news-releases/john-hancock-closed-end-funds-declare-monthly-distributions-302866796.html",
+      "title": "MSC Income Fund Announces Completion of $150.0 Million Investment Grade Notes Offering",
+      "summary": "HOUSTON, Sept. 1, 2026 /PRNewswire/ -- MSC Income Fund, Inc. (NYSE: MSIF) (\"MSC Income\" or the \"Fund\") is pleased to announce the closing of a private notes offering totaling $150.0 million in aggregate principal amount (the \"Notes\"). The Notes are unsecured and bear interest at ",
+      "url": "https://www.prnewswire.com/news-releases/msc-income-fund-announces-completion-of-150-0-million-investment-grade-notes-offering-302866487.html",
       "source": "PR Newswire — Financial",
       "source_id": "prnewswire-financial",
       "published_at": "2026-09-01T20:15:00Z",
       "epoch": 1788293700,
-      "sentiment": 0.33,
-      "tickers": [],
+      "sentiment": 0.0,
+      "tickers": [
+        "MSIF"
+      ],
       "company_name": null,
       "catalyst": false,
-      "small_cap_risk": false
+      "small_cap_risk": true
     },
     {
       "title": "John Hancock Closed-End Funds Declare Quarterly Distributions",
@@ -854,38 +923,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "VINCI COMPASS COMPLETES THE ACQUISITION OF NAVI'S REAL ESTATE PLATFORM",
-      "summary": "RIO DE JANEIRO, Sept. 1, 2026 /PRNewswire/ -- Vinci Compass Investments Ltd. (NASDAQ: VINP) (\"Vinci Compass,\" \"we,\" \"the Company,\" \"us,\" or \"our\"), the controlling company of a leading alternative investments and global solutions provider in Latin America, announced today that it",
-      "url": "https://www.prnewswire.com/news-releases/vinci-compass-completes-the-acquisition-of-navis-real-estate-platform-302866766.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-01T20:02:00Z",
-      "epoch": 1788292920,
-      "sentiment": 0.0,
-      "tickers": [
-        "VINP"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Thornburg Income Builder Opportunities Trust Announces Distribution",
-      "summary": "SANTA FE, N.M., Sept. 1, 2026 /PRNewswire/ -- Thornburg Income Builder Opportunities Trust (the \"Trust\") (NASDAQ: TBLD) today announced a monthly distribution of $0.10417 per share on the Trust's common shares, payable on September 21, 2026, to common shareholders of record as of",
-      "url": "https://www.prnewswire.com/news-releases/thornburg-income-builder-opportunities-trust-announces-distribution-302866550.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-01T20:01:00Z",
-      "epoch": 1788292860,
-      "sentiment": 0.33,
-      "tickers": [
-        "TBLD"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "COLLPLANT ANNOUNCES REVERSE SHARE SPLIT",
       "summary": "REHOVOT, Israel, Sept. 1, 2026 /PRNewswire/ -- CollPlant Biotechnologies Ltd. (Nasdaq: CLGN) (\"CollPlant\" or the \"Company\"), today announced that its Board of Directors has approved a one-for-ten reverse share split of the Company's ordinary shares. The reverse share split is sch",
       "url": "https://www.prnewswire.com/news-releases/collplant-announces-reverse-share-split-302866688.html",
@@ -900,20 +937,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "Grayton Beach Home With 130-Year History Hits The Market",
-      "summary": "Scenic Sotheby's International Realty lists 10 Hotz Avenue, a 19th-century home intertwined with the origins and history of Grayton Beach GRAYTON BEACH, Fla., Sept. 1, 2026 /PRNewswire/ -- Long before Scenic Highway 30A became synonymous with Florida's Gulf Coast, 10 Hotz Avenue ",
-      "url": "https://www.prnewswire.com/news-releases/grayton-beach-home-with-130-year-history-hits-the-market-302866771.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-01T19:55:00Z",
-      "epoch": 1788292500,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "耶魯大學醫學院獲近 2,500 萬美元研究補助，推動人腦發育圖譜與自閉症研究",
@@ -944,37 +967,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "ZIONS BANCORPORATION TO PRESENT AT THE BARCLAYS GLOBAL FINANCIAL SERVICES CONFERENCE",
-      "summary": "SALT LAKE CITY, Sept. 1, 2026 /PRNewswire/ -- Harris Simmons, Chairman and CEO of Zions Bancorporation, N.A. (NASDAQ: ZION), will present at the Barclays Global Financial Services Conference, Tuesday, September 15 at 12:00 pm Eastern. An audio webcast of the session may be access",
-      "url": "https://www.prnewswire.com/news-releases/zions-bancorporation-to-present-at-the-barclays-global-financial-services-conference-302866762.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-01T19:41:00Z",
-      "epoch": 1788291660,
-      "sentiment": 0.0,
-      "tickers": [
-        "BARC.L",
-        "ZION"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "CIC Services Launches PortfolioVantage Tenant Legal Liability Program for Property Owners",
-      "summary": "Program combines CIC Services' captive insurance expertise with ePremium technology to help qualified property owners retain underwriting profit and expand their risk protection KNOXVILLE, Tenn., Sept. 1, 2026 /PRNewswire/ -- CIC Services today announced the launch of PortfolioVa",
-      "url": "https://www.prnewswire.com/news-releases/cic-services-launches-portfoliovantage-tenant-legal-liability-program-for-property-owners-302866760.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-01T19:39:00Z",
-      "epoch": 1788291540,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Professional Physical Therapy Launches RISE Program to Help Physical Therapists Repay Student Loans",
       "summary": "New RISE Program will provide eligible participants with up to $50,000 in student loan repayment support MELVILLE, N.Y., Sept. 1, 2026 /PRNewswire/ -- Professional Physical Therapy today announced a new program designed to help current and future physical therapists overcome one ",
       "url": "https://www.prnewswire.com/news-releases/professional-physical-therapy-launches-rise-program-to-help-physical-therapists-repay-student-loans-302866756.html",
@@ -982,34 +974,6 @@
       "source_id": "prnewswire-health",
       "published_at": "2026-09-01T19:32:00Z",
       "epoch": 1788291120,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Bringing Meals, Health and Support to the Streets of Downtown Phoenix",
-      "summary": "AZ Blue Health Choice, AZ Langar on Wheels and Zeihan ProHealth partner to provide essential resources directly to people in need. PHOENIX, Sept. 1, 2026 /PRNewswire/ -- Thousands of hot meals, health screenings and essential supplies are reaching people experiencing homelessness",
-      "url": "https://www.prnewswire.com/news-releases/bringing-meals-health-and-support-to-the-streets-of-downtown-phoenix-302866748.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-01T19:22:00Z",
-      "epoch": 1788290520,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "FROM TRANSPLANTATION TO DONATION: NEW CORE CEO DEBORAH MAURER LOOKS TO EXPAND WHAT'S POSSIBLE",
-      "summary": "Marking exactly one month into her tenure, longtime transplant director looks to build on CORE's nearly 50 years of life-saving impact through clinical innovation, stronger healthcare partnerships and investment in the future. PITTSBURGH, Sept. 1, 2026 /PRNewswire/ -- Deborah Mau",
-      "url": "https://www.prnewswire.com/news-releases/from-transplantation-to-donation-new-core-ceo-deborah-maurer-looks-to-expand-whats-possible-302866740.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-01T19:18:00Z",
-      "epoch": 1788290280,
       "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
@@ -2244,6 +2208,34 @@
       "company_name": "Borealis Foods Inc.",
       "catalyst": false,
       "small_cap_risk": false
+    },
+    {
+      "title": "8-K - McEwen Inc. (0000314203) (Filer)",
+      "summary": "Filed:  2026-09-01  AccNo:  0001104659-26-104311  Size:  274 KB\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/314203/000110465926104311/0001104659-26-104311-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-09-01T16:14:50Z",
+      "epoch": 1788279290,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Mcewen Inc.",
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Liberty Global Ltd. (0001570585) (Filer)",
+      "summary": "Filed:  2026-09-01  AccNo:  0001570585-26-000129  Size:  236 KB\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1570585/000157058526000129/0001570585-26-000129-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-09-01T16:14:31Z",
+      "epoch": 1788279271,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Liberty Global Ltd.",
+      "catalyst": false,
+      "small_cap_risk": false
     }
   ],
   "pipeline": [
@@ -2563,7 +2555,7 @@
     },
     {
       "title": "Novartis, Bristol Myers pause autoimmune CAR-T trials due to safety concerns",
-      "summary": "The deaths of three study participants led Novartis to halt development of rap-cel in multiple indications, while &ldquo;transient&rdquo; side effects pushed Bristol Myers to voluntarily pause its zola-cel program.",
+      "summary": "The deaths of three study participants led Novartis to halt development of rap-cel in multiple indications, while &ldquo;transient&rdquo; side effects led Bristol Myers to voluntarily pause its zola-cel program.",
       "url": "https://www.biopharmadive.com/news/novartis-bristol-myers-autoimmune-cell-therapy-trial-halt/829218/",
       "source": "BioPharma Dive",
       "source_id": "biopharmadive",
