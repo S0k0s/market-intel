@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-31T22:00:56Z",
+  "generated_at": "2026-09-01T01:17:15Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 142,
+    "breaking_count": 139,
     "breaking_catalyst_count": 24,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 8,
@@ -52,22 +52,22 @@
       "source_count": 2
     },
     {
-      "ticker": "PFE",
+      "ticker": "NOVN",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
     },
     {
-      "ticker": "KZIA",
-      "count": 1,
+      "ticker": "BMY",
+      "count": 2,
       "catalyst_count": 0,
-      "source_count": 1
+      "source_count": 2
     },
     {
-      "ticker": "JKHY",
-      "count": 1,
+      "ticker": "PFE",
+      "count": 2,
       "catalyst_count": 0,
-      "source_count": 1
+      "source_count": 2
     }
   ],
   "movers": [],
@@ -416,11 +416,173 @@
       "small_cap_risk": false
     },
     {
+      "title": "TXNM Energy Announces Pricing of Public Offering of Common Stock",
+      "summary": "ALBUQUERQUE, N.M., Aug. 31, 2026 /PRNewswire/ -- TXNM Energy, Inc. (\"TXNM Energy\") (NYSE: TXNM) announced today that it has priced an underwritten public offering of 7,079,646 shares of its common stock, no par value, at a public offering price of $56.50 per share for approximate",
+      "url": "https://www.prnewswire.com/news-releases/txnm-energy-announces-pricing-of-public-offering-of-common-stock-302865477.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-01T00:27:00Z",
+      "epoch": 1788222420,
+      "sentiment": 0.0,
+      "tickers": [
+        "TXNM"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Baidu Announces Dual-Primary Listing on the Main Board of The Stock Exchange of Hong Kong Limited",
+      "summary": "BEIJING, Aug. 31, 2026 /PRNewswire/ -- Baidu, Inc. (\"Baidu\" or the \"Company\") (Nasdaq: BIDU; HKEX: 9888 (HKD Counter) and 89888 (RMB Counter)), a leading AI company with strong Internet foundation, today announced that the Company's voluntary conversion of its secondary listing s",
+      "url": "https://www.prnewswire.com/news-releases/baidu-announces-dual-primary-listing-on-the-main-board-of-the-stock-exchange-of-hong-kong-limited-302865038.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-01T00:00:00Z",
+      "epoch": 1788220800,
+      "sentiment": 0.33,
+      "tickers": [
+        "9888.HK"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "XTI Aerospace Announces Receipt of Nasdaq Deficiency Notice",
+      "summary": "DALLAS, Aug. 31, 2026 /PRNewswire/ -- XTI Aerospace, Inc. (Nasdaq: XTIA) (\"XTI Aerospace,\" \"XTI\" or the \"Company\"), an aerospace and advanced technology platform and parent company of Drone Nerds, LLC, (\"Drone Nerds\"), a leading drone solutions platform serving commercial, enterp",
+      "url": "https://www.prnewswire.com/news-releases/xti-aerospace-announces-receipt-of-nasdaq-deficiency-notice-302865444.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-31T23:47:00Z",
+      "epoch": 1788220020,
+      "sentiment": 0.0,
+      "tickers": [
+        "XTIA"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Ecopetrol Announces Changes in Senior Management",
+      "summary": "BOGOTÁ, Colombia, Aug. 31, 2026 /PRNewswire/ -- Ecopetrol S.A. (BVC: ECOPETROL; NYSE: EC) (the \"Company\" or \"Ecopetrol\") hereby announces that its Board of Directors, at a meeting held on August 31, 2026, adopted the following resolutions: Mr. Sergio Andrés Moreno Acevedo will ce",
+      "url": "https://www.prnewswire.com/news-releases/ecopetrol-announces-changes-in-senior-management-302865440.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-31T23:45:00Z",
+      "epoch": 1788219900,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "AAN and AHS issue updated guideline on migraine prevention medications for adults",
+      "summary": "Highlights: A guideline update by the American Academy of Neurology and American Headache Society has been published to help clinicians determine which medications may be most effective at preventing migraine in adults. Migraine is a chronic disease. Migraine attacks are often as",
+      "url": "https://www.prnewswire.com/news-releases/aan-and-ahs-issue-updated-guideline-on-migraine-prevention-medications-for-adults-302865436.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-08-31T23:28:00Z",
+      "epoch": 1788218880,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "/C O R R E C T I O N -- Monterey County Bank/",
+      "summary": "In the news release, Monterey County Bank Announces Appointments of Dennis R. Woods and Amarjit Shokeen to Its Board of Directors, issued 31-Aug-2026 by Monterey County Bank over PR Newswire, we are advised by the company that changes have been made. The complete, corrected relea",
+      "url": "https://www.prnewswire.com/news-releases/monterey-county-bank-announces-appointments-of-dennis-r-wood-and-amarjit-shokeen-to-its-board-of-directors-302865309.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-31T23:26:00Z",
+      "epoch": 1788218760,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Three Lions Acquisition Corp. Announces Pricing of $100 Million Initial Public Offering",
+      "summary": "NEW YORK, Aug. 31, 2026 /PRNewswire/ -- Three Lions Acquisition Corp. (the \"Company\") announced today the pricing of its initial public offering of 10,000,000 units, at a price of $10.00 per unit. The units are expected to commence trading on September 1, 2026 on the Nasdaq Globa",
+      "url": "https://www.prnewswire.com/news-releases/three-lions-acquisition-corp-announces-pricing-of-100-million-initial-public-offering-302865426.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-31T23:00:00Z",
+      "epoch": 1788217200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Mixx Launches SxC™ Connector for High-Radix Scale-Up and Multi-Petabit Connectivity",
+      "summary": "One fiber connector technology, from the optical engine to the box edge. Live connector demonstration at SEMICON Taiwan. SAN JOSE, Calif., Aug. 31, 2026 /PRNewswire/ -- Mixx Technologies, Inc., a US-based venture-backed deep-tech company building co-packaged optics for hyperscale",
+      "url": "https://www.prnewswire.com/news-releases/mixx-launches-sxc-connector-for-high-radix-scale-up-and-multi-petabit-connectivity-302865083.html",
+      "source": "PR Newswire — Biotechnology",
+      "source_id": "prnewswire-biotech",
+      "published_at": "2026-08-31T23:00:00Z",
+      "epoch": 1788217200,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Genomma Lab Internacional Announces Long-Term Debt Transaction",
+      "summary": "MEXICO CITY, Aug. 31, 2026 /PRNewswire/ -- Genomma Lab Internacional, S.A.B. de C.V. (BMV: LABB) (\"Genomma Lab\" or \"the Company\"), one of the leading pharmaceutical and personal care product companies in Mexico with an expanding international reach, announces that it has entered ",
+      "url": "https://www.prnewswire.com/news-releases/genomma-lab-internacional-announces-long-term-debt-transaction-302865424.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-08-31T22:59:00Z",
+      "epoch": 1788217140,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "PTFE Membranes Market worth $2.84 billion by 2031 - Exclusive Report by MarketsandMarkets™",
+      "summary": "DELRAY BEACH, Fla., Aug. 31, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the PTFE Membranes Market is expected to reach USD 2.84 billion by 2031 from USD 2.14 billion in 2026, at a CAGR of 5.8 % during the forecast period. Browse 260 market data Tables and 60 Figures sp",
+      "url": "https://www.prnewswire.com/news-releases/ptfe-membranes-market-worth-2-84-billion-by-2031---exclusive-report-by-marketsandmarkets-302864855.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-08-31T22:40:00Z",
+      "epoch": 1788216000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Enliven Therapeutics Announces Oral and Poster Presentations at the Society of Hematologic Oncology (SOHO) 2026 Annual Meeting",
+      "summary": "BURLINGAME, Calif., Aug. 31, 2026 /PRNewswire/ -- Enliven Therapeutics, Inc. (Enliven or the Company) (Nasdaq: ELVN), a clinical-stage biopharmaceutical company focused on the discovery and development of small molecule therapeutics, today announced that the Company will present ",
+      "url": "https://www.prnewswire.com/news-releases/enliven-therapeutics-announces-oral-and-poster-presentations-at-the-society-of-hematologic-oncology-soho-2026-annual-meeting-302865282.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-08-31T22:05:00Z",
+      "epoch": 1788213900,
+      "sentiment": 0.0,
+      "tickers": [
+        "ELVN"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
       "title": "Astellas enters voluntary agreement with U.S. government supporting affordable access to medicines",
       "summary": "– Agreement supports commitment to patient access, affordability and innovation – TOKYO, Aug. 31, 2026 /PRNewswire/ -- Astellas Pharma Inc. (TSE: 4503, President and CEO: Naoki Okamura, \"Astellas\") today announced that it has reached an agreement with the U.S. government that ref",
       "url": "https://www.prnewswire.com/news-releases/astellas-enters-voluntary-agreement-with-us-government-supporting-affordable-access-to-medicines-302865379.html",
-      "source": "PR Newswire — Biotechnology",
-      "source_id": "prnewswire-biotech",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-31T22:00:00Z",
       "epoch": 1788213600,
       "sentiment": 0.0,
@@ -433,8 +595,8 @@
       "title": "Kazia Therapeutics Limited Announces Oversubscribed Closing of Up to $120 Million Public Offering",
       "summary": "Company to host a corporate update call Tuesday, September 1st at 8:00am ET SYDNEY, Aug. 31, 2026 /PRNewswire/ -- Kazia Therapeutics Limited (NASDAQ: KZIA) (\"Kazia\" or the \"Company\"), an oncology-focused biotechnology company developing therapies that selectively reprogram cancer",
       "url": "https://www.prnewswire.com/news-releases/kazia-therapeutics-limited-announces-oversubscribed-closing-of-up-to-120-million-public-offering-302865390.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-31T21:58:00Z",
       "epoch": 1788213480,
       "sentiment": 0.0,
@@ -446,25 +608,11 @@
       "small_cap_risk": true
     },
     {
-      "title": "Tool-First Data Governance Creates Activity Without Impact, Finds Info-Tech Research Group",
-      "summary": "Expanding AI initiatives are increasing pressure on organizations to provide trustworthy data, but many governance programs remain fragmented or focused on management mechanisms. Info-Tech Research Group's Activate Data Governance blueprint provides data and IT leaders with a fou",
-      "url": "https://www.prnewswire.com/news-releases/tool-first-data-governance-creates-activity-without-impact-finds-info-tech-research-group-302865388.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-31T21:54:00Z",
-      "epoch": 1788213240,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "ActivatedYou's Essential Skin Food Wins Collagen Product of the Year at the 2026 Mindful Awards",
       "summary": "Plant-Based Collagen Support Supplement Recognized for Its Clean, Science-Backed Approach to Skin Health LOS ANGELES, Aug. 31, 2026 /PRNewswire/ -- ActivatedYou®, the wellness brand known for its holistic approach to health, announced today that its Essential Skin Food™ supplemen",
       "url": "https://www.prnewswire.com/news-releases/activatedyous-essential-skin-food-wins-collagen-product-of-the-year-at-the-2026-mindful-awards-302865386.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-31T21:53:00Z",
       "epoch": 1788213180,
       "sentiment": 0.33,
@@ -493,39 +641,11 @@
       "title": "NOTICE OF 2026 ANNUAL MEETING OF STOCKHOLDERS",
       "summary": "To Be Held on September 10, 2026 WILMINGTON, Del., Aug. 31, 2026 /PRNewswire/ -- To the Stockholders of GABA Therapeutics Inc.: Notice is hereby given that the 2026 Annual Meeting of Stockholders (the \"Annual Meeting\") of GABA Therapeutics, Inc., a Delaware corporation (the \"Comp",
       "url": "https://www.prnewswire.com/news-releases/notice-of-2026-annual-meeting-of-stockholders-302865376.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-31T21:27:00Z",
       "epoch": 1788211620,
       "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Investing in the Future by Upholding Traditional Values",
-      "summary": "Sealaska, the Alaska Native regional corporation for Southeast Alaska, is building a future rooted in Indigenous values. By growing businesses that improve ocean health around the world, Sealaska generates sustainable revenue that is reinvested in shareholders, communities, cultu",
-      "url": "https://www.prnewswire.com/news-releases/investing-in-the-future-by-upholding-traditional-values-302865368.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-31T21:16:00Z",
-      "epoch": 1788210960,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "CHICAGO AUTO SHOW: BEHIND THE WHEEL DEBUTS THIS FALL WITH EXPANDED TEST DRIVE EXPERIENCE",
-      "summary": "OAKBROOK TERRACE, Ill., Aug. 31, 2026 /PRNewswire/ -- The Chicago Automobile Trade Association (CATA), producer of the Chicago Auto Show, is expanding its popular fall consumer test drive event with a new name, new branding and an even broader vehicle lineup. Formerly known as Ch",
-      "url": "https://www.prnewswire.com/news-releases/chicago-auto-show-behind-the-wheel-debuts-this-fall-with-expanded-test-drive-experience-302865367.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-31T21:14:00Z",
-      "epoch": 1788210840,
-      "sentiment": -0.67,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -548,22 +668,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Greenway Reports First Quarter Fiscal 2027 Financial Results",
-      "summary": "KINGSVILLE, ON, Aug. 31, 2026 /PRNewswire/ -- Greenway Greenhouse Cannabis Corporation (CSE: GWAY) (OTCQB: GWAYF) (\"Greenway\" or the \"Company\"), a cultivator of high-quality greenhouse cannabis for the Canadian and international medical cannabis markets, today announced its unaud",
-      "url": "https://www.prnewswire.com/news-releases/greenway-reports-first-quarter-fiscal-2027-financial-results-302865287.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-31T21:10:00Z",
-      "epoch": 1788210600,
-      "sentiment": 0.0,
-      "tickers": [
-        "GWAYF"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "Sun Life Announces Dividend Rates on Class A Non-Cumulative Rate Reset Preferred Shares Series 10R and Class A Non-Cumulative Floating Rate Preferred Shares Series 11QR",
       "summary": "TORONTO, Aug. 31, 2026 /PRNewswire/ -- Sun Life Financial Inc. (TSX: SLF) (NYSE: SLF) today announced the applicable dividend rates for its Class A Non-Cumulative Rate Reset Preferred Shares Series 10R (the \"Series 10R Shares\") and Class A Non-Cumulative Floating Rate Preferred S",
       "url": "https://www.prnewswire.com/news-releases/sun-life-announces-dividend-rates-on-class-a-non-cumulative-rate-reset-preferred-shares-series-10r-and-class-a-non-cumulative-floating-rate-preferred-shares-series-11qr-302865291.html",
@@ -579,20 +683,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "Beverly Hills MD Launches Sheer Radiance SPF Drops: A Mineral-Based SPF 50 Serum That Fights Dark Spots, Uneven Tone, and Fine Lines",
-      "summary": "New Featherlight Mineral Sunscreen Serum Delivers Broad-Spectrum SPF 50 Protection With Zero White Cast BEVERLY HILLS, Calif., Aug. 31, 2026 /PRNewswire/ -- Beverly Hills MD® is redefining daily sun protection with the launch of Sheer Radiance SPF Drops, a featherlight mineral SP",
-      "url": "https://www.prnewswire.com/news-releases/beverly-hills-md-launches-sheer-radiance-spf-drops-a-mineral-based-spf-50-serum-that-fights-dark-spots-uneven-tone-and-fine-lines-302865362.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-31T21:01:00Z",
-      "epoch": 1788210060,
-      "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "Cango Inc. Reports Second Quarter 2026 Unaudited Financial Results",
@@ -611,39 +701,11 @@
       "small_cap_risk": true
     },
     {
-      "title": "SiMa.ai and ARK Electronics Partner to Accelerate Intelligent, Autonomous Drones",
-      "summary": "Production-ready joint solution to speed development and deployment of affordable, high-performance drones for UAS, industrial, and agriculture SAN JOSE, Calif. and SALT LAKE CITY, Aug. 31, 2026 /PRNewswire/ -- SiMa.ai, a leader in Physical AI, and ARK Electronics, a designer and",
-      "url": "https://www.prnewswire.com/news-releases/simaai-and-ark-electronics-partner-to-accelerate-intelligent-autonomous-drones-302865336.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-31T21:00:00Z",
-      "epoch": 1788210000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "USA Kidney and Transplant Experts In Little Rock September 10 to 13",
       "summary": "William J. Clinton Presidential Center Hosts Next Generation Care Talk No Admission Fee to Learn More on Prevention, Transplants, and Treatments WASHINGTON, Aug. 31, 2026 /PRNewswire/ -- The American Association of Kidney Patients (AAKP), the nation's oldest and largest fully ind",
       "url": "https://www.prnewswire.com/news-releases/usa-kidney-and-transplant-experts-in-little-rock-september-10-to-13-302865357.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-08-31T20:56:00Z",
-      "epoch": 1788209760,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Natural Grocers® Invites Customers to Celebrate Labor Day with Special Deals, September 4-9, 2026",
-      "summary": "{N}power members can save up to 51% off end-of-summer favorites at Natural Grocers locations nationwide LAKEWOOD, Colo., Aug. 31, 2026 /PRNewswire/ -- Natural Grocers®, the nation's largest family-operated natural and organic grocery retailer, is helping customers stock up for th",
-      "url": "https://www.prnewswire.com/news-releases/natural-grocers-invites-customers-to-celebrate-labor-day-with-special-deals-september-49-2026-302865358.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-08-31T20:56:00Z",
       "epoch": 1788209760,
       "sentiment": 0.0,
@@ -669,20 +731,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "Monterey County Bank Announces Appointments of Dennis R. Wood and Amarjit Shokeen to Its Board of Directors",
-      "summary": "MONTEREY, Calif., Aug. 31, 2026 /PRNewswire/ -- Monterey County Bank announces the appointment of Dennis R. Woods as a Director of Monterey County Bank, a wholly owned subsidiary of PCB Financial, Inc, and Amarjit Shokeen as a Director of both PCB and Monterey County Bank. The...",
-      "url": "https://www.prnewswire.com/news-releases/monterey-county-bank-announces-appointments-of-dennis-r-wood-and-amarjit-shokeen-to-its-board-of-directors-302865309.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-31T20:30:00Z",
-      "epoch": 1788208200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "NEUBERGER NEXT GENERATION CONNECTIVITY FUND ANNOUNCES MONTHLY DISTRIBUTION",
       "summary": "NEW YORK, Aug. 31, 2026 /PRNewswire/ -- Neuberger Next Generation Connectivity Fund Inc. (NYSE: NBXG) (the \"Fund\") has announced a distribution declaration of $0.12 per share of common stock. The distribution announced today is payable on September 30, 2026, has a record date of ",
       "url": "https://www.prnewswire.com/news-releases/neuberger-next-generation-connectivity-fund-announces-monthly-distribution-302860159.html",
@@ -693,22 +741,6 @@
       "sentiment": 0.33,
       "tickers": [
         "NBXG"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "NEUBERGER ENERGY INFRASTRUCTURE AND INCOME FUND ANNOUNCES MONTHLY DISTRIBUTION",
-      "summary": "NEW YORK, Aug. 31, 2026 /PRNewswire/ -- Neuberger Energy Infrastructure and Income Fund Inc. (NYSE American: NML) (the \"Fund\") has announced a distribution declaration of $0.07008 per share of common stock. The distribution announced today is payable on September 30, 2026, has a ",
-      "url": "https://www.prnewswire.com/news-releases/neuberger-energy-infrastructure-and-income-fund-announces-monthly-distribution-302859927.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-31T20:30:00Z",
-      "epoch": 1788208200,
-      "sentiment": 0.0,
-      "tickers": [
-        "NML"
       ],
       "company_name": null,
       "catalyst": false,
@@ -741,6 +773,22 @@
       "sentiment": 0.0,
       "tickers": [
         "EAT"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "NEUBERGER ENERGY INFRASTRUCTURE AND INCOME FUND ANNOUNCES MONTHLY DISTRIBUTION",
+      "summary": "NEW YORK, Aug. 31, 2026 /PRNewswire/ -- Neuberger Energy Infrastructure and Income Fund Inc. (NYSE American: NML) (the \"Fund\") has announced a distribution declaration of $0.07008 per share of common stock. The distribution announced today is payable on September 30, 2026, has a ",
+      "url": "https://www.prnewswire.com/news-releases/neuberger-energy-infrastructure-and-income-fund-announces-monthly-distribution-302859927.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-08-31T20:30:00Z",
+      "epoch": 1788208200,
+      "sentiment": 0.0,
+      "tickers": [
+        "NML"
       ],
       "company_name": null,
       "catalyst": false,
@@ -868,20 +916,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "Cove Capital Investments Successfully Fully Subscribes Cove Saddle Creek Kansas 109 DST After Raising $12,951,877 from Accredited Investors",
-      "summary": "Cove Saddle Creek 109 Features a 100,061 square foot multi-tenant retail center located in Wichita, KS LOS ANGELES, Aug. 31, 2026 /PRNewswire/ -- Cove Capital Investments, LLC, a Delaware Statutory Trust (DST) sponsor company specializing in debt-free real estate investment oppor",
-      "url": "https://www.prnewswire.com/news-releases/cove-capital-investments-successfully-fully-subscribes-cove-saddle-creek-kansas-109-dst-after-raising-12-951-877-from-accredited-investors-302865313.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-08-31T20:05:00Z",
-      "epoch": 1788206700,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "TransMedics to Present at Upcoming September Investor Conferences",
       "summary": "ANDOVER, Mass., Aug. 31, 2026 /PRNewswire/ -- TransMedics Group, Inc. (\"TransMedics\") (Nasdaq: TMDX), a medical technology company that is transforming organ transplant therapy for patients with end-stage lung, heart, and liver failure, today announced the company will be partici",
       "url": "https://www.prnewswire.com/news-releases/transmedics-to-present-at-upcoming-september-investor-conferences-302865120.html",
@@ -892,23 +926,6 @@
       "sentiment": 0.0,
       "tickers": [
         "TMDX"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Innocan Pharma Announces Second Quarter Fiscal year 2026 Results, With Revenue of US$5.25M (CAD 7.3M)",
-      "summary": "Second Quarter 2026 Results: Gross Margin of 90.9% and Category Leadership HERZLIYA, Israel and CALGARY, Alberta, Aug. 31, 2026 /PRNewswire/ -- Innocan Pharma Corporation (CSE: INNO) (OTCQB: INNPF) (\"Innocan\" or the \"Company\"), today reported today 2026 financial consolidated res",
-      "url": "https://www.prnewswire.com/news-releases/innocan-pharma-announces-second-quarter-fiscal-year-2026-results-with-revenue-of-us5-25m-cad-7-3m-302865164.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-31T20:01:00Z",
-      "epoch": 1788206460,
-      "sentiment": 0.0,
-      "tickers": [
-        "INNPF",
-        "MMM"
       ],
       "company_name": null,
       "catalyst": false,
@@ -926,6 +943,23 @@
       "tickers": [
         "GRAL",
         "MS"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Innocan Pharma Announces Second Quarter Fiscal year 2026 Results, With Revenue of US$5.25M (CAD 7.3M)",
+      "summary": "Second Quarter 2026 Results: Gross Margin of 90.9% and Category Leadership HERZLIYA, Israel and CALGARY, Alberta, Aug. 31, 2026 /PRNewswire/ -- Innocan Pharma Corporation (CSE: INNO) (OTCQB: INNPF) (\"Innocan\" or the \"Company\"), today reported today 2026 financial consolidated res",
+      "url": "https://www.prnewswire.com/news-releases/innocan-pharma-announces-second-quarter-fiscal-year-2026-results-with-revenue-of-us5-25m-cad-7-3m-302865164.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-08-31T20:01:00Z",
+      "epoch": 1788206460,
+      "sentiment": 0.0,
+      "tickers": [
+        "INNPF",
+        "MMM"
       ],
       "company_name": null,
       "catalyst": false,
@@ -997,76 +1031,6 @@
       "source_id": "prnewswire-health",
       "published_at": "2026-08-31T19:09:00Z",
       "epoch": 1788203340,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "HUAWEI WATCH D3 sa v predstihu predstavuje na kongrese ESC 2026: nová éra v meraní krvného tlaku na zápästí",
-      "summary": "MNÍCHOV, 31. august 2026 /PRNewswire/ – Kongres Európskej kardiologickej spoločnosti (ESC Congress 2026), jedno z najvplyvnejších akademických podujatí na svete v oblasti kardiovaskulárnej medicíny, dnes oficiálne otvoril svoje brány v nemeckom Mníchove. Spoločnosť Huawei predsta",
-      "url": "https://www.prnewswire.com/news-releases/huawei-watch-d3-sa-v-predstihu-predstavuje-na-kongrese-esc-2026-nova-era-v-merani-krvneho-tlaku-na-zapasti-302865266.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-31T18:55:00Z",
-      "epoch": 1788202500,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Cohen &amp; Jaffe: Reagan &amp; Jax Memorial Golf Tournament Returns to Support Children's Charities",
-      "summary": "EAST NORWICH, N.Y., Aug. 31, 2026 /PRNewswire/ -- Honoring the memory of Reagan and Jaxson Cohen while supporting charities dedicated to children's health and well-being, the annual Reagan & Jax Memorial Golf Tournament will take place on September 24, 2026. The rain date is Octo",
-      "url": "https://www.prnewswire.com/news-releases/cohen--jaffe-reagan--jax-memorial-golf-tournament-returns-to-support-childrens-charities-302865262.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-31T18:49:00Z",
-      "epoch": 1788202140,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "BIOCORNEUM® Launches Mineral SPF 30 Silicone Scar Gel with Mineral Sun Protection",
-      "summary": "A new mineral sun protection option for BIOCORNEUM's silicone scar gel CARLSBAD, Calif., Aug. 31, 2026 /PRNewswire/ -- BIOCORNEUM®, the #1 plastic surgeon-recommended scar management gel, has launched BIOCORNEUM Mineral SPF 30, a new mineral sun protection option that joins the o",
-      "url": "https://www.prnewswire.com/news-releases/biocorneum-launches-mineral-spf-30-silicone-scar-gel-with-mineral-sun-protection-302865100.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-31T18:45:00Z",
-      "epoch": 1788201900,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "耶鲁医学院获得了近2500万美元的拨款，用于绘制发育中的大脑和推进自闭症研究",
-      "summary": "康涅狄格州纽黑文2026年8月31日 /美通社/ -- “调整研究以影响自闭症”（ARIA）计划向耶鲁医学院（YSM）提供了近2500万美元的拨款。该奖项是ARIA 人类发育神经生物学研究中心的一部分，重点是 构建发育中的人脑的基础地图和模型，并阐明自闭症如何以及何时不同于典型发育。 耶鲁医学院让和大卫•华莱士院长 南希•布朗说：“我们非常感谢ARIA对耶鲁的投资。”...",
-      "url": "https://www.prnewswire.com/news-releases/ye-lu-yi-xue-yuan-huo-de-liao-jin-2500mo-mei-yuan-de-bo-kuan-yong-yu-hui-zhi-fa-yu-zhong-de-da-nao-he-tui-jin-zi-bi-zheng-yan-jiu--892539373.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-31T18:43:00Z",
-      "epoch": 1788201780,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "The Inner Circle acknowledges Corry Jeb Kucik, MD, MA, DMCC, FASA, FCCP, FCCM, FACHE as a Pinnacle Lifetime Member",
-      "summary": "SEATTLE, Aug. 31, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Corry Jeb Kucik, MD, MA, DMCC, FASA, FCCP, FCCM, FACHE is acknowledged as a Pinnacle Lifetime Member for his contributions to Anesthesiology and Critical Care Medicine. Corry Jeb Kucik, MD, MA, DMCC,",
-      "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-corry-jeb-kucik-md-ma-dmcc-fasa-fccp-fccm-fache-as-a-pinnacle-lifetime-member-302865244.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-08-31T18:40:00Z",
-      "epoch": 1788201600,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -2286,6 +2250,23 @@
       "small_cap_risk": false
     },
     {
+      "title": "Novartis, Bristol Myers halt autoimmune CAR-T trials due to adverse events",
+      "summary": "Novartis and Bristol Myers Squibb have halted several CAR-T trials in autoimmune diseases due to immune-related adverse events, Fierce has learned.",
+      "url": "https://www.fiercebiotech.com/biotech/novartis-bristol-myers-squibb-halt-car-t-cell-trials-due-immune-events",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-08-31T16:20:00Z",
+      "epoch": 1788193200,
+      "sentiment": -0.33,
+      "tickers": [
+        "BMY",
+        "NOVN"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Ascendis to pay 20% Yuviwel royalties in patent settlement with BioMarin",
       "summary": "BioMarin now collects royalties on the more convenient competitor product. Ascendis will pay 20% of Yuviwel net sales in the U.S. dating back to the first commercial sales and through to May 2030.",
       "url": "https://www.fiercepharma.com/pharma/biomarin-wins-20-royalties-ascendis-yuviwel-until-2030-end-global-patent-disputes",
@@ -2849,22 +2830,6 @@
       "epoch": 1787736780,
       "sentiment": 0.33,
       "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Hansoh heralds China’s move from ‘follower’ to ‘frontrunner’ in biopharma race",
-      "summary": "Hansoh Pharmaceutical has given a bullish assessment of China’s innovative pharma sector, arguing that the industry is “fully transitioning from the ‘follower’ to the ‘frontrunner’ phase.”",
-      "url": "https://www.fiercebiotech.com/biotech/china-moving-follower-frontrunner-pharma-hansoh",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-08-26T09:33:00Z",
-      "epoch": 1787736780,
-      "sentiment": 0.33,
-      "tickers": [
-        "3692.HK"
-      ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
