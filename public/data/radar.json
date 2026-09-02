@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-01T23:45:14Z",
+  "generated_at": "2026-09-02T01:27:19Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 150,
-    "breaking_catalyst_count": 12,
+    "breaking_count": 149,
+    "breaking_catalyst_count": 13,
     "pipeline_count": 58,
     "pipeline_catalyst_count": 10,
     "movers_count": 0
@@ -52,8 +52,14 @@
       "source_count": 1
     },
     {
-      "ticker": "AMZN",
-      "count": 2,
+      "ticker": "ZEPP",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "MAXQF",
+      "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
@@ -62,17 +68,25 @@
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
-    },
-    {
-      "ticker": "AGRO",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
     }
   ],
   "movers": [],
   "concentration_warning": null,
   "breaking": [
+    {
+      "title": "/C O R R E C T I O N -- Avathon/",
+      "summary": "In the news release, Aramco Digital and Avathon Announce Strategic Partnership to Accelerate Industrial AI Across Saudi Arabia and the World, issued 01-Sep-2026 by Avathon over PR Newswire, we are advised by the company that changes have been made from a previous version distribu",
+      "url": "https://www.prnewswire.com/news-releases/aramco-digital-and-avathon-announce-strategic-partnership-to-accelerate-industrial-ai-across-saudi-arabia-and-the-world-302866757.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-01T23:50:00Z",
+      "epoch": 1788306600,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
     {
       "title": "8-K - BMO 2026-5C15 Mortgage Trust (0002128774) (Filer)",
       "summary": "Filed:  2026-09-01  AccNo:  0001539497-26-002437  Size:  7 MB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 9.01: Financial Statements and Exhibits",
@@ -244,6 +258,108 @@
       "small_cap_risk": false
     },
     {
+      "title": "Zepp Health Corporation Reports Second Quarter of 2026 Unaudited Financial Results",
+      "summary": "MILPITAS, Calif., Sept. 1, 2026 /PRNewswire/ -- Zepp Health Corporation (NYSE: ZEPP) (\"Zepp\", the \"Company\" or \"we\") today announced its unaudited financial results for the second quarter of 2026. Second Quarter of 2026 Financial and Operating Highlights: Revenue reached US$63.5 ",
+      "url": "https://www.prnewswire.com/news-releases/zepp-health-corporation-reports-second-quarter-of-2026-unaudited-financial-results-302866933.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-02T01:00:00Z",
+      "epoch": 1788310800,
+      "sentiment": 0.0,
+      "tickers": [
+        "ZEPP"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "California Hosts 34th Annual Recovery Happens at State Capitol on September 2",
+      "summary": "SACRAMENTO, Calif., Sept. 1, 2026 /PRNewswire/ -- The California Consortium of Addiction Programs and Professionals today announced the 34th Annual Recovery Happens event, scheduled for Wednesday, September 2, 2026, at the California State Capitol Park in Sacramento. Serving as t",
+      "url": "https://www.prnewswire.com/news-releases/california-hosts-34th-annual-recovery-happens-at-state-capitol-on-september-2-302866981.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-02T00:53:00Z",
+      "epoch": 1788310380,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Postal Service Issues Commemorative Stamp Celebrating Eight-Day Jewish Holiday",
+      "summary": "WASHINGTON, Sept. 1, 2026 /PRNewswire/ -- What: The U.S. Postal Service is issuing its ninth Hanukkah stamp, continuing its tradition of honoring the eight-day Jewish holiday observed by millions of people in the United States and around the world. While the first-day-of-issue ev",
+      "url": "https://www.prnewswire.com/news-releases/postal-service-issues-commemorative-stamp-celebrating-eight-day-jewish-holiday-302866978.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-02T00:44:00Z",
+      "epoch": 1788309840,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "BingX Launches \"Connect What's Moving\"  to Bring Users Closer to Global Market Opportunities",
+      "summary": "PANAMA CITY, Sept. 1, 2026 /PRNewswire/ -- BingX, the world's leading multi-asset trading platform, today announced \"Connect What's Moving,\" a long-term strategic initiative to bring users closer to emerging opportunities as global markets start moving. The initiative marks the n",
+      "url": "https://www.prnewswire.com/news-releases/bingx-launches-connect-whats-moving--to-bring-users-closer-to-global-market-opportunities-302866963.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-02T00:17:00Z",
+      "epoch": 1788308220,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Maritime Launch Services and Isar Aerospace Extend Deadline to Finalize Statement of Work and Programmatic Milestones",
+      "summary": "HALIFAX, NS and MUNICH, Sept. 1, 2026 /PRNewswire/ -- Maritime Launch Services Inc. (CBOE: MAXQ) (OTCQB: MAXQF) and Isar Aerospace have agreed to extend the deadline to provide additional time to complete the statement of work and certain programmatic milestones contemplated unde",
+      "url": "https://www.prnewswire.com/news-releases/maritime-launch-services-and-isar-aerospace-extend-deadline-to-finalize-statement-of-work-and-programmatic-milestones-302866904.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-02T00:15:00Z",
+      "epoch": 1788308100,
+      "sentiment": 0.67,
+      "tickers": [
+        "MAXQF"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "HelloNation Article Examines Blue Light Glasses Featuring Optometry Expert Andrea Hill",
+      "summary": "The article explains how blue light glasses may reduce digital eye strain and outlines practical habits to support daily eye comfort. FLORENCE, Ky., Sept. 1, 2026 /PRNewswire/ -- Do blue light glasses really make a difference for people spending long hours on digital devices? A r",
+      "url": "https://www.prnewswire.com/news-releases/hellonation-article-examines-blue-light-glasses-featuring-optometry-expert-andrea-hill-302753055.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-02T00:08:00Z",
+      "epoch": 1788307680,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Sceye and SoftBank Corp. Complete Stratospheric Connectivity Demonstration in Japan, Advancing Towards HAPS Commercialization",
+      "summary": "First mission of Sceye's Service Test Program travels more than 15,000 km from New Mexico to Japan in the stratosphere, backhauls into SoftBank Corp.'s core network, verifies Direct-to-Device and edge computing capabilities and HAPS-based communications with drones. TOKYO, Sept. ",
+      "url": "https://www.prnewswire.com/news-releases/sceye-and-softbank-corp-complete-stratospheric-connectivity-demonstration-in-japan-advancing-towards-haps-commercialization-302866920.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-02T00:00:00Z",
+      "epoch": 1788307200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Telephone and Data Systems Announces It Is No Longer Pursuing the Acquisition of Public Shares of Array Digital Infrastructure",
       "summary": "TDS Expects to Recommence Repurchase Program CHICAGO, Sept. 1, 2026 /PRNewswire/ -- Telephone and Data Systems, Inc. (NYSE: TDS) (the \"Company\" or \"TDS\") today announced that it is no longer pursuing the acquisition of the Common Shares of Array Digital Infrastructure, Inc. (NYSE",
       "url": "https://www.prnewswire.com/news-releases/telephone-and-data-systems-announces-it-is-no-longer-pursuing-the-acquisition-of-public-shares-of-array-digital-infrastructure-302866945.html",
@@ -316,6 +432,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "Try Before You Buy: Azazie Brings In-Person Bridesmaid Dress Experience to San Diego",
+      "summary": "LOS ANGELES, Sept. 1, 2026 /PRNewswire/ -- Azazie, the leading direct-to-consumer special-occasion brand, is bringing its bridesmaid dress pop-up to San Diego on Sunday, September 6, 2026, from 9:00 a.m. to 5:30 p.m. at the Liberty Ballroom at Courtyard San Diego Airport/Liberty ",
+      "url": "https://www.prnewswire.com/news-releases/try-before-you-buy-azazie-brings-in-person-bridesmaid-dress-experience-to-san-diego-302866918.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-01T22:43:00Z",
+      "epoch": 1788302580,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Adecoagro Completes Acquisition of Caarapó Mill and Integrates It Into Its Cluster in Mato Grosso do Sul",
       "summary": "LUXEMBOURG, Sept. 1, 2026 /PRNewswire/ -- Adecoagro S.A. (NYSE: AGRO) (\"Adecoagro\" or the \"Company\"), a leading sustainable production company in South America, announced today that it has completed the acquisition of the Caarapó Mill from Raízen Group, following the satisfaction",
       "url": "https://www.prnewswire.com/news-releases/adecoagro-completes-acquisition-of-caarapo-mill-and-integrates-it-into-its-cluster-in-mato-grosso-do-sul-302866919.html",
@@ -330,20 +460,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "Try Before You Buy: Azazie Brings In-Person Bridesmaid Dress Experience to San Diego",
-      "summary": "LOS ANGELES, Sept. 1, 2026 /PRNewswire/ -- Azazie, the leading direct-to-consumer special-occasion brand, is bringing its bridesmaid dress pop-up to San Diego on Sunday, September 6, 2026, from 9:00 a.m. to 5:30 p.m. at the Liberty Ballroom at Courtyard San Diego Airport/Liberty ",
-      "url": "https://www.prnewswire.com/news-releases/try-before-you-buy-azazie-brings-in-person-bridesmaid-dress-experience-to-san-diego-302866918.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-01T22:43:00Z",
-      "epoch": 1788302580,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "Suzelle Snowden Started With One Class on the Beach 30 years ago, Now She's Running the World's Largest Fitness &amp; Wellness Travel Empire Fit Bodies Inc and Just Signed Hyatt All Inclusive Collection.",
@@ -374,53 +490,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "'Rejoice in Christ': Salt Lake Temple Celebration Welcomes the World",
-      "summary": "Reservations open as Church leaders invite people everywhere to participate in person and online in 2027 SALT LAKE CITY, Sept. 1, 2026 /PRNewswire/ -- The Church of Jesus Christ of Latter-day Saints on Tuesday invited people around the world to participate in the 2027 Salt Lake T",
-      "url": "https://www.prnewswire.com/news-releases/rejoice-in-christ-salt-lake-temple-celebration-welcomes-the-world-302866907.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-01T22:30:00Z",
-      "epoch": 1788301800,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "AMAZON TEAMSTERS AT DJT6 TO LAUNCH UNFAIR LABOR PRACTICE STRIKE",
-      "summary": "Workers to Walk Off the Job at Amazon's Largest U.S. Facility RIVERSIDE, Calif., Sept. 1, 2026 /PRNewswire/ -- Amazon Teamsters at the DJT6 facility in Riverside, California — Amazon's largest warehouse facility in the United States — will launch a one-day unfair labor practice (",
-      "url": "https://www.prnewswire.com/news-releases/amazon-teamsters-at-djt6-to-launch-unfair-labor-practice-strike-302866909.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-01T22:28:00Z",
-      "epoch": 1788301680,
-      "sentiment": 0.67,
-      "tickers": [
-        "AMZN"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Common Threads Expands Digital Training Platform to Bring 23 Years of Nutrition Education Online, Launching September 15th",
-      "summary": "AUSTIN, Texas, Sept. 1, 2026 /PRNewswire/ -- After 23 years of teaching children and families about nutrition and healthy cooking, Common Threads is taking the educational experience online. The national nonprofit today announced an expansion of TEACH (Teaching Everyone About Coo",
-      "url": "https://www.prnewswire.com/news-releases/common-threads-expands-digital-training-platform-to-bring-23-years-of-nutrition-education-online-launching-september-15th-302866869.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-01T22:15:00Z",
-      "epoch": 1788300900,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Manulife Financial Corporation Prices U.S. Public Offering of Subordinated Notes",
-      "summary": "C$ unless otherwise stated TSX/NYSE/PSE: MFC SEHK:945 TORONTO, Sept. 1, 2026 /CNW/ -- Manulife Financial Corporation (NYSE: MFC) (the \"Company\") today announced that it has priced a public offering in the United States of U.S.$750,000,000 aggregate principal amount of 6.146% subo",
-      "url": "https://www.prnewswire.com/news-releases/manulife-financial-corporation-prices-u-s-public-offering-of-subordinated-notes-803634504.html",
+      "summary": "C$ unless otherwise stated TSX/NYSE/PSE: MFC SEHK:945 TORONTO, Sept. 1, 2026 /PRNewswire/ -- Manulife Financial Corporation (NYSE: MFC) (the \"Company\") today announced that it has priced a public offering in the United States of U.S.$750,000,000 aggregate principal amount of 6.14",
+      "url": "https://www.prnewswire.com/news-releases/manulife-financial-corporation-prices-us-public-offering-of-subordinated-notes-302866900.html",
       "source": "PR Newswire — Financial",
       "source_id": "prnewswire-financial",
       "published_at": "2026-09-01T22:14:00Z",
@@ -477,36 +549,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "RELISH, Orange County's Premier Immersive Food, Wine &amp; Spirits Experience, Returns for Three-Day Celebration",
-      "summary": "NEWPORT BEACH, Calif., Sept. 1, 2026 /PRNewswire/ -- The countdown is on for RELISH, Orange County's premier immersive food, wine and spirits experience, created by Celebrity Chef Jamie Gwen and Celebrity Event Planner Nicole Hirsty of Cobalt Events. Returning for its second year",
-      "url": "https://www.prnewswire.com/news-releases/relish-orange-countys-premier-immersive-food-wine--spirits-experience-returns-for-three-day-celebration-302866888.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-01T21:53:00Z",
-      "epoch": 1788299580,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "The Most Important Commute by Zum Founder and CEO Ritu Narayan Named #1 Amazon Bestseller in Education Administration",
-      "summary": "New book makes the case that reliable student mobility is fundamental to access to education REDWOOD CITY, Calif., Sept. 1, 2026 /PRNewswire/ -- The Most Important Commute, the new book by Zūm Founder and CEO Ritu Narayan, has reached #1 on Amazon's bestseller list in Education..",
-      "url": "https://www.prnewswire.com/news-releases/the-most-important-commute-by-zum-founder-and-ceo-ritu-narayan-named-1-amazon-bestseller-in-education-administration-302866882.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-01T21:43:00Z",
-      "epoch": 1788298980,
-      "sentiment": 0.0,
-      "tickers": [
-        "AMZN"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "New National Survey From MedStar Health Finds Many Men Over 55 Are Missing Prostate Cancer Screening",
@@ -755,18 +797,20 @@
       "small_cap_risk": false
     },
     {
-      "title": "John Hancock Closed-End Funds Declare Monthly Distributions",
-      "summary": "BOSTON, Sept. 1, 2026 /PRNewswire/ -- The John Hancock closed-end funds listed below declared their monthly distributions today as follows: Declaration Date: September 1, 2026 Ex Date: September 11, 2026 Record Date: September 11, 2026 Payment Date: September 30, 2026 Ticker Fund",
-      "url": "https://www.prnewswire.com/news-releases/john-hancock-closed-end-funds-declare-monthly-distributions-302866796.html",
+      "title": "MSC Income Fund Announces Completion of $150.0 Million Investment Grade Notes Offering",
+      "summary": "HOUSTON, Sept. 1, 2026 /PRNewswire/ -- MSC Income Fund, Inc. (NYSE: MSIF) (\"MSC Income\" or the \"Fund\") is pleased to announce the closing of a private notes offering totaling $150.0 million in aggregate principal amount (the \"Notes\"). The Notes are unsecured and bear interest at ",
+      "url": "https://www.prnewswire.com/news-releases/msc-income-fund-announces-completion-of-150-0-million-investment-grade-notes-offering-302866487.html",
       "source": "PR Newswire — Financial",
       "source_id": "prnewswire-financial",
       "published_at": "2026-09-01T20:15:00Z",
       "epoch": 1788293700,
-      "sentiment": 0.33,
-      "tickers": [],
+      "sentiment": 0.0,
+      "tickers": [
+        "MSIF"
+      ],
       "company_name": null,
       "catalyst": false,
-      "small_cap_risk": false
+      "small_cap_risk": true
     },
     {
       "title": "Hyperscale Data Highlights Blockchain Software Revenue Growth; Second Quarter Other Revenue, Consisting Largely of Blockchain-Related Revenue, Increased 647%",
@@ -785,20 +829,18 @@
       "small_cap_risk": true
     },
     {
-      "title": "MSC Income Fund Announces Completion of $150.0 Million Investment Grade Notes Offering",
-      "summary": "HOUSTON, Sept. 1, 2026 /PRNewswire/ -- MSC Income Fund, Inc. (NYSE: MSIF) (\"MSC Income\" or the \"Fund\") is pleased to announce the closing of a private notes offering totaling $150.0 million in aggregate principal amount (the \"Notes\"). The Notes are unsecured and bear interest at ",
-      "url": "https://www.prnewswire.com/news-releases/msc-income-fund-announces-completion-of-150-0-million-investment-grade-notes-offering-302866487.html",
+      "title": "John Hancock Closed-End Funds Declare Monthly Distributions",
+      "summary": "BOSTON, Sept. 1, 2026 /PRNewswire/ -- The John Hancock closed-end funds listed below declared their monthly distributions today as follows: Declaration Date: September 1, 2026 Ex Date: September 11, 2026 Record Date: September 11, 2026 Payment Date: September 30, 2026 Ticker Fund",
+      "url": "https://www.prnewswire.com/news-releases/john-hancock-closed-end-funds-declare-monthly-distributions-302866796.html",
       "source": "PR Newswire — Financial",
       "source_id": "prnewswire-financial",
       "published_at": "2026-09-01T20:15:00Z",
       "epoch": 1788293700,
-      "sentiment": 0.0,
-      "tickers": [
-        "MSIF"
-      ],
+      "sentiment": 0.33,
+      "tickers": [],
       "company_name": null,
       "catalyst": false,
-      "small_cap_risk": true
+      "small_cap_risk": false
     },
     {
       "title": "John Hancock Closed-End Funds Declare Quarterly Distributions",
@@ -855,23 +897,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "Rocket Companies President and CFO Brian Brown to Present at Barclays Global Financial Services Conference",
-      "summary": "DETROIT, Sept. 1, 2026 /PRNewswire/ -- Rocket Companies (NYSE: RKT) (\"Rocket Companies\" or the \"Company\"), the Detroit-based homeownership platform today announced that Brian Brown, Rocket Companies President and Chief Financial Officer, will participate in a fireside chat at the",
-      "url": "https://www.prnewswire.com/news-releases/rocket-companies-president-and-cfo-brian-brown-to-present-at-barclays-global-financial-services-conference-302865119.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-01T20:05:00Z",
-      "epoch": 1788293100,
-      "sentiment": 0.0,
-      "tickers": [
-        "BARC.L",
-        "RKT"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
     },
     {
       "title": "INOVIO to Participate in Upcoming Investor Conferences",
@@ -937,48 +962,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "耶魯大學醫學院獲近 2,500 萬美元研究補助，推動人腦發育圖譜與自閉症研究",
-      "summary": "康乃狄克州紐哈芬2026年9月2日 /美通社/ -- 耶魯大學醫學院（Yale School of Medicine，YSM）獲 Aligning Research to Impact Autism（ARIA）計畫提供近 2,500 萬美元研究補助。這筆補助是 ARIA「人類發育神經生物學研究中心」計畫的一部分，將用於建立人類大腦發育的基礎圖譜與模型，並釐清自閉症相關的發育差異何時出現，以及如何偏離典型發育軌跡。 耶魯大學醫學院院長 Nancy J. Brown 醫學博士（Jean and David W. Wallace Dean）表示：「我們非常感謝",
-      "url": "https://www.prnewswire.com/news-releases/ye-lu-da-xue-yi-xue-yuan-huo-jin-2-500-wan-mei-yuan-yan-jiu-bu-zhu-tui-dong-ren-nao-fa-yu-tu-pu-yu-zi-bi-zheng-yan-jiu--868076769.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-01T19:54:00Z",
-      "epoch": 1788292440,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "HelloNation Article Featuring Dental Expert Dr. Christopher Glenn Miller Explains Full Mouth Tooth Replacement Options From Dentures to Implants",
-      "summary": "The article reviews how dentures and implant-based restorations support comfort, stability, and long-term jawbone health for patients missing teeth. ROCHESTER, N.Y., Sept. 1, 2026 /PRNewswire/ -- What options are available today for patients who need a full mouth replacement? Acc",
-      "url": "https://www.prnewswire.com/news-releases/hellonation-article-featuring-dental-expert-dr-christopher-glenn-miller-explains-full-mouth-tooth-replacement-options-from-dentures-to-implants-302864943.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-01T19:43:00Z",
-      "epoch": 1788291780,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Professional Physical Therapy Launches RISE Program to Help Physical Therapists Repay Student Loans",
-      "summary": "New RISE Program will provide eligible participants with up to $50,000 in student loan repayment support MELVILLE, N.Y., Sept. 1, 2026 /PRNewswire/ -- Professional Physical Therapy today announced a new program designed to help current and future physical therapists overcome one ",
-      "url": "https://www.prnewswire.com/news-releases/professional-physical-therapy-launches-rise-program-to-help-physical-therapists-repay-student-loans-302866756.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-01T19:32:00Z",
-      "epoch": 1788291120,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "8-K - BARFRESH FOOD GROUP INC. (0001487197) (Filer)",
