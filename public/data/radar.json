@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-03T01:21:40Z",
+  "generated_at": "2026-09-03T06:07:20Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 149,
-    "breaking_catalyst_count": 31,
+    "breaking_count": 148,
+    "breaking_catalyst_count": 29,
     "pipeline_count": 58,
     "pipeline_catalyst_count": 10,
     "movers_count": 0
@@ -34,37 +34,37 @@
       "source_count": 2
     },
     {
-      "ticker": "LIN",
-      "count": 1,
-      "catalyst_count": 1,
-      "source_count": 1
-    },
-    {
-      "ticker": "AAPL",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 2
-    },
-    {
       "ticker": "BMY",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
     },
     {
+      "ticker": "IT",
+      "count": 4,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
       "ticker": "WFC",
-      "count": 6,
+      "count": 4,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "BARC.L",
-      "count": 2,
+      "ticker": "005930.KS",
+      "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "SJ",
+      "ticker": "GEV",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "NXDT",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -73,22 +73,6 @@
   "movers": [],
   "concentration_warning": null,
   "breaking": [
-    {
-      "title": "STRATEGIC PARTNERSHIP WITH CARESTER FOR OXIDE SEPARATION DEVELOPMENT AND 10-YEAR OFFTAKE AGREEMENT",
-      "summary": "PERTH, Australia, Sept. 3, 2026 /PRNewswire/ -- Lindian Resources Limited (\"Lindian\" or the \"Company\") (ASX: LIN) is pleased to announce that it has executed a Technology and Engineering Services Agreement and a long-term binding Offtake Agreement, for the development of an Oxide",
-      "url": "https://www.prnewswire.com/news-releases/strategic-partnership-with-carester-for-oxide-separation-development-and-10-year-offtake-agreement-302868298.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-03T00:49:00Z",
-      "epoch": 1788396540,
-      "sentiment": 0.33,
-      "tickers": [
-        "LIN"
-      ],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
     {
       "title": "Ivonescimab Meets Overall Survival Key Secondary Endpoint in Interim Analysis of Phase III HARMONi-2 Study, Demonstrating Statistically Significant and Clinically Meaningful Benefit Versus Pembrolizumab in First-Line PD-L1-Positive NSCLC",
       "summary": "HONG KONG, Sept. 2, 2026 /PRNewswire/ -- Akeso, Inc. (9926.HK) (\"Akeso\" or the \"Company\") today announced that a pre-specified interim analysis of overall survival (OS) in the HARMONi-2 (AK112-303) trial, as assessed by the Independent Data Monitoring Committee (IDMC), met the ke",
@@ -111,20 +95,6 @@
       "source_id": "prnewswire-financial",
       "published_at": "2026-09-02T20:58:00Z",
       "epoch": 1788382680,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Foventa further strengthens management team with key CMO and CFO appointments",
-      "summary": "Dr Zaiba Malik appointed Chief Medical Officer and Julia Jones Chief Financial Officer Tasked with driving Transformative Topical Diabetic Retinopathy Treatment FOV407 through Phase IIb trial and Series A funding CAMBRIDGE, England, Sept. 2, 2026 /PRNewswire/ -- Foventa Therapeut",
-      "url": "https://www.prnewswire.com/news-releases/foventa-further-strengthens-management-team-with-key-cmo-and-cfo-appointments-302867281.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-02T20:01:00Z",
-      "epoch": 1788379260,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -510,13 +480,77 @@
       "small_cap_risk": false
     },
     {
-      "title": "MAISON &amp; OBJET PARIS 2026: Gurunavi presentará demostraciones en vivo de \"Magewappa\"",
-      "summary": "-MAISON & OBJET PARIS 2026: Gurunavi presentará demostraciones en vivo de \"Magewappa\" de más de 1.000 años de antigüedad, con 40 productos de madera japoneses que impulsan la descarbonización y los criterios ESG, en París Yoshimasa Shibata, uno de los únicos 16 artesanos tradicio",
-      "url": "https://www.prnewswire.com/news-releases/maison--objet-paris-2026-gurunavi-presentara-demostraciones-en-vivo-de-magewappa-302868318.html",
-      "source": "PR Newswire — Clinical Trials/FDA",
-      "source_id": "prnewswire-trials-fda",
-      "published_at": "2026-09-03T01:20:00Z",
-      "epoch": 1788398400,
+      "title": "Triskell Software Positioned for the First Time in the 2026 Gartner® Magic Quadrant™ for Adaptive Project Management and Reporting",
+      "summary": "MADRID, Sept. 3, 2026 /PRNewswire/ -- Triskell Software is proud to announce its inclusion in the 2026 Gartner® Magic Quadrant™ for Adaptive Project Management and Reporting. As one of only three European vendors among the 11 representative vendors included in this research, Tris",
+      "url": "https://www.prnewswire.com/news-releases/triskell-software-positioned-for-the-first-time-in-the-2026-gartner-magic-quadrant-for-adaptive-project-management-and-reporting-302867678.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-03T06:00:00Z",
+      "epoch": 1788415200,
+      "sentiment": 0.0,
+      "tickers": [
+        "IT"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Triskell Software wird erstmals im Gartner® Magic Quadrant™ 2026 für adaptives Projektmanagement und Berichtswesen positioniert",
+      "summary": "MADRID, 3. September 2026 /PRNewswire/ -- Triskell Software gibt mit Stolz bekannt, dass das Unternehmen in den 2026 Gartner® Magic Quadrant™ for Adaptive Project Management and Reporting (für adaptives Projektmanagement und Berichtswesen) aufgenommen wurde. Als einer von nur dre",
+      "url": "https://www.prnewswire.com/news-releases/triskell-software-wird-erstmals-im-gartner-magic-quadrant-2026-fur-adaptives-projektmanagement-und-berichtswesen-positioniert-302868588.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-03T06:00:00Z",
+      "epoch": 1788415200,
+      "sentiment": 0.0,
+      "tickers": [
+        "IT"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Triskell Software figure pour la première fois dans le « Magic Quadrant™ » 2026 de Gartner® consacré à la gestion de projet et au reporting adaptatifs",
+      "summary": "MADRID, 3 septembre 2026 /PRNewswire/ -- Triskell Software est fière d'annoncer sa présence dans le « Magic Quadrant™ » 2026 de Gartner® consacré à la gestion de projet et au reporting adaptatifs. Triskell, l'un des trois seuls fournisseurs européens parmi les 11 fournisseurs...",
+      "url": "https://www.prnewswire.com/news-releases/triskell-software-figure-pour-la-premiere-fois-dans-le--magic-quadrant--2026-de-gartner-consacre-a-la-gestion-de-projet-et-au-reporting-adaptatifs-302868147.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-03T06:00:00Z",
+      "epoch": 1788415200,
+      "sentiment": 0.0,
+      "tickers": [
+        "IT"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Triskell Software se posiciona por primera vez en el Cuadrante Mágico™ de Gartner® de 2026",
+      "summary": "-Triskell Software se posiciona por primera vez en el Cuadrante Mágico™ de Gartner® de 2026 para la gestión de proyectos adaptativos e informes MADRID, 3 de septiembre de 2026 /PRNewswire/ -- Triskell Software se enorgullece en anunciar su inclusión en el Cuadrante Mágico™ de Gar",
+      "url": "https://www.prnewswire.com/news-releases/triskell-software-se-posiciona-por-primera-vez-en-el-cuadrante-magico-de-gartner-de-2026-302868150.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-03T06:00:00Z",
+      "epoch": 1788415200,
+      "sentiment": 0.0,
+      "tickers": [
+        "IT"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Mind With Heart Robotics presenta el robot panda AnAn en Europa, en la feria IFA Berlín 2026",
+      "summary": "La empresa galardonada con el premio CES 2026 Innovation Awards se expande a Europa con acuerdos de distribución en Alemania y Bélgica. BERLÍN, 3 de septiembre de 2026 /PRNewswire/ -- Mind With Heart Robotics Co., Ltd. anunció hoy el lanzamiento europeo de su robot panda AnAn, qu",
+      "url": "https://www.prnewswire.com/news-releases/mind-with-heart-robotics-presenta-el-robot-panda-anan-en-europa-en-la-feria-ifa-berlin-2026-302864980.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-03T06:00:00Z",
+      "epoch": 1788415200,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -524,41 +558,27 @@
       "small_cap_risk": false
     },
     {
-      "title": "Greenberg Traurig Bolsters Litigation Team with Former Federal Prosecutor David M. Herzog",
-      "summary": "LOS ANGELES, Sept. 2, 2026 /PRNewswire/ -- David M. Herzog, a former Assistant U.S. Attorney in California and Washington, joined global law firm Greenberg Traurig, LLP as a Litigation Practice shareholder in the firm's Los Angeles office. Herzog will focus his practice on comple",
-      "url": "https://www.prnewswire.com/news-releases/greenberg-traurig-bolsters-litigation-team-with-former-federal-prosecutor-david-m-herzog-302868255.html",
+      "title": "ITP Media Group secures major acquisition of APAC's Heart Media Group sparking international expansion across Asia",
+      "summary": "The landmark deal in the 40-year history of the Middle East-headquartered business establishes one of the world's leading independently-owned media groups – with the company eyeing further international growth. DUBAI, UAE, SINGAPORE and KUALA LUMPUR, Malaysia , Sept. 3, 2026 /PRN",
+      "url": "https://www.prnewswire.com/news-releases/itp-media-group-secures-major-acquisition-of-apacs-heart-media-group-sparking-international-expansion-across-asia-302868168.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-03T01:00:00Z",
-      "epoch": 1788397200,
-      "sentiment": 0.0,
+      "published_at": "2026-09-03T06:00:00Z",
+      "epoch": 1788415200,
+      "sentiment": 1.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
     {
-      "title": "LG ELECTRONICS SHOWCASES EXPANDED AI HOME ECOSYSTEM FOR EUROPEAN LIFESTYLES AT IFA 2026",
-      "summary": "Company Showcases Intelligent and Premium Lifestyles Tailored to European Consumers News Summary LG Electronics is showcasing its expanded AI Home ecosystem at IFA 2026, demonstrating how AI seamlessly connects appliances, spaces and services to deliver greater convenience while.",
-      "url": "https://www.prnewswire.com/news-releases/lg-electronics-showcases-expanded-ai-home-ecosystem-for-european-lifestyles-at-ifa-2026-302868307.html",
+      "title": "Breakthrough in Garden Care: Navimow Redefines the Edge Cutting Experience with H5 Pro at IFA 2026",
+      "summary": "From a mower that trims flush against every edge, to AI‑driven navigation that adapts to complex gardens, and a built‑in thermal sensor that protects hedgehogs even in low-light conditions — the Navimow H5 Pro is not just another robotic lawn mower. It is a statement that smarter",
+      "url": "https://www.prnewswire.com/news-releases/breakthrough-in-garden-care-navimow-redefines-the-edge-cutting-experience-with-h5-pro-at-ifa-2026-302862655.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-03T01:00:00Z",
-      "epoch": 1788397200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Premium Guard Inc. Recognized as a 2026 MOTOR Top 20 Awards Winner",
-      "summary": "Febreze Cabin Air Filters combine PUREFLOW® filtration technology with trusted odor-neutralizing performance to deliver a cleaner, fresher in-vehicle experience MEMPHIS, Tenn., Sept. 2, 2026 /PRNewswire/ -- Premium Guard Inc. (PGI), a leading filter manufacturer and supplier, tod",
-      "url": "https://www.prnewswire.com/news-releases/premium-guard-inc-recognized-as-a-2026-motor-top-20-awards-winner-302866802.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-03T01:00:00Z",
-      "epoch": 1788397200,
+      "published_at": "2026-09-03T06:00:00Z",
+      "epoch": 1788415200,
       "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
@@ -566,13 +586,13 @@
       "small_cap_risk": false
     },
     {
-      "title": "iRobot setzt mit seinem bisher leistungsstärksten Roboter, dem Roomba® Max 875 Combo, neue Maßstäbe für die Reinigung ohne manuelles Eingreifen",
-      "summary": "Das neue Flaggschiff von iRobot kombiniert die firmeneigene SealForce™-Saugtechnologie mit einem beheizten Dual-Action-Wischsystem und sorgt so für ultimative Reinigungsergebnisse auf Profi-Niveau Der Roomba® Max 875 Combo Robot + AutoWash™ Dock bietet die umfassendste Reinigungs",
-      "url": "https://www.prnewswire.com/news-releases/irobot-setzt-mit-seinem-bisher-leistungsstarksten-roboter-dem-roomba-max-875-combo-neue-maWstabe-fur-die-reinigung-ohne-manuelles-eingreifen-302868299.html",
+      "title": "Mind With Heart Robotics présente le robot panda AnAn en Europe, lors de l'IFA de Berlin 2026",
+      "summary": "Une entreprise lauréate des CES 2026 Innovation Awards s'implante en Europe en nouant des partenariats avec des distributeurs en Allemagne et en Belgique BERLIN, 3 septembre 2026 /PRNewswire/ -- La société Mind With Heart Robotics Co., Ltd. a annoncé aujourd'hui le lancement euro",
+      "url": "https://www.prnewswire.com/news-releases/mind-with-heart-robotics-presente-le-robot-panda-anan-en-europe-lors-de-lifa-de-berlin-2026-302864981.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-03T00:50:00Z",
-      "epoch": 1788396600,
+      "published_at": "2026-09-03T06:00:00Z",
+      "epoch": 1788415200,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -580,71 +600,254 @@
       "small_cap_risk": false
     },
     {
-      "title": "Scienjoy Holding Corporation to Acquire 29.9% Stake in Chinese Higher Education Service Provider Leader Education Limited",
-      "summary": "BEIJING, Sept. 2, 2026 /PRNewswire/ -- Scienjoy Holding Corporation (\"Scienjoy\", the \"Company\", or \"we\") (NASDAQ: SJ), a provider of mobile live streaming platforms in China, today announced it has entered a sale and purchase agreement (the \"SPA\" and the transaction as contemplat",
-      "url": "https://www.prnewswire.com/news-releases/scienjoy-holding-corporation-to-acquire-29-9-stake-in-chinese-higher-education-service-provider-leader-education-limited-302867976.html",
+      "title": "Mind With Heart Robotics bringt den AnAn-Panda-Roboter auf der IFA Berlin 2026 nach Europa",
+      "summary": "Der Preisträger der CES 2026 Innovation Awards expandiert nach Europa durch Vertriebspartnerschaften in Deutschland und Belgien BERLIN, 3. September 2026 /PRNewswire/ -- Mind With Heart Robotics Co., Ltd. gab heute die Markteinführung seines AnAn-Panda-Roboters in Europa bekannt;",
+      "url": "https://www.prnewswire.com/news-releases/mind-with-heart-robotics-bringt-den-anan-panda-roboter-auf-der-ifa-berlin-2026-nach-europa-302865600.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-03T00:30:00Z",
-      "epoch": 1788395400,
+      "published_at": "2026-09-03T06:00:00Z",
+      "epoch": 1788415200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Mind With Heart Robotics Brings AnAn Panda Robot to Europe at IFA Berlin 2026",
+      "summary": "CES 2026 Innovation Awards Honoree expands into Europe with distributor partnerships in Germany and Belgium BERLIN, Sept. 3, 2026 /PRNewswire/ -- Mind With Heart Robotics Co., Ltd. today announced the European launch of its AnAn panda robot, marking the product's debut at IFA Ber",
+      "url": "https://www.prnewswire.com/news-releases/mind-with-heart-robotics-brings-anan-panda-robot-to-europe-at-ifa-berlin-2026-302864722.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-03T06:00:00Z",
+      "epoch": 1788415200,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Govee Ushers in the Next Era of Smart Living with AI-Powered Lighting Innovation at IFA 2026",
+      "summary": "BERLIN, Sept. 3, 2026 /PRNewswire/ -- Govee, a global leader in smart lighting, today unveiled its latest AI-powered lighting innovations at IFA 2026. By combining advanced AI capabilities with cutting-edge lighting technologies, Govee is pioneering a new generation of smart ligh",
+      "url": "https://www.prnewswire.com/news-releases/govee-ushers-in-the-next-era-of-smart-living-with-ai-powered-lighting-innovation-at-ifa-2026-302867667.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-03T06:00:00Z",
+      "epoch": 1788415200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Studsvik, GE Vernova Hitachi and Samsung C&amp;T commit to advancing 1.2 GW nuclear power project in Sweden",
+      "summary": "NYKÖPING, Sweden, Sept. 3, 2026 Following a competitive evaluation process, Studsvik has selected GE Vernova Hitachi Nuclear Energy and Samsung C&T as its strategic partners for the first project to build new nuclear power, either at its existing licensed nuclear site in or at th",
+      "url": "https://www.prnewswire.com/news-releases/studsvik-ge-vernova-hitachi-and-samsung-ct-commit-to-advancing-1-2-gw-nuclear-power-project-in-sweden-302868672.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-03T05:58:00Z",
+      "epoch": 1788415080,
       "sentiment": 0.0,
       "tickers": [
-        "SJ"
+        "005930.KS",
+        "GEV"
       ],
       "company_name": null,
       "catalyst": false,
-      "small_cap_risk": true
+      "small_cap_risk": false
+    },
+    {
+      "title": "EL NUEVO LEXUS NX 2027: OPTIMIZACIÓN DEL RENDIMIENTO DE LOS MODELOS HÍBRIDOS Y ENCHUFABLES, DISEÑO REFINADO Y MEJOR EXPERIENCIA A BORDO",
+      "summary": "El Lexus NX estará ahora 100 % electrificado, con la opción de elegir entre un sistema de propulsión híbrido eléctrico (HEV) o un sistema de propulsión híbrido enchufable (PHEV). Está previsto que la gama NX incluya cuatro versiones en cada una de las dos opciones de motorización",
+      "url": "https://www.prnewswire.com/news-releases/el-nuevo-lexus-nx-2027-optimizacion-del-rendimiento-de-los-modelos-hibridos-y-enchufables-diseno-refinado-y-mejor-experiencia-a-bordo-845146920.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-03T05:53:00Z",
+      "epoch": 1788414780,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Sceye und SoftBank Corp. schließen die Demonstration der stratosphärischen Konnektivität in Japan erfolgreich ab und treiben die Kommerzialisierung von HAPS voran",
+      "summary": "Die erste Mission im Rahmen des Service Test Program (Service-Testprogramm) von Sceye legt in der Stratosphäre eine Strecke von mehr als 15 000 km von New Mexico nach Japan zurück, stellt die Backhaul-Anbindung an das Kernnetz der SoftBank Corp. her und weist Direct-to-Device- un",
+      "url": "https://www.prnewswire.com/news-releases/sceye-und-softbank-corp-schlieWen-die-demonstration-der-stratospharischen-konnektivitat-in-japan-erfolgreich-ab-und-treiben-die-kommerzialisierung-von-haps-voran-302868656.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-03T05:49:00Z",
+      "epoch": 1788414540,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Paratus Energy: Ex Dividend USD 0.22 per share today",
+      "summary": "HAMILTON, Bermuda, September 3, 2026 /PRNewswire/ -- Reference is made to the announcement by Paratus Energy Services Ltd. (OSLO: PLSV) (\"Paratus\" or the \"Company\") on 28 August 2026, regarding key information relating to the Q2 2026 cash dividend to be paid to the Company's shar",
+      "url": "https://www.prnewswire.com/news-releases/paratus-energy-ex-dividend-usd-0-22-per-share-today-302868651.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-03T05:45:00Z",
+      "epoch": 1788414300,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "BTL gründet neue Lasersparte und stellt EXOLASE ONE® vor - den weltweit ersten Fused-Erbium-Laser",
+      "summary": "Die firmeneigene Technologie bündelt mehrere Wellenlängen in einem einzigen Strahl und setzt damit einen neuen Behandlungsstandard in der Laser-Gesichtsverjüngung. PRAG, 2. September 2026 /PRNewswire/ -- BTL, ein weltweit führender Anbieter fortschrittlicher energiebasierter medi",
+      "url": "https://www.prnewswire.com/news-releases/btl-grundet-neue-lasersparte-und-stellt-exolase-one-vor--den-weltweit-ersten-fused-erbium-laser-302868637.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-03T05:38:00Z",
+      "epoch": 1788413880,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "BTL crée une nouvelle division dédiée au laser et lance EXOLASE ONE® - le premier laser à erbium fusionné au monde",
+      "summary": "Une technologie exclusive fusionne plusieurs longueurs d'onde en un seul faisceau, établissant ainsi une nouvelle référence en matière de rajeunissement du visage au laser. PRAGUE, 3 septembre 2026 /PRNewswire/ -- BTL, leader mondial des technologies médicales et esthétiques de p",
+      "url": "https://www.prnewswire.com/news-releases/btl-cree-une-nouvelle-division-dediee-au-laser-et-lance-exolase-one--le-premier-laser-a-erbium-fusionne-au-monde-302868633.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-03T05:37:00Z",
+      "epoch": 1788413820,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Critical gas for sustainable high-voltage grids now made in Germany",
+      "summary": "Daikin to supply Hitachi Energy with C4-FN, supporting the rapid expansion of Hitachi Energy's EconiQ® portfolio of SF6-free grid technologies Hitachi Energy and Daikin Industries, Ltd. sign MoU for the supply of C4-FN, a specialty gas component in Hitachi Energy's SF6-free switc",
+      "url": "https://www.prnewswire.com/news-releases/critical-gas-for-sustainable-high-voltage-grids-now-made-in-germany-302868323.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-03T05:30:00Z",
+      "epoch": 1788413400,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Sungrow Deepens Long-Term Commitment to Egypt with New Energy Storage Facility",
+      "summary": "CAIRO, Sept. 3, 2026 /PRNewswire/ -- Recently, Sungrow launched its energy storage manufacturing facility in Egypt's Suez Canal Economic Zone, with a planned annual production capacity of 10 GWh and operations set to begin in June 2027. The facility's initial production will supp",
+      "url": "https://www.prnewswire.com/news-releases/sungrow-deepens-long-term-commitment-to-egypt-with-new-energy-storage-facility-302868615.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-03T05:27:00Z",
+      "epoch": 1788413220,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Beltone pone en marcha la tercera edición de la campaña anual de recogida de alimentos Hear2End Hunger para apoyar a las comunidades locales",
+      "summary": "La iniciativa de septiembre aúna la salud auditiva y la lucha contra el hambre; los centros Beltone participantes recogen donaciones de alimentos y ofrecen revisiones auditivas gratuitas CHICAGO, 3 de septiembre de 2026 /PRNewswire-HISPANIC PR WIRE/ -- Con motivo del Mes de la Lu",
+      "url": "https://www.prnewswire.com/news-releases/beltone-pone-en-marcha-la-tercera-edicion-de-la-campana-anual-de-recogida-de-alimentos-hear2end-hunger-para-apoyar-a-las-comunidades-locales-818963759.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-09-03T05:24:00Z",
+      "epoch": 1788413040,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "EpiVax führt KI-gestützte Modelle zur Vorhersage der Immunogenität ein",
+      "summary": "PROVIDENCE, Rhode Island, 3. September 2026 /PRNewswire/ -- EpiVax, Inc. freut sich, die Einführung KI-gestützter Erweiterungen für ISPRI™ bekannt zu geben – seine proprietäre In-silico-Plattform zur Bewertung des Immunogenitätsrisikos von Biotherapeutika. Die neue Version führt ",
+      "url": "https://www.prnewswire.com/news-releases/epivax-fuhrt-ki-gestutzte-modelle-zur-vorhersage-der-immunogenitat-ein-302868604.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-09-03T05:22:00Z",
+      "epoch": 1788412920,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "EpiVax lance des modèles optimisés par l'IA pour la prédiction de l'immunogénicité",
+      "summary": "PROVIDENCE, Rhode Island, 3 septembre 2026 /PRNewswire/ -- EpiVax, Inc. a le plaisir d'annoncer la mise à disposition de nouvelles fonctionnalités basées sur l'intelligence artificielle pour ISPRI™, sa plateforme in silico exclusive destinée à l'évaluation du risque d'immunogénic",
+      "url": "https://www.prnewswire.com/news-releases/epivax-lance-des-modeles-optimises-par-lia-pour-la-prediction-de-limmunogenicite-302868597.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-09-03T05:20:00Z",
+      "epoch": 1788412800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "XTransfer Secures In-Principle Approval for Retail Payment Services Licence from UAE Central Bank",
+      "summary": "Strengthens Trade Connectivity Across the Middle East and Africa DUBAI, UAE, Sept. 3, 2026 /PRNewswire/ -- XTransfer, World's Leading B2B Cross-Border Trade Payment Platform, is pleased to announce that it has secured in-principle approval for a Retail Payment Services Licence fr",
+      "url": "https://www.prnewswire.com/news-releases/xtransfer-secures-in-principle-approval-for-retail-payment-services-licence-from-uae-central-bank-302868544.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-03T04:47:00Z",
+      "epoch": 1788410820,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Neue Forschungsergebnisse belegen, dass mutierte KI-Schwärme in einer sich wandelnden Welt optimierte Modelle übertreffen",
+      "summary": "Forschende von Allora Labs zeigen, dass eine gezielte Verschlechterung einzelner KI-Modelle durch genetische Mutationen deren kollektive Leistungsfähigkeit verbessert NEW YORK, 3. September 2026 /PRNewswire/ -- Aktuelle KI-Systeme sind dadurch eingeschränkt, dass sie sich nicht a",
+      "url": "https://www.prnewswire.com/news-releases/neue-forschungsergebnisse-belegen-dass-mutierte-ki-schwarme-in-einer-sich-wandelnden-welt-optimierte-modelle-ubertreffen-302868508.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-03T04:19:00Z",
+      "epoch": 1788409140,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Los enjambres de IA mutantes superan a los modelos optimizados en un mundo cambiante",
+      "summary": "-Una nueva investigación demuestra que los enjambres de IA mutantes superan a los modelos optimizados en un mundo cambiante Investigadores de Allora Labs demuestran que empeorar intencionadamente los modelos individuales de IA mediante mutaciones genéticas mejora su rendimiento c",
+      "url": "https://www.prnewswire.com/news-releases/los-enjambres-de-ia-mutantes-superan-a-los-modelos-optimizados-en-un-mundo-cambiante-302868496.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-03T04:11:00Z",
+      "epoch": 1788408660,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
     },
     {
       "title": "Insilico Medicine Included in the HKEX Tech 100 Index, Drawing Attention to Opportunities in AI Value Chain",
       "summary": "CAMBRIDGE, Mass., Sept. 2, 2026 /PRNewswire/ -- Insilico Medicine (\"Insilico\", HKEX: 3696), a clinical-stage drug discovery company powered by generative artificial intelligence (AI), announced that it will be included in the HKEX Tech 100 Index, following the methodology enhance",
       "url": "https://www.prnewswire.com/news-releases/insilico-medicine-included-in-the-hkex-tech-100-index-drawing-attention-to-opportunities-in-ai-value-chain-302867744.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-03T00:30:00Z",
       "epoch": 1788395400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "SHISEIDO 推出 Vital Perfection Intensive SculptDefine Serum：一款源自日本肌膚科學、帶來肌膚蛻變的臉部與頸部拉提精華液",
-      "summary": "為慶祝新品上市，SHISEIDO 宣佈延續與皮膚科專科醫師 Shoko Mori 博士的合作關係。 紐約2026年9月2日 /美通社/ -- 植根於日本傳承與創新的全球頂級美容品牌 SHISEIDO，推出 VITAL PERFECTION Intensive SculptDefine Serum，開啟肌膚拉提保養新時代。這是 VITAL PERFECTION 系列首款以全球領先的臉部鬆弛改善技術為靈感、專注於肌膚改善的精華液。 奠基於數十年開創性科學研究成果，這款全新精華液重新定義可見的拉提效果，讓肌膚輪廓更立體、更鮮明，展現自信神采。 配方搭載 SHI",
-      "url": "https://www.prnewswire.com/news-releases/shiseido-tui-chu-vital-perfection-intensive-sculptdefine-serum-yi-kuan-yuan-zi-ri-ben-ji-fu-ke-xue-dai-lai-ji-fu-shui-bian-de-lian-bu-yu-jing-bu-la-ti-jing-hua-ye--834963111.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-03T00:05:00Z",
-      "epoch": 1788393900,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Tickets for the K-Royal Culture Festival Fall 2026 to open on Sep 4",
-      "summary": "A Special Time in the Autumn- Colored Palace: The 2026 K- Royal Culture Festival - Held Oct 7–11 at the four Royal Palaces and Jongmyo Shrine, with expanded opportunities for international visitors to participate - New programs make their debut, including the \"Gyujanggak Chogye M",
-      "url": "https://www.prnewswire.com/news-releases/tickets-for-the-k-royal-culture-festival-fall-2026-to-open-on-sep-4-302867711.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-03T00:00:00Z",
-      "epoch": 1788393600,
-      "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Zum Celebrates Its Drivers Nationwide As Back-to-School Season Gets Underway",
-      "summary": "Drivers in Fresno, Rockford and other cities share why they're excited about the 2026–27 school year REDWOOD CITY, Calif., Sept. 2, 2026 /PRNewswire/ -- Zūm, a leader in student mobility, is kicking off the 2026–27 school year by spotlighting its drivers across the country dedica",
-      "url": "https://www.prnewswire.com/news-releases/zum-celebrates-its-drivers-nationwide-as-back-to-school-season-gets-underway-302868268.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-02T23:25:00Z",
-      "epoch": 1788391500,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -655,8 +858,8 @@
       "title": "Gargle Expands Dental SEO Strategy to Help Dental Practices Get Found in AI Search",
       "summary": "Integrated AEO and GEO strategies help dental practices remain visible as patients increasingly turn to AI tools and voice assistants for answers. LEHI, Utah, Sept. 2, 2026 /PRNewswire/ -- Gargle, Inc., a dental marketing agency, has expanded its SEO offering to include Answer En",
       "url": "https://www.prnewswire.com/news-releases/gargle-expands-dental-seo-strategy-to-help-dental-practices-get-found-in-ai-search-302868264.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-02T23:18:00Z",
       "epoch": 1788391080,
       "sentiment": 0.33,
@@ -674,62 +877,6 @@
       "published_at": "2026-09-02T23:13:00Z",
       "epoch": 1788390780,
       "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Mega Matrix Inc. Announces Results of its Extraordinary General Meeting",
-      "summary": "SINGAPORE, Sept. 2, 2026 /PRNewswire/ -- Mega Matrix Inc. (NYSE American: MPU or \"Company\") today announced the results of its Extraordinary General Meeting which was held on September 1, 2026 at 10:30 a.m. at the offices of the Company located at Level 21, 88 Market Street, Capi",
-      "url": "https://www.prnewswire.com/news-releases/mega-matrix-inc-announces-results-of-its-extraordinary-general-meeting-302868259.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-02T23:12:00Z",
-      "epoch": 1788390720,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "La Royal Mint s'aventure là où aucune pièce n'est jamais allée auparavant avec ses nouvelles pièces de 50 pence « Star Trek » de la collection « »",
-      "summary": "LLANTRISANT, Pays de Galles, 3 septembre 2026 /PRNewswire/ -- Six décennies après la première diffusion de la série « » Star Trek sur les écrans de télévision du monde entier, la Royal Mint dévoile deux pièces de collection de 50 pence pour célébrer ce phénomène mondial et son hé",
-      "url": "https://www.prnewswire.com/news-releases/la-royal-mint-saventure-la-ou-aucune-piece-nest-jamais-allee-auparavant-avec-ses-nouvelles-pieces-de-50-pence--star-trek--de-la-collection---302866604.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-02T23:01:00Z",
-      "epoch": 1788390060,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Die Royal Mint wagt sich mit den neuen -50-Pence-Münzen aus der „Star Trek\"-Reihe mutig dorthin, wo noch keine Münze zuvor gewesen ist",
-      "summary": "LLANTRISANT, Wales, 3. September 2026 /PRNewswire/ -- Sechs Jahrzehnte nachdem „ \" („Star Trek\") erstmals auf Fernsehbildschirmen weltweit zu sehen war, präsentiert die Royal Mint zwei Sammlermünzen im Wert von 50 Pence, um dieses globale Phänomen und sein intergalaktisches Vermä",
-      "url": "https://www.prnewswire.com/news-releases/die-royal-mint-wagt-sich-mit-den-neuen--50-pence-munzen-aus-der-star-trek-reihe-mutig-dorthin-wo-noch-keine-munze-zuvor-gewesen-ist-302866608.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-02T23:01:00Z",
-      "epoch": 1788390060,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Royal Mint se aventura con las nuevas monedas de 50 peniques de Star Trek",
-      "summary": "-Royal Mint se aventura audazmente donde ninguna moneda ha llegado antes con las nuevas monedas de 50 peniques de Star Trek LLANTRISANT, Gales, 3 de septiembre de 2026 /PRNewswire/ -- Seis décadas después de que Star Trek se emitiera por primera vez en las pantallas de televisión",
-      "url": "https://www.prnewswire.com/news-releases/royal-mint-se-aventura-con-las-nuevas-monedas-de-50-peniques-de-star-trek-302866805.html",
-      "source": "PR Newswire — Biotechnology",
-      "source_id": "prnewswire-biotech",
-      "published_at": "2026-09-02T23:01:00Z",
-      "epoch": 1788390060,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -913,88 +1060,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Associated Banc-Corp to Present at Barclays 24th Annual Global Financial Services Conference",
-      "summary": "GREEN BAY, Wis., Sept. 2, 2026 /PRNewswire/ -- Associated Banc-Corp (NYSE: ASB) announced today that Management expects to meet with investors at the 24th Annual Barclays Global Financial Services Conference in New York, NY on September 14-16, 2026. Management also expects to mak",
-      "url": "https://www.prnewswire.com/news-releases/associated-banc-corp-to-present-at-barclays-24th-annual-global-financial-services-conference-302868160.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-02T20:30:00Z",
-      "epoch": 1788381000,
-      "sentiment": 0.0,
-      "tickers": [
-        "ASB",
-        "BARC.L"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Ares Management Corporation to Present at the Barclays Global Financial Services Conference",
-      "summary": "NEW YORK, Sept. 2, 2026 /PRNewswire/ -- Ares Management Corporation announced today that its Co-Founder and Chief Executive Officer, Michael Arougheti, is scheduled to present at the Barclays Global Financial Services Conference on Wednesday, September 16, 2026 at 9:00am ET. A li",
-      "url": "https://www.prnewswire.com/news-releases/ares-management-corporation-to-present-at-the-barclays-global-financial-services-conference-302868020.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-02T20:30:00Z",
-      "epoch": 1788381000,
-      "sentiment": 0.0,
-      "tickers": [
-        "ARES",
-        "BARC.L"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Lennar Corporation to Broadcast Its Third Quarter 2026 Earnings Call on September 17, 2026",
-      "summary": "MIAMI, Sept. 2, 2026 /PRNewswire/ -- Lennar Corporation (NYSE: LEN and LEN.B), one of the nation's largest homebuilders, announced today that the Company will release its third quarter 2026 earnings after the market closes on September 16, 2026. Additionally, the Company will hos",
-      "url": "https://www.prnewswire.com/news-releases/lennar-corporation-to-broadcast-its-third-quarter-2026-earnings-call-on-september-17-2026-302868127.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-02T20:30:00Z",
-      "epoch": 1788381000,
-      "sentiment": 0.0,
-      "tickers": [
-        "LEN"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Scage Future Receives Nasdaq Notifications Regarding Market Value of Listed Securities and Market Value of Publicly Held Shares Requirements",
-      "summary": "NANJING, China, Sept. 2, 2026 /PRNewswire/ -- Scage Future (Nasdaq: SCAG) (\"Scage\" or the \"Company\"), a zero-emission solution provider of new energy heavy-duty commercial vehicles and e-fuel solutions, today announced that on August 27, 2026 the Company received two notification",
-      "url": "https://www.prnewswire.com/news-releases/scage-future-receives-nasdaq-notifications-regarding-market-value-of-listed-securities-and-market-value-of-publicly-held-shares-requirements-302867993.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-02T20:30:00Z",
-      "epoch": 1788381000,
-      "sentiment": 0.0,
-      "tickers": [
-        "SCAG"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Check Point Software Shareholders Approve All 2026 Annual General Meeting Proposals",
-      "summary": "REDWOOD CITY, Calif., Sept. 2, 2026 /PRNewswire/ -- Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading provider of cyber security solutions globally, today announced that shareholders approved all five proposals presented at the 2026 Annual General Meeting. Approxi",
-      "url": "https://www.prnewswire.com/news-releases/check-point-software-shareholders-approve-all-2026-annual-general-meeting-proposals-302868146.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-02T20:25:00Z",
-      "epoch": 1788380700,
-      "sentiment": 0.0,
-      "tickers": [
-        "CHKP"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "Systech Launches TraceIQ, Helping Transform Pharmaceutical Traceability from Compliance to Operational Intelligence",
       "summary": "DOWNERS GROVE, Ill., Sept. 2, 2026 /PRNewswire/ -- Systech, part of Markem-Imaje and Dover and a leading provider of pharmaceutical serialization and traceability solutions, today announced the launch of Systech TraceIQ™, an intelligent and intuitive enterprise traceability platf",
       "url": "https://www.prnewswire.com/news-releases/systech-launches-traceiq-helping-transform-pharmaceutical-traceability-from-compliance-to-operational-intelligence-302867901.html",
@@ -1028,20 +1093,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "OneStream SensibleAI Receives FedRAMP High Authorization",
-      "summary": "Federal agencies can now forecast and build AI models on governed financial data inside OneStream's FedRAMP High authorization BIRMINGHAM, Mich., Sept. 2, 2026 /PRNewswire/ -- OneStream, the AI operating system for modern Finance that unifies core financial and operational proces",
-      "url": "https://www.prnewswire.com/news-releases/onestream-sensibleai-receives-fedramp-high-authorization-302868148.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-02T20:14:00Z",
-      "epoch": 1788380040,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "IM Cannabis Raises US$225,000 of Gross Proceeds in Convertible Note Financing",
       "summary": "TORONTO and GLIL YAM, Israel, Sept. 2, 2026 /PRNewswire/ -- IM Cannabis Corp. (\"IMCC\" or the \"Company\") (Nasdaq: IMCC), a medical cannabis company with operations in Israel and Germany, today announced the closing of a US$225,000 convertible note financing in a private placement ",
       "url": "https://www.prnewswire.com/news-releases/im-cannabis-raises-us225-000-of-gross-proceeds-in-convertible-note-financing-302868051.html",
@@ -1056,38 +1107,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "Crossmint Launches Global Onramp In More Than 160 Countries",
-      "summary": "Fintechs can now let users fund stablecoin wallets with Apple Pay, Google Pay, and cards without leaving their app MIAMI, Sept. 2, 2026 /PRNewswire/ -- Crossmint, the all-in-one stablecoin and wallet infrastructure platform, today launched its own onramp across more than 160 coun",
-      "url": "https://www.prnewswire.com/news-releases/crossmint-launches-global-onramp-in-more-than-160-countries-302868143.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-02T20:08:00Z",
-      "epoch": 1788379680,
-      "sentiment": 0.33,
-      "tickers": [
-        "AAPL"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Aflac Incorporated to Present at the 2026 KBW Insurance Conference",
-      "summary": "COLUMBUS, Ga., Sept. 2, 2026 /PRNewswire/ -- Aflac Incorporated (NYSE: AFL) announced today that Senior Executive Vice President and Aflac Incorporated Chief Financial Officer Max K. Brodén will participate in a fireside chat at the 2026 KBW Insurance Conference on September 10, ",
-      "url": "https://www.prnewswire.com/news-releases/aflac-incorporated-to-present-at-the-2026-kbw-insurance-conference-302866524.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-02T20:05:00Z",
-      "epoch": 1788379500,
-      "sentiment": 0.0,
-      "tickers": [
-        "AFL"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "Nuvation Bio to Participate in Upcoming Investor Conferences",
@@ -1123,22 +1142,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Viking Therapeutics to Participate at Upcoming Investor Conferences",
-      "summary": "SAN DIEGO, Sept. 2, 2026 /PRNewswire/ -- Viking Therapeutics, Inc. (\"Viking\") (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced that it will participate at the Annual Can",
-      "url": "https://www.prnewswire.com/news-releases/viking-therapeutics-to-participate-at-upcoming-investor-conferences-302867002.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-02T20:05:00Z",
-      "epoch": 1788379500,
-      "sentiment": 0.0,
-      "tickers": [
-        "VKTX"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "BillionToOne to Participate in the Wells Fargo 21st Annual Healthcare Conference",
       "summary": "MENLO PARK, Calif., Sept. 2, 2026 /PRNewswire/ -- BillionToOne, Inc. (NASDAQ: BLLN), a next-generation molecular diagnostics company with a mission to create powerful and accurate tests that are accessible to all, today announced that Company management will participate in the We",
       "url": "https://www.prnewswire.com/news-releases/billiontoone-to-participate-in-the-wells-fargo-21st-annual-healthcare-conference-302868082.html",
@@ -1156,52 +1159,20 @@
       "small_cap_risk": true
     },
     {
-      "title": "Mindray North America Celebrates Grand Opening of Expanded Mahwah Warehouse",
-      "summary": "Enhanced Facility Boosts Efficiency, Accelerates Delivery, and Elevates Customer Experience MAHWAH, N.J., Sept. 2, 2026 /PRNewswire/ -- Mindray North America, a global leader in healthcare innovation across perioperative, medical imaging, and critical care, today announced the gr",
-      "url": "https://www.prnewswire.com/news-releases/mindray-north-america-celebrates-grand-opening-of-expanded-mahwah-warehouse-302868137.html",
+      "title": "Viking Therapeutics to Participate at Upcoming Investor Conferences",
+      "summary": "SAN DIEGO, Sept. 2, 2026 /PRNewswire/ -- Viking Therapeutics, Inc. (\"Viking\") (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced that it will participate at the Annual Can",
+      "url": "https://www.prnewswire.com/news-releases/viking-therapeutics-to-participate-at-upcoming-investor-conferences-302867002.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
-      "published_at": "2026-09-02T20:03:00Z",
-      "epoch": 1788379380,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Neurocrine Biosciences to Present at Upcoming Investor Conferences in September",
-      "summary": "SAN DIEGO, Sept. 2, 2026 /PRNewswire/ -- Neurocrine Biosciences, Inc. (Nasdaq: NBIX) today announced that its executives will participate at the following investor conferences: Wells Fargo 21st Annual Healthcare Conference. Fireside chat on Wednesday, September 9, 2026 at 12:45 P",
-      "url": "https://www.prnewswire.com/news-releases/neurocrine-biosciences-to-present-at-upcoming-investor-conferences-in-september-302867834.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-02T20:01:00Z",
-      "epoch": 1788379260,
+      "published_at": "2026-09-02T20:05:00Z",
+      "epoch": 1788379500,
       "sentiment": 0.0,
       "tickers": [
-        "NBIX",
-        "WFC"
+        "VKTX"
       ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "AMGEN TO PRESENT AT THE 2026 WELLS FARGO HEALTHCARE CONFERENCE",
-      "summary": "THOUSAND OAKS, Calif., Sept. 2, 2026 /PRNewswire/ -- Amgen (NASDAQ: AMGN) will present at the 2026 Wells Fargo Healthcare Conference at 11:00 a.m. ET on Thursday, September 10, 2026. Thomas Dittrich, executive vice president and chief financial officer at Amgen, Paul Burton, M.D.",
-      "url": "https://www.prnewswire.com/news-releases/amgen-to-present-at-the-2026-wells-fargo-healthcare-conference-302868131.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-02T20:01:00Z",
-      "epoch": 1788379260,
-      "sentiment": 0.0,
-      "tickers": [
-        "AMGN",
-        "WFC"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "8-K - RELIABILITY INC (0000034285) (Filer)",
