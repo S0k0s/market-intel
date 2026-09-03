@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-02T23:29:08Z",
+  "generated_at": "2026-09-03T01:21:40Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 149,
-    "breaking_catalyst_count": 30,
+    "breaking_catalyst_count": 31,
     "pipeline_count": 58,
     "pipeline_catalyst_count": 10,
     "movers_count": 0
@@ -34,6 +34,12 @@
       "source_count": 2
     },
     {
+      "ticker": "LIN",
+      "count": 1,
+      "catalyst_count": 1,
+      "source_count": 1
+    },
+    {
       "ticker": "AAPL",
       "count": 2,
       "catalyst_count": 0,
@@ -58,13 +64,7 @@
       "source_count": 1
     },
     {
-      "ticker": "NXDT",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "HFRO",
+      "ticker": "SJ",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -73,6 +73,22 @@
   "movers": [],
   "concentration_warning": null,
   "breaking": [
+    {
+      "title": "STRATEGIC PARTNERSHIP WITH CARESTER FOR OXIDE SEPARATION DEVELOPMENT AND 10-YEAR OFFTAKE AGREEMENT",
+      "summary": "PERTH, Australia, Sept. 3, 2026 /PRNewswire/ -- Lindian Resources Limited (\"Lindian\" or the \"Company\") (ASX: LIN) is pleased to announce that it has executed a Technology and Engineering Services Agreement and a long-term binding Offtake Agreement, for the development of an Oxide",
+      "url": "https://www.prnewswire.com/news-releases/strategic-partnership-with-carester-for-oxide-separation-development-and-10-year-offtake-agreement-302868298.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-03T00:49:00Z",
+      "epoch": 1788396540,
+      "sentiment": 0.33,
+      "tickers": [
+        "LIN"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
     {
       "title": "Ivonescimab Meets Overall Survival Key Secondary Endpoint in Interim Analysis of Phase III HARMONi-2 Study, Demonstrating Statistically Significant and Clinically Meaningful Benefit Versus Pembrolizumab in First-Line PD-L1-Positive NSCLC",
       "summary": "HONG KONG, Sept. 2, 2026 /PRNewswire/ -- Akeso, Inc. (9926.HK) (\"Akeso\" or the \"Company\") today announced that a pre-specified interim analysis of overall survival (OS) in the HARMONi-2 (AK112-303) trial, as assessed by the Independent Data Monitoring Committee (IDMC), met the ke",
@@ -494,6 +510,134 @@
       "small_cap_risk": false
     },
     {
+      "title": "MAISON &amp; OBJET PARIS 2026: Gurunavi presentará demostraciones en vivo de \"Magewappa\"",
+      "summary": "-MAISON & OBJET PARIS 2026: Gurunavi presentará demostraciones en vivo de \"Magewappa\" de más de 1.000 años de antigüedad, con 40 productos de madera japoneses que impulsan la descarbonización y los criterios ESG, en París Yoshimasa Shibata, uno de los únicos 16 artesanos tradicio",
+      "url": "https://www.prnewswire.com/news-releases/maison--objet-paris-2026-gurunavi-presentara-demostraciones-en-vivo-de-magewappa-302868318.html",
+      "source": "PR Newswire — Clinical Trials/FDA",
+      "source_id": "prnewswire-trials-fda",
+      "published_at": "2026-09-03T01:20:00Z",
+      "epoch": 1788398400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Greenberg Traurig Bolsters Litigation Team with Former Federal Prosecutor David M. Herzog",
+      "summary": "LOS ANGELES, Sept. 2, 2026 /PRNewswire/ -- David M. Herzog, a former Assistant U.S. Attorney in California and Washington, joined global law firm Greenberg Traurig, LLP as a Litigation Practice shareholder in the firm's Los Angeles office. Herzog will focus his practice on comple",
+      "url": "https://www.prnewswire.com/news-releases/greenberg-traurig-bolsters-litigation-team-with-former-federal-prosecutor-david-m-herzog-302868255.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-03T01:00:00Z",
+      "epoch": 1788397200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "LG ELECTRONICS SHOWCASES EXPANDED AI HOME ECOSYSTEM FOR EUROPEAN LIFESTYLES AT IFA 2026",
+      "summary": "Company Showcases Intelligent and Premium Lifestyles Tailored to European Consumers News Summary LG Electronics is showcasing its expanded AI Home ecosystem at IFA 2026, demonstrating how AI seamlessly connects appliances, spaces and services to deliver greater convenience while.",
+      "url": "https://www.prnewswire.com/news-releases/lg-electronics-showcases-expanded-ai-home-ecosystem-for-european-lifestyles-at-ifa-2026-302868307.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-03T01:00:00Z",
+      "epoch": 1788397200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Premium Guard Inc. Recognized as a 2026 MOTOR Top 20 Awards Winner",
+      "summary": "Febreze Cabin Air Filters combine PUREFLOW® filtration technology with trusted odor-neutralizing performance to deliver a cleaner, fresher in-vehicle experience MEMPHIS, Tenn., Sept. 2, 2026 /PRNewswire/ -- Premium Guard Inc. (PGI), a leading filter manufacturer and supplier, tod",
+      "url": "https://www.prnewswire.com/news-releases/premium-guard-inc-recognized-as-a-2026-motor-top-20-awards-winner-302866802.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-03T01:00:00Z",
+      "epoch": 1788397200,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "iRobot setzt mit seinem bisher leistungsstärksten Roboter, dem Roomba® Max 875 Combo, neue Maßstäbe für die Reinigung ohne manuelles Eingreifen",
+      "summary": "Das neue Flaggschiff von iRobot kombiniert die firmeneigene SealForce™-Saugtechnologie mit einem beheizten Dual-Action-Wischsystem und sorgt so für ultimative Reinigungsergebnisse auf Profi-Niveau Der Roomba® Max 875 Combo Robot + AutoWash™ Dock bietet die umfassendste Reinigungs",
+      "url": "https://www.prnewswire.com/news-releases/irobot-setzt-mit-seinem-bisher-leistungsstarksten-roboter-dem-roomba-max-875-combo-neue-maWstabe-fur-die-reinigung-ohne-manuelles-eingreifen-302868299.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-03T00:50:00Z",
+      "epoch": 1788396600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Scienjoy Holding Corporation to Acquire 29.9% Stake in Chinese Higher Education Service Provider Leader Education Limited",
+      "summary": "BEIJING, Sept. 2, 2026 /PRNewswire/ -- Scienjoy Holding Corporation (\"Scienjoy\", the \"Company\", or \"we\") (NASDAQ: SJ), a provider of mobile live streaming platforms in China, today announced it has entered a sale and purchase agreement (the \"SPA\" and the transaction as contemplat",
+      "url": "https://www.prnewswire.com/news-releases/scienjoy-holding-corporation-to-acquire-29-9-stake-in-chinese-higher-education-service-provider-leader-education-limited-302867976.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-03T00:30:00Z",
+      "epoch": 1788395400,
+      "sentiment": 0.0,
+      "tickers": [
+        "SJ"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Insilico Medicine Included in the HKEX Tech 100 Index, Drawing Attention to Opportunities in AI Value Chain",
+      "summary": "CAMBRIDGE, Mass., Sept. 2, 2026 /PRNewswire/ -- Insilico Medicine (\"Insilico\", HKEX: 3696), a clinical-stage drug discovery company powered by generative artificial intelligence (AI), announced that it will be included in the HKEX Tech 100 Index, following the methodology enhance",
+      "url": "https://www.prnewswire.com/news-releases/insilico-medicine-included-in-the-hkex-tech-100-index-drawing-attention-to-opportunities-in-ai-value-chain-302867744.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-03T00:30:00Z",
+      "epoch": 1788395400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "SHISEIDO 推出 Vital Perfection Intensive SculptDefine Serum：一款源自日本肌膚科學、帶來肌膚蛻變的臉部與頸部拉提精華液",
+      "summary": "為慶祝新品上市，SHISEIDO 宣佈延續與皮膚科專科醫師 Shoko Mori 博士的合作關係。 紐約2026年9月2日 /美通社/ -- 植根於日本傳承與創新的全球頂級美容品牌 SHISEIDO，推出 VITAL PERFECTION Intensive SculptDefine Serum，開啟肌膚拉提保養新時代。這是 VITAL PERFECTION 系列首款以全球領先的臉部鬆弛改善技術為靈感、專注於肌膚改善的精華液。 奠基於數十年開創性科學研究成果，這款全新精華液重新定義可見的拉提效果，讓肌膚輪廓更立體、更鮮明，展現自信神采。 配方搭載 SHI",
+      "url": "https://www.prnewswire.com/news-releases/shiseido-tui-chu-vital-perfection-intensive-sculptdefine-serum-yi-kuan-yuan-zi-ri-ben-ji-fu-ke-xue-dai-lai-ji-fu-shui-bian-de-lian-bu-yu-jing-bu-la-ti-jing-hua-ye--834963111.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-03T00:05:00Z",
+      "epoch": 1788393900,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Tickets for the K-Royal Culture Festival Fall 2026 to open on Sep 4",
+      "summary": "A Special Time in the Autumn- Colored Palace: The 2026 K- Royal Culture Festival - Held Oct 7–11 at the four Royal Palaces and Jongmyo Shrine, with expanded opportunities for international visitors to participate - New programs make their debut, including the \"Gyujanggak Chogye M",
+      "url": "https://www.prnewswire.com/news-releases/tickets-for-the-k-royal-culture-festival-fall-2026-to-open-on-sep-4-302867711.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-03T00:00:00Z",
+      "epoch": 1788393600,
+      "sentiment": -0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Zum Celebrates Its Drivers Nationwide As Back-to-School Season Gets Underway",
       "summary": "Drivers in Fresno, Rockford and other cities share why they're excited about the 2026–27 school year REDWOOD CITY, Calif., Sept. 2, 2026 /PRNewswire/ -- Zūm, a leader in student mobility, is kicking off the 2026–27 school year by spotlighting its drivers across the country dedica",
       "url": "https://www.prnewswire.com/news-releases/zum-celebrates-its-drivers-nationwide-as-back-to-school-season-gets-underway-302868268.html",
@@ -578,42 +722,14 @@
       "small_cap_risk": false
     },
     {
-      "title": "The Royal Mint Boldly Goes Where No Coin Has Gone Before With New Star Trek 50p Coins",
-      "summary": "LLANTRISANT, Wales, Sept. 2, 2026 /PRNewswire/ -- Six decades since Star Trek first beamed onto television screens across the world, The Royal Mint is unveiling two collectable 50p coins to celebrate the global phenomenon and its intergalactic legacy. This marks the first time St",
-      "url": "https://www.prnewswire.com/news-releases/the-royal-mint-boldly-goes-where-no-coin-has-gone-before-with-new-star-trek-50p-coins-302866240.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-02T23:01:00Z",
-      "epoch": 1788390060,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Royal Mint se aventura con las nuevas monedas de 50 peniques de Star Trek",
       "summary": "-Royal Mint se aventura audazmente donde ninguna moneda ha llegado antes con las nuevas monedas de 50 peniques de Star Trek LLANTRISANT, Gales, 3 de septiembre de 2026 /PRNewswire/ -- Seis décadas después de que Star Trek se emitiera por primera vez en las pantallas de televisión",
       "url": "https://www.prnewswire.com/news-releases/royal-mint-se-aventura-con-las-nuevas-monedas-de-50-peniques-de-star-trek-302866805.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Biotechnology",
+      "source_id": "prnewswire-biotech",
       "published_at": "2026-09-02T23:01:00Z",
       "epoch": 1788390060,
       "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "PLAY PALM ANGELS EXPANDS ITS U.S. RETAIL FOOTPRINT AT PACSUN",
-      "summary": "The New 41-Piece Collection from Palm Angels' Lifestyle Label Arrives at Pacsun, With New Pacsun-Exclusive Content Starring Avani Gregg LOS ANGELES, Sept. 2, 2026 /PRNewswire/ -- Pacsun, the purpose-driven specialty retailer rooted in youth culture, is bringing PLAY Palm Angels, ",
-      "url": "https://www.prnewswire.com/news-releases/play-palm-angels-expands-its-us-retail-footprint-at-pacsun-302868254.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-02T22:59:00Z",
-      "epoch": 1788389940,
-      "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -623,80 +739,10 @@
       "title": "7 Wolves Consulting Announces Release of Founder Danielle D. Pollard's Debut Book, Act Like a Lady, Speak Like a Wolf",
       "summary": "7 Wolves Consulting founder and creator of the W.O.L.F. framework brings nearly three decades of engineering-backed insight to a new book on executive communication for professional women in male-dominated industries. OAK PARK, Ill., Sept. 2, 2026 /PRNewswire/ -- Danielle D. Poll",
       "url": "https://www.prnewswire.com/news-releases/7-wolves-consulting-announces-release-of-founder-danielle-d-pollards-debut-book-act-like-a-lady-speak-like-a-wolf-302868249.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-02T22:51:00Z",
       "epoch": 1788389460,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "/C O R R E C T I O N -- Authentic Brands Group/",
-      "summary": "In the news release, Shaquille O'Neal, Authentic Brands & TNT Sports' DUNKMAN to Expand in 2027, Introducing Team Competitions, Junior Division & Global Regional Qualifiers Series, issued 02-Sep-2026 by Authentic Brands Group over PR Newswire, we are advised by the company that c",
-      "url": "https://www.prnewswire.com/news-releases/shaquille-oneal-authentic-brands--tnt-sports-dunkman-to-expand-in-2027-introducing-team-competitions-junior-division--global-regional-qualifiers-series-302868132.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-02T22:35:00Z",
-      "epoch": 1788388500,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "UNISORB Welcomes BILZ-USA to Expand Engineering and Product Solutions",
-      "summary": "UNISORB Named Sole North American Distributor for BILZ MICHIGAN CENTER, Mich., Sept. 2, 2026 /PRNewswire/ -- UNISORB Installation Solutions, a global provider of machine mounting, vibration isolation, and precision leveling solutions headquartered in Michigan Center, Mich., today",
-      "url": "https://www.prnewswire.com/news-releases/unisorb-welcomes-bilz-usa-to-expand-engineering-and-product-solutions-302868227.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-02T22:18:00Z",
-      "epoch": 1788387480,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Die CityUHK (Dongguan) feiert die Eröffnungsfeier 2026 und würdigt damit das rasante grenzüberschreitende Wachstum in der Greater Bay Area",
-      "summary": "DONGGUAN, China,/PRNewswire/ -- Die City University of Hong Kong (Dongguan) hielt am 2. September 2026 ihre Eröffnungsfeier für das Studienjahr 2026 ab und begrüßte den dritten Jahrgang der Universität mit mehr als 1.300 Studierenden. Die Feier findet nur wenige Monate nach der V",
-      "url": "https://www.prnewswire.com/news-releases/die-cityuhk-dongguan-feiert-die-eroffnungsfeier-2026-und-wurdigt-damit-das-rasante-grenzuberschreitende-wachstum-in-der-greater-bay-area-302868221.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-02T21:54:00Z",
-      "epoch": 1788386040,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "CityUHK (Dongguan) organise la cérémonie d'ouverture de l'année universitaire 2026, célébrant la croissance transfrontalière rapide dans la région de la Grande Baie",
-      "summary": "DONGGUAN, Chine,/PRNewswire/ -- L'Université de la Ville de Hong Kong (Dongguan) a organisé sa cérémonie d'ouverture de l'année universitaire 2026 le 2 septembre 2026, accueillant ainsi la troisième promotion de l'université, composée de plus de 1 300 étudiants. La cérémonie a li",
-      "url": "https://www.prnewswire.com/news-releases/cityuhk-dongguan-organise-la-ceremonie-douverture-de-lannee-universitaire-2026-celebrant-la-croissance-transfrontaliere-rapide-dans-la-region-de-la-grande-baie-302868217.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-02T21:51:00Z",
-      "epoch": 1788385860,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "World's Largest Indoor, Multi-Level Karting Track & Premier Entertainment Venue Celebrates Groundbreaking in Columbus, Ohio",
-      "summary": "/C O R R E C T I O N – Supercharged Entertainment/ In the news release, World's Largest Indoor, Multi-Level Karting Track & Premier Entertainment Venue Celebrates Groundbreaking in Columbus, Ohio, issued Sept. 2, 2026 by Supercharged Entertainment over PR Newswire, we are advised",
-      "url": "https://www.prnewswire.com/news-releases/worlds-largest-indoor-multi-level-karting-track--premier-entertainment-venue-celebrates-groundbreaking-in-columbus-ohio-302868178.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-02T21:38:00Z",
-      "epoch": 1788385080,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -711,20 +757,6 @@
       "source_id": "prnewswire-financial",
       "published_at": "2026-09-02T21:26:00Z",
       "epoch": 1788384360,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Hard Rock Hotel Malta Celebrates Star-Studded Grand Opening in St. George's Bay",
-      "summary": "Hard Rock's first hotel in Malta welcomes guests to a luxurious new Mediterranean destination where music, entertainment and immersive hospitality come together on the shores of St. George's Bay ST. GEORGE'S BAY, Malta, Sept. 2, 2026 /PRNewswire/ -- Hard Rock Hotel Malta, a highl",
-      "url": "https://www.prnewswire.com/news-releases/hard-rock-hotel-malta-celebrates-star-studded-grand-opening-in-st-georges-bay-302868205.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-02T21:25:00Z",
-      "epoch": 1788384300,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -1091,6 +1123,22 @@
       "small_cap_risk": false
     },
     {
+      "title": "Viking Therapeutics to Participate at Upcoming Investor Conferences",
+      "summary": "SAN DIEGO, Sept. 2, 2026 /PRNewswire/ -- Viking Therapeutics, Inc. (\"Viking\") (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced that it will participate at the Annual Can",
+      "url": "https://www.prnewswire.com/news-releases/viking-therapeutics-to-participate-at-upcoming-investor-conferences-302867002.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-09-02T20:05:00Z",
+      "epoch": 1788379500,
+      "sentiment": 0.0,
+      "tickers": [
+        "VKTX"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
       "title": "BillionToOne to Participate in the Wells Fargo 21st Annual Healthcare Conference",
       "summary": "MENLO PARK, Calif., Sept. 2, 2026 /PRNewswire/ -- BillionToOne, Inc. (NASDAQ: BLLN), a next-generation molecular diagnostics company with a mission to create powerful and accurate tests that are accessible to all, today announced that Company management will participate in the We",
       "url": "https://www.prnewswire.com/news-releases/billiontoone-to-participate-in-the-wells-fargo-21st-annual-healthcare-conference-302868082.html",
@@ -1102,22 +1150,6 @@
       "tickers": [
         "BLLN",
         "WFC"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Viking Therapeutics to Participate at Upcoming Investor Conferences",
-      "summary": "SAN DIEGO, Sept. 2, 2026 /PRNewswire/ -- Viking Therapeutics, Inc. (\"Viking\") (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced that it will participate at the Annual Can",
-      "url": "https://www.prnewswire.com/news-releases/viking-therapeutics-to-participate-at-upcoming-investor-conferences-302867002.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-02T20:05:00Z",
-      "epoch": 1788379500,
-      "sentiment": 0.0,
-      "tickers": [
-        "VKTX"
       ],
       "company_name": null,
       "catalyst": false,
@@ -1167,34 +1199,6 @@
         "AMGN",
         "WFC"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Dr. Abdul Bari Khan to receive 2026 Hovey Impact Award",
-      "summary": "Pakistani physician honored by Eisenhower Fellowships for bringing free health care to millions PHILADELPHIA, Sept. 2, 2026 /PRNewswire/ -- Dr. Abdul Bari Khan, founder and president of the Indus Hospital & Health Network, today was named recipient of the 2026 James and Carol Hov",
-      "url": "https://www.prnewswire.com/news-releases/dr-abdul-bari-khan-to-receive-2026-hovey-impact-award-302868048.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-02T20:00:00Z",
-      "epoch": 1788379200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Ty J. Young Wealth Management Acquires Senior Insurance Services, Expanding Its Growing Annuity Firm",
-      "summary": "Acquisition provides continuity for clients while offering a succession solution for retiring annuity and insurance professionals. ATLANTA, Sept. 2, 2026 /PRNewswire/ -- Ty J. Young Wealth Management, a nationally recognized wealth management firm specializing in retirement incom",
-      "url": "https://www.prnewswire.com/news-releases/ty-j-young-wealth-management-acquires-senior-insurance-services-expanding-its-growing-annuity-firm-302868133.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-02T19:50:00Z",
-      "epoch": 1788378600,
-      "sentiment": 0.0,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
