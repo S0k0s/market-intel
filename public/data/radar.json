@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-06T13:07:42Z",
+  "generated_at": "2026-09-06T16:15:37Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 150,
-    "breaking_catalyst_count": 31,
+    "breaking_count": 143,
+    "breaking_catalyst_count": 30,
     "pipeline_count": 56,
     "pipeline_catalyst_count": 8,
     "movers_count": 0
@@ -28,12 +28,6 @@
       "source_count": 2
     },
     {
-      "ticker": "INBX",
-      "count": 1,
-      "catalyst_count": 1,
-      "source_count": 1
-    },
-    {
       "ticker": "SYY",
       "count": 1,
       "catalyst_count": 1,
@@ -54,6 +48,12 @@
     {
       "ticker": "ROG",
       "count": 3,
+      "catalyst_count": 0,
+      "source_count": 2
+    },
+    {
+      "ticker": "AAPL",
+      "count": 2,
       "catalyst_count": 0,
       "source_count": 2
     },
@@ -100,22 +100,6 @@
       "company_name": null,
       "catalyst": true,
       "small_cap_risk": false
-    },
-    {
-      "title": "Inhibrx To Host Webcast Presentation to Provide Primary Endpoint Results for INBRX-106 Phase 2 First-Line HNSCC Study",
-      "summary": "– Event to be webcast live on Tuesday, September 8 th at 5:00 a.m. PT – SAN DIEGO, Sept. 4, 2026 /PRNewswire/ -- Inhibrx Biosciences, Inc. (Nasdaq: INBX) (\"Inhibrx\" or the \"Company\"), a clinical-stage biopharmaceutical company focused on developing a broad pipeline of novel biolo",
-      "url": "https://www.prnewswire.com/news-releases/inhibrx-to-host-webcast-presentation-to-provide-primary-endpoint-results-for-inbrx-106-phase-2-first-line-hnscc-study-302869703.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-04T20:00:00Z",
-      "epoch": 1788552000,
-      "sentiment": 0.0,
-      "tickers": [
-        "INBX"
-      ],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": true
     },
     {
       "title": "8-K - PDS Biotechnology Corp (0001472091) (Filer)",
@@ -512,6 +496,94 @@
       "small_cap_risk": false
     },
     {
+      "title": "The Apple Music Super Bowl LX Halftime Starring Bad Bunny &amp; Executive Produced By Roc Nation &amp; JAŸ-Z Wins Seven Emmys",
+      "summary": "NEW YORK, Sept. 6, 2026 /PRNewswire/ -- Today, the Apple Music Super Bowl LX Halftime Show Starring Bad Bunny won 7 Emmys as part of the 78th Emmy Awards, becoming the most-awarded Super Bowl Halftime Show in Emmy history. The record-breaking show – which was executive produced b",
+      "url": "https://www.prnewswire.com/news-releases/the-apple-music-super-bowl-lx-halftime-starring-bad-bunny--executive-produced-by-roc-nation--jay-z-wins-seven-emmys-302870842.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-06T16:08:00Z",
+      "epoch": 1788710880,
+      "sentiment": 0.67,
+      "tickers": [
+        "AAPL"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "DUVA Introduces DUVA ONE at IFA 2026: Personalized Sleep Earbuds That Respond in Real Time",
+      "summary": "The Sleep System That Understands You Best. BERLIN, Sept. 6, 2026 /PRNewswire/ -- DUVA, created by Fitnexa, is introducing DUVA ONE at IFA Berlin 2026. This intelligent in-ear sleep system is designed to sense changes in the user and the bedroom, then personalize audio, noise con",
+      "url": "https://www.prnewswire.com/news-releases/duva-introduces-duva-one-at-ifa-2026-personalized-sleep-earbuds-that-respond-in-real-time-302870832.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-06T15:03:00Z",
+      "epoch": 1788706980,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Investigation Alert: EyePoint, Inc. (EYPT) Investors are Encouraged to Contact Kessler Topaz Meltzer &amp; Check, LLP",
+      "summary": "RADNOR, Pa., Sept. 6, 2026 /PRNewswire/ -- Kessler Topaz Meltzer & Check, LLP (www.ktmc.com), a nationally recognized securities litigation law firm, is investigating potential violations of the federal securities laws by EyePoint, Inc. (NASDAQ: EYPT) on behalf of investors who p",
+      "url": "https://www.prnewswire.com/news-releases/investigation-alert-eyepoint-inc-eypt-investors-are-encouraged-to-contact-kessler-topaz-meltzer--check-llp-302870302.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-06T15:00:00Z",
+      "epoch": 1788706800,
+      "sentiment": -0.33,
+      "tickers": [
+        "EYPT"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "FDI World Dental Federation launches Generation Smile, the oral health movement for all",
+      "summary": "Generation Smile is a generation unlike any other. It isn't defined by the year you were born. It unites people of every age, background and culture around one shared purpose: making oral health a priority because it is essential to health and well-being – for everyone, everywher",
+      "url": "https://www.prnewswire.com/news-releases/fdi-world-dental-federation-launches-generation-smile-the-oral-health-movement-for-all-302869021.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-06T13:30:00Z",
+      "epoch": 1788701400,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "La Federación Dental Internacional (FDI) pone en marcha «Generation Smile», el movimiento en favor de la salud bucodental para todos",
+      "summary": "«Generation Smile» es una generación diferente a todas las demás. No viene determinado por el año en que naciste. Une a personas de todas las edades, procedencias y culturas en torno a un objetivo común: Hacer de la salud bucodental una prioridad, ya que es esencial para la salud",
+      "url": "https://www.prnewswire.com/news-releases/la-federacion-dental-internacional-fdi-pone-en-marcha-generation-smile-el-movimiento-en-favor-de-la-salud-bucodental-para-todos-302869405.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-06T13:30:00Z",
+      "epoch": 1788701400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "La Fédération dentaire internationale (FDI) lance « Generation Smile », un mouvement en faveur de la santé bucco-dentaire pour tous",
+      "summary": "« Generation Smile » est une génération à part. Cela ne dépend pas de l'année de votre naissance. Elle rassemble des personnes de tous âges, de tous horizons et de toutes cultures autour d'un objectif commun : faire de la santé bucco-dentaire une priorité, car elle est essentiell",
+      "url": "https://www.prnewswire.com/news-releases/la-federation-dentaire-internationale-fdi-lance--generation-smile--un-mouvement-en-faveur-de-la-sante-bucco-dentaire-pour-tous-302869394.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-06T13:30:00Z",
+      "epoch": 1788701400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "New Mermaid Short: Hessian Soldier Haunted at Sea by a Rhine Siren",
       "summary": "\"The Siren Song: A Hessian Soldier Haunted at Sea\" is free to watch on TIME's YouTube ATLANTA, Sept. 6, 2026 /PRNewswire/ -- A new cinematic short film reframes one of the American Revolution's strangest footnotes as water-spirit folklore: a young Hessian soldier, crossing the At",
       "url": "https://www.prnewswire.com/news-releases/new-mermaid-short-hessian-soldier-haunted-at-sea-by-a-rhine-siren-302870743.html",
@@ -610,139 +682,13 @@
       "small_cap_risk": false
     },
     {
-      "title": "Zendure Wins Double Honors at the Global Product Technology Innovation Awards 2026, with SolarFlow 4000 Mix Pro Taking Gold",
-      "summary": "At IFA 2026 in Berlin, Zendure's flagship SolarFlow 4000 Mix Pro earns the Sustainable Home Energy Storage System Gold Award, while Zendure receives the Smart Energy Solutions Brand Award. BERLIN, Sept. 6, 2026 /PRNewswire/ -- Zendure, a global pioneer of plug-in home energy mana",
-      "url": "https://www.prnewswire.com/news-releases/zendure-wins-double-honors-at-the-global-product-technology-innovation-awards-2026-with-solarflow-4000-mix-pro-taking-gold-302870784.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-06T08:41:00Z",
-      "epoch": 1788684060,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Over 400 media professionals seek new drivers for Asia-Pacific growth",
-      "summary": "GUANGZHOU, China, Sept. 6, 2026 /PRNewswire/ -- This is a news report from South: According to Xinhua News Agency, the Asia-Pacific Media Forum will kick off in Shenzhen on September 5. Over 400 domestic and foreign media professionals will gather in Shenzhen to explore China's..",
-      "url": "https://www.prnewswire.com/news-releases/over-400-media-professionals-seek-new-drivers-for-asia-pacific-growth-302870782.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-06T08:20:00Z",
-      "epoch": 1788682800,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "GT investigates: What severe ice-rock avalanches throughout history reveal about future risks",
-      "summary": "BEIJING, Sept. 6, 2026 /PRNewswire/ -- On August 26, an ice-rock avalanche tore down a high-altitude slope in Nepal, unleashing a devastating debris flow that left people dead or missing on both sides of the China-Nepal border. As of Friday, 31 people have been confirmed dead and",
-      "url": "https://www.prnewswire.com/news-releases/gt-investigates-what-severe-ice-rock-avalanches-throughout-history-reveal-about-future-risks-302870780.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-06T08:05:00Z",
-      "epoch": 1788681900,
-      "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Haier Showcases AI-Powered Smart Home Ecosystem at IFA 2026",
-      "summary": "Connected products understand and adapt to everyday needs BERLIN, Sept. 6, 2026 /PRNewswire/ -- Haier, the world's No. 1 brand in major home appliances for 17 consecutive years*, showcased an AI-powered smart home ecosystem at IFA 2026 spanning garment care, refrigeration, cookin",
-      "url": "https://www.prnewswire.com/news-releases/haier-showcases-ai-powered-smart-home-ecosystem-at-ifa-2026-302870777.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-06T07:53:00Z",
-      "epoch": 1788681180,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Tuya Smart Brings Full-Stack AI into Everyday Life at IFA 2026",
-      "summary": "BERLIN, Sept. 6, 2026 /PRNewswire/ -- Tuya Smart (NYSE: TUYA; HKEX: 2391), a global AI cloud platform service provider, is showcasing its latest advances in physical AI at IFA 2026 under the theme \"Hey Tuya.\" Headlining the exhibit is the global debut of the new AI companion robo",
-      "url": "https://www.prnewswire.com/news-releases/tuya-smart-brings-full-stack-ai-into-everyday-life-at-ifa-2026-302870776.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-06T07:18:00Z",
-      "epoch": 1788679080,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Resonant Clinical Solutions renforce ses capacités de thérapies de pointe et de stockage cryogénique grâce à l'acquisition de Creapharm Bioservices",
       "summary": "Le développement des services spécialisés en Europe s'appuie sur l'offre mondiale de biobanques de Resonant afin de soutenir des programmes cliniques complexes, notamment dans le domaine des thérapies cellulaire et génique LEESBURG, Virginie, États-Unis, 6 septembre 2026 /PRNewsw",
       "url": "https://www.prnewswire.com/news-releases/resonant-clinical-solutions-renforce-ses-capacites-de-therapies-de-pointe-et-de-stockage-cryogenique-grace-a-lacquisition-de-creapharm-bioservices-302870775.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-06T06:26:00Z",
       "epoch": 1788675960,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Changhong at IFA 2026: From Going Global to Going Local",
-      "summary": "BERLIN, Sept. 6, 2026 /PRNewswire/ -- At IFA 2026, Changhong unveiled a new lineup of AI-powered home appliances spanning TVs, refrigerators, air conditioners and laundry appliances. Centered on real-life scenarios, the company is bringing AI technologies designed to better under",
-      "url": "https://www.prnewswire.com/news-releases/changhong-at-ifa-2026-from-going-global-to-going-local-302870774.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-06T06:12:00Z",
-      "epoch": 1788675120,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "BEYONCÉ CELEBRA SU CUMPLEAÑOS CON EL LANZAMIENTO DE UNA EDICIÓN DELUXE REMASTERIZADA DE \"B'DAY\" SU OBRA MAESTRA SOBRE EL PASO A LA MADUREZ SE ENRIQUECE CON IMÁGENES MEJORADAS, NUEVAS CANCIONES SORPRESA Y TEMAS EN ESPAÑOL, QUE INCLUYEN COLABORACIONES CON MALUMA Y LA FALLECIDA SELENA",
-      "summary": "B'DAY (20TH ANNIVERSARY EDITION) YA ESTÁ DISPONIBLE LONDRES, 6 de septiembre de 2026 /PRNewswire-HISPANIC PR WIRE/ -- Hoy se celebra el cumpleaños de Beyoncé y el lanzamiento de una extensa edición remasterizada de B'DAY, su segundo álbum, donde alcanzó madurez artística y person",
-      "url": "https://www.prnewswire.com/news-releases/beyonce-celebra-su-cumpleanos-con-el-lanzamiento-de-una-edicion-deluxe-remasterizada-de-b-day-su-obra-maestra-sobre-el-paso-a-la-madurez-se-enriquece-con-imagenes-mejoradas-nuevas-canciones-sorpresa-y-temas-en-espanol-que-incluyen-colaborac-847158660.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-06T05:47:00Z",
-      "epoch": 1788673620,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Softcare Welcomes ASN, ISO and SIS Delegation as Part of an Assessment Mission on Senegal's Hygiene Products Ecosystem",
-      "summary": "DAKAR, Senegal, Sept. 6, 2026 /PRNewswire/ -- Softcare recently welcomed a technical delegation comprising representatives from the Senegalese Association for Standardization (ASN), the International Organization for Standardization (ISO), and the Swedish Institute for Standards ",
-      "url": "https://www.prnewswire.com/news-releases/softcare-welcomes-asn-iso-and-sis-delegation-as-part-of-an-assessment-mission-on-senegals-hygiene-products-ecosystem-302870770.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-06T04:42:00Z",
-      "epoch": 1788669720,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Experience AI Companion in Everyday Life at Hisense IFA 2026",
-      "summary": "BERLIN, Sept. 6, 2026 /PRNewswire/ -- Hisense, a leading brand in global consumer electronics and home appliances, is inviting visitors at IFA 2026 to experience how AI can make everyday home routines simpler and more intuitive. Under the theme \"Innovating a Brighter Life,\" the H",
-      "url": "https://www.prnewswire.com/news-releases/experience-ai-companion-in-everyday-life-at-hisense-ifa-2026-302870765.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-06T03:11:00Z",
-      "epoch": 1788664260,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -906,20 +852,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Cologne Regional Court Upholds Injunction Against AEKE for Infringing Speediance's Registered Gym Monster Design",
-      "summary": "Court finds AEKE's fitness equipment infringes Speediance's registered EU design and bars advertising, offering, or selling of the infringing equipment in Germany SHENZHEN, China, Sept. 5, 2026 /PRNewswire/ -- Shenzhen Speediance Life Tech Limited (\"Speediance\"), creator of the G",
-      "url": "https://www.prnewswire.com/news-releases/cologne-regional-court-upholds-injunction-against-aeke-for-infringing-speediances-registered-gym-monster-design-302868937.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-05T07:00:00Z",
-      "epoch": 1788591600,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "El Tribunal Regional de Colonia ratifica la orden judicial contra AEKE",
       "summary": "-El Tribunal Regional de Colonia ratifica la orden judicial contra AEKE por infringir el diseño registrado de Speediance para su equipo de fitness Gym Monster El tribunal dictaminó que el equipo de fitness de AEKE infringe el diseño registrado de Speediance en la UE y prohibió su",
       "url": "https://www.prnewswire.com/news-releases/el-tribunal-regional-de-colonia-ratifica-la-orden-judicial-contra-aeke-302869518.html",
@@ -951,6 +883,20 @@
       "title": "Le tribunal régional de Cologne confirme l'injonction prononcée à l'encontre d'AEKE pour contrefaçon du dessin ou modèle déposé Gym Monster de Speediance",
       "summary": "Le tribunal a estimé que les appareils de fitness d'AEKE contrefont le dessin ou modèle communautaire enregistré de Speediance et en a interdit la publicité, l'offre ou la vente SHENZHEN, Chine, 5 septembre 2026 /PRNewswire/ -- Shenzhen Speediance Life Tech Limited (« Speediance ",
       "url": "https://www.prnewswire.com/news-releases/le-tribunal-regional-de-cologne-confirme-linjonction-prononcee-a-lencontre-daeke-pour-contrefacon-du-dessin-ou-modele-depose-gym-monster-de-speediance-302870092.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-09-05T07:00:00Z",
+      "epoch": 1788591600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Cologne Regional Court Upholds Injunction Against AEKE for Infringing Speediance's Registered Gym Monster Design",
+      "summary": "Court finds AEKE's fitness equipment infringes Speediance's registered EU design and bars advertising, offering, or selling of the infringing equipment in Germany SHENZHEN, China, Sept. 5, 2026 /PRNewswire/ -- Shenzhen Speediance Life Tech Limited (\"Speediance\"), creator of the G",
+      "url": "https://www.prnewswire.com/news-releases/cologne-regional-court-upholds-injunction-against-aeke-for-infringing-speediances-registered-gym-monster-design-302869018.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
       "published_at": "2026-09-05T07:00:00Z",
@@ -1048,22 +994,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "Actinium Pharmaceuticals, Inc. to Present at the H.C. Wainwright 28th Annual Global Investment Conference",
-      "summary": "NEW YORK, Sept. 4, 2026 /PRNewswire/ -- Actinium Pharmaceuticals, Inc. (NYSE American: ATNM) (Actinium or the Company), a pioneer in the development of targeted radiotherapies, today announced that Sandesh Seth, Chairman and Chief Executive Officer, will present at the H.C. Wainw",
-      "url": "https://www.prnewswire.com/news-releases/actinium-pharmaceuticals-inc-to-present-at-the-hc-wainwright-28th-annual-global-investment-conference-302870066.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-04T21:05:00Z",
-      "epoch": 1788555900,
-      "sentiment": 0.0,
-      "tickers": [
-        "ATNM"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "M.C. Layman Marks Two Years as Founder Kate Layman Joins Two Frederick County Boards",
       "summary": "FREDERICK, Md., Sept. 4, 2026 /PRNewswire/ -- Two years after launching M.C. Layman, founder Kate Layman is marking the company's second anniversary alongside two new leadership roles in the Frederick community. Layman was recently appointed to the Board of Directors of Woodsboro",
       "url": "https://www.prnewswire.com/news-releases/mc-layman-marks-two-years-as-founder-kate-layman-joins-two-frederick-county-boards-302870365.html",
@@ -1092,20 +1022,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "Postpartum Support International Calls for Reform as Lindsay Clancy Case Ends in Mistrial",
-      "summary": "PORTLAND, Ore., Sept. 4, 2026 /PRNewswire/ -- Postpartum Support International, the nation's leading nonprofit dedicated to perinatal mental health, believes the decision to try Lindsay Clancy for first-degree murder demands that we, as a society, confront an uncomfortable truth.",
-      "url": "https://www.prnewswire.com/news-releases/postpartum-support-international-calls-for-reform-as-lindsay-clancy-case-ends-in-mistrial-302870444.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-04T20:31:00Z",
-      "epoch": 1788553860,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "KB HOME OPENS SANDSTONE, A NEW MASTER-PLANNED COMMUNITY OF OVER 1,500 HOMES IN A PRIME NORTH LAS VEGAS LOCATION",
@@ -1172,20 +1088,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "Kidney Patients Engage Congress During Summer Recess",
-      "summary": "Applaud Organ Donor Job Protections, Point to Unresolved CMS, FDA Red Tape WASHINGTON, Sept. 4, 2026 /PRNewswire/ -- The American Association of Kidney Patients (AAKP), the nation's largest independent, non-partisan kidney patient advocacy organization, conducted its second annua",
-      "url": "https://www.prnewswire.com/news-releases/kidney-patients-engage-congress-during-summer-recess-302870425.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-04T20:10:00Z",
-      "epoch": 1788552600,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "BTC Digital Ltd. Regains Compliance with Nasdaq Minimum Bid Price Requirement Following Prior Deficiency Notice",
       "summary": "SINGAPORE, Sept. 4, 2026 /PRNewswire/ -- BTC Digital Ltd. (\"BTC Digital\" or the \"Company\") (NASDAQ: BTCT), a Nasdaq-listed digital computing infrastructure company, today announced that it has received written notification from the Listing Qualifications Department of The Nasdaq ",
       "url": "https://www.prnewswire.com/news-releases/btc-digital-ltd-regains-compliance-with-nasdaq-minimum-bid-price-requirement-following-prior-deficiency-notice-302870410.html",
@@ -1200,34 +1102,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "McRae Industries, Inc. Dividend Declared",
-      "summary": "MOUNT GILEAD, N.C., Sept. 4, 2026 /PRNewswire/ -- McRae Industries, Inc. (Pink Sheets: MCRAA and MCRAB) declared a dividend of $.14 per share on the Company's Class A and Class B Common Stock payable on October 1, 2026 to shareholders of record on September 17, 2026. View origina",
-      "url": "https://www.prnewswire.com/news-releases/mcrae-industries-inc-dividend-declared-302870279.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-04T20:00:00Z",
-      "epoch": 1788552000,
-      "sentiment": 1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Chris Auffenberg Buick Is Offering 1.9% APR on Select Models",
-      "summary": "Drivers Can Finance with 1.9% APR at Chris Auffenberg Buick CARBONDALE, Ill., Sept. 4, 2026 /PRNewswire/ -- Chris Auffenberg Buick is offering qualified customers the opportunity to finance select Buick models with 1.9% annual percentage rate through GM Financial. The offer gives",
-      "url": "https://www.prnewswire.com/news-releases/chris-auffenberg-buick-is-offering-1-9-apr-on-select-models-302870216.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-04T19:20:00Z",
-      "epoch": 1788549600,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "8-K - VIP Play, Inc. (0001832161) (Filer)",
@@ -2210,6 +2084,34 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Ten Holdings, Inc.",
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Techlott Inc. (0001568969) (Filer)",
+      "summary": "Filed:  2026-09-04  AccNo:  0001493152-26-041536  Size:  186 KB\n Item 8.01: Other Events",
+      "url": "https://www.sec.gov/Archives/edgar/data/1568969/000149315226041536/0001493152-26-041536-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-09-04T16:05:22Z",
+      "epoch": 1788537922,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Techlott Inc.",
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Indaptus Therapeutics, Inc. (0001857044) (Filer)",
+      "summary": "Filed:  2026-09-04  AccNo:  0001493152-26-041532  Size:  200 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1857044/000149315226041532/0001493152-26-041532-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-09-04T16:05:21Z",
+      "epoch": 1788537921,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Indaptus Therapeutics, Inc.",
       "catalyst": false,
       "small_cap_risk": false
     }
