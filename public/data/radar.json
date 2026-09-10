@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-10T01:08:11Z",
+  "generated_at": "2026-09-10T05:57:45Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 141,
-    "breaking_catalyst_count": 17,
+    "breaking_count": 150,
+    "breaking_catalyst_count": 18,
     "pipeline_count": 58,
     "pipeline_catalyst_count": 18,
     "movers_count": 0
@@ -16,16 +16,16 @@
       "source_count": 1
     },
     {
-      "ticker": "NOVN",
-      "count": 5,
-      "catalyst_count": 2,
-      "source_count": 3
-    },
-    {
       "ticker": "AZN.L",
       "count": 3,
       "catalyst_count": 2,
       "source_count": 2
+    },
+    {
+      "ticker": "NOVN",
+      "count": 4,
+      "catalyst_count": 1,
+      "source_count": 3
     },
     {
       "ticker": "BAYN.DE",
@@ -52,13 +52,7 @@
       "source_count": 2
     },
     {
-      "ticker": "AGNC",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "AAPL",
+      "ticker": "HGTY",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 1
@@ -68,17 +62,37 @@
       "count": 2,
       "catalyst_count": 0,
       "source_count": 1
+    },
+    {
+      "ticker": "ROG",
+      "count": 2,
+      "catalyst_count": 0,
+      "source_count": 1
     }
   ],
   "movers": [],
   "concentration_warning": null,
   "breaking": [
     {
+      "title": "Law.com to Launch LegalWeek Asia in Partnership with Singapore Academy of Law, Expanding World's Largest Legal Technology Event into Asia-Pacific",
+      "summary": "Multi-year agreement establishes LegalWeek Asia as premier legal technology conference for APAC region, building on TechLaw.Fest's proven platform and set for September 2027 NEW YORK, Sept. 10, 2026 /PRNewswire/ -- Law.com announced today a strategic partnership with the Singapor",
+      "url": "https://www.prnewswire.com/news-releases/lawcom-to-launch-legalweek-asia-in-partnership-with-singapore-academy-of-law-expanding-worlds-largest-legal-technology-event-into-asia-pacific-302873700.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-10T04:01:00Z",
+      "epoch": 1789012860,
+      "sentiment": 1.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
       "title": "Insilico Medicine Doses First Patient in GENESIS-IPF-3, the World's First Phase III Trial of a Generative AI-Driven Innovative Drug",
       "summary": "CAMBRIDGE, Mass., Sept. 9, 2026 /PRNewswire/ -- Insilico Medicine (\"Insilico,\" HKEX: 3696), a clinical-stage biotechnology company powered by generative AI, today announced that it has dosed the first patient with Rentosertib (known as ISM001-055 / INS018_055) in GENESIS-IPF-3, a",
       "url": "https://www.prnewswire.com/news-releases/insilico-medicine-doses-first-patient-in-genesis-ipf-3-the-worlds-first-phase-iii-trial-of-a-generative-ai-driven-innovative-drug-302873749.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-10T00:30:00Z",
       "epoch": 1789000200,
       "sentiment": 0.0,
@@ -318,18 +332,286 @@
       "small_cap_risk": false
     },
     {
-      "title": "Mercuria Energy Group Limited announces successful closure of new JPY 145.3 billion three-year Samurai Term Loan Facility",
-      "summary": "TOKYO, Sept. 9, 2026 /PRNewswire/ -- Mercuria Energy Group Limited today announced the successful closing of a new JPY 145.3 billion three-year Samurai term loan facility. The facility refinances Mercuria's JPY 130.9 billion Samurai loan signed in 2024 and will be used for genera",
-      "url": "https://www.prnewswire.com/news-releases/mercuria-energy-group-limited-announces-successful-closure-of-new-jpy-145-3-billion-three-year-samurai-term-loan-facility-302874420.html",
+      "title": "Digital tech helps drive travel industry growth",
+      "summary": "'China Bound•Beijing' smart English cultural tourism platform launched BEIJING, Sept. 10, 2026 /PRNewswire/ -- A news report from China Daily: While digital technologies are reshaping the tourism industry and making travel more efficient and accessible, they can also foster human",
+      "url": "https://www.prnewswire.com/news-releases/digital-tech-helps-drive-travel-industry-growth-302874778.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-10T01:00:00Z",
-      "epoch": 1789002000,
+      "published_at": "2026-09-10T05:45:00Z",
+      "epoch": 1789019100,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "CordenPharma Boosts Aseptic Fill-Finish Capacity to 500 Million Sterile Injectable Units Per Year",
+      "summary": "CordenPharma accelerates sterile injectable CDMO manufacturing expansion with €80 million multi-year investment in new facility and additional aseptic fill & finish lines BASEL, Switzerland, Sept. 10, 2026 /PRNewswire/ -- CordenPharma continues its ambitious long-term injectable ",
+      "url": "https://www.prnewswire.com/news-releases/cordenpharma-boosts-aseptic-fill-finish-capacity-to-500-million-sterile-injectable-units-per-year-302874480.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-10T05:30:00Z",
+      "epoch": 1789018200,
+      "sentiment": 1.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Midea zet op IFA 2026 leiderschap op het gebied van R290 en duurzame HVAC-innovaties in de schijnwerpers",
+      "summary": "BERLIJN, 10 september 2026 /PRNewswire/ -- Op IFA 2026 onthulde Midea zijn nieuwste reeks groene en duurzame HVAC- en energiebeheersingsoplossingen en versterkte zijn inzet voor een \"groene visie, blauwe toekomst\". Duurzame verwarming en koeling bevorderen met R290-technologie Al",
+      "url": "https://www.prnewswire.com/news-releases/midea-zet-op-ifa-2026-leiderschap-op-het-gebied-van-r290-en-duurzame-hvac-innovaties-in-de-schijnwerpers-302874754.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-10T05:24:00Z",
+      "epoch": 1789017840,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
+    },
+    {
+      "title": "Der globale Multi-Asset-Broker FP Markets erhält eine Lizenz der Kategorie 5 von der CMA der Vereinigten Arabischen Emirate",
+      "summary": "LIMASSOL, Zypern, 10. September 2026 /PRNewswire/ -- Der weltweit tätige Multi-Asset-Broker für Devisen und CFDs, FP Markets, hat von der Kapitalmarktbehörde der Vereinigten Arabischen Emirate (CMA), ehemals Wertpapier- und Rohstoffbehörde (SCA), eine Lizenz der Kategorie 5 erhal",
+      "url": "https://www.prnewswire.com/news-releases/der-globale-multi-asset-broker-fp-markets-erhalt-eine-lizenz-der-kategorie-5-von-der-cma-der-vereinigten-arabischen-emirate-302874739.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-10T05:09:00Z",
+      "epoch": 1789016940,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "New HKX Wheel Loader Kits Let Dealers Configure Machines in Days, Not Months",
+      "summary": "Third spool auxiliary field installable kits extend HKX's line beyond excavators, giving dealers a way to stock simpler machines and add attachment capability on demand. MONROE, Wash., Sept. 10, 2026 /PRNewswire/ -- HKX, Inc., Hydraulic Kits for Excavators, the construction equip",
+      "url": "https://www.prnewswire.com/news-releases/new-hkx-wheel-loader-kits-let-dealers-configure-machines-in-days-not-months-302874428.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-10T05:00:00Z",
+      "epoch": 1789016400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "TP Receives Frost &amp; Sullivan's 2026 Asia-Pacific Customer Experience Management Services Company of the Year Recognition for AI-Led Customer Experience Transformation",
+      "summary": "TP is recognized for combining AI orchestration, operational excellence, regional scale, and customer-centric innovation to transform customer experience management services across the region. SAN ANTONIO, Sept. 10, 2026 /PRNewswire/ -- Frost & Sullivan is pleased to announce tha",
+      "url": "https://www.prnewswire.com/news-releases/tp-receives-frost--sullivans-2026-asia-pacific-customer-experience-management-services-company-of-the-year-recognition-for-ai-led-customer-experience-transformation-302874449.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-10T05:00:00Z",
+      "epoch": 1789016400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "ZeroRisk lève 10 millions de dollars pour développer sa plateforme de cybersécurité destinée aux commerçants",
+      "summary": "Ce financement permettra d'accélérer l'expansion mondiale, le développement de produits et le déploiement de ZeroRisk auprès des principaux prestataires de paiement. ZeroRisk entend s'imposer comme leader sur le segment émergent de la gestion des risques dans le secteur du traite",
+      "url": "https://www.prnewswire.com/news-releases/zerorisk-leve-10-millions-de-dollars-pour-developper-sa-plateforme-de-cybersecurite-destinee-aux-commercants-302874666.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-10T04:31:00Z",
+      "epoch": 1789014660,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "MSA Safety bringt en A1X auf den Markt: den WinGrip-Vakuumanker der nächsten Generation für die Flugzeugwartung",
+      "summary": "PITTSBURGH, 10. September 2026 /PRNewswire/ -- MSA Safety hat die Markteinführung des A1X™ angekündigt, seines neuesten WinGrip® Vakuumankers, der dazu beitragen soll, die Flugzeugwartung sicherer, schneller und vielseitiger zu gestalten. Der WinGrip-Vakuumanker® A1X™ stellt die ",
+      "url": "https://www.prnewswire.com/news-releases/msa-safety-bringt-en-a1x-auf-den-markt-den-wingrip-vakuumanker-der-nachsten-generation-fur-die-flugzeugwartung-302874653.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-10T04:23:00Z",
+      "epoch": 1789014180,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "COACH CELEBRATES 85TH ANNIVERSARY WITH SPRING 2027 COLLECTION",
+      "summary": "NEW YORK, Sept. 10, 2026 /PRNewswire/ -- Coach presented its Spring 2027 collection this evening in downtown New York City. Marking the house's 85th anniversary, the runway brought together slim, straight silhouettes, loveworn materials and refined tailoring, alongside inside-out",
+      "url": "https://www.prnewswire.com/news-releases/coach-celebrates-85th-anniversary-with-spring-2027-collection-302874651.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-10T04:21:00Z",
+      "epoch": 1789014060,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Der Countdown läuft! Sichern Sie sich Ihren kostenlosen Eintrittsausweis für die FHC Shanghai Global Food Trade Show 2026",
+      "summary": "SHANGHAI, 10. September 2026 /PRNewswire/ -- Die FHC findet vom 10. bis 12. November 2026 im Shanghai New International Expo Center statt. Auf einer Fläche von 200.000 m² versammelt sie über 3.000 internationale Aussteller, über 180.000 Fachbesucher, über 50 internationale Pavill",
+      "url": "https://www.prnewswire.com/news-releases/der-countdown-lauft-sichern-sie-sich-ihren-kostenlosen-eintrittsausweis-fur-die-fhc-shanghai-global-food-trade-show-2026-302874624.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-10T04:06:00Z",
+      "epoch": 1789013160,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "DJI проводит сессию кинематографистов и визионеров на Venice Production Bridge во время 83-го Венецианского международного кинофестиваля",
+      "summary": "Новое поколение, новый кинематографический язык — Osmo Pocket 4P провоцирует новую дискуссию на тему сторителлинга, свободы творчества и профессиональных инструментов. ВЕНЕЦИЯ, Италия, 10 сентября 2026 г. /PRNewswire/ -- Компания DJI, мировой лидер в области гражданских беспилотн",
+      "url": "https://www.prnewswire.com/news-releases/dji-------venice-production-bridge---83-----302874623.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-10T04:04:00Z",
+      "epoch": 1789013040,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Aulumu Introduces the A18 Series for iPhone 18: Lightweight Protection Meets Next-Gen Design",
+      "summary": "SHENZHEN, China, Sept. 10, 2026 /PRNewswire/ -- Aulumu introduces the new A18 Series, a collection of smartphone cases that brings together advanced materials, everyday protection, and distinctive design. At the heart of the lineup is the A18 Armor Shockproof Aramid Fiber Case, A",
+      "url": "https://www.prnewswire.com/news-releases/aulumu-introduces-the-a18-series-for-iphone-18-lightweight-protection-meets-next-gen-design-302873379.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-10T04:00:00Z",
+      "epoch": 1789012800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "TMC TONGXIN MICRO présente ses solutions pour la finance numérique et l'identité de confiance lors du salon Seamless Africa 2026",
+      "summary": "JOHANNESBURG et PÉKIN, 10 septembre 2026 /PRNewswire/ -- Lors du salon Seamless Africa 2026, qui s'est tenu les 8 et 9 septembre, Tongxin Microelectronics (TMC TONGXIN MICRO), fournisseur de solutions de puces de sécurité, a présenté ses technologies destinées aux cartes de paiem",
+      "url": "https://www.prnewswire.com/news-releases/tmc-tongxin-micro-presente-ses-solutions-pour-la-finance-numerique-et-lidentite-de-confiance-lors-du-salon-seamless-africa-2026-302874595.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-10T03:44:00Z",
+      "epoch": 1789011840,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Rokid lanza AIUI Studio a nivel mundial en IFA Berlín 2026",
+      "summary": "-Rokid lanza AIUI Studio a nivel mundial en IFA Berlín 2026, haciendo más accesible para todos la creación de gafas con IA BERLÍN, 10 de septiembre de 2026 /PRNewswire/ -- Rokid, pionero mundial en gafas inteligentes con IA e interacción humano-computadora, anunció en IFA Berlín ",
+      "url": "https://www.prnewswire.com/news-releases/rokid-lanza-aiui-studio-a-nivel-mundial-en-ifa-berlin-2026-302874589.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-10T03:41:00Z",
+      "epoch": 1789011660,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Rokid stellt auf der IFA Berlin 2026 weltweit das AIUI Studio vor und erleichtert allen die Entwicklung von Anwendungen für KI-Brillen",
+      "summary": "BERLIN, 10. September 2026 /PRNewswire/ -- Rokid, ein globaler Pionier im Bereich der Mensch-Computer-Interaktion und KI-gestützter Brillen, gab auf der IFA Berlin 2026 die weltweite Einführung von AIUI Studio bekannt, einer All-in-One-Plattform für die Entwicklung agentengestütz",
+      "url": "https://www.prnewswire.com/news-releases/rokid-stellt-auf-der-ifa-berlin-2026-weltweit-das-aiui-studio-vor-und-erleichtert-allen-die-entwicklung-von-anwendungen-fur-ki-brillen-302874588.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-10T03:40:00Z",
+      "epoch": 1789011600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "SMiT unveils UWB-enabled CI+ 2.0 dongle and Presence-Aware TV platform at IBC2026",
+      "summary": "Joint solution combines SMiT secure TV-access hardware, TrueSense UWB technology, The Hashgraph Group's BrandBoost product and Sofia Digital's TV application expertise. AMSTERDAM, Sept. 10, 2026 /PRNewswire/ -- SMiT, a global provider of secure TV-access hardware and solutions, w",
+      "url": "https://www.prnewswire.com/news-releases/smit-unveils-uwb-enabled-ci-2-0-dongle-and-presence-aware-tv-platform-at-ibc2026--302874587.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-10T03:40:00Z",
+      "epoch": 1789011600,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Rokid lance AIUI Studio à l'échelle mondiale lors de l'IFA Berlin 2026, rendant la création de lunettes IA plus accessible à tous",
+      "summary": "BERLIN, 10 septembre 2026 /PRNewswire/ -- Rokid, pionnier mondial dans le domaine des lunettes intelligentes dotées d'IA et de l'interaction homme-machine, a annoncé lors du salon IFA Berlin 2026 le lancement mondial d'AIUI Studio, une plateforme de développement d'IA agentique t",
+      "url": "https://www.prnewswire.com/news-releases/rokid-lance-aiui-studio-a-lechelle-mondiale-lors-de-lifa-berlin-2026-rendant-la-creation-de-lunettes-ia-plus-accessible-a-tous-302874584.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-10T03:40:00Z",
+      "epoch": 1789011600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Eucalyptus Resources Reminds Shareholders to Vote GREEN, Warns TNR Gold Shareholders Against Threatened Disenfranchisement and Supplements Disclosure",
+      "summary": "All voting portals are now open - Eucalyptus Resources urges Shareholders to vote FOR the independent, highly qualified Eucalyptus Nominees on the GREEN proxy Eucalyptus Resources concerned by TNR Management's escalating attempts to disenfranchise Shareholders Shareholders with q",
+      "url": "https://www.prnewswire.com/news-releases/eucalyptus-resources-reminds-shareholders-to-vote-green-warns-tnr-gold-shareholders-against-threatened-disenfranchisement-and-supplements-disclosure-302874583.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-10T03:39:00Z",
+      "epoch": 1789011540,
+      "sentiment": -0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Bybit AI è disponibile: un unico livello conversazionale intelligente per ridefinire l'esperienza finanziaria",
+      "summary": "Bybit democratizza l'accesso a un'IA di livello enterprise per trading, gestione dell'account e assistenza clienti DUBAI, Emirati Arabi Uniti, 10 settembre 2026 /PRNewswire/ -- Bybit, il secondo exchange di criptovalute al mondo per volume di scambi, ha annunciato il lancio uffic",
+      "url": "https://www.prnewswire.com/news-releases/bybit-ai-e-disponibile-un-unico-livello-conversazionale-intelligente-per-ridefinire-lesperienza-finanziaria-302874560.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-10T03:23:00Z",
+      "epoch": 1789010580,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Hagerty Announces Pricing of its Upsized Secondary Offering of Class A Common Stock",
+      "summary": "TRAVERSE CITY, Mich., Sept. 9, 2026 /PRNewswire/ -- Hagerty, Inc. (NYSE: HGTY) (\"Hagerty\"), a business that makes it easier and more enjoyable to be a driving enthusiast, announced the pricing of its secondary offering, upsized to 9,250,000 shares of Hagerty's Class A Common Stoc",
+      "url": "https://www.prnewswire.com/news-releases/hagerty-announces-pricing-of-its-upsized-secondary-offering-of-class-a-common-stock-302874495.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-10T02:20:00Z",
+      "epoch": 1789006800,
+      "sentiment": 0.0,
+      "tickers": [
+        "HGTY"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
     },
     {
       "title": "YPF Sociedad Anónima Announces Increase in Maximum Purchase Price Relating to its Outstanding Tender Offers to U.S.$1,000,000,000",
@@ -349,8 +631,8 @@
       "title": "Houston Couple Brings a Personal Approach to Recovery and Wellness to the Energy Corridor with New beem® Studio",
       "summary": "Locally owned wellness destination will offer private infrared sauna and red light therapy, with Founding Member rates available ahead of its mid-September opening. HOUSTON, Sept. 9, 2026 /PRNewswire/ -- For Clyde and Denia Smith, wellness is more than a trend – it is something t",
       "url": "https://www.prnewswire.com/news-releases/houston-couple-brings-a-personal-approach-to-recovery-and-wellness-to-the-energy-corridor-with-new-beem-studio-302874419.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-10T00:11:00Z",
       "epoch": 1788999060,
       "sentiment": 0.0,
@@ -376,41 +658,11 @@
       "small_cap_risk": true
     },
     {
-      "title": "Tulip Unveils Global Imaging Patent Licensing Program",
-      "summary": "Tulip Imaging provides access to more than 125,000 patents from Canon, Sony, Huawei, and OPPO covering foundational image and information processing technologies LONDON, Sept. 10, 2026 /PRNewswire/ -- Tulip Licensing Ltd today announced the launch of Tulip Imaging, a new patent l",
-      "url": "https://www.prnewswire.com/news-releases/tulip-unveils-global-imaging-patent-licensing-program-302873877.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-10T00:00:00Z",
-      "epoch": 1788998400,
-      "sentiment": 0.67,
-      "tickers": [
-        "SONY"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "FGR secures Pacific Urethanes production order for mining fire-retardant application",
-      "summary": "Highlights First production order secured from Pacific Urethanes for PureGRAPH® use in polyurethane systems targeting the mining industry New customer and new commercial application for PureGRAPH® as a fire-retardancy performance enhancer Initial applications targeting the Austra",
-      "url": "https://www.prnewswire.com/news-releases/fgr-secures-pacific-urethanes-production-order-for-mining-fire-retardant-application-302873318.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-10T00:00:00Z",
-      "epoch": 1788998400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "BioEdge Research Labs Advances Transparency in Research Compound Documentation",
       "summary": "US-based research peptide supplier expands access to batch-level analytical documentation for its research-use-only materials, so researchers can verify identity and purity records for the lot they receive. All products are sold for laboratory research use only. MIAMI, Sept. 9, 2",
       "url": "https://www.prnewswire.com/news-releases/bioedge-research-labs-advances-transparency-in-research-compound-documentation-302874401.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-09T23:15:00Z",
       "epoch": 1788995700,
       "sentiment": 0.33,
@@ -423,8 +675,8 @@
       "title": "iFlex Stretch Studios Adds Kinotek® 3D Movement Technology to Every Experience",
       "summary": "The assisted stretching franchise combines markerless, AI-driven movement analysis with certified stretch therapist expertise to deliver more personalized programming and enhanced member experiences. NEWPORT BEACH, Calif., Sept. 9, 2026 /PRNewswire/ -- iFlex Stretch Studios, the ",
       "url": "https://www.prnewswire.com/news-releases/iflex-stretch-studios-adds-kinotek-3d-movement-technology-to-every-experience-302874396.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-09T23:11:00Z",
       "epoch": 1788995460,
       "sentiment": 0.0,
@@ -437,8 +689,8 @@
       "title": "Comoto Drives $100,000 Fundraising Effort for Pediatric Brain Tumor Foundation",
       "summary": "September 13 Bike Meets and 10% of Comoto sales will support the Pediatric Brain Tumor Foundation, building on the company's annual Million Mile Challenge PHILADELPHIA, Sept. 9, 2026 /PRNewswire/ -- The Comoto Family of Brands – RevZilla, Cycle Gear, J&P Cycles and REVER – will o",
       "url": "https://www.prnewswire.com/news-releases/comoto-drives-100-000-fundraising-effort-for-pediatric-brain-tumor-foundation-302873802.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-09T23:01:00Z",
       "epoch": 1788994860,
       "sentiment": 0.0,
@@ -778,55 +1030,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Huntington Bancshares Incorporated to Present at the 2026 Barclays Global Financial Conference",
-      "summary": "COLUMBUS, Ohio, Sept. 9, 2026 /PRNewswire/ -- Huntington Bancshares Incorporated (Nasdaq: HBAN) will participate in the 2026 Barclays Global Financial Conference on Wednesday, September 16, 2026. Steve Steinour, chairman and chief executive officer, and Zach Wasserman, chief fina",
-      "url": "https://www.prnewswire.com/news-releases/huntington-bancshares-incorporated-to-present-at-the-2026-barclays-global-financial-conference-302874231.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-09T20:05:00Z",
-      "epoch": 1788984300,
-      "sentiment": 0.0,
-      "tickers": [
-        "BARC.L",
-        "HBAN"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "AGNC Investment Corp. Declares Third Quarter Dividends on Preferred Stock",
-      "summary": "BETHESDA, Md., Sept. 9, 2026 /PRNewswire/ -- AGNC Investment Corp. (Nasdaq: AGNC) (\"AGNC\" or the \"Company\") announced today that its Board of Directors has declared cash dividends on the outstanding depositary shares1 of the following series of preferred stock for the third quart",
-      "url": "https://www.prnewswire.com/news-releases/agnc-investment-corp-declares-third-quarter-dividends-on-preferred-stock-302874202.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-09T20:01:00Z",
-      "epoch": 1788984060,
-      "sentiment": 0.0,
-      "tickers": [
-        "AGNC"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "AGNC Investment Corp. Declares Monthly Common Stock Dividend of $0.12 per Common Share for September 2026",
-      "summary": "BETHESDA, Md., Sept. 9, 2026 /PRNewswire/ -- AGNC Investment Corp. (Nasdaq: AGNC) announced today that its Board of Directors has declared a cash dividend of $0.12 per share of common stock for September 2026. The dividend is payable on October 9, 2026 to common stockholders of r",
-      "url": "https://www.prnewswire.com/news-releases/agnc-investment-corp-declares-monthly-common-stock-dividend-of-0-12-per-common-share-for-september-2026--302874182.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-09T20:01:00Z",
-      "epoch": 1788984060,
-      "sentiment": 1.0,
-      "tickers": [
-        "AGNC"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "AMGEN TO PRESENT AT THE MORGAN STANLEY 24TH ANNUAL GLOBAL HEALTHCARE CONFERENCE",
       "summary": "THOUSAND OAKS, Calif., Sept. 9, 2026 /PRNewswire/ -- Amgen (NASDAQ:AMGN) will present at the Morgan Stanley 24th Annual Global Healthcare Conference at 11:30 a.m. ET on Tuesday, September 15, 2026. Jay Bradner, executive vice president, Research and Development, Artificial Intell",
       "url": "https://www.prnewswire.com/news-releases/amgen-to-present-at-the-morgan-stanley-24th-annual-global-healthcare-conference-302874236.html",
@@ -861,20 +1064,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Thomas Przybylowski: Securities Plaintiffs' Bar Retools as AI, Tariff and Private Credit Lawsuits Surge in 2026",
-      "summary": "The New York and New Jersey litigation attorney says a quiet year in securities filings concealed a shift toward new legal theories now driving a wave of 2026 case activity, plus one regulatory fight that could reshape the class-action mechanism itself. NEW YORK, Sept. 9, 2026...",
-      "url": "https://www.prnewswire.com/news-releases/thomas-przybylowski-securities-plaintiffs-bar-retools-as-ai-tariff-and-private-credit-lawsuits-surge-in-2026-302874237.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-09T20:00:00Z",
-      "epoch": 1788984000,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Marquis Who's Who Honors Monib A. Zirvi, MD, PhD, for Excellence in Dermatology",
       "summary": "UNIONDALE, N.Y., Sept. 9, 2026 /PRNewswire/ -- Marquis Who's Who announces the inclusion of Monib A. Zirvi, MD, PhD, in its biographical volumes in recognition of his more than two decades of contributions to dermatology, medical research and patient care. A Career in Dermatology",
       "url": "https://www.prnewswire.com/news-releases/marquis-whos-who-honors-monib-a-zirvi-md-phd-for-excellence-in-dermatology-302874253.html",
@@ -883,36 +1072,6 @@
       "published_at": "2026-09-09T19:39:00Z",
       "epoch": 1788982740,
       "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "iPhone Users Get an Eye Comfort Solution in New Patient Study",
-      "summary": "iPhone users reported significant gains in eye comfort - and preferred Eyesafe® CPF70 Technology nearly 6-to-1 over the baseline solution MINNEAPOLIS, Sept. 9, 2026 /PRNewswire/ -- For the millions of consumers who will upgrade to the iPhone lineup Apple announced today, a new pa",
-      "url": "https://www.prnewswire.com/news-releases/iphone-users-get-an-eye-comfort-solution-in-new-patient-study-302874249.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-09T19:37:00Z",
-      "epoch": 1788982620,
-      "sentiment": 0.67,
-      "tickers": [
-        "AAPL"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "25 Years After 9/11, More FDNY Members Have Died from World Trade Center Illnesses Than Were Killed That Day.",
-      "summary": "The Firefighter Cancer Support Network launches national campaign to write the first cancer screening recommendations for firefighters WASHINGTON, Sept. 9, 2026 /PRNewswire/ -- As the country prepares to mark the 25th anniversary of September 11, 2001, the Firefighter Cancer Supp",
-      "url": "https://www.prnewswire.com/news-releases/25-years-after-911-more-fdny-members-have-died-from-world-trade-center-illnesses-than-were-killed-that-day-302874246.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-09T19:35:00Z",
-      "epoch": 1788982500,
-      "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -2071,50 +2230,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "8-K - Federal Home Loan Bank of Chicago (0001331451) (Filer)",
-      "summary": "Filed:  2026-09-09  AccNo:  0001331451-26-000166  Size:  199 KB\n Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
-      "url": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000166/0001331451-26-000166-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-09-09T11:53:51Z",
-      "epoch": 1788954831,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Federal Home Loan Bank Of Chicago",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - CME GROUP INC. (0001156375) (Filer)",
-      "summary": "Filed:  2026-09-09  AccNo:  0001193125-26-386091  Size:  170 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1156375/000119312526386091/0001193125-26-386091-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-09-09T11:15:33Z",
-      "epoch": 1788952533,
-      "sentiment": 0.0,
-      "tickers": [
-        "CME"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - NEW YORK TIMES CO (0000071691) (Filer)",
-      "summary": "Filed:  2026-09-09  AccNo:  0001193125-26-386067  Size:  132 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-      "url": "https://www.sec.gov/Archives/edgar/data/71691/000119312526386067/0001193125-26-386067-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-09-09T11:02:45Z",
-      "epoch": 1788951765,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "New York Times Co",
-      "catalyst": false,
-      "small_cap_risk": false
     }
   ],
   "pipeline": [
@@ -2127,6 +2242,20 @@
       "published_at": "2026-09-09T15:46:00Z",
       "epoch": 1788968760,
       "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "nPhase launches AI clinical data management platform to soup up sponsor trial design",
+      "summary": "Clinical research company nPhase has launched an end-to-end clinical data management platform designed to help trial sponsors leverage trial results with AI.",
+      "url": "https://www.fiercebiotech.com/cro/nphase-launches-clinical-data-management-platform-improve-sponsor-trial-design",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-09-09T13:52:00Z",
+      "epoch": 1788961920,
+      "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": true,
@@ -2315,22 +2444,6 @@
       "sentiment": 0.0,
       "tickers": [
         "BMY"
-      ],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Novartis stock slides as centerpiece of $12B Avidity buyout flunks ‘crucial’ phase 3 test",
-      "summary": "The phase 3 Harbor trial of Novartis’ del-desiran has missed its primary endpoint, dealing a major blow to an asset that the Swiss drugmaker acquired in the $12 billion takeover of Avidity Biosciences. The flop leaves Novartis with one win and two failures from a rapid-fire run o",
-      "url": "https://www.fiercebiotech.com/biotech/novartis-centerpiece-12b-avidity-buyout-flunks-crucial-phase-3-test",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-09-08T03:35:00Z",
-      "epoch": 1788838500,
-      "sentiment": 0.0,
-      "tickers": [
-        "NOVN"
       ],
       "company_name": null,
       "catalyst": true,
