@@ -1,16 +1,60 @@
 {
-  "generated_at": "2026-09-10T02:59:06Z",
+  "generated_at": "2026-09-10T08:02:11Z",
   "articles": [
     {
-      "title": "Brent surpasses $100 per bbl as inflation fears mount",
+      "title": "Huawei vs. Apple and Musk 'Chinamaxxes'",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/commodities/brent-surpasses-100-per-bbl-as-inflation-fears-mount",
+      "url": "https://asia.nikkei.com/techasia/huawei-vs.-apple-and-musk-chinamaxxes",
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "title": "Asia faces 'geopolitical recession,' Eurasia Group warns",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/asia-faces-geopolitical-recession-eurasia-group-warns",
+      "source": "Nikkei Asia",
+      "source_id": "nikkei-asia",
+      "continent": "as",
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": -0.33,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Huawei unveils new optical tech standard in challenge to Nvidia, Broadcom",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/huawei-unveils-new-optical-tech-standard-in-challenge-to-nvidia-broadcom",
+      "source": "Nikkei Asia",
+      "source_id": "nikkei-asia",
+      "continent": "as",
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
+      "sentiment": 0.33,
+      "horizon": null,
+      "tickers": [
+        "AVGO",
+        "NVDA"
+      ]
+    },
+    {
+      "title": "Hong Kong court finds WSJ parent violated reporter's right to union role",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/media-entertainment/hong-kong-court-finds-wsj-parent-violated-reporter-s-right-to-union-role",
+      "source": "Nikkei Asia",
+      "source_id": "nikkei-asia",
+      "continent": "as",
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
+      "sentiment": 0.0,
       "horizon": null,
       "tickers": []
     },
@@ -21,9 +65,50 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Samsung beats German city in lawsuit over schools' iPad procurement",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/samsung-beats-german-city-in-lawsuit-over-schools-ipad-procurement",
+      "source": "Nikkei Asia",
+      "source_id": "nikkei-asia",
+      "continent": "as",
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
+      "sentiment": 0.0,
+      "horizon": "swing",
+      "tickers": [
+        "005930.KS"
+      ]
+    },
+    {
+      "title": "Nepal floods deal a double blow to tourism and electricity exports",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/travel-leisure/nepal-floods-deal-a-double-blow-to-tourism-and-electricity-exports2",
+      "source": "Nikkei Asia",
+      "source_id": "nikkei-asia",
+      "continent": "as",
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
+      "sentiment": 0.33,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Brent surpasses $100 per barrel as inflation fears mount",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/commodities/brent-surpasses-100-per-barrel-as-inflation-fears-mount",
+      "source": "Nikkei Asia",
+      "source_id": "nikkei-asia",
+      "continent": "as",
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
+      "sentiment": -0.33,
       "horizon": null,
       "tickers": []
     },
@@ -34,8 +119,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -47,8 +132,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -60,8 +145,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.33,
       "horizon": null,
       "tickers": []
@@ -73,8 +158,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -86,8 +171,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -99,8 +184,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -112,8 +197,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -125,8 +210,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.33,
       "horizon": null,
       "tickers": [
@@ -140,8 +225,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -153,8 +238,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": "swing",
       "tickers": []
@@ -166,8 +251,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -179,8 +264,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -192,8 +277,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -205,8 +290,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -218,8 +303,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -231,8 +316,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -244,8 +329,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -257,8 +342,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -270,8 +355,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -283,8 +368,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": "long_term",
       "tickers": [
@@ -298,8 +383,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -311,8 +396,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -324,8 +409,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -337,8 +422,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -350,8 +435,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.33,
       "horizon": "long_term",
       "tickers": [
@@ -365,8 +450,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -378,8 +463,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": [
@@ -393,8 +478,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -406,8 +491,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -419,8 +504,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -432,8 +517,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -445,8 +530,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -458,8 +543,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -471,8 +556,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -484,8 +569,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -497,8 +582,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -510,8 +595,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": [
@@ -525,8 +610,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -538,8 +623,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": [
@@ -553,8 +638,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -566,8 +651,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": -0.33,
       "horizon": null,
       "tickers": [
@@ -581,92 +666,49 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "published_at": "2026-09-10T08:02:11Z",
+      "epoch": 1789027331,
       "sentiment": -0.33,
       "horizon": null,
       "tickers": []
     },
     {
-      "title": "50 years after Mao's death, Xi still draws power from 'barrel of a gun'",
+      "title": "Coinbase CEO calls the bottom in Bitcoin",
       "summary": "",
-      "url": "https://asia.nikkei.com/politics/50-years-after-mao-s-death-xi-still-draws-power-from-barrel-of-a-gun",
-      "source": "Nikkei Asia",
-      "source_id": "nikkei-asia",
-      "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
-      "sentiment": 0.0,
-      "horizon": "long_term",
-      "tickers": []
-    },
-    {
-      "title": "Samsung opens Japan AI chip R&D hub for advanced packaging collaboration",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-opens-japan-ai-chip-r-d-hub-for-advanced-packaging-collaboration",
-      "source": "Nikkei Asia",
-      "source_id": "nikkei-asia",
-      "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "url": "https://www.investing.com/news/cryptocurrency-news/coinbase-ceo-calls-the-bottom-in-bitcoin-4895075",
+      "source": "Investing.com Europe",
+      "source_id": "investing-europe",
+      "continent": "eu",
+      "published_at": "2026-09-10T08:02:10Z",
+      "epoch": 1789027330,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": [
-        "005930.KS"
+        "COIN"
       ]
     },
     {
-      "title": "Inflation threatens to snap Japan's 7-month streak of real wage growth",
+      "title": "Bitcoin consolidates at $78,226 in bull flag squeeze: Live levels",
       "summary": "",
-      "url": "https://asia.nikkei.com/economy/inflation-threatens-to-snap-japan-s-7-month-streak-of-real-wage-growth",
-      "source": "Nikkei Asia",
-      "source_id": "nikkei-asia",
-      "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
-      "sentiment": 0.33,
-      "horizon": null,
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
+      "source": "Investing.com Europe",
+      "source_id": "investing-europe",
+      "continent": "eu",
+      "published_at": "2026-09-10T08:02:10Z",
+      "epoch": 1789027330,
+      "sentiment": 0.0,
+      "horizon": "swing",
       "tickers": []
     },
     {
-      "title": "Nikkei 225 to temporarily include Resonac spinoff Crasus Chemical",
+      "title": "Bitcoin down to $78.3k on Iran jitters, higher yields",
       "summary": "",
-      "url": "https://asia.nikkei.com/announcements/nikkei-225-to-temporarily-include-resonac-spinoff-crasus-chemical",
-      "source": "Nikkei Asia",
-      "source_id": "nikkei-asia",
-      "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "TSMC, Intel and Samsung all bet on ASML's latest chip tool in AI race",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/tsmc-intel-and-samsung-all-bet-on-asml-s-latest-chip-tool-in-ai-race",
-      "source": "Nikkei Asia",
-      "source_id": "nikkei-asia",
-      "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": [
-        "INTC",
-        "ASML",
-        "005930.KS"
-      ]
-    },
-    {
-      "title": "Japan consortium extends perovskite solar cell life by 50%",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/japan-consortium-extends-perovskite-solar-cell-life-by-50",
-      "source": "Nikkei Asia",
-      "source_id": "nikkei-asia",
-      "continent": "as",
-      "published_at": "2026-09-10T02:59:06Z",
-      "epoch": 1789009146,
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-down-to-783k-on-iran-jitters-higher-yields-4894954",
+      "source": "Investing.com Europe",
+      "source_id": "investing-europe",
+      "continent": "eu",
+      "published_at": "2026-09-10T08:02:10Z",
+      "epoch": 1789027330,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -678,26 +720,11 @@
       "source": "Investing.com Europe",
       "source_id": "investing-europe",
       "continent": "eu",
-      "published_at": "2026-09-10T02:59:05Z",
-      "epoch": 1789009145,
+      "published_at": "2026-09-10T08:02:10Z",
+      "epoch": 1789027330,
       "sentiment": 0.33,
       "horizon": null,
       "tickers": []
-    },
-    {
-      "title": "Bitcoin hugs support below key MAs as bears take control: Live",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
-      "source": "Investing.com Europe",
-      "source_id": "investing-europe",
-      "continent": "eu",
-      "published_at": "2026-09-10T02:59:05Z",
-      "epoch": 1789009145,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": [
-        "MAS"
-      ]
     },
     {
       "title": "PYUSDx stablecoin platform crosses $100 million in scale",
@@ -706,8 +733,8 @@
       "source": "Investing.com Europe",
       "source_id": "investing-europe",
       "continent": "eu",
-      "published_at": "2026-09-10T02:59:05Z",
-      "epoch": 1789009145,
+      "published_at": "2026-09-10T08:02:10Z",
+      "epoch": 1789027330,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -719,8 +746,8 @@
       "source": "Investing.com Europe",
       "source_id": "investing-europe",
       "continent": "eu",
-      "published_at": "2026-09-10T02:59:05Z",
-      "epoch": 1789009145,
+      "published_at": "2026-09-10T08:02:10Z",
+      "epoch": 1789027330,
       "sentiment": -0.33,
       "horizon": null,
       "tickers": []
@@ -732,8 +759,8 @@
       "source": "Investing.com Europe",
       "source_id": "investing-europe",
       "continent": "eu",
-      "published_at": "2026-09-10T02:59:05Z",
-      "epoch": 1789009145,
+      "published_at": "2026-09-10T08:02:10Z",
+      "epoch": 1789027330,
       "sentiment": 0.33,
       "horizon": null,
       "tickers": []
@@ -745,8 +772,8 @@
       "source": "Investing.com Europe",
       "source_id": "investing-europe",
       "continent": "eu",
-      "published_at": "2026-09-10T02:59:05Z",
-      "epoch": 1789009145,
+      "published_at": "2026-09-10T08:02:10Z",
+      "epoch": 1789027330,
       "sentiment": 0.0,
       "horizon": "long_term",
       "tickers": []
@@ -758,8 +785,8 @@
       "source": "Investing.com Europe",
       "source_id": "investing-europe",
       "continent": "eu",
-      "published_at": "2026-09-10T02:59:05Z",
-      "epoch": 1789009145,
+      "published_at": "2026-09-10T08:02:10Z",
+      "epoch": 1789027330,
       "sentiment": 0.33,
       "horizon": "swing",
       "tickers": []
@@ -771,36 +798,391 @@
       "source": "Investing.com Europe",
       "source_id": "investing-europe",
       "continent": "eu",
-      "published_at": "2026-09-10T02:59:05Z",
-      "epoch": 1789009145,
+      "published_at": "2026-09-10T08:02:10Z",
+      "epoch": 1789027330,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
     },
     {
-      "title": "Bitcoin consolidates near $79,955 with overbought signals: Live levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-consolidates-at-76200-support-live-levels-93CH-4882214",
-      "source": "Investing.com Europe",
-      "source_id": "investing-europe",
+      "title": "Why is Abivax stock climbing today? - Investing.com",
+      "summary": "Why is Abivax stock climbing today? &nbsp;&nbsp; Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQUdHTEcyUmdxdWYxWDR6X1VDcVZTaHU1Vm80QVhSWXFBVFQ4bm95M3gtTVF3ODVFdlIydnIxNkJ0Q0lpN1E0ek15UXZJX0NSc01CSmRmZE9rTFFyWExtY2NWRXg3aHZBNU9wRDJrTVVLREMxTVBKREdiRGR0VFhCRXVwb2dsejdaY1FuTk5wcGtsRl81M0oxNVhuaFM?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-09-10T02:59:05Z",
-      "epoch": 1789009145,
+      "published_at": "2026-09-10T07:50:48Z",
+      "epoch": 1789026648,
+      "sentiment": 0.0,
+      "horizon": "swing",
+      "tickers": []
+    },
+    {
+      "title": "Why is Associated British Foods stock tumbling today? - Investing.com",
+      "summary": "Why is Associated British Foods stock tumbling today? &nbsp;&nbsp; Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmhpRDJ6NC1saEdoMlpfUVlrbkdiQU9xNndhcGFmek02MElqWG8wTkdnZmdxQlZ0c19LaW82RU9UaHNVM3c5RzU2TE1XdE9KN3VOXzNEbTcxMnp0WndJU3V5RVVhMXNEN0dmYll0UmpNREhLUW56TWctc0hBbmo2aXIwbno2WU9ITXMxWE52Y1U2YnFrSVJnRmgxdEFCcDRoMEkyWWlQMjFNSXJUN2t5LThlNl8?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T07:41:15Z",
+      "epoch": 1789026075,
+      "sentiment": 0.0,
+      "horizon": "swing",
+      "tickers": [
+        "ABF.L"
+      ]
+    },
+    {
+      "title": "Zacks Industry Outlook Highlights Ellington Financial and Adamas Trust - Yahoo Finance",
+      "summary": "Zacks Industry Outlook Highlights Ellington Financial and Adamas Trust &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOENpeTZzdm9lTVcxcHd4d3JJVlM4Y0lpS1VHc0JVczF2VS12NmdUelN5UXBMOEtTVF9NenlPcFpfaDZsbzBEYVFzUDFiT1U0aDBmVHVyYkYzZmUyem4tTlY5Rk02QndTbmc2MDFsTjYySjhvbE9xZmN1blpQb2x4NlEzX1pNdENCenl2dmVrYUpXcjBsTDJlU0lrVFJGVGJUb1ZEZEoxR0o?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T07:41:00Z",
+      "epoch": 1789026060,
+      "sentiment": 0.0,
+      "horizon": "long_term",
+      "tickers": []
+    },
+    {
+      "title": "Top investors in India's NSE IPO trim stake sales, sources say - Reuters",
+      "summary": "Top investors in India's NSE IPO trim stake sales, sources say &nbsp;&nbsp; Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYzJreWtDcTZYb21XRkFPc3UyT2ZLUlZPVGQ5ZURuSllwWFEyNndLS0ZrbFZ4VDZ4Y3VzdHJMOHRwRTQ0TlFmSm1FSFZlRVNHQU9kbklHWXhjVGs5SkJlZFQ0bFlEY3lWOXFUWWJGX05pWWhmcUdCUkhHbzJCeUh4MzU4Z0o3LVdnWDQ0YUs2Uzh4N2NhSEFiZGdYUTd5anVwTzZ0cjQ0Slk?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T07:31:44Z",
+      "epoch": 1789025504,
+      "sentiment": 0.67,
+      "horizon": "long_term",
+      "tickers": []
+    },
+    {
+      "title": "If a Stock Market Crash Is Coming, Smart Investors Might Want to Buy This Growth Stock on the Dip - The Motley Fool",
+      "summary": "If a Stock Market Crash Is Coming, Smart Investors Might Want to Buy This Growth Stock on the Dip &nbsp;&nbsp; The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd21pVGtmLXdBVW5MYVZCTmRwN1ctSXBFdWtzQWdfdEt5bWxYWTcxMHZVcWpjeW16eVhBT2E5TGFmNDRpUVhPVXdfY3hEdVN5bGtOSjNtVlhlVzNUSjBXTGJfQ180RmlUZUZidzEtSllYSUtwT2tjSHdQYXZCczBtQXFLbFFHbWUxZHFPVEVDYmc3N3h0clNPSA?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T07:30:02Z",
+      "epoch": 1789025402,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
     },
     {
-      "title": "Bitcoin down but holds near $80,000 as corporate buying, U.S. crypto vote in focus",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-near-80000-as-corporate-demand-and-us-crypto-policy-stay-in-focus-4890272",
-      "source": "Investing.com Europe",
-      "source_id": "investing-europe",
+      "title": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
+      "summary": "While there’s a bear case to be made on copper if the AI trade blows up, if Trump eschews tariffs or if peace descends over the Persian Gulf, the long-term rationale for higher prices is solid, a listed copper producer executive says.",
+      "url": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "source_id": "marketwatch-topstories",
+      "continent": "na",
+      "published_at": "2026-09-10T07:29:00Z",
+      "epoch": 1789025340,
+      "sentiment": 0.0,
+      "horizon": "long_term",
+      "tickers": []
+    },
+    {
+      "title": "Stockholm's stock market opens Thursday higher, OMXS30 index rises 0.5 percent - marketscreener.com",
+      "summary": "Stockholm's stock market opens Thursday higher, OMXS30 index rises 0.5 percent &nbsp;&nbsp; marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMGphQWdJdnVkczlxTGcwX19mdDFUWUdDS3JuV1ZycmxFaXNNcW1MazFOYlo0MTRoUnBqMkFwRG1pZ1NYRGFIZkN5UmFjOF9YQkJLSzJQZlJYSld5Unc1ODJaNk40NnNiNmUzUUY1cUNlTnR6OVFJZFhYZkpueU9pRHZWYUxUbDZlS25NR3hNV1hpSHI3TlBkMkEzS2JXNXNXNVlrMHpBb3hkUUpkZjBJWXdxNlRQOXNNc2p4MktvcWdVcmE2Qk9XSVZR?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-09-10T02:59:05Z",
-      "epoch": 1789009145,
+      "published_at": "2026-09-10T07:19:30Z",
+      "epoch": 1789024770,
       "sentiment": 0.0,
       "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "U.S. stock futures tick up after Wall St falls on higher yields; PPI, CPI awaited - Investing.com",
+      "summary": "U.S. stock futures tick up after Wall St falls on higher yields; PPI, CPI awaited &nbsp;&nbsp; Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOTFnc0g3ODFobXpHQy1hMG5MbEZheWV5VmZuUnVVUFVzYmN4ZnZTOWtJU3FKRkZLVmhJZ1dwWVczX1dyNEljdmluR1BXMi1pZmwtVXN5Q3d0UDlzV3c0aWhvUi1SMzl1WGRzeG4tNUpWYjhGVzAwczNHUk9OT08zYkt4cmlIQV9XaVBsY25RcUwydmtLTE1WU24wREI5Sy1rSnNZdmxKVm9Scm9nYUNmWTdHZUxvSUNIdy1MQmRLRmVPWHcwaHBjU04tMHJFUQ?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T07:09:45Z",
+      "epoch": 1789024185,
+      "sentiment": -0.67,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Japan stocks higher at close of trade; Nikkei 225 up 0.14% - Investing.com",
+      "summary": "Japan stocks higher at close of trade; Nikkei 225 up 0.14% &nbsp;&nbsp; Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdV9JWV82V2VTano4anVwTGRjYjVNMzFnRDJSMm1TNnUyNEwtNUxpdEdPX0tvQkNyOE9ETm51RkVZaTItS2JuNlBsMmZmZEpNeFFkNWU3X1B2X0g0UkRvRjRHSWZvOXVpa2dVVlZMcTRnS1RJSnE1enpBVGdvQ2hacEdxMnluT25xR09lVmlkc3lqajVrWWthTlA1cndqeWx4ek5QM29ybDA1YjY5ckY3d3hn?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T07:08:57Z",
+      "epoch": 1789024137,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "The Surprising Stocks Beating the Market in 2026 - Morningstar",
+      "summary": "The Surprising Stocks Beating the Market in 2026 &nbsp;&nbsp; Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRMjVROTlOOG9WR0hGX09TRkRNZUcxbVFBNmluMXdFYmFta0djV3k0MmhmRk5zU3d3SjAtaHRMaldYZG84azJ1emhFMFFMUUNoMXliS1RZaGhVMzdhRTd4UGhRMGVWbThpZlIzUk5ONkRvZE5mNHl3dGR2TUQ?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T07:07:28Z",
+      "epoch": 1789024048,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Phillips 66 and Tyson Foods have been highlighted as Zacks Bull and Bear of the Day - Yahoo Finance",
+      "summary": "Phillips 66 and Tyson Foods have been highlighted as Zacks Bull and Bear of the Day &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaTlTempId014NlRibmJkbnRHeGVQTEdJMV8zSXFYbmpoSXBBZEVLZGRFNXlqNHQ1RVdiaUlRRGxWUFNSWWd3NS16c0RLUDhXdS1ua2J3S3dpVFlQd2hZQ0h1Ty1FTWI2R1Q2d05IV1RWVklWLXBDelJSQUVLTWx4RFBfSGZsZFJEMVBLcV9yZHYtU1lMemctZ0hWN2lOQ2J2WGc?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T06:56:00Z",
+      "epoch": 1789023360,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": [
+        "PSX",
+        "TSN"
+      ]
+    },
+    {
+      "title": "Stockholm's stock market looks set to rebound higher in the morning - marketscreener.com",
+      "summary": "Stockholm's stock market looks set to rebound higher in the morning &nbsp;&nbsp; marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUtDX09GRkxORG9XUDZBZ05CWGRRa29vcmRZUWN5aFhQdldSV0ZCODdJaWlMWmlqeEo4NnhTN1c2MjFsV0VIOE9BMjFDQWt1RzNseG1wMDVJTlNzbE5PbU9jak9EV3ZOSjlYR19WY19XTGdXZmw1cUM0dlFUNG0xejN1Ti1WQ2NScTItZVNnMDhrZkdjSVEzTmNlazJpQzBlb2NiWVJpekhXMVBpTFE5WWpndldOX19yNDEwZw?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T06:44:35Z",
+      "epoch": 1789022675,
+      "sentiment": 0.0,
+      "horizon": "swing",
+      "tickers": []
+    },
+    {
+      "title": "Monthly share price of Meta on the Nasdaq stock exchange from May 2012 to August 2026 - Statista",
+      "summary": "Monthly share price of Meta on the Nasdaq stock exchange from May 2012 to August 2026 &nbsp;&nbsp; Statista",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUnlyN1p3anBndlNBUUl3elFqRHY5aUc4dmlmQkVHWDNVeGttRkI0Nnh0eE9IZEJLeDRFQk5JdER6aW9mVEViSTBOb2JSOV80SjNCcUZMNTlWRW41S2w4MWR2STR1TGwtVVRyb1NHaVN5OGxIeGhyVTR3Y1BQeHd4YU56Xzc2cFgx?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T06:41:07Z",
+      "epoch": 1789022467,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": [
+        "META"
+      ]
+    },
+    {
+      "title": "Asia stocks fall with oil surge, yields in focus; U.S. inflation on tap - Investing.com",
+      "summary": "Asia stocks fall with oil surge, yields in focus; U.S. inflation on tap &nbsp;&nbsp; Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWF93Q2F6bGtPYU1UcUZqUXlwc2phQmJLZ3ZBVDdEZFlrRG9SX2pGX2VOUndiT0ZlNS05c011VDRiZUxhZmxRUVE1aUY4dms0YldnRkpoOGlCdkg2Vm9CRHhSS3hzSHJwenlkdHJCMDZzWk9YRW1lV2pOVlhWd3JhdnBCWktoZXRURGExVTZfZDVrTnR3UFViRm1VQjA5c0dCWmJkVWc1aDJzM0ItSzUtRXJsSnd1dlNiRjF3?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T06:33:45Z",
+      "epoch": 1789022025,
+      "sentiment": 0.0,
+      "horizon": "swing",
+      "tickers": []
+    },
+    {
+      "title": "Asian shares fall and oil prices trade above $100 a barrel - LancasterOnline",
+      "summary": "Asian shares fall and oil prices trade above $100 a barrel &nbsp;&nbsp; LancasterOnline",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONGNXN0hnZWlRTnRnVmh2TlFjZnBzdVVGQ1NaZ1pYaVFmeU9CSlVJTHp0Vm93WDJUaFNXLUQ0MEtoUmdhd1M2SXFEdUlTLXVSXzJjdGxhZHlET2xvUkgzbFJFUlBNNndKWkhoT2hHWUNRWEtVRUxKZ3piOEJTMDlIRXFvaGxJNV9rd2FkWkdROG95LUtRZ19CQ1E5QlVSem5DQk44UThMZXBRd1dNRklNRVpDVm1EMkhTWXZnVjI4NWV2X1J0TXljb1hIWjRKWDJDYjhVUWdfdzhtYllPVTBUQm5rZzg2b2VTeEltRVp3?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T06:25:58Z",
+      "epoch": 1789021558,
+      "sentiment": -0.67,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Stock market sheds N1.67trn - Realnews Magazine",
+      "summary": "Stock market sheds N1.67trn &nbsp;&nbsp; Realnews Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85WElwQlkxV3FxWFBQcFpBTzJuM0FiZ3o3QVdLTFJVRlg0WjY1ejFHN2ZiTG5femVZbmtnVkgtZ2hqZ0d1R1lJeHZ0UEFMZnFBTld1S2I0UEpEa3dEcGhFOURoOFk3c2dr?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T06:12:07Z",
+      "epoch": 1789020727,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Here's How Much Money You Would Have Today If You Had Invested $10,000 in Apple Stock 10 Years Ago - The Motley Fool",
+      "summary": "Here's How Much Money You Would Have Today If You Had Invested $10,000 in Apple Stock 10 Years Ago &nbsp;&nbsp; The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSTVfUV93ZmtyUTk3cW9BRnY1MzNsb0sxRWNiV1NsSWVaM2dNXy1KVjRUMGJjMTJRTEE4dl9udWwzTktjcVFnSlV2aUlPZllKWmhHbTJta2VMZHFibjZxY0xwWTZXZUx3eFUwREN3TzVQSUJuOWRwVnRUUVVFS2FUeHpiMUlXU0pGa0lRcnRCTmVuZ3YtRkZLNA?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T06:05:09Z",
+      "epoch": 1789020309,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
+      "summary": "Stock Market: Will S&P 500 Open Up or Down Today? &nbsp;&nbsp; Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXlGbXlkVVZ4bDVIMzdaSUQ2cE1mTDFNMklPT1Q1aVNhdEd6RFpibURYdjc1RThiOE5paXRlU3NKZzBvVEQwZDhNX0Y4VHdzM0lUTnNJMVlncDcxN1FJYjRiTmU0YUtHUzVGam1hQVh6X2t1cV9VMGpwcXoyNTRrOWp5bHFGN05GRFpVQ09Ib1BUdHRhdFJwLWNIQmpwQV9GaUlTVnlxNkRpaDY4TkJwTHdYU1U0UUk?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T06:02:33Z",
+      "epoch": 1789020153,
+      "sentiment": 0.0,
+      "horizon": "swing",
+      "tickers": []
+    },
+    {
+      "title": "Here's How Much Money You Would Have Today If You Had Invested $10,000 in Apple Stock 10 Years Ago - Yahoo Finance",
+      "summary": "Here's How Much Money You Would Have Today If You Had Invested $10,000 in Apple Stock 10 Years Ago &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1hnOURkekE5OWduaHlEZU01b0lvUE1tcjZRX3RKWEZfQmdNMGJ5eVg5S1lHTTNIbGFETFhTeC1CZWlubVpDVW4yU0R5M2V0dDlJaEVuMzJ5SUI3LVVqTjNNdk9qaDhFaVFZRm1XRDVtRW5lUDFGWmVZWFJ4WHNfLTVLTEc5bldZWEl2N2ZlM0M1T2lNWWc?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T06:02:00Z",
+      "epoch": 1789020120,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "title": "Why is MetaX Integrated Circuits stock sliding today? - Investing.com",
+      "summary": "Why is MetaX Integrated Circuits stock sliding today? &nbsp;&nbsp; Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXZCcFVrMjJtd2QwVncxSThPTllKa21kVzdiZ2JxVXdCY1ZKaGZrLXp4U0ZiR1ZEVDZWZGlQb2xneGJxelB5eDZvSzdnZUdMMzFWbURyQi1qYllxSkFBOHlObUtPYzg5bm44VVNyemYyZUZuYkJwdWRVZHJXOTJlSjExRk5oaUczZWROVFFBMjc3S2VTYWpmZXFKWFZWbi1oVUI1bHVQTFhaQ0ZMcWREWk9JV3k?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T06:00:00Z",
+      "epoch": 1789020000,
+      "sentiment": 0.0,
+      "horizon": "swing",
+      "tickers": []
+    },
+    {
+      "title": "Asian Stocks to Fall as Oil Stokes Inflation Fears: Markets Wrap - Bloomberg.com",
+      "summary": "Asian Stocks to Fall as Oil Stokes Inflation Fears: Markets Wrap &nbsp;&nbsp; Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDNPY1UtR3dhUVBsYWhkc21iVFB1VmptOUFuVlhGdHgtZ0Zpb29KZVBUbHk0Sl9ZNnNIYmxMLWNQU25kT0ZMSVIzMkVZQUFub3R2WnQ3NV9mT29Id1lYVml0MF9qcFFPSzg1cndWWEltOWVLQUd3blRKMHM2eHVMSnFTc3dva3ZIOGVxV2RzWnF3Qnl5?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T05:59:00Z",
+      "epoch": 1789019940,
+      "sentiment": -1.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Has Volkswagen’s Stock Turned the Corner? - Morningstar",
+      "summary": "Has Volkswagen’s Stock Turned the Corner? &nbsp;&nbsp; Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNREJTRk5LcGdScFpTdUdNMFE5NWVabkctNk9uU2xpRkQ4dHpvUTNmOUs5cnlBQmdPQ1Z1TXJZRVpsWm5nVFJhZjBYM1RDUmdYbFZ0M3BrYWxkNlM0UHU0TXNraU0yZUJjX1ZGem5kTGRjaldDM3VxWnBwUWV6WFlQeXhYQXo2UQ?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T05:07:23Z",
+      "epoch": 1789016843,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": [
+        "VOW3.DE"
+      ]
+    },
+    {
+      "title": "HK Stock Market Update | Most Oil and Gas Stocks Rise as International Crude Prices Return to $100; Recurring Geopolitical Turmoil Adds Phased Risk Premium - Moomoo",
+      "summary": "HK Stock Market Update | Most Oil and Gas Stocks Rise as International Crude Prices Return to $100; Recurring Geopolitical Turmoil Adds Phased Risk Premium &nbsp;&nbsp; Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa29HdksxejhEaE1QRXhWZzRSSHlIc3BJb1I3OHFDUHgwLWpxckxjOXVhUFhZMWFxWUJmd0hqUDJGN3M1WlJBTENrZ2FEYU01TGQycGlEQzc1WTdKbUhiMXUwYy1TVUY2aVJKajQ4V19CbU5nYW13UjNSMkV6X2VkbEtWMGtUcDVqVnlQNEJGN1l0YnhEQ2h0Mg?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T04:21:57Z",
+      "epoch": 1789014117,
+      "sentiment": -0.67,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Why is Megaport stock rallying today? - Investing.com",
+      "summary": "Why is Megaport stock rallying today? &nbsp;&nbsp; Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZU82MkdYc2lPcDh4Ylh0SnNNejQ2dkFuTVpYS3VtSDVISFBmUDV4cWtYWG5feTRkcV9pMG1NRm94MVZBTlVMSlNvZ21CMDJFOGdVMDFva01YeUNtaElYTjhFTElMWm9BcGFfSENPX3VXemY0bXJNbm9rMGhjaUdfb2NyVHhXanNGSzhrb1J1UFBqd3o0VFEySmJ4TFVnSVk?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T04:07:21Z",
+      "epoch": 1789013241,
+      "sentiment": 0.0,
+      "horizon": "swing",
+      "tickers": []
+    },
+    {
+      "title": "Asian shares fall and oil prices hold steady above $100 a barrel - LancasterOnline",
+      "summary": "Asian shares fall and oil prices hold steady above $100 a barrel &nbsp;&nbsp; LancasterOnline",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWnlGYmtRYXg2R3FqZ3pPSWhYUlk4SkVTeEdCekNrNkd5SVNwSU8xSW9EZThzMzl1cEhqanNhcXltcnFhSVVsdXFUNVdrREtvSXNpdXpEV3luNktCZDFjdS1VLVFLb2V6d0kwSjFVZUxBUUZDWmJSQVdqbG5ab3M3X1o4S1o3MngtUUVxTHN2YmhwQ2Y3ZW0tWUphbkxKSElHZ0hSbTZmUlZBc2s0LVVKZmhpTjRFdGVTNlVXRlh6eUlLbXFHZ0ptS3U1bVVPOThPOVVoSWlhVXZFdDdsbFExaTdLbjFuRS03Z21mRG5GU1RKUGVHZ2c?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T03:48:06Z",
+      "epoch": 1789012086,
+      "sentiment": -0.67,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "The weakest link in the U.S. stock market’s AI rally? Oracle is set to report its earnings tonight. - Moomoo",
+      "summary": "The weakest link in the U.S. stock market’s AI rally? Oracle is set to report its earnings tonight. &nbsp;&nbsp; Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObUYtNlp2OTlLYTdlQ0hCckpYWWxUR0p6VTREYVRSdWp5dElzRkNQenBhdmhvNGhWMDdzd0ZzbUZZVWVyNGl4Y3FCQWV3WHhIbnVlUHhIN1QtbUU0bzRRQWx0cHc4LVlpOUNuQVM1WXVzZkJLQ0JvLUFndmxnM0YyNEVneGF3ZE83c2lYdnpxcw?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T03:18:55Z",
+      "epoch": 1789010335,
+      "sentiment": 0.67,
+      "horizon": "swing",
+      "tickers": [
+        "ORCL"
+      ]
+    },
+    {
+      "title": "Dow Jones Futures Rise After Oil Prices, Yields Hit Stocks; Inflation Data Due. - Investor's Business Daily",
+      "summary": "Dow Jones Futures Rise After Oil Prices, Yields Hit Stocks; Inflation Data Due. &nbsp;&nbsp; Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOME10TE03THRKWjFfQ0JQcm5PdDZaTUczbEtRX2ZXVHA4bWJkaGdENWVQTEZPd1pLaWR1Si0zMXR0Q3haWVVZa1hqNDhlajRzZUctbmd1ZGlEdjhfdngtbkdvNUs5VGdXSmw3S0xBVGp2V3JUYmN4ZXE0OHJRVTY3TUtZVGhSMTdNVlNzU2tkdzJiUVlfdF90cTE1UEFrcjNfUnZwb2JFN3VJYktJdWVCcGlGMGNKVkRFdFJnOEItVmhFNkJyUU1Eek5sYmp3R28?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-10T03:09:00Z",
+      "epoch": 1789009740,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": [
+        "DOW"
+      ]
+    },
+    {
+      "title": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.",
+      "summary": "President Trump’s speech at his party’s midterm convention in Dallas comes as many analysts expect losses for Republicans in November’s elections due to voters’ frustrations with high prices.",
+      "url": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "source_id": "marketwatch-topstories",
+      "continent": "na",
+      "published_at": "2026-09-10T03:00:00Z",
+      "epoch": 1789009200,
+      "sentiment": 0.0,
+      "horizon": "long_term",
       "tickers": []
     },
     {
@@ -819,21 +1201,21 @@
       ]
     },
     {
-      "title": "Futures Mixed With Inflation Reports Ahead - Investor's Business Daily",
-      "summary": "Futures Mixed With Inflation Reports Ahead &nbsp;&nbsp; Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOME10TE03THRKWjFfQ0JQcm5PdDZaTUczbEtRX2ZXVHA4bWJkaGdENWVQTEZPd1pLaWR1Si0zMXR0Q3haWVVZa1hqNDhlajRzZUctbmd1ZGlEdjhfdngtbkdvNUs5VGdXSmw3S0xBVGp2V3JUYmN4ZXE0OHJRVTY3TUtZVGhSMTdNVlNzU2tkdzJiUVlfdF90cTE1UEFrcjNfUnZwb2JFN3VJYktJdWVCcGlGMGNKVkRFdFJnOEItVmhFNkJyUU1Eek5sYmp3R28?oc=5",
+      "title": "Stock prices drop as oil spike fans fears of worsening inflation - France 24",
+      "summary": "Stock prices drop as oil spike fans fears of worsening inflation &nbsp;&nbsp; France 24",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWDhyTktyZUZMNzVzWFlLVV9sS3gxM3ZIa0tuUUdRYlduWlcxMEtQUjhlbUV5TnczRG1RZ1ZQM1NxeFhvVnJWVkttZmZIZUtnS0lmS0FZaUE0QkRKMGV0V01uVzhKbGZFaWd4Z2J5X1l3X3dFYjZtdDJ0Q1p6WUdhYkp0bDNyV3d6WlVCbmczWWswY2llU0FPRWhTWThNbi0tNThUcnNuMDM3UWlPb2puaUo3UQ?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-09-10T02:21:00Z",
-      "epoch": 1789006860,
-      "sentiment": 0.0,
-      "horizon": null,
+      "published_at": "2026-09-10T02:47:10Z",
+      "epoch": 1789008430,
+      "sentiment": -1.0,
+      "horizon": "swing",
       "tickers": []
     },
     {
-      "title": "Indian shares to open muted as Mideast conflict keeps oil above $100 - Reuters",
-      "summary": "Indian shares to open muted as Mideast conflict keeps oil above $100 &nbsp;&nbsp; Reuters",
+      "title": "Indian shares muted as Mideast conflict keeps oil above $100 - Reuters",
+      "summary": "Indian shares muted as Mideast conflict keeps oil above $100 &nbsp;&nbsp; Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOREJVc1NJZXJ1VFBrdmpqalRvS0Fwd3FrSGtEOVd5Z1ZxWjh3Sld5UmtKVlZHOHNUeVZUQlRaVjEyZEtEa0hLMVpGeUFVM2l6R1dIR0YzbXBDU1RWQ1RzNVB5Ry1XMjdwdEtnQVJBT0lSMzNvSGdIUHIzMjBCS1lEZXYwODN2bDBBbUtMREJpMkVQQmlyNlloLTBlSWMzVnBaSjZvWTRwTTgxODRkWlE?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
@@ -845,8 +1227,8 @@
       "tickers": []
     },
     {
-      "title": "Asian stocks wilt as Brent holds above $100, yields near 2023 peak - Reuters",
-      "summary": "Asian stocks wilt as Brent holds above $100, yields near 2023 peak &nbsp;&nbsp; Reuters",
+      "title": "Asian stocks dip as Brent holds above $100, yields near 2023 peak - Reuters",
+      "summary": "Asian stocks dip as Brent holds above $100, yields near 2023 peak &nbsp;&nbsp; Reuters",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ydjJlYXlTVHhNV0k4Z3ZMb19VVFdUR2taM2lOVHhOUTN6enJSZVVhODdiSm04TnhTNGFJMDVOUjN4eVhsdGZtcFQ2RVloaFNFZzh4TkpvaUtfQTRFUXFkRmctMjFiRHFnWFE2VlBvQm4yZk5NMmdUZkNOdw?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
@@ -871,41 +1253,15 @@
       "tickers": []
     },
     {
-      "title": "LNG stocks to watch as prices top multi-year highs - Investing.com",
-      "summary": "LNG stocks to watch as prices top multi-year highs &nbsp;&nbsp; Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSUdEV09peW16emFHSm10X2lxbFA2ZG91NzV0MElfWFNkSU85NkpRUU83akxQc3htUmJ4NDlKczJiSW5pZmJWY1VOTGx4bE1Sd21PNjMzVndyQ3hXTWJuSHJ1VjhGOHlzbXZuc0g4SU5WMWRaOFRzbWM3bFRHUS0ySTA1U3p1a0hhOVN3bDVzblJQS2NBeDVHWUYzR2liZmtuOTVhYnoxbmo2WDZwLS1rZQ?oc=5",
+      "title": "2.45pm Markets Update - RTE.ie",
+      "summary": "2.45pm Markets Update &nbsp;&nbsp; RTE.ie",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zaklLbmI2OC1vTWl0OFlaZkdjWGdLbm1kNjJIYWVrWDJ1SGJ4ZUMzV2NSYnUzaDBGZDVaemhaU0tsTGhNTi02VDQxVlZUcldV?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-09-10T02:00:47Z",
-      "epoch": 1789005647,
-      "sentiment": 0.67,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "A chip stock jumps 11.7% as AI demand drives a guidance boost - Investing.com",
-      "summary": "A chip stock jumps 11.7% as AI demand drives a guidance boost &nbsp;&nbsp; Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdm1EX1NTTVZ4elBUODVBSkJDSC1Ieko5ZHp6azJkQXEzQWxTdERmZzhwbkliQ0hCOHJnUkNXY0Zna0dGQ1BWZk1GTFhja3lEcUxlY29WTXczeS1USTI1YVB1b0JaTHlFckpqQ3hpUFJKZEdmSXdZdUI2cGRNbWNVV1FBUjBWYlpKOGZrblZIaE5qUFJGRFZpbTRKNzJZU3hTZXNUYmc4dTBncnRMMkw1Tmh1alJLZVE?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-10T01:43:02Z",
-      "epoch": 1789004582,
-      "sentiment": 1.0,
-      "horizon": "swing",
-      "tickers": []
-    },
-    {
-      "title": "U.S. stock futures steady after Wall St falls on higher yields; PPI, CPI awaited - Investing.com",
-      "summary": "U.S. stock futures steady after Wall St falls on higher yields; PPI, CPI awaited &nbsp;&nbsp; Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOTFnc0g3ODFobXpHQy1hMG5MbEZheWV5VmZuUnVVUFVzYmN4ZnZTOWtJU3FKRkZLVmhJZ1dwWVczX1dyNEljdmluR1BXMi1pZmwtVXN5Q3d0UDlzV3c0aWhvUi1SMzl1WGRzeG4tNUpWYjhGVzAwczNHUk9OT08zYkt4cmlIQV9XaVBsY25RcUwydmtLTE1WU24wREI5Sy1rSnNZdmxKVm9Scm9nYUNmWTdHZUxvSUNIdy1MQmRLRmVPWHcwaHBjU04tMHJFUQ?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-10T00:53:51Z",
-      "epoch": 1789001631,
-      "sentiment": -0.67,
+      "published_at": "2026-09-10T01:18:19Z",
+      "epoch": 1789003099,
+      "sentiment": 0.0,
       "horizon": null,
       "tickers": []
     },
@@ -936,32 +1292,6 @@
       "tickers": []
     },
     {
-      "title": "Why The Bancorp (TBBK) Stock Is Falling Today - Yahoo Finance",
-      "summary": "Why The Bancorp (TBBK) Stock Is Falling Today &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUHlUNkVLMzBQbFcyaGExUlhrTjVVWHh5SXlHem9rdW44SXBPQjd3RkgwSG5pY1UzMUtDQk5Zb08wYUdzMm56dW1vZzdVUVhnMnh0Q2lwZVExb2RmRUo1Q3JJTzdZbmp3NGlNT1A0YTRPdGtwcGtKbjloVWJSamVqNjc3WnZPYzg1NEJ4UEM4bklnQy0tNTJkVXJnRQ?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-10T00:26:00Z",
-      "epoch": 1788999960,
-      "sentiment": 0.0,
-      "horizon": "swing",
-      "tickers": []
-    },
-    {
-      "title": "Nikkei Falls 0.6%, Dragged by Construction, Retail Stocks - WSJ",
-      "summary": "Nikkei Falls 0.6%, Dragged by Construction, Retail Stocks &nbsp;&nbsp; WSJ",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWlNPNkZ3Qk5odXo3UzU5ZTFBOURmVGNhRlVFNGJqY3F3UTN0aHRsRXQ0NzlxWmdKcHh3cWdDeXVvYndOOHhCTzJoNGxJQ3pJVFZNQmh5WkNrcVBaS1pDT09kSk5XWFNnTlNzNE1CZnRLOFVUaURHODFRbzVsdUVWQVBfWVBnTElWQXh5WklXbk1ab3ZPVnNMajViLW5ydVU?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-10T00:18:00Z",
-      "epoch": 1788999480,
-      "sentiment": -0.67,
-      "horizon": null,
-      "tickers": []
-    },
-    {
       "title": "Why IonQ (IONQ) Stock Is Down Today - Yahoo Finance",
       "summary": "Why IonQ (IONQ) Stock Is Down Today &nbsp;&nbsp; Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnotNFE1dVQ0VDRSVGNBVV82bHhwbHJkbWtUd2gtT1pkNUZ6M0pscGlTeVV5aHdSVlQxVXRmLWgxVkZXVUZjTmxSTVAxNTdRdDIxZlgwWjFwWEZ3RmJjZy13eGtYQUotdGlBbmQ0U3BXSTd0SExsS2pJRXAwWW03WUpqQ3hnaGZtdUhzaHBjalFvTVE?oc=5",
@@ -973,21 +1303,6 @@
       "sentiment": 0.0,
       "horizon": "swing",
       "tickers": []
-    },
-    {
-      "title": "Booking (BKNG) Stock Trades Down, Here Is Why - Yahoo Finance",
-      "summary": "Booking (BKNG) Stock Trades Down, Here Is Why &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX1NCNWYzV2NWbjNfS0ZwUUViazlZeUZUQlV6ajZOMkFiM0ZGSFlmWVBOai1nZHZyTHdHTzg4bklwcmo5dURoM0M2RXk1aUpVdUdveTU5RldoeF9GdEZzUC04eVlteWZzU0FDTTJReWlnYkh4elRKUVh6Z2NjZ1ZBUWdyT01aYUtlbFUwQkpfSXduM3lhRkVXRkFvZw?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-10T00:10:00Z",
-      "epoch": 1788999000,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": [
-        "BKNG"
-      ]
     },
     {
       "title": "Fearless US stock market vulnerable to shocks as midterms loom - Reuters",
@@ -1003,19 +1318,17 @@
       "tickers": []
     },
     {
-      "title": "Why Are Meta (META) Shares Soaring Today - Yahoo Finance",
-      "summary": "Why Are Meta (META) Shares Soaring Today &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc1hoamg4VWlOUXcyUTQ3QzdQQVI3X1RfOEtQdy13SVFyZDQwRHFkN0pnQzRsMkg2RW9LUTk5c2d5S0t2RTNIZ2wtZ3lmR3dOVGljREZmbmZUbFFGWWgwTzlyaFE5aDlaQnBKblFvbGM0QW1rbXN1aWpRdHpGZk1iZzc1TzQtTkVCV1FuUG93Z3JYaFg4S3ZPQQ?oc=5",
+      "title": "Want a leveraged ETF but short on time? This one lasts just an hour - Reuters",
+      "summary": "Want a leveraged ETF but short on time? This one lasts just an hour &nbsp;&nbsp; Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDlsblVSanlRYXcwWFBKRVpNSHlLWFNFWDF2QXVUZ3JkRVlBWE9QZjdfTDlLMEpSYzRJb0FyZVkyQVFkckdwa3lyaXhBRlJjUkZnMzc4TVM0NHM2V1I0bWxEdWt1S0tKcjR6dVFxSm9YMGl1eUFuQUlMNVJBVGQwa1BiVVdzN3VmUENBbVZZX2pyUXA0THhxd1dQNUhmcHZ1WnlZM1ZHdFF5VGxl?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-09-10T00:02:00Z",
-      "epoch": 1788998520,
+      "published_at": "2026-09-09T23:40:53Z",
+      "epoch": 1788997253,
       "sentiment": 0.0,
-      "horizon": "swing",
-      "tickers": [
-        "META"
-      ]
+      "horizon": null,
+      "tickers": []
     },
     {
       "title": "Stock Market Today: Dow and Nasdaq Drop as Oil Hits $100, Gold price at $ 4,399 - Eurasia Business News",
@@ -1072,14 +1385,14 @@
       "tickers": []
     },
     {
-      "title": "Robinhood CEO Vlad Tenev Defends Stock Tokens After AMC Criticism - Yahoo Finance",
-      "summary": "Robinhood CEO Vlad Tenev Defends Stock Tokens After AMC Criticism &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRLS041cTMyN0tnNzMtNWxQZXk4NkgxUUxFNWJGYzFURTVnVVY3TjlSRnRQakl4OW9NR1kwaFZ2LXdWcy1KeFRuUzFfekFtSXJwMG15MUx6QVl2aVdWU2FISUpJelpVamVXby1DMk1LVVgzbi16ZHhrdkk1bGpMZ2RFZEV0cTdVTmxMZ1l3VDVkQzdfTnhUQlAyQ2VVQQ?oc=5",
+      "title": "Texas Stock Exchange Eyes More NY Listings After Energy Transfer - Bloomberg.com",
+      "summary": "Texas Stock Exchange Eyes More NY Listings After Energy Transfer &nbsp;&nbsp; Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRkVTclh2UjVvYXFpYWo2aTZzWWtWZTJBS1FNVVpoZ3lEbjNHQXpmdm1aM2tCT3F0U3E5aW4wMVZvYjk5cUdhak9DSi1qaWpheDFvb0VmTW9CRnp2VDExdUtqZ3R4NnZ0RHByQTlJb3lpVktacWRfQUV6eGQ3M05CRTNGV05LQ1VLTkhCMGMtbF83bTlOdTFEX0N0ejRtVlY3WVdzeGN5NXhYeDRKYkZmNEoyOGlaQQ?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-09-09T22:32:14Z",
-      "epoch": 1788993134,
+      "published_at": "2026-09-09T22:35:01Z",
+      "epoch": 1788993301,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -1126,19 +1439,6 @@
       ]
     },
     {
-      "title": "Asian Stocks to Fall as Oil Stokes Inflation Fears: Markets Wrap - Bloomberg.com",
-      "summary": "Asian Stocks to Fall as Oil Stokes Inflation Fears: Markets Wrap &nbsp;&nbsp; Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDNPY1UtR3dhUVBsYWhkc21iVFB1VmptOUFuVlhGdHgtZ0Zpb29KZVBUbHk0Sl9ZNnNIYmxMLWNQU25kT0ZMSVIzMkVZQUFub3R2WnQ3NV9mT29Id1lYVml0MF9qcFFPSzg1cndWWEltOWVLQUd3blRKMHM2eHVMSnFTc3dva3ZIOGVxV2RzWnF3Qnl5?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T22:13:56Z",
-      "epoch": 1788992036,
-      "sentiment": -1.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
       "title": "Stock Market Stretches Losing Streak As Oil Prices, Treasury Yields Climb; Key Inflation Data Next - Investor's Business Daily",
       "summary": "Stock Market Stretches Losing Streak As Oil Prices, Treasury Yields Climb; Key Inflation Data Next &nbsp;&nbsp; Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWxpczY3bGZzSFNMcjk1eWprR200TG1ObXlmNWFPN3l0SWdNUldtdkxucEJOOWFFMC1BVU9TNkRBT3JhbjRYcDg5YTR5OFk4VVRhUEdyNGM5RVZ0WndMaXlYSDlhYUlibGVyd28tNkpBMVFfVG1BNTc4ZTVkYnh4NHVMaVVRQlEzSUxDM0phYzdKMmp5aXZrdFo1ZE53eHF2UnhwUmRNS3h5Qk11ZkhV?oc=5",
@@ -1165,49 +1465,6 @@
       "tickers": []
     },
     {
-      "title": "Why Rivian Automotive (RIVN) Dipped More Than Broader Market Today - Yahoo Finance",
-      "summary": "Why Rivian Automotive (RIVN) Dipped More Than Broader Market Today &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3hDbDFvRHNJdWpLVjNsOU5uVjJtMElYZjZaNVRxMzhhZUlKcTVKcjZLaU9yZXZOR2NHQm1JWlU1bGotSktZUGFDZS1Xakh6NURxT3dZZkloUGVSZ1k1UGJXajFrWlBTSTBrR29lQ3F0cnczYWo0UXlGempnRUcyMFlyRVp1cTN0SGdhMmJwZFk4UWtJbFBwcTlDRTg1R0k?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T21:50:05Z",
-      "epoch": 1788990605,
-      "sentiment": 0.0,
-      "horizon": "swing",
-      "tickers": []
-    },
-    {
-      "title": "Here's Why American Express (AXP) Fell More Than Broader Market - Yahoo Finance",
-      "summary": "Here's Why American Express (AXP) Fell More Than Broader Market &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUFRXMUhtcjlSSGY4ODdkNnc2VGtCenZubS1POVJfTXZ5YzI0U1hYUlczdDBWY0VLRnB4MWlzZVJfUk1aV19CLWJCVHlPeE5mVS1qbTJ4RUpGM2c3QkpMVVdpSjgzTEZnUGpsV0JEQ1dVSEVwaVR5SjFyZ1hiVkVsbzhkWnlNOEw4RXVab3hJblpTRG5UalJhbk9icw?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T21:50:03Z",
-      "epoch": 1788990603,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": [
-        "AXP"
-      ]
-    },
-    {
-      "title": "Advanced Micro Devices (AMD) Ascends While Market Falls: Some Facts to Note - Yahoo Finance",
-      "summary": "Advanced Micro Devices (AMD) Ascends While Market Falls: Some Facts to Note &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGI1U0NyWE5JWnV3NGhGRDh6YXJuR1lUN0dtZzhodHpLRG1KVkhOTEE0bUlmMkozOUJkWWlSLXNmRFl6TlFaU2VRdV9RaTNPODRobmc4NDZmV2wtTVBLdDcxYTJ0NWZCUEdQVnNUYW5Zb3NkOERVOUVPcUFpbEtjcjRiLWdPR1JUVHloNUYtdktkN251dDl4em1kb24tSlkx?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T21:45:04Z",
-      "epoch": 1788990304,
-      "sentiment": -0.67,
-      "horizon": null,
-      "tickers": [
-        "AMD"
-      ]
-    },
-    {
       "title": "Asian Stock Markets Mixed, Investors Await U.S. CPI Data - WSJ",
       "summary": "Asian Stock Markets Mixed, Investors Await U.S. CPI Data &nbsp;&nbsp; WSJ",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT3ZxbHdlR2FvdGw3eXFsSXRLWVJOQ0hxX2hiUEVkOGZuM0lndG1pSmNaUkRkaWk3ajgtMzRPeEg4ZmxXQ1JubkIwX3F3OHhVR09sSWd5dlJYNkc0blBfaGR5VWxGQ1Rid0dTR2NueTZWTjZzc3pnRUhCMlk4V2JGRVdEUEJfWUZ3Z2lYMGFjREpsVGZYUHBfU29UME1rUjFWZzJfcGxR?oc=5",
@@ -1217,84 +1474,6 @@
       "published_at": "2026-09-09T21:44:47Z",
       "epoch": 1788990287,
       "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Tilray Brands Inc. stock falls Wednesday, underperforms market - MarketWatch",
-      "summary": "Tilray Brands Inc. stock falls Wednesday, underperforms market &nbsp;&nbsp; MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSHhtdlZRVHVsOGx3RTZIMGVHVTJYdE1UNmFhMEVkNmI2UWZoRDN0ZElzdkRIYjk3VVU5cHgyNTFCcHNPTTI1QU1za0hFOS1vSGE0UzV6WTFhUHIxNUZkdTlSRW92UU5zUEZtbDVGcEFvb3pMNWlWUEM4b1hQbHRhaHhTeHphdktacFc4TmY0b0FfanlTVzFGMGFFSW1PRG9scUhaZ19pc3JtTk5pSFhmdDFuZXpKcG5pOHFwbTV5TFJwSUdZek1pV1BlOXV6aGkwQk8zaw?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T21:30:00Z",
-      "epoch": 1788989400,
-      "sentiment": -0.67,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Ocugen Inc. stock falls Wednesday, underperforms market - MarketWatch",
-      "summary": "Ocugen Inc. stock falls Wednesday, underperforms market &nbsp;&nbsp; MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa3EwYm1HdFVMYk1GendUX0VrYmVobTlfYy1lNUdhMzctR2thdVBNUVBpc2JTd205YW5TSlh2TUp4SXIyajJwUC1MakhwTDRkcWNodjMtTllCMW9WYVZCWmpPX1Nkcld2X0piQ2ZLQ1NPY1VpT1FCeWpsT0xpTXlnbUVuczk4LUNJZ2YyQm9JcmFlcnRQaTI5aDJxaEN3ZkZIbEh2bHl6NXFZamh5QVB2cm1YZVk0dXBBVk5sejBxOUpWaGs0bTBJdzV0NA?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T21:28:00Z",
-      "epoch": 1788989280,
-      "sentiment": -0.67,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "2026 TSX30(TM) Companies Close the Market - Yahoo Finance",
-      "summary": "2026 TSX30(TM) Companies Close the Market &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmFBWG52UGcwUGMzSG0yZEhTYkVfNjhpcldYS2lJU3pVbFBQVjZIeEV5anNYRm1rcFRjekRYRUNXTzBES1NXZXlwSS1kVmVoWm1JSVY4NkZsZDFnVGRPOEp0SFl0YzFKMVpESS1ZYURvd1IxcFJpWTFqaC1nU3RxMDdHcFU0eno5eWpMNlVvMnQzWGM2VGtCV21R?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T21:25:00Z",
-      "epoch": 1788989100,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "What History Reveals When the S&P 500 Sends Its Rarest Warning Signal - Yahoo Finance",
-      "summary": "What History Reveals When the S&P 500 Sends Its Rarest Warning Signal &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORjhUWl93VzVSOGxwNHNZOFlqV3NKeHpvSlVUMjJtLUdtUHJzdTVVTkNkNDQyaWhIdmhTcFc2cFVBeUZMVXh0Wk91TGpsSXBWOGJyT2dOQ1dUUkxtRWJteWhYblBHeHM5Y3luTEFCSmtJOGo0YlpHNC1pWi0zQnRKaDZpcnZGcklEZktVUWx4VDRmc3FTV2VR?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T21:20:00Z",
-      "epoch": 1788988800,
-      "sentiment": -0.67,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Beyond Meat Inc. stock falls Wednesday, underperforms market - MarketWatch",
-      "summary": "Beyond Meat Inc. stock falls Wednesday, underperforms market &nbsp;&nbsp; MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd20wTW5iLTlqeTFtWk5fcXozblhPSWw0X2FFVXZKR0xkbktseEZsNG5fdEJjUHhlZlY5QnNTcVkyT1hOZ25NM3VZWVVfYUdwbmhJZ2stSllWVlI2Q2p0N215QnFTQ2lhY3BWdlRiSkZjZkxaLXhmRlZJM0Y4eDZFT0ZDWFB1ak1OVWRiMXl2dGpwc2tGb0txTVBfRUNrVVVJU0NaaVpZY2xlVXNOTHNUeDUtR3F3LUVHV05YZ0g0alF4aXpnLWdtQ0tSQU9JSmcya1E?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T21:19:00Z",
-      "epoch": 1788988740,
-      "sentiment": -0.67,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Amentum Holdings Inc. stock falls Wednesday, underperforms market - MarketWatch",
-      "summary": "Amentum Holdings Inc. stock falls Wednesday, underperforms market &nbsp;&nbsp; MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNazQ3WXY2bExuR3loUlIxdXZKLU1ET0NaaDFuTXVJdkVzYVY3OXdKS3JXR2wyS2s3b2JYRTJvYlh3SzhEY3FHNXN4S0ZkMzVvWGdoZ0JXVllDb2lHQ213VGZLUEdNQ3FTNUhZSEQzYzFjOTAzR2ZFOVRNVTgzU25KMTc3WkhkaGl3QTNhdGhxdllpY2RpZG5sd005QTQxZXV0SDB5OFF4YVloc3FjbTlyNV9KdHNZZDVLOGw4aUFGaWlEdkd5WXFaT2ZoRFViU2tybHRkTS1tMFQ?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T21:18:00Z",
-      "epoch": 1788988680,
-      "sentiment": -0.67,
       "horizon": null,
       "tickers": []
     },
@@ -1338,19 +1517,6 @@
       "tickers": []
     },
     {
-      "title": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel - toledoblade.com",
-      "summary": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel &nbsp;&nbsp; toledoblade.com",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNTWVHTWJUR1VuODJLNnd1R0xXaEpvcHRfWW1WT0tOTC1IeGx4LWtxRnE0M0dsQ3RITE1kMnBSVXVBNHFmUW1xWWN3LXdMYW9UblhiMjVFOUJaT3VwRlM5SzJmTVc0YTlnamluZVFPZC05UmpjRTlMRHJYYk8yMmRLanJLblJ1MWlna2xtNHMtN3lDWVFvVTNFSW1EbEFraE1pQUdUeGRlT21rVlVjMHhiczNmTXBVR0s0TkstdFhHcFBpZnRTNlg0VE94cEx2aWpxSmNJeFByeFUwU2p3eUlDSjVVd1ZwLWFra3lWWXBTTU5QMGctdW1ub0llcUwxUVFsVVpPNm9n?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T21:14:14Z",
-      "epoch": 1788988454,
-      "sentiment": 0.0,
-      "horizon": "swing",
-      "tickers": []
-    },
-    {
       "title": "Stock Market Today, Sept. 9: Apple Unveils iPhone Duo Foldable and iPhone 18 Pro with AI Upgrades - Yahoo Finance",
       "summary": "Stock Market Today, Sept. 9: Apple Unveils iPhone Duo Foldable and iPhone 18 Pro with AI Upgrades &nbsp;&nbsp; Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQekRPWE9LaDFWYUhZN1RWZ0xjTjBqT2ZiTkVUaWtoaTVwTlJRaVBkWXA3Qm5kanY2blVmdmV3anVERUllcXdWU2ZjaHVvTUhUT1ZUcmNFWGtpMm9Ld0Jua0JjV2NZODBwU194SGZoby1ENEdzT3NuSjBDNUlUZk9yTUhMSEtReUIzLXlMVUhaMVJwaHI3?oc=5",
@@ -1379,35 +1545,30 @@
       "tickers": []
     },
     {
-      "title": "Las Vegas Sands Corp. stock outperforms market despite losses on the day - MarketWatch",
-      "summary": "Las Vegas Sands Corp. stock outperforms market despite losses on the day &nbsp;&nbsp; MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ3p0THVZVHlocmJnT0UyV1BadVE1WUpmZEdVQnd5NFFaNEV4QzZqNHJkZkp4OEIwOUc2Q09jOVN3clNMWVg5bVB1QzFjRkZOSTU4RUdmQjBjNjBrcUZPdVRBX3RwS0MtdXZHbnhZakFSU2oxcnhIS2tWLVJnQzhkamx3cFE5RmlDU2w0SzRzNmhzajR6LXhVd0loZzNZMVNGdW9mZVE5LVZpcjJaOHJSc2NxR2ktMXJ3SzJrNm9ieFdNSWZBbV9Uc2lxTU5zV0czQkFoWWZDOXpmTGw4czJ5Tm1ycw?oc=5",
+      "title": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates - AP News",
+      "summary": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates &nbsp;&nbsp; AP News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1FDWlZxem5yejRWekJjdmdOVW4tU2RQYWpQX2FDWmlHZ3lBOVlYNjdEb01mcUFvM2FhaV9fMG5kUno1VzRjY0F6WkhKbmgxTzUwZXdabXprUjdGbTBuVE5jR2s4QVJqdkt6cS1QTVcwMW82d29FYjBvMFoxdjVrdkxwS0wyY0toNWNYaUpqUkJ6ZkM0bFZHdDk4RU1qWm9Ga0VUQ1J3WQ?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
       "published_at": "2026-09-09T20:59:00Z",
       "epoch": 1788987540,
-      "sentiment": -0.67,
-      "horizon": null,
-      "tickers": [
-        "LVS"
-      ]
+      "sentiment": 0.0,
+      "horizon": "swing",
+      "tickers": []
     },
     {
-      "title": "Apple, ServiceTitan, Meta, Micron, Casey’s, Jersey Mike’s, and More Stocks That Explain Today’s Market - Barron's",
-      "summary": "Apple, ServiceTitan, Meta, Micron, Casey’s, Jersey Mike’s, and More Stocks That Explain Today’s Market &nbsp;&nbsp; Barron's",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XeWdLd3UzbTZ1ZGF6SktCNkprZlU1SG4zdFdFdmQ3MkZTMVh4X2hIY3lka1lLbmFXQUI2dWJPaThqVWlQQTAyTG9XZ251dzE5VkZzNUZrNXdKUktkSHFuMlBNSjQ?oc=5",
+      "title": "HMH Holding Inc. Rings the Nasdaq Stock Market Closing Bell - nasdaq.com",
+      "summary": "HMH Holding Inc. Rings the Nasdaq Stock Market Closing Bell &nbsp;&nbsp; nasdaq.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkw4Y3RnVmM4R2Y5RWNGa3F4MDhIZ2sxOWVqdERMSmZhSXVuV2lrbWhFaGJYdWxfamJVWEJUVWxZTlRJWVFaaWp3SlJTczZ1SFV1dWhxQjdTM3E3N3NqUWZWc1N2Z1g2NV9tUk1pNkQ5ZnJiRWlGNW9yRXNTRUVEck9JdjVSdEhCUHNJVg?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-09-09T20:52:11Z",
-      "epoch": 1788987131,
+      "published_at": "2026-09-09T20:57:54Z",
+      "epoch": 1788987474,
       "sentiment": 0.0,
-      "horizon": "swing",
-      "tickers": [
-        "AAPL",
-        "META"
-      ]
+      "horizon": null,
+      "tickers": []
     },
     {
       "title": "Exclusive | Texas Stock Exchange Is Close to Winning Its First Major Listing From New York - WSJ",
@@ -1423,18 +1584,34 @@
       "tickers": []
     },
     {
-      "title": "AMD, IBD Stock Of The Day, Runs Past Early Buy Point As Chipmaker Returns To Favor - Investor's Business Daily",
-      "summary": "AMD, IBD Stock Of The Day, Runs Past Early Buy Point As Chipmaker Returns To Favor &nbsp;&nbsp; Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUHF0cS1vZEU5V2s5YzJhcG0zSTNMTEZrRmVzVmNRdGdNNnVmZ0hSYUM1SDhwejJ6M2prLXdCN1k5QnpLdkJXR2NBTjJvODYtX0lIdEFkc0ZIOXZFOFRUanlpTjB1RDR6dE9KU0pJcnNrSi1GZmo4MFp6b2xYVUFFQ203ekJjejd0aEh0QzVhblg5bU0?oc=5",
+      "title": "Apple, ServiceTitan, Meta, Micron, Casey’s, Jersey Mike’s, and More Stocks That Explain Today’s Market - Barron's",
+      "summary": "Apple, ServiceTitan, Meta, Micron, Casey’s, Jersey Mike’s, and More Stocks That Explain Today’s Market &nbsp;&nbsp; Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XeWdLd3UzbTZ1ZGF6SktCNkprZlU1SG4zdFdFdmQ3MkZTMVh4X2hIY3lka1lLbmFXQUI2dWJPaThqVWlQQTAyTG9XZ251dzE5VkZzNUZrNXdKUktkSHFuMlBNSjQ?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-09-09T20:49:00Z",
-      "epoch": 1788986940,
+      "published_at": "2026-09-09T20:42:00Z",
+      "epoch": 1788986520,
       "sentiment": 0.0,
+      "horizon": "swing",
+      "tickers": [
+        "AAPL",
+        "META"
+      ]
+    },
+    {
+      "title": "Small Caps Hit, Indexes Drop As Oil, Yields Rise: META, QLYS, KNSA In Focus - Video - Investor's Business Daily",
+      "summary": "Small Caps Hit, Indexes Drop As Oil, Yields Rise: META, QLYS, KNSA In Focus - Video &nbsp;&nbsp; Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QMTlBbmZja0d0a2lrSURwaGNRY0MwOTh5NE1EaGZPVlFOQW5ZNTRWdzUyQ3RHNS1wM2Y0YlVFX3dJZTNaRUZyNF91ODk?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-09T20:41:00Z",
+      "epoch": 1788986460,
+      "sentiment": -0.67,
       "horizon": null,
       "tickers": [
-        "AMD"
+        "META"
       ]
     },
     {
@@ -1453,36 +1630,6 @@
       ]
     },
     {
-      "title": "Airbnb Inc. Cl A stock falls Wednesday, underperforms market - MarketWatch",
-      "summary": "Airbnb Inc. Cl A stock falls Wednesday, underperforms market &nbsp;&nbsp; MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdWV3Wlo2ZDFrVWNFSmRCLWpiNjN4TkFqWVJ4dzdIN1dIc2pIVmxhaGdYRXhqVjVBT1dQRngzelRBSHZYZEFVNnZaWjRUa3BFd1lPNVZhd1NHYW1nU285bHlyMHpIXzZKNjMxUV9ORXV1TXZtemtaZDZFdE1oSkxyeFdrWHktNlFFVXNXNVNyeG9zZ096a2VCWExtTllPaWY2MXNIQUhnNUtIN2k3ZWZ5S2lYeDFJRzZ5Wmc?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T20:39:00Z",
-      "epoch": 1788986340,
-      "sentiment": -0.67,
-      "horizon": null,
-      "tickers": [
-        "ABNB"
-      ]
-    },
-    {
-      "title": "Constellation Energy Corp. stock falls Wednesday, underperforms market - MarketWatch",
-      "summary": "Constellation Energy Corp. stock falls Wednesday, underperforms market &nbsp;&nbsp; MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdVpkQTJ4MU1xQVhEZDM1bkVzM2ZzMllEOWdBTHNMODNvWlRiS1VXR2Njd1dhOExKTElyRzNVRzU0UXhIdVcwTXFGbzVyekl4eHNjS3hLNkpzN01yd1g3M1FnR2NKa0gwU0E5bGxTdTZJd3FqZk5vcUc0TmNyaXFFbzR2b3d0b3JWYnNULUcyaHJTTlEzSjlXcUlLa191dXd3bzl0blh6dlBzaEdVdUZkOHdSSlA0Um5qQUJKMHFoZnVWTlJFZ0dvVlU0YkFKdkZQOFlBbDdYSUtwNDlJdzRj?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T20:38:00Z",
-      "epoch": 1788986280,
-      "sentiment": -0.67,
-      "horizon": null,
-      "tickers": [
-        "CEG"
-      ]
-    },
-    {
       "title": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
       "summary": "A prolonged oil shock could keep consumer prices elevated and complicate the path for central banks already navigating a difficult policy environment.",
       "url": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
@@ -1496,14 +1643,14 @@
       "tickers": []
     },
     {
-      "title": "You should always have energy stocks in your 401(k). Yes, even when oil is at $100.",
-      "summary": "Energy and resource stocks have zigged while the market has zagged.",
-      "url": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "source_id": "marketwatch-topstories",
-      "continent": "na",
-      "published_at": "2026-09-09T20:27:00Z",
-      "epoch": 1788985620,
+      "title": "10 Best Online Brokerages For 2026 - forbes.com",
+      "summary": "10 Best Online Brokerages For 2026 &nbsp;&nbsp; forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VQXRNQXZPbllYWFhtLTR6ZWZMNWZKUkJkYVVJUV94bHQ4ei11eXZVZ2hOYi00cWN4RlRTMGpZbXlQZEZyRlYyNXRzMHVlRHR5ZWFLYmp4QjhnaUthYXZIREhMU2o5VVFTYldvTHFR?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-09T20:21:00Z",
+      "epoch": 1788985260,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -1522,21 +1669,8 @@
       "tickers": []
     },
     {
-      "title": "Canadian whisky on the rocks? Crown Royal is set to avoid Trump’s new ban.",
-      "summary": "Canada’s top liquor brand looks on track for a reprieve because it’s bottled in the U.S. for American customers.",
-      "url": "https://www.marketwatch.com/story/canadian-whisky-on-the-rocks-crown-royal-is-set-to-avoid-trumps-new-ban-2953bea3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "source_id": "marketwatch-topstories",
-      "continent": "na",
-      "published_at": "2026-09-09T19:40:00Z",
-      "epoch": 1788982800,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Midterm mindset seeping into the U.S. stock market - rbcwealthmanagement.com",
-      "summary": "Midterm mindset seeping into the U.S. stock market &nbsp;&nbsp; rbcwealthmanagement.com",
+      "title": "Midterm mindset seeping into the U.S. stock market - RBC Wealth Management",
+      "summary": "Midterm mindset seeping into the U.S. stock market &nbsp;&nbsp; RBC Wealth Management",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX0h1WkxZMnE4bGNQLWkyUHJEMmFCdVNwM2liRVo3RTBsR3ZpdFFhS21xMktPVXpreTdEVWJNQkV6SGdMYzVPQjlyeVNoN1dibkwwN0lELUtnOHRfTW44aEpwNE14Smlhc2hrNC1JT21CX2g4OVMzeTVDblFBVUhKYWs1S1JYRUFVV2R5OE1hX0JaTHZ3Tng0WFdRUW8xemhO?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
@@ -1580,26 +1714,11 @@
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-09-09T19:10:40Z",
-      "epoch": 1788981040,
+      "published_at": "2026-09-09T18:35:00Z",
+      "epoch": 1788978900,
       "sentiment": 1.0,
       "horizon": null,
       "tickers": []
-    },
-    {
-      "title": "Jim Cramer Discusses UnitedHealth’s (UNH) Profitable Growth, and Market Positioning - Yahoo Finance",
-      "summary": "Jim Cramer Discusses UnitedHealth’s (UNH) Profitable Growth, and Market Positioning &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLTRoUkhhQ1duS0R5NXViTFkwZmtrWWotU1FIenNJZUlYUi1DXy1TblhIamM5SENYMFVhTHRnNzdHQ2dXMG5iem5TYVVrUzFDVWl1MXhrQzltelgxb3c2SkhuelBzdUUweE9XWklnWWJUekxYNWpGbnV5WkhIRmpZZzdIMlBMTi1aNTN0ZjdnTGdudTZwd1dMMjJ3T0dBYmNMbkoweA?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T19:06:13Z",
-      "epoch": 1788980773,
-      "sentiment": 1.0,
-      "horizon": null,
-      "tickers": [
-        "UNH"
-      ]
     },
     {
       "title": "Bond sell-off, stock boom: Why rebalancing is a good strategy right now - CNBC",
@@ -1615,14 +1734,14 @@
       "tickers": []
     },
     {
-      "title": "Investors: Sept. 16 Will Be a Critical Day for the Stock Market. Here's What You Need to Know. - The Motley Fool",
-      "summary": "Investors: Sept. 16 Will Be a Critical Day for the Stock Market. Here's What You Need to Know. &nbsp;&nbsp; The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbXNYMTlJZ29tT3hkMDI5X3lWVjZ3a000eGpVd2taS0JIQ01sMlFYOUs0a0xGWkVBa1BVeXJRd1pBRmJsME5WelBuTDFqb2tscko5RjZQTWZFT0h2ejk2RXNWWXZwQ1Q3bklueHFDU0k5TEhhZ0IwNHFVcUhITTRYRk5uVmZqelZMUFI2N3puOA?oc=5",
+      "title": "6 Best Space Stocks for 2026 and How to Invest - The Motley Fool",
+      "summary": "6 Best Space Stocks for 2026 and How to Invest &nbsp;&nbsp; The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaExpQmdOT0MxNDR6MVBSb2dKLURRTXdaQ3UwRFVpY3J2WTVHT2c2a2lVeWxEbmFhMVBVN2FyNlJOVk9rLVNTa3p6V1NhSnRWUGxHeU9kVWMzRmRnNHJUXzRxeVNVZUtTQXNocU5jc2VrenMtdTFRQkF4YUVxUXpOM0ltLWVFRE1NR2tMOA?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-09-09T18:03:00Z",
-      "epoch": 1788976980,
+      "published_at": "2026-09-09T18:10:00Z",
+      "epoch": 1788977400,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -1641,19 +1760,6 @@
       "tickers": []
     },
     {
-      "title": "AI Boom Could Worsen Stock Sell-Off, Analysts Warn. These Are The Risks They See. - Investor's Business Daily",
-      "summary": "AI Boom Could Worsen Stock Sell-Off, Analysts Warn. These Are The Risks They See. &nbsp;&nbsp; Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcWJPdEpSN2FUNl84dDZMdHN4RzFUZmsyUGk3aUNIQThRMS1VeF9VTjBwWUtwZzdqclhRazJnaXJLcFpLYmxscjE5X0RldUtsakJQSGNFTUtjaDgzRVhCcHphZ2RMd2JiejBocFhLTTVXeHVyMDRjR3NNa0dDN1R1Y1ViWWhydlljbkdB?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T17:59:00Z",
-      "epoch": 1788976740,
-      "sentiment": -1.0,
-      "horizon": "swing",
-      "tickers": []
-    },
-    {
       "title": "Stock Market Midday, Sept. 9: Stocks Slide as Oil Surges Past $100, While Meta Gains - The Motley Fool",
       "summary": "Stock Market Midday, Sept. 9: Stocks Slide as Oil Surges Past $100, While Meta Gains &nbsp;&nbsp; The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSnZIT09hd3liaHVmOFpISG1wMFJkaUZ3WTV3TERNN2xqNXJkbEl0OFFQbDlVQnlwQzlTaWg2RVBseHpPWnNseURzZWstTkZjcVlvYnNlUl9LX2RKdVRvN1JUQTNBWDhROVlnR0hhVlYtX2FLZXRHOU52dFZ6NFhDaDZUYklkOUVnaHJZb3JPdm1tZC0tQ3JiTzhoTHJNdXUzYkREckJHVjRhbTVpMXdocUpvRUdGTk1KUW5yX1FLSTV1bGEtUlBScUtxTFY1SWZoMGR5ZEFMWnRDMzQ?oc=5",
@@ -1669,8 +1775,21 @@
       ]
     },
     {
-      "title": "Investors: Sept. 16 Will Be a Critical Day for the Stock Market. Here's What You Need to Know. - currently.att.yahoo.com",
-      "summary": "Investors: Sept. 16 Will Be a Critical Day for the Stock Market. Here's What You Need to Know. &nbsp;&nbsp; currently.att.yahoo.com",
+      "title": "Banks And Financial Stocks: Latest News And Analysis - Investor's Business Daily",
+      "summary": "Banks And Financial Stocks: Latest News And Analysis &nbsp;&nbsp; Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS3Zid3lDUlRoeXNZWWU5cTBlUUtRTG1UbjBLWENDWGo0SC00cHB4NzVKZnhnd2lUYVBSWUdoZy11VFFfVXZrcmNIM3IzUm1nWm5sMTRUMmhXOUhobjJIZEFsX2dYeVN4ckZQNF9faUdmcnk4X2QzRGtxN2huaFhJS1pZbDlrWjM3MERBOXFkeElCdDV1WDZibFY4d2t0ZUJnbVNUTjg3OFZLTnlCcDJPa2JXOHQ?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-09T17:26:00Z",
+      "epoch": 1788974760,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Investors: Sept. 16 Will Be a Critical Day for the Stock Market. Here's What You Need to Know. - Currently.com",
+      "summary": "Investors: Sept. 16 Will Be a Critical Day for the Stock Market. Here's What You Need to Know. &nbsp;&nbsp; Currently.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRDdISHpQOXRiZUp0UGZ2aURKNVliOGxTcnQxSXJjLUlPSDVBbHk0QXBMM3ZkRnZYdTV6WWZBdVdyZWMzcDBpQ1B6S0czZDR1UkZmUjA3LXNnVHFhbDhFZHAwQnNpRkpwY0xKd1JPWnE1amc3TUlsWnVWcFRKQnR0b1hRTWJldzRj?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
@@ -1695,19 +1814,6 @@
       "tickers": []
     },
     {
-      "title": "Treasury Dept. Announces $6B Buyback; 10-Year Yield Surges Amid Market Uncertainty - Investopedia",
-      "summary": "Treasury Dept. Announces $6B Buyback; 10-Year Yield Surges Amid Market Uncertainty &nbsp;&nbsp; Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdnZ2dTNHR3pyaWZveTRidzA3dFFYeFJydjlBU0c1b1RtZFdfWGJZY25GYW90X3hrRjdIVk5zQ3pURHVOUFptTTJybEsyOXFpa3BQaU5abjduUC1JbldNOWhJRzRwbTFQNXhXRXZ0VU9wSE5nSldfMXBXZ1dTQ3MwZGw2alpQWFI3SU1JRkREd3l3allPcGc3cXNnREY0YUJ6WG5nMXF6VXFkaHFPV00zUTQySVlvTGJyUVBuREhvQ2swMTBBQkJV?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T17:21:45Z",
-      "epoch": 1788974505,
-      "sentiment": 1.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
       "title": "European shares slide to over-one-month lows as Brent breaches $100 - Reuters",
       "summary": "European shares slide to over-one-month lows as Brent breaches $100 &nbsp;&nbsp; Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeU9WdEZyZHAzMzJtN3dvNXVDdGtYUU1mWnVtUzVORGwwXzZLOWpnY1VGemtDWHN3VlF4bG53UTBWc1lSY0FVSUZ1dU56cG56Zm5BazVrSjl0ZmlLSllUbm12eGEwZWZLTmNCSHJEaW1Ed2xQTEFtRXF1cTNqQ19FblNqeWsyeDhETzBBNTA3Umh4VExFMW52WXBoc2RtYnNvNks2bFFqMlJkRkNQX1VXNnpFM0JBNHc1UG1EUFRB?oc=5",
@@ -1717,6 +1823,19 @@
       "published_at": "2026-09-09T17:00:40Z",
       "epoch": 1788973240,
       "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "US Stock Market Moves | SuperX AI Technology (SUPX.US) fell more than 2% at one point, following the launch of a $20 million share repurchase program - Moomoo",
+      "summary": "US Stock Market Moves | SuperX AI Technology (SUPX.US) fell more than 2% at one point, following the launch of a $20 million share repurchase program &nbsp;&nbsp; Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUYzN3VjX2lhTzRwYTQzcDY3X01naGRwMVRTai1PUE1jeG82aHdqel9XSkdmMDB6THQ2TUZOcEJEMDVEQU03VHMzZGxveURVMjJDWS1YdFhvUm9PY05lVnlzMjdNTGVxRGpDRklxUjdoM1l6MTBkREpEM0RMNk9CRFJkeFYxWjFkYWk4MUJJcUYwdW9sYWtsZXlWMkhuSnpVSDVj?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-09T16:56:30Z",
+      "epoch": 1788972990,
+      "sentiment": 0.67,
       "horizon": null,
       "tickers": []
     },
@@ -1747,16 +1866,16 @@
       "tickers": []
     },
     {
-      "title": "UK stocks drop to over one-month low as oil prices fuel inflation worries - Reuters",
-      "summary": "UK stocks drop to over one-month low as oil prices fuel inflation worries &nbsp;&nbsp; Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV1NxUm8tcFYzMExhTUdHdFdsbG1WemhPODZENVc3VWtiQjdoMEdJZFhvVzlDaVVMT054Q3JUdVJ1UTRzcDJiOHlvT3N5R1ZLbEdmZDJkY0szbFcxZFNURHd2c1pSZjFqdDVhc3hkd0pTeGFyTkdnWU51by10UEowWGpPMWh2ZW5oSjFDRlpwVWFjQzBuYjJudXN1Q1FRUQ?oc=5",
+      "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
+      "summary": "Stock Market Today: Stock Market News And Analysis &nbsp;&nbsp; Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-09-09T16:12:50Z",
-      "epoch": 1788970370,
-      "sentiment": -0.67,
-      "horizon": null,
+      "published_at": "2026-09-09T15:45:00Z",
+      "epoch": 1788968700,
+      "sentiment": 0.0,
+      "horizon": "swing",
       "tickers": []
     },
     {
@@ -1773,6 +1892,34 @@
       "tickers": []
     },
     {
+      "title": "Stock Market Today: Oil Hits $100 for First Time Since July as Middle East Conflict Pressures Dow and Nasdaq - Eurasia Business News",
+      "summary": "Stock Market Today: Oil Hits $100 for First Time Since July as Middle East Conflict Pressures Dow and Nasdaq &nbsp;&nbsp; Eurasia Business News",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcUV5RThENzBjZTV5MnM2UGk3cGN1MHVRRHJGTUF0M0dMamV1ZWJPY1VBRFlHVHZ3d1hzYTZwUUlJV1BBN2JOOVRHVW5DYkZZZVNTRktyRURYakdNSTlYMjI3UjVfa1JPbDluLThWc3I0RXZyN2dvTmM1bWx2SmlrZC1UNDM4UUxJd2FmTDdibUNzY1JpOW95b3A3ei1DNWoySHpDdTZLeWRmS3BvMjdMRmlfdld1bTY0bmFQRlhMUDJObFNxYjctN1NrODRpdkhURHJzVUNlZnhDUFR4UV9iSFM5clQ?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-09T15:21:32Z",
+      "epoch": 1788967292,
+      "sentiment": 0.0,
+      "horizon": "swing",
+      "tickers": [
+        "DOW"
+      ]
+    },
+    {
+      "title": "How long should you wait between credit card applications?",
+      "summary": "",
+      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-long-should-you-wait-between-credit-card-applications-152057924.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-09T15:20:57Z",
+      "epoch": 1788967257,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
       "title": "4 Proven Ways To Grow Lasting Money in the Stock Market - Yahoo Finance",
       "summary": "4 Proven Ways To Grow Lasting Money in the Stock Market &nbsp;&nbsp; Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTVEyNUt1ZkEwMVBIRmhqajdyN0dkQTVNVmhDMGNUTGxaVUpZVDF6cGxjQ2tzb3dLeXBfZC1fdTN6OVBSMzR4ODdoem9pTmI5YkpIdzJEYTJpRU9BUFU3M3Y0aGxNYkR1Yklla29qN1VIcDBXelVaamtKWDBObnNJVmp5cUxyYmdEdmJRLXpVOS1mRGZTSEE?oc=5",
@@ -1781,6 +1928,47 @@
       "continent": "eu",
       "published_at": "2026-09-09T15:10:46Z",
       "epoch": 1788966646,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Do you need to be a millionaire to retire? Experts weigh in on the 15% rule.",
+      "summary": "",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/do-you-need-to-be-a-millionaire-to-retire-experts-weigh-in-on-the-15-rule-150323141.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-09T15:03:23Z",
+      "epoch": 1788966203,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Here's My Nvidia Stock Price Forecast for the End of September - The Motley Fool",
+      "summary": "Here's My Nvidia Stock Price Forecast for the End of September &nbsp;&nbsp; The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXo5REwxYVVLejdCbjdUN0lkS1YzR1JpQU05ME5iSFZXQVlBb05nZTZIa0xpbDYyLVI3azItQWVtbHpUaVZHeGd6c044d1htTHJxNnBJVjJleUVYVW9ScklzMzVEUjdBNkFETmhaNXVWcmtudnVVU21WdEdqSl9XN2Vxd0pKUWtTa21BRXRjcWw0cEZVNmYtNA?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-09T14:38:00Z",
+      "epoch": 1788964680,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "title": "What is the 'Lean FIRE' movement, and how can it help you reach financial independence?",
+      "summary": "",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/what-is-the-lean-fire-movement-143401919.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-09T14:34:01Z",
+      "epoch": 1788964441,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -1814,34 +2002,8 @@
       ]
     },
     {
-      "title": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates - Sun Sentinel",
-      "summary": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates &nbsp;&nbsp; Sun Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43b3RNQ3hTZkhZRlRVZ2tQZmpFYVk0Q3hCa0ZYSUlQWUFoZ0FlWkdJeUllTHhxR3FnTHNtdHlzTHJnTFd6dUs4U2FlYUV3YXRQVTB6NW5IQ2xOQzMwUmJLYUZUcEczaHVwM2x1bGNR?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T14:01:06Z",
-      "epoch": 1788962466,
-      "sentiment": 0.0,
-      "horizon": "swing",
-      "tickers": []
-    },
-    {
-      "title": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates - Santa Cruz Sentinel",
-      "summary": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates &nbsp;&nbsp; Santa Cruz Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pNWxEUlhNMDFaRUt4WEg2bW9QS1dadG1BaTVvMmgxQWxnaDVhUjN1QVBvMU0tV3JObkM3U3o0ZUVPZzZGTXNzRVNzaVdLbW4wZndaUm13QWtpb2N3UUN2MndLZWx4azBuekdmY0RuNDBlc0Fr?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T13:59:03Z",
-      "epoch": 1788962343,
-      "sentiment": 0.0,
-      "horizon": "swing",
-      "tickers": []
-    },
-    {
-      "title": "EXL Rings the Nasdaq Stock Market Opening Bell - Nasdaq",
-      "summary": "EXL Rings the Nasdaq Stock Market Opening Bell &nbsp;&nbsp; Nasdaq",
+      "title": "EXL Rings the Nasdaq Stock Market Opening Bell - nasdaq.com",
+      "summary": "EXL Rings the Nasdaq Stock Market Opening Bell &nbsp;&nbsp; nasdaq.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZbGhoMl9jOWFXTy00b3B1TTRBeGp1b0p5UnNMZmZOVmRsbkpqWmRkLXJkTlVyXy00c1A0ZmJUcEVrMHM3WHVxV2IxZ0pUQ3ltRDYwVDFCZnprRTZadzF0eVgtLWJyXzNocEx4eFBucTFOeDcyWXZVZVBiRnk?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
@@ -1866,19 +2028,6 @@
       "tickers": []
     },
     {
-      "title": "India’s $5.2 Trillion Stock Market Has a Message for Wall Street: The Catch-Up Has Begun - Substack",
-      "summary": "India’s $5.2 Trillion Stock Market Has a Message for Wall Street: The Catch-Up Has Begun &nbsp;&nbsp; Substack",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGRWOWlrYWF3Q2Z6djJvMDJNTGxBb3JBb0YwalVZd1Jjcy1JR2FIM0llQU5QWUFxVnBBLW1RZTRnWGozRDQwOWdwV3RsN1U2aDVGY19YaFBtVHZlSkVuNDNkR1FzcHNxekktU1RxR1RFZFREdndXdllwbkNqVkZIV2JoRmk?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T13:06:32Z",
-      "epoch": 1788959192,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
       "title": "If a Stock Market Crash Is Coming, History Says This Is the Smartest Move to Make - Yahoo Finance",
       "summary": "If a Stock Market Crash Is Coming, History Says This Is the Smartest Move to Make &nbsp;&nbsp; Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOODJCcHFNM1pjZ05QaUNidjlaQlJNdlJ0ekJqR29EV2ZTSGFKZzRJTE5QbGEyWllRQ0FiX281U0xMVGdKYTlwS0tSX1FiTjZYOFd6bXpoRldycXRpaUhqakdZNXhxYnlqWUh5RXdoS0FiczdVMzVaN0VzVU4tUTh2U2RrOXhOa3ZLdk9ReVJ2M3hRck94SWJtSV9Dd0RWeWs?oc=5",
@@ -1892,8 +2041,8 @@
       "tickers": []
     },
     {
-      "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall, Brent Jumps Over $100 Amid Middle East T - benzinga.com",
-      "summary": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall, Brent Jumps Over $100 Amid Middle East T &nbsp;&nbsp; benzinga.com",
+      "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall, Brent Jumps Over $100 Amid Middle East T - Benzinga",
+      "summary": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall, Brent Jumps Over $100 Amid Middle East T &nbsp;&nbsp; Benzinga",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMXNBc2FSZzRnalJlbUpLWWx1WWQ5TUpBbHVZVzRmWlh2WmZPTHFkd3NtV0h6LVd2eGZSc3dhZmhiZlhWcGdkZl9lUlZPQi1BS2VtRXFUT1VTei05by1jWWt1TTB1VUhrQ1lPSHhpZEZ0dy14RHI5dFZMVEY5WkZvbVJjMUt6cVRqQVl4cmplTTBwZnRjVlcwZVdNMnBvZTlRUmJRTlp3cEI5SEUwT21sUDdOLXRib2hwVGVtUU96Yjdrb1l5NDN4aVBMUUlLeGlLWEdUU0piY2ZjbmhIcEdjR2g2cTEtRnhjQWFQMGVDOEk2eTVHQUZRSDF6Z3cwWEtwYUZhaFhHMA?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
@@ -1905,19 +2054,6 @@
       "tickers": [
         "DOW"
       ]
-    },
-    {
-      "title": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates - denverpost.com",
-      "summary": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates &nbsp;&nbsp; denverpost.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXWDJ0ZDRHVWhtQVQ0dVFQRGFuSWo1MmFoQXFsZW9wc205bkd6SWY5bDhDbDJRMW9kODc5cmEyVThIbFNkRnZKblJIdVloR1dZMVZNMXVsZTdRcUttbW00Vk9nUHg3MVNObWZr?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T13:02:15Z",
-      "epoch": 1788958935,
-      "sentiment": 0.0,
-      "horizon": "swing",
-      "tickers": []
     },
     {
       "title": "Oil Tops $100 Per Barrel, Mortgage Rates Hit 14-Month High: 8 Key Items Shaping the Stock Market Wednesday - TheStreet Pro",
@@ -1961,31 +2097,16 @@
       ]
     },
     {
-      "title": "Stock index futures fall the day after Wall Street closes lower (SPX:) - Seeking Alpha",
-      "summary": "Stock index futures fall the day after Wall Street closes lower (SPX:) &nbsp;&nbsp; Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb1hjbGdpNmx2NWNGM3JvdGRuUkRfUGl1YkRSazRlWVZ0aGVyUE9fQWJSQ3I2bVVsSFotNUt1cWEtRXdwMlJNSy0zU210alh5UHE4NEV3SlVlZ21oWm9BaXNDSmdVLWctdXhuMFRmQ241QTU4dHZKM0F4YzZmdGg0dS0wRTJlSmht?oc=5",
+      "title": "135% rally in one year | Healthcare stock shows resilience against stock market sell-off - close to record high - tradingview.com",
+      "summary": "135% rally in one year | Healthcare stock shows resilience against stock market sell-off - close to record high &nbsp;&nbsp; tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVy14X0pKMUNLVTVveFlWanhhcUhVOUFNSlR3U3hGeTRXcGdYOG8ySzRVa2RUcWFxdVpPajVfR2MxSk5NS3MyMlN5RlJMSjVhbnZ3LXBpTHFLMUx4WDF0LTA3Y0NlT0JGQjVyX2dLRGxLWUNRbGtyZGFYcThON1dqckxqa1ZLN3BFTkszbFhXdWsyN3FVcG8yYmt4dWkwTlk3Vm0xRG54QS14SHQtX0hJVlBBYnlIYlo2NE1aOEhTS0xWTmpSc1E0dWZWXzE3RFdJZmZETmc2ZWhqTlBESml5RUY4S29wMFR1RVRrMXd3dk5IUkxGTWc?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-09-09T12:33:00Z",
-      "epoch": 1788957180,
-      "sentiment": -0.67,
-      "horizon": null,
-      "tickers": [
-        "SPX.L"
-      ]
-    },
-    {
-      "title": "Prediction: This Stock Could Turn $10,000 Into $20,000 by 2030 - Yahoo Finance",
-      "summary": "Prediction: This Stock Could Turn $10,000 Into $20,000 by 2030 &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWXRTaG5saTBrV09jeUxwQ1JLdjlqNzF6RGhNaE9mODUtNGtQaUdiTVJIUUZBc2o2TExwbEt2TlN6d3BVQWRlcDEwNW8xQnAydG1hRjJLRElpOHNkNHpXOHlGQlRZcjBtSzNaUW9uV3R3bVh2OElkWVF2ZXcyams3U2NoYmhqZzdWa0ZRd3dkVzB1NGgtQzlSekZPdw?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T12:30:33Z",
-      "epoch": 1788957033,
-      "sentiment": 0.0,
-      "horizon": null,
+      "published_at": "2026-09-09T12:21:16Z",
+      "epoch": 1788956476,
+      "sentiment": 1.0,
+      "horizon": "swing",
       "tickers": []
     },
     {
@@ -2018,55 +2139,42 @@
       "tickers": []
     },
     {
-      "title": "Analysis-Fearless US stock market vulnerable to shocks as midterms loom By Reuters - Investing.com",
-      "summary": "Analysis-Fearless US stock market vulnerable to shocks as midterms loom By Reuters &nbsp;&nbsp; Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOS1oODRnMmNlTzFBcURqRTRGUGhMWFljb0lVMnk1bGFHd2tjWURfRXFPR0s4akozZ0wyWVB5bzhBZmRlN3QwRE1HZ0Qwa0xodGhCdmg3aE13cEZpamVCVXE4a3kwZE5qV3VGR2M2S2tNRTNlTERsY3JkQ3lmVDZOMlhMSVhMOEdmOGVfdFVSVHdRb2RGbS0ycjhYRVBvTm52ZzQzUFZaNmhyTFZvVWFFeFB1VHVGUEdSa2ZDWDdFa3VqTDBHOXc?oc=5",
+      "title": "Tom Lee Predicts 2027 Will Be One Of Stock Market's ‘Best Years’ As SpaceX, Fed Risks Fade - Stocktwits",
+      "summary": "Tom Lee Predicts 2027 Will Be One Of Stock Market's ‘Best Years’ As SpaceX, Fed Risks Fade &nbsp;&nbsp; Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZFRDQ3RGdndieHp4YnNfX3ZuSm0yLWNreEl4emJmdk9yX3cxYVIwRG1fak02aGFMLXloUmtBNEN6anVZZ2tCMFlYaHI4bHBGeGoyR3U4ak5uYS1vLVRkcWpfOVI0WkdoVVNJWUMwSXhhVFdLeWM2T1Utc0drQjI3ZkNlQzJpdHltcjdsNHVhb181MkhxVThlU0RRaFI3QXBZck5YSHphU2M5N211NUtTelQ3Qnk3QUxaVW13T2Rn?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-09-09T11:15:00Z",
-      "epoch": 1788952500,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Stock Market News for Sep 9, 2026 - Zacks Investment Research",
-      "summary": "Stock Market News for Sep 9, 2026 &nbsp;&nbsp; Zacks Investment Research",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85Q3FBekdKUWxTU3F1a2w4aG9RTTZWWDdxcTBTYU5oT1cxMFYwUHJBdE1uS0ZLMDc0di1EakFLclFBS3d2MU5wQTlnSEZRNnJxOWlITVJtVXZZQXl2MjZTaWJkMXh3anZvc1VOQkhSNUVzVWYtSDBaWUdBak13dw?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T11:01:32Z",
-      "epoch": 1788951692,
-      "sentiment": 0.0,
+      "published_at": "2026-09-09T11:44:16Z",
+      "epoch": 1788954256,
+      "sentiment": -0.67,
       "horizon": "long_term",
       "tickers": []
     },
     {
-      "title": "Analysis-Fearless US stock market vulnerable to shocks as midterms loom - The Lufkin Daily News",
-      "summary": "Analysis-Fearless US stock market vulnerable to shocks as midterms loom &nbsp;&nbsp; The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQazFDWkNPX200UzMxWE9Fbi1XdFV0LXZUOG5OVDdIeHFTTS1PNWI5ZjhtaVQwZnQ4dVdLb0taQlU5TWREc2kzc0RvNk82MnVRVlRJSWVCSmtEYXl3bDRyLXVFa2NoRUlvcnZkZkNFMFgtekJNUWFxTExaZVBrMmRKNlB4ajBCUFpuaTJoemlxY29qZ012V1M5UkpLUDFIeVRQN0gySzlTNFEyREVaVEFDTXNVOHRtV2M5VEFsZDktNS0wQ1ZlMi1mYzR4SXFBQ1h1Zkw5V1FCM0F0dm9FMVB5bUE4UEszOTlDWDZoNnFSNFdRVy1YMnVpemRfOGpuYk1z?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T11:01:29Z",
-      "epoch": 1788951689,
+      "title": "Bitcoin and ethereum prices today, Wednesday, September 9, 2026: Ongoing escalations in the Middle East are keeping a lid on crypto",
+      "summary": "",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-9-2026-ongoing-escalations-in-the-middle-east-are-keeping-a-lid-on-crypto-112541573.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-09T11:25:41Z",
+      "epoch": 1788953141,
       "sentiment": 0.0,
-      "horizon": null,
+      "horizon": "swing",
       "tickers": []
     },
     {
-      "title": "Where to Invest $10,000: South Korea, Luxury Goods and Water - Bloomberg.com",
-      "summary": "Where to Invest $10,000: South Korea, Luxury Goods and Water &nbsp;&nbsp; Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DQjdaeTExZF9oeVhiR3dNbVFzNGNUbVlIaHo2N0tyTEFZdVZmR191QnpaTHlpZklUWDlzVzF4YnFBR0FTb1RSV0xSMmliY25ueDlLS2ZPNlJTcjVZNkxBVVhQeXdMSnV6YWF2VHJn?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T11:00:00Z",
-      "epoch": 1788951600,
+      "title": "Silver price today, Wednesday, September 9, 2026:  Silver prices hold in the $66 range as U.S.-Iranian attacks continue",
+      "summary": "",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-september-9-2026-silver-prices-hold-in-the-66-range-as-us-iranian-attacks-continue-105942902.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-09T10:59:42Z",
+      "epoch": 1788951582,
       "sentiment": 0.0,
-      "horizon": null,
+      "horizon": "swing",
       "tickers": []
     },
     {
@@ -2083,14 +2191,40 @@
       "tickers": []
     },
     {
-      "title": "Trump's oil investments have gained millions during Iran war as his accounts keep trading - CNBC",
-      "summary": "Trump's oil investments have gained millions during Iran war as his accounts keep trading &nbsp;&nbsp; CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvY3VjaVVsTWJ5Y1VQRGtFRndkSUp5QkZBX3VWcHJkMS1JZmhyLU1Ob2w0ZTRQWllXc1ZfcGZobmoydEk4cE8zVHhkQWF5eHdYa1I2OVl3c2ZfUmVOMmlqV0g5WXFPdnE5RjJEb3dVN294ZkVLSWRz0gF8QVVfeXFMTm9lR3RuTDlFaTlhYUtoeUx1cG9Md29aUTFfOHVwTjNHektGMl9NQVVIVHZJQnhzVEdIeE92RVcyWl9yMDU0WXpFYmpjZU1mSTRHZmtmY3p0SWFEN0ttSXRlVmtKc01uVXoyUGxkdFV1VnFmOWgteGZlVEs1bw?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T10:30:01Z",
-      "epoch": 1788949801,
+      "title": "Gold price today, Wednesday, September 9, 2026: Gold prices drop following U.S. strikes on five Iranian oil tankers",
+      "summary": "",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-iranian-oil-tankers-104123795.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-09T10:41:23Z",
+      "epoch": 1788950483,
+      "sentiment": -0.33,
+      "horizon": "swing",
+      "tickers": []
+    },
+    {
+      "title": "Best CD rates today, Wednesday, September 9, 2026: Earn up to 4.35% APY with Marcus",
+      "summary": "",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-september-9-2026-earn-up-to-435-apy-with-marcus-100000741.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-09T10:00:00Z",
+      "epoch": 1788948000,
+      "sentiment": 0.0,
+      "horizon": "swing",
+      "tickers": []
+    },
+    {
+      "title": "Mortgage & refinance rates today, Wednesday, September 9, 2026: Fixed rates inch upward, 5/1 ARM breaks past 7% as oil prices rise",
+      "summary": "",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage--refinance-rates-today-wednesday-september-9-2026-fixed-rates-inch-upward-51-arm-breaks-past-7-as-oil-prices-rise-100000700.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-09T10:00:00Z",
+      "epoch": 1788948000,
       "sentiment": 0.0,
       "horizon": "swing",
       "tickers": []
@@ -2111,53 +2245,14 @@
       ]
     },
     {
-      "title": "The Surprising Stocks Beating the Market in 2026 - Morningstar",
-      "summary": "The Surprising Stocks Beating the Market in 2026 &nbsp;&nbsp; Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRMjVROTlOOG9WR0hGX09TRkRNZUcxbVFBNmluMXdFYmFta0djV3k0MmhmRk5zU3d3SjAtaHRMaldYZG84azJ1emhFMFFMUUNoMXliS1RZaGhVMzdhRTd4UGhRMGVWbThpZlIzUk5ONkRvZE5mNHl3dGR2TUQ?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T09:05:05Z",
-      "epoch": 1788944705,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "US Stock Market Today S&P 500 Futures Slip As Higher Rate Jitters Build - simplywall.st",
-      "summary": "US Stock Market Today S&P 500 Futures Slip As Higher Rate Jitters Build &nbsp;&nbsp; simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT091amRIUjNZR2F6ZnlFcU5xcFpxV3FnQk9LQ0FURFBUcHVNWTY1V21OYUxNX2pDcVVUdTVKRWhNOWxIYl9tTDJHb2MtS1hYQ0VSYnBvR1ZOYW9oSUdtdVI5LTlnMWJHZWx2TU5xMXBtcGk4ZC1EeVRPRllNMVdrYm00QVZfMFRCVnlWTzJTaEMtX2VKZ2FTSDAxMk9CUk5ISWR4VnEySWg2MnFrcjNVcmYxaUk1QWpyVUltc1BrdUM1emU3b3p4R2ZlVkR4UHYwOGtFTGdvQVFPc05ZcWRNaUNhUFXSAeoBQVVfeXFMTjNNaExQMnpxMFB6ckpHbnNCX0JadkU1eDZGTUdLM2I2MElhQTQ2cUlVU3VaY3k2LXBwTmtJeUJBeDFBTDk2S0ZFeGZaT1Q5VDVFQ2dKQzRiWFQtT2YteFhjZVlBSU5DcHU4bk5EUGZNNkJHaGpRbnNmQmZIZzA1dkNjekl0RFhEdTBxQ2pDamhEcTJFdW96MFJkekViZnBfZXFnOHltOWRwMWRHUFZyMW5lRGlDdTBReTV1c0VRMG1MMldDUFk2Y3VVRWZrel9fNXRXQXdreVkzNmVpOXNQRGRYQlFHaFN4QTdB?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T08:50:59Z",
-      "epoch": 1788943859,
-      "sentiment": 0.0,
-      "horizon": "swing",
-      "tickers": []
-    },
-    {
       "title": "Worried About a Stock Market Bubble? Here Are 5 Ways to Stay Invested - Morningstar",
       "summary": "Worried About a Stock Market Bubble? Here Are 5 Ways to Stay Invested &nbsp;&nbsp; Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWFR4elg0SU1MaHpnNUVfZ3lOcVhmSUpMeEpwbnB0bGpQVUdlR0lWcllhSXo5bldrUE1WMGxFUlFHSk9pUGNJMzVGSmRSUEtfNzNucXczMkZPbUdDc19OdjhLclA4VFRTd1NEREZvVW9TV01KZEdqSzN2S294OWp1UURIT3FmLVRKd0NOTEZyZDRjMGNYLTJ4YV91VkpUVmNuMWhzaEU1bDdKM1U?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUDJlQ0lxSUhkMUxsamNyc3RucHNYbXFVWFBob1pUb3pQTnBhTWdIZnNmUURfQjJ5WnhpREpMUzFHeHlQRjZOYnZQbW95SjlVb0dpVXpWWjFOaVl6c2d0dmxObk1ZVVhET092UEpQeGZnbkNpNHY5YWUzOWpIenZ5YXNLdUoyUUdBUzJSLUdzS2VOUTdLQUVHTU9pV0k2di1aOHhsRUVJTlBmNEE?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-09-09T08:32:33Z",
-      "epoch": 1788942753,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "symbol__ Stock Quote Price and Forecast - CNN",
-      "summary": "symbol__ Stock Quote Price and Forecast &nbsp;&nbsp; CNN",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiZ0ZWM3BMMlc4T1lZbWk1dDhfSW1iV0RYdk44VjRTSmNPT3NGSjVIdkhNWkVKOHFVTEh5N0h1cGdQVndDX1FmVHNudlMzVk0?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-09T08:29:12Z",
-      "epoch": 1788942552,
+      "published_at": "2026-09-09T06:12:26Z",
+      "epoch": 1788934346,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -2189,6 +2284,49 @@
       "tickers": []
     },
     {
+      "title": "Snowflake CEO: AI is unleashing a flywheel effect on our business",
+      "summary": "",
+      "url": "https://finance.yahoo.com/technology/article/snowflake-ceo-ai-is-unleashing-a-flywheel-effect-on-our-business-211940504.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T21:19:40Z",
+      "epoch": 1788902380,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Lands’ End New CEO Agenda, Customer Growth  – Quarterly Update Report",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lands-end-ceo-agenda-customer-205627532.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T20:56:27Z",
+      "epoch": 1788900987,
+      "sentiment": 0.33,
+      "horizon": "swing",
+      "tickers": []
+    },
+    {
+      "title": "Stock Market Today: Dow Dives, Qualcomm Clears Key Level On Amazon Deal; Fertilizer Leader Rises (Live Coverage)",
+      "summary": "",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-attacks-oil-prices-jump-brent-crude/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T20:51:53Z",
+      "epoch": 1788900713,
+      "sentiment": 0.33,
+      "horizon": "swing",
+      "tickers": [
+        "AMZN",
+        "DOW",
+        "QCOM"
+      ]
+    },
+    {
       "title": "Home insurance rates are up 47% nationwide. See the states where rates rose the most.",
       "summary": "",
       "url": "https://finance.yahoo.com/personal-finance/insurance/article/home-insurance-rates-are-up-47-nationwide-see-the-states-where-rates-rose-the-most-205039646.html",
@@ -2202,19 +2340,279 @@
       "tickers": []
     },
     {
-      "title": "AI Stocks Lead, Blue Chips Lag In Down Session: AMD, Magnite, TVTX In Focus - Video - Investor's Business Daily",
-      "summary": "AI Stocks Lead, Blue Chips Lag In Down Session: AMD, Magnite, TVTX In Focus - Video &nbsp;&nbsp; Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QMTlBbmZja0d0a2lrSURwaGNRY0MwOTh5NE1EaGZPVlFOQW5ZNTRWdzUyQ3RHNS1wM2Y0YlVFX3dJZTNaRUZyNF91ODk?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-08T20:47:00Z",
-      "epoch": 1788900420,
+      "title": "XRP Price Prediction: Bullish Flag Puts $2.10 in Focus",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-prediction-bullish-flag-203330290.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T20:33:30Z",
+      "epoch": 1788899610,
+      "sentiment": 0.33,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Stocks Settle Lower on Middle East Jitters",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-middle-east-203222129.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T20:32:22Z",
+      "epoch": 1788899542,
       "sentiment": 0.0,
-      "horizon": "swing",
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Meta Unleashes a New AI Weapon. Wall Street Sees Huge Upside for META Stock",
+      "summary": "",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-unleashes-ai-weapon-wall-202953629.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T20:29:53Z",
+      "epoch": 1788899393,
+      "sentiment": 0.33,
+      "horizon": null,
       "tickers": [
-        "AMD"
+        "META"
       ]
+    },
+    {
+      "title": "TSMC, IBD Stock Of The Day, Rises Above Early Buy Point As Chip Stocks Rally",
+      "summary": "",
+      "url": "https://www.investors.com/research/ibd-stock-of-the-day/tsm-stock-buy-point-chip-stocks/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T20:29:45Z",
+      "epoch": 1788899385,
+      "sentiment": 0.33,
+      "horizon": "swing",
+      "tickers": []
+    },
+    {
+      "title": "Uber Stock Falls As Wall Street Sizes Up Tesla's Cybercab Rollout",
+      "summary": "",
+      "url": "https://www.investors.com/news/technology/uber-stock-tesla-cybercab-austin-rollout/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T20:29:18Z",
+      "epoch": 1788899358,
+      "sentiment": -0.33,
+      "horizon": null,
+      "tickers": [
+        "TSLA",
+        "UBER"
+      ]
+    },
+    {
+      "title": "Thoma Bravo hires new Asia head",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/thoma-bravo-hires-asia-head-202333228.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T20:23:33Z",
+      "epoch": 1788899013,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Boston Scientific Slammed After Cyberattack Hamstrings Sales, Profit",
+      "summary": "",
+      "url": "https://www.investors.com/news/technology/boston-scientific-cybersecurity-attack-guidance/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T20:23:19Z",
+      "epoch": 1788898999,
+      "sentiment": 0.33,
+      "horizon": null,
+      "tickers": [
+        "BSX"
+      ]
+    },
+    {
+      "title": "Arm Extends AI Reach From Data Centers To Edge Devices",
+      "summary": "",
+      "url": "https://www.investors.com/news/technology/arm-stock-arm-extends-reach-to-physical-ai/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T20:17:49Z",
+      "epoch": 1788898669,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "GE Aerospace To Buy Key Industry Castings Supplier CPP For Nearly $12 Billion",
+      "summary": "",
+      "url": "https://www.investors.com/news/ge-aerospace-acquisition-precision-products-castings-capacity-deal-ge-stock/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T20:14:10Z",
+      "epoch": 1788898450,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": [
+        "GE"
+      ]
+    },
+    {
+      "title": "Robinhood Lands Crypto.com Deal, Underwriting Job For Oura. Goldman Hikes Target.",
+      "summary": "",
+      "url": "https://www.investors.com/news/robinhood-crypto-com-minority-stake-prediction-markets-oura-underwriter-reports-hood-stock-price-target/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T20:11:45Z",
+      "epoch": 1788898305,
+      "sentiment": 0.33,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "A 67-Year-Old Retiree Just Watched Coca-Cola Raise Its Dividend for the 64th Year in a Row. Here Is What That Payout Is Really Worth Today.",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/67-old-retiree-just-watched-200829846.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T20:08:29Z",
+      "epoch": 1788898109,
+      "sentiment": 0.33,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "T-Mobile makes a significant change to where customers get help",
+      "summary": "",
+      "url": "https://finance.yahoo.com/technology/articles/t-mobile-continues-significant-store-200700402.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T20:07:00Z",
+      "epoch": 1788898020,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Top Uber Executive Buys $5.3 Million in Stock After Job Cuts",
+      "summary": "",
+      "url": "https://www.barrons.com/articles/uber-executive-buys-stock-e6a18a88?siteid=yhoof2&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T20:03:00Z",
+      "epoch": 1788897780,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": [
+        "UBER"
+      ]
+    },
+    {
+      "title": "Oil Rise Deepens Inflation Fears, Sending Dow Down 1%",
+      "summary": "",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-090826/card/oil-rise-deepens-inflation-fears-sending-dow-down-1--pNKqxKdEJjTH5oBVsaGk?siteid=yhoof2&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T20:02:25Z",
+      "epoch": 1788897745,
+      "sentiment": -0.33,
+      "horizon": null,
+      "tickers": [
+        "DOW"
+      ]
+    },
+    {
+      "title": "Chevron Targets 600,000 BPD in Venezuela With $7B Low-Cost Growth Plan",
+      "summary": "",
+      "url": "https://finance.yahoo.com/energy/articles/chevron-targets-600-000-bpd-200205365.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T20:02:05Z",
+      "epoch": 1788897725,
+      "sentiment": 0.33,
+      "horizon": "long_term",
+      "tickers": [
+        "CVX"
+      ]
+    },
+    {
+      "title": "JEPQ Just Paid Its Biggest Distribution of 2026. JEPI’s Is Shrinking. Here’s What’s Driving the Gap",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/options/articles/jepq-just-paid-biggest-distribution-200044822.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T20:00:44Z",
+      "epoch": 1788897644,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Labor Day Gasoline Just Hit a Record. Here’s What Comes Next",
+      "summary": "",
+      "url": "https://finance.yahoo.com/energy/articles/labor-day-gasoline-just-hit-200000363.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T20:00:00Z",
+      "epoch": 1788897600,
+      "sentiment": 0.33,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "It’s Fourth Down. Will Stocks Go for the Win or a Tie?",
+      "summary": "",
+      "url": "https://www.barrons.com/articles/stocks-oil-midterm-elections-earnings-fed-rates-bond-yields-a9cd1d66?siteid=yhoof2&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T19:58:00Z",
+      "epoch": 1788897480,
+      "sentiment": 0.33,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Anthropic Walks Away From Decart as $6 Billion AI Deal Unravels",
+      "summary": "",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-walks-away-decart-6-195737557.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T19:57:37Z",
+      "epoch": 1788897457,
+      "sentiment": 0.33,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Treasury Yields Keep Rising Ahead of Buybacks, CPI",
+      "summary": "",
+      "url": "https://www.wsj.com/finance/jgb-futures-rise-as-yens-strength-seen-easing-inflationary-pressures-5eefc264?siteid=yhoof2&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T19:57:00Z",
+      "epoch": 1788897420,
+      "sentiment": 0.0,
+      "horizon": "long_term",
+      "tickers": []
     },
     {
       "title": "Capital One Venture welcome offer: 75,000 miles plus a $300 travel credit",
@@ -2245,62 +2643,6 @@
       "tickers": []
     },
     {
-      "title": "Micron and Sandisk Face a New China Threat -- 1 Has a Much Bigger Problem",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-face-china-threat-160007469.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T16:00:07Z",
-      "epoch": 1788883207,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": [
-        "SNDK"
-      ]
-    },
-    {
-      "title": "$1.5 million in your 401(k)? Here’s what your RMD taxes will look like — and the very best trick to lower them",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/options/articles/1-5-million-401-k-155500152.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:55:00Z",
-      "epoch": 1788882900,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": [
-        "RMD"
-      ]
-    },
-    {
-      "title": "SpaceX trades 11% above its $135 IPO price as analysts target $280 — but one investor warns valuation is 'beyond silly'",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-trades-11-above-135-155500699.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:55:00Z",
-      "epoch": 1788882900,
-      "sentiment": -0.33,
-      "horizon": "long_term",
-      "tickers": []
-    },
-    {
-      "title": "Strong Results Lifted Garrett Motion (GTX) in Q2",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-results-lifted-garrett-motion-154518555.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:45:18Z",
-      "epoch": 1788882318,
-      "sentiment": 0.33,
-      "horizon": null,
-      "tickers": []
-    },
-    {
       "title": "Track Current Stock Market Data On The S&P 500, Nasdaq, Dow Jones And SPDR ETFs - Investor's Business Daily",
       "summary": "Track Current Stock Market Data On The S&P 500, Nasdaq, Dow Jones And SPDR ETFs &nbsp;&nbsp; Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdXRWLWJlT2p2aXdxSFhhT29Ra2NrY0daZzFOQnlLSG40R08xX1NmYVRSbVpJNVBLS2pmVjdJUWFqeUVyTVBEcnliY2ZnR0hxRjdvdU9fbnJiLVlGQk82aEl0Q29oTEZGcE9QeUhKS1NIdWQ3THhHUTJta2RzSzlHMnZTYlRPMzdwQXNpS2h3cDM?oc=5",
@@ -2316,432 +2658,17 @@
       ]
     },
     {
-      "title": "Apple’s Foldable iPhone Could Wrestle With Supply Chain Issues. What That Means for AAPL Stock.",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-foldable-iphone-could-wrestle-154447390.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:44:47Z",
-      "epoch": 1788882287,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "title": "Evaluating Bullish Potential in Regeneron Pharmaceuticals (REGN) Stock",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/evaluating-bullish-potential-regeneron-pharmaceuticals-154140916.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:41:40Z",
-      "epoch": 1788882100,
-      "sentiment": 0.33,
-      "horizon": null,
-      "tickers": [
-        "REGN"
-      ]
-    },
-    {
-      "title": "The Kroger Co. (KR) Shares Weighed by Inflation Pressure and Slowing Sales",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kroger-co-kr-shares-weighed-153940365.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:39:40Z",
-      "epoch": 1788881980,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": [
-        "KR"
-      ]
-    },
-    {
-      "title": "Bank of America Is Bullish on SK hynix Stock as the Memory Chip Market Stays Tight",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-bullish-sk-hynix-153622945.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:36:22Z",
-      "epoch": 1788881782,
-      "sentiment": 0.33,
-      "horizon": null,
-      "tickers": [
-        "BAC"
-      ]
-    },
-    {
-      "title": "Sugar Prices Are Climbing Higher. How to Trade Them Here.",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/sugar-prices-climbing-higher-trade-153205875.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:32:05Z",
-      "epoch": 1788881525,
+      "title": "Professor J. Scott Colesanti Examines SEC Proposal to Eliminate Stock Market Pricing Protections - Hofstra Law News",
+      "summary": "Professor J. Scott Colesanti Examines SEC Proposal to Eliminate Stock Market Pricing Protections &nbsp;&nbsp; Hofstra Law News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUWQwNVJqSW5jZzhxZVVJN19lcExtSTFRWnRNeUhvZjVuaV9MaGdsTzZOQTYxTzNVTi1HTXBUMy0tSG43N1IxY2JPdXZSbmFTeEozbGQzNVFNM0RHd1Utd2NHcV9NbGN2S1F0cF9BSkpGLU9IdTlrT2ZXMDU3c3dreEhRTk5YcGMxUFpNeGhoRU5MZndaa2NzZG1IRjB5RkRVbmdscVFFcVQwVGgzRnZoTVBRYnFEaUlrVEQ0aklWZ0FtNExtMWNQR3FYVEZlMTlM?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-08T15:24:05Z",
+      "epoch": 1788881045,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
-    },
-    {
-      "title": "Middle East Hostilities Underpin Crude Oil Prices",
-      "summary": "",
-      "url": "https://finance.yahoo.com/energy/articles/middle-east-hostilities-underpin-crude-152954672.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:29:54Z",
-      "epoch": 1788881394,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "An AI Stock Launched a Rack-Scale System 30x Faster Than Nvidia’s GPUs. Here’s Why It Is Still a Risky Buy.",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-launched-rack-scale-152605499.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:26:05Z",
-      "epoch": 1788881165,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "title": "Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-takes-equity-stake-crypto-152516523.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:25:16Z",
-      "epoch": 1788881116,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "The Vitamin Shoppe Names a New Chief Marketing and Growth Officer",
-      "summary": "",
-      "url": "https://finance.yahoo.com/media-advertising/articles/vitamin-shoppe-names-chief-marketing-152349526.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:23:49Z",
-      "epoch": 1788881029,
-      "sentiment": 0.33,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Three Years After You File, the IRS’s Window to Question Your Return Slams Shut Forever. The Deadline That Protects You and the Two Things That Quietly Remove It",
-      "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/three-years-file-irs-window-152045033.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:20:45Z",
-      "epoch": 1788880845,
-      "sentiment": 0.0,
-      "horizon": "long_term",
-      "tickers": []
-    },
-    {
-      "title": "Where Will CRISPR Therapeutics Stock Be in 5 Years?",
-      "summary": "",
-      "url": "https://finance.yahoo.com/healthcare/articles/where-crispr-therapeutics-stock-5-152000426.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:20:00Z",
-      "epoch": 1788880800,
-      "sentiment": 0.0,
-      "horizon": "long_term",
-      "tickers": []
-    },
-    {
-      "title": "After the Dip, Intel’s $20 Billion Raise Is Not the Red Flag It Originally Looked Like",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dip-intel-20-billion-raise-151920658.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:19:20Z",
-      "epoch": 1788880760,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": [
-        "INTC"
-      ]
-    },
-    {
-      "title": "Bitmine Buys $69M in Ether, Closes In on 5% of Ethereum Supply",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-69m-ether-closes-151900594.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:19:00Z",
-      "epoch": 1788880740,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Qdoba franchisee defaults on $20 million loan",
-      "summary": "",
-      "url": "https://finance.yahoo.com/small-business/articles/qdoba-franchisee-defaults-20-million-151826300.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:18:26Z",
-      "epoch": 1788880706,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Robinhood Partners with Crypto.com to Expand Prediction Markets",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-partners-crypto-com-expand-151600729.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:16:00Z",
-      "epoch": 1788880560,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Diesel prices just smashed a 2022 record, but it's not only trucks that are taking a hit. What it means for your wallet",
-      "summary": "",
-      "url": "https://finance.yahoo.com/energy/articles/diesel-prices-just-smashed-2022-151500785.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:15:00Z",
-      "epoch": 1788880500,
-      "sentiment": 0.33,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Is Newmont Stock Outperforming the Nasdaq?",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/newmont-stock-outperforming-nasdaq-151356607.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:13:56Z",
-      "epoch": 1788880436,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": [
-        "NEM"
-      ]
-    },
-    {
-      "title": "NuScale Power Spikes 13%, Oklo Climbs 7%: Is the Nuclear Selloff Finally Exhausted?",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-spikes-13-oklo-151349633.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:13:49Z",
-      "epoch": 1788880429,
-      "sentiment": -0.33,
-      "horizon": "swing",
-      "tickers": []
-    },
-    {
-      "title": "Oil Prices Are Once Again on the Brink of $100",
-      "summary": "",
-      "url": "https://finance.yahoo.com/energy/articles/oil-prices-once-again-brink-151318211.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:13:18Z",
-      "epoch": 1788880398,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Inflation Concerns Weigh on Stocks",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/inflation-concerns-weigh-stocks-151229208.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:12:29Z",
-      "epoch": 1788880349,
-      "sentiment": -0.33,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Here’s How Much You Need Invested to Collect $1,000 a Month in Dividends",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/much-invested-collect-1-000-151100105.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:11:00Z",
-      "epoch": 1788880260,
-      "sentiment": 0.0,
-      "horizon": "long_term",
-      "tickers": []
-    },
-    {
-      "title": "5 Monthly Dividend Payers Boomers Have Quietly Made Core Holdings",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-monthly-dividend-payers-boomers-151018237.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:10:18Z",
-      "epoch": 1788880218,
-      "sentiment": 0.33,
-      "horizon": "long_term",
-      "tickers": []
-    },
-    {
-      "title": "Cramer Says It’s Time To Buy The Dip on JNJ",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cramer-says-time-buy-dip-151012185.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:10:12Z",
-      "epoch": 1788880212,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": [
-        "JNJ"
-      ]
-    },
-    {
-      "title": "Rubis Turns Expensive Oil Into a Guidance Upgrade",
-      "summary": "",
-      "url": "https://finance.yahoo.com/energy/articles/rubis-turns-expensive-oil-guidance-150910219.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:09:10Z",
-      "epoch": 1788880150,
-      "sentiment": 0.33,
-      "horizon": "swing",
-      "tickers": []
-    },
-    {
-      "title": "‘Are you going to get money back to the American people?’ asks Senator Warren on tariff refund checks. Here’s the answer",
-      "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/going-money-back-american-people-150500819.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:05:00Z",
-      "epoch": 1788879900,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Hewlett Packard Enterprise Company (HPE) Jumps on Surging AI Infrastructure Demand",
-      "summary": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/hewlett-packard-enterprise-company-hpe-150418396.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:04:18Z",
-      "epoch": 1788879858,
-      "sentiment": 0.33,
-      "horizon": null,
-      "tickers": [
-        "HPE"
-      ]
-    },
-    {
-      "title": "Rocket Lab Keeps Landing Defense Deals. Here’s Why Analysts Aren’t Getting More Bullish.",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-keeps-landing-defense-150203675.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:02:03Z",
-      "epoch": 1788879723,
-      "sentiment": 0.33,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Truist Financial Stock: Is TFC Outperforming the Financial Sector?",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/truist-financial-stock-tfc-outperforming-150054524.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T15:00:54Z",
-      "epoch": 1788879654,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": [
-        "TFC"
-      ]
-    },
-    {
-      "title": "Arrow Electronics (ARW) Stock Rises Sharply Amid AI Infrastructure Surge",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arrow-electronics-arw-stock-rises-145958037.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T14:59:58Z",
-      "epoch": 1788879598,
-      "sentiment": 0.33,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Harbor Mid Cap Value Fund Trimmed State Street (STT) Following Appreciation",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/harbor-mid-cap-value-fund-145808947.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T14:58:08Z",
-      "epoch": 1788879488,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "title": "Is Williams Companies Stock Outperforming the Dow?",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/williams-companies-stock-outperforming-dow-145649893.html",
-      "source": "Yahoo Finance",
-      "source_id": "yahoo-finance",
-      "continent": "na",
-      "published_at": "2026-09-08T14:56:49Z",
-      "epoch": 1788879409,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": [
-        "DOW",
-        "WMB"
-      ]
     },
     {
       "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday - CNBC",
@@ -2765,6 +2692,32 @@
       "continent": "eu",
       "published_at": "2026-09-08T12:16:22Z",
       "epoch": 1788869782,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "If the Stock Market Drops 20%, History Says This Is What Could Happen Next - Yahoo Finance",
+      "summary": "If the Stock Market Drops 20%, History Says This Is What Could Happen Next &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRU92TDExYy1mYnE4ek9HSU45clkwTkdxNjZvSU9LblJUSDNkZmVlMnFBQzRKMDNMY3h3UEcyV1pJU2R2RDhmTXdrNmViWlZhbV8xd0FTMkxJX1JCQ2o4Y01qcmYtSVczaHJXVmJ2T1RzcThhQjlLYmNySEIzcHVXdXZaVGhpY0dYUjB2cy10RkpRMWIydWxlejhB?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-08T12:00:00Z",
+      "epoch": 1788868800,
+      "sentiment": -0.67,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "The stock market's hot streak hints at more good times ahead - Yahoo Finance",
+      "summary": "The stock market's hot streak hints at more good times ahead &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnhWNmJnTzg5ZWhvOFVZai1FRkZiOEZZNUhDOGNPMFpPSS1sOFlXWUIwdE9pWVpVQl9ETTZSZmh1WlJsRDJlcTUyaDEyMmgtbUV0eEd4d0JkYkwyTjNaUmhYVkl4dVVUemc4cjFnWjgtMUV1ZUYzNVpsWXUxWGRtLWMzUnVkbmFfSEk1bm41NTQtTHJMRTd3aGtYNzdMQ1hHVThyRWUwc2FPNk5pQ1JucmZsbERwM1k?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-09-08T11:40:50Z",
+      "epoch": 1788867650,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -2796,24 +2749,24 @@
       "tickers": []
     },
     {
-      "title": "Weekly market commentary - BlackRock",
-      "summary": "Weekly market commentary &nbsp;&nbsp; BlackRock",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-09-08T07:00:00Z",
-      "epoch": 1788850800,
-      "sentiment": 0.0,
-      "horizon": null,
+      "title": "Stock market today: Dow drops 600 points, S&P 500 and Nasdaq retreat as oil nears $100",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-8-dow-sp-500-nasdaq-080440338.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-09-08T08:04:40Z",
+      "epoch": 1788854680,
+      "sentiment": -0.33,
+      "horizon": "swing",
       "tickers": [
-        "BLK"
+        "DOW"
       ]
     },
     {
-      "title": "Best high-yield savings interest rates today, Wednesday, September 9, 2026: Earn up to 4.10% APY",
+      "title": "HELOC and home equity loan rates today, Wednesday, September 9, 2026: Why locking in a low rate is so important",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-september-9-2026-earn-up-to-410-apy-100000748.html",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-wednesday-september-9-2026-why-locking-in-a-low-rate-is-so-important-100000340.html",
       "source": "Yahoo Finance",
       "source_id": "yahoo-finance",
       "continent": "na",
@@ -2824,9 +2777,9 @@
       "tickers": []
     },
     {
-      "title": "HELOC and home equity loan rates today, Wednesday, September 9, 2026: Why locking in a low rate is so important",
+      "title": "Best high-yield savings interest rates today, Wednesday, September 9, 2026: Earn up to 4.10% APY",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-wednesday-september-9-2026-why-locking-in-a-low-rate-is-so-important-100000340.html",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-september-9-2026-earn-up-to-410-apy-100000748.html",
       "source": "Yahoo Finance",
       "source_id": "yahoo-finance",
       "continent": "na",
@@ -3289,6 +3242,19 @@
       ]
     },
     {
+      "title": "When will gas prices go down? Prices hit records as Iran war fuels uncertainty.",
+      "summary": "",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/when-will-gas-prices-go-down-prices-hit-records-as-iran-war-fuels-uncertainty-154506731.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2026-04-14T15:45:06Z",
+      "epoch": 1776181506,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
       "title": "Weekly survey of mortgage lenders with the lowest rates: Little relief since July",
       "summary": "",
       "url": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-september-8-170834159.html",
@@ -3312,6 +3278,19 @@
       "epoch": 1757624495,
       "sentiment": 0.0,
       "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Mortgage rate predictions through the next five years: Will we reach 7%?",
+      "summary": "",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-through-the-next-five-years-will-we-reach-7-195826935.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2025-08-18T19:58:26Z",
+      "epoch": 1755547106,
+      "sentiment": 0.0,
+      "horizon": "long_term",
       "tickers": []
     },
     {
@@ -3369,15 +3348,28 @@
       "tickers": []
     },
     {
-      "title": "Is the stock market open on Labor Day?",
+      "title": "Will the housing market crash in 2026? Probably not",
       "summary": "",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/is-the-stock-market-open-on-labor-day-210239142.html",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-in-2026-probably-not-170038540.html",
       "source": "Yahoo Finance",
       "source_id": "yahoo-finance",
       "continent": "na",
-      "published_at": "2024-03-25T21:02:39Z",
-      "epoch": 1711400559,
-      "sentiment": 0.0,
+      "published_at": "2024-07-05T17:00:38Z",
+      "epoch": 1720198838,
+      "sentiment": -0.33,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "What is an adjustable-rate mortgage (ARM), and what are the risks?",
+      "summary": "",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/adjustable-rate-mortgage-155738644.html",
+      "source": "Yahoo Finance",
+      "source_id": "yahoo-finance",
+      "continent": "na",
+      "published_at": "2024-01-26T22:54:47Z",
+      "epoch": 1706309687,
+      "sentiment": -0.33,
       "horizon": null,
       "tickers": []
     }
