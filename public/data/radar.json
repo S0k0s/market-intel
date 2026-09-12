@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T16:09:15Z",
+  "generated_at": "2026-09-12T18:22:11Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 150,
@@ -10,6 +10,12 @@
   },
   "trending_tickers": [
     {
+      "ticker": "AZN.L",
+      "count": 2,
+      "catalyst_count": 1,
+      "source_count": 1
+    },
+    {
       "ticker": "SNDK",
       "count": 1,
       "catalyst_count": 1,
@@ -17,12 +23,6 @@
     },
     {
       "ticker": "ABBV",
-      "count": 1,
-      "catalyst_count": 1,
-      "source_count": 1
-    },
-    {
-      "ticker": "AZN.L",
       "count": 1,
       "catalyst_count": 1,
       "source_count": 1
@@ -46,6 +46,12 @@
       "source_count": 2
     },
     {
+      "ticker": "ROG",
+      "count": 2,
+      "catalyst_count": 0,
+      "source_count": 2
+    },
+    {
       "ticker": "AMGN",
       "count": 2,
       "catalyst_count": 0,
@@ -59,12 +65,6 @@
     },
     {
       "ticker": "COF",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "005930.KS",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 1
@@ -440,6 +440,22 @@
       "small_cap_risk": false
     },
     {
+      "title": "Larry Ellison Cancels His Plan to Sell Oracle Stock",
+      "summary": "AUSTIN, Texas, Sept. 12, 2026 /PRNewswire/ -- Oracle Corporation (NYSE: ORCL) today announced that Larry Ellison, Executive Chair of the Board and Chief Technology Officer, has cancelled his 10b5-1 Plan to sell Oracle stock. No Oracle stock was sold under that plan, and he has no",
+      "url": "https://www.prnewswire.com/news-releases/larry-ellison-cancels-his-plan-to-sell-oracle-stock-302876875.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-12T16:16:00Z",
+      "epoch": 1789229760,
+      "sentiment": 0.0,
+      "tickers": [
+        "ORCL"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "A Civilian Legend Reimagined: Jeep® Brand Introduces 2027 Jeep Wrangler JL-2A",
       "summary": "The 11th drop in the Jeep® brand's Twelve 4 Twelve series, the 2027 Jeep Wrangler JL-2A celebrates the Willys CJ-2A, the first Jeep vehicle designed specifically for civilian use 2027 Jeep Wrangler JL-2A connects today's Wrangler generation to the original CJ-2A, the vehicle that",
       "url": "https://www.prnewswire.com/news-releases/a-civilian-legend-reimagined-jeep-brand-introduces-2027-jeep-wrangler-jl-2a-302876856.html",
@@ -612,6 +628,20 @@
       "small_cap_risk": true
     },
     {
+      "title": "OneOdio schließt seine erfolgreiche Präsentation auf der IFA 2026 in Berlin ab",
+      "summary": "BERLIN, 12. September 2026 /PRNewswire/ -- OneOdio hat seinen Auftritt auf der IFA 2026, die vom 4. bis 8. September in Berlin stattfand, abgeschlossen. In Halle 8.2, Stand 217, empfing die Marke für professionelle Audiotechnik Besucher, DJs, Kreative und Fachleute aus der Branch",
+      "url": "https://www.prnewswire.com/news-releases/oneodio-schlieWt-seine-erfolgreiche-prasentation-auf-der-ifa-2026-in-berlin-ab-302873095.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-12T12:00:00Z",
+      "epoch": 1789214400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "OneOdio conclut une participation positive au salon IFA 2026 de Berlin",
       "summary": "BERLIN,/PRNewswire/ -- OneOdio a conclu sa participation au salon IFA 2026 qui s'est déroulé du 4 au 8 septembre à Berlin. Dans le stand 217, hall 8.2, la marque d'audio professionnel a accueilli des visiteurs, des DJ, des créateurs et des professionnels du secteur pour des essai",
       "url": "https://www.prnewswire.com/news-releases/oneodio-conclut-une-participation-positive-au-salon-ifa-2026-de-berlin-302872022.html",
@@ -629,20 +659,6 @@
       "title": "OneOdio conclude con successo la sua presentazione all'IFA 2026 di Berlino.",
       "summary": "BERLINO, 12 settembre 2026 /PRNewswire/ -- OneOdio ha concluso la sua presentazione all'IFA 2026, svoltasi dal 4 all'8 settembre a Berlino. Presso lo Stand 217, Padiglione 8.2, il marchio di audio professionale ha accolto visitatori, DJ, creatori e professionisti del settore per ",
       "url": "https://www.prnewswire.com/news-releases/oneodio-conclude-con-successo-la-sua-presentazione-allifa-2026-di-berlino-302873111.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-12T12:00:00Z",
-      "epoch": 1789214400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "OneOdio schließt seine erfolgreiche Präsentation auf der IFA 2026 in Berlin ab",
-      "summary": "BERLIN, 12. September 2026 /PRNewswire/ -- OneOdio hat seinen Auftritt auf der IFA 2026, die vom 4. bis 8. September in Berlin stattfand, abgeschlossen. In Halle 8.2, Stand 217, empfing die Marke für professionelle Audiotechnik Besucher, DJs, Kreative und Fachleute aus der Branch",
-      "url": "https://www.prnewswire.com/news-releases/oneodio-schlieWt-seine-erfolgreiche-prasentation-auf-der-ifa-2026-in-berlin-ab-302873095.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
       "published_at": "2026-09-12T12:00:00Z",
@@ -682,27 +698,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "Global Times: Silk Road Maritime shipping routes span 153 ports, boosting global trade prosperity amid uncertainty",
-      "summary": "BEIJING, Sept. 12, 2026 /PRNewswire/ -- Across the rippling Baltic waters, a cargo vessel loaded with Chinese goods glides steadily into Poland's Gdansk Port, docking at Europe's largest deep-water container terminal. For decades, the port has served as a critical hub for trade m",
-      "url": "https://www.prnewswire.com/news-releases/global-times-silk-road-maritime-shipping-routes-span-153-ports-boosting-global-trade-prosperity-amid-uncertainty-302876847.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-12T11:49:00Z",
-      "epoch": 1789213740,
-      "sentiment": 0.0,
-      "tickers": [
-        "WAT"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "International Association for the Study of Lung Cancer Launches Complimentary IASLC Full Membership for Eligible Countries to Expand Worldwide Participation in Thoracic Oncology",
       "summary": "Full Membership Initiative Removes Financial Barriers for Clinicians, Researchers and Health Professionals in Eligible Low- and Lower-Middle-Income Countries DENVER, Sept. 12, 2026 /PRNewswire/ -- The International Association for the Study of Lung Cancer (IASLC) today announced ",
       "url": "https://www.prnewswire.com/news-releases/international-association-for-the-study-of-lung-cancer-launches-complimentary-iaslc-full-membership-for-eligible-countries-to-expand-worldwide-participation-in-thoracic-oncology-302876825.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-12T11:19:00Z",
       "epoch": 1789211940,
       "sentiment": 0.33,
@@ -715,8 +715,8 @@
       "title": "Meant Health Expands Telehealth Access to FDA-Approved GLP-1 Prescriptions, Including Ozempic®",
       "summary": "MANASSAS, Va., Sept. 12, 2026 /PRNewswire/ -- Meant Health, a digital health platform that connects patients with licensed clinicians for evaluation, prescription and ongoing care coaching, announced today that it is expanding telehealth access to FDA-approved GLP-1 medications. ",
       "url": "https://www.prnewswire.com/news-releases/meant-health-expands-telehealth-access-to-fda-approved-glp-1-prescriptions-including-ozempic-302876301.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-12T11:00:00Z",
       "epoch": 1789210800,
       "sentiment": 0.33,
@@ -728,7 +728,7 @@
     {
       "title": "Aignostics Launches PathoSearch, a Visual Search Engine for Pathology Cases",
       "summary": "Now available via early access: image-based search retrieves real, diagnosed reference cases from world-class centers, spanning 300+ diagnostic entities. BERLIN and NEW YORK, Sept. 12, 2026 /PRNewswire/ -- Today, Aignostics announced the early access release of PathoSearch, a vis",
-      "url": "https://www.prnewswire.com/news-releases/aignostics-launches-pathosearch-a-visual-search-engine-for-pathology-cases-302876588.html",
+      "url": "https://www.prnewswire.com/news-releases/aignostics-launches-pathosearch-a-visual-search-engine-for-pathology-cases-302876571.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
       "published_at": "2026-09-12T10:00:00Z",
@@ -2396,6 +2396,23 @@
       "small_cap_risk": false
     },
     {
+      "title": "AstraZeneca’s Etcamah flunks first-line breast cancer trial, adding to oral SERDs’ failure record",
+      "summary": "Etcamah now joins Roche’s rival oral SERD, giredestrant, in missing the mark in first-line HR+/HER2- breast cancer, spelling trouble for others’ efforts in the same setting.",
+      "url": "https://www.fiercepharma.com/pharma/astrazeneca-etcamah-flunks-first-line-breast-cancer-trial-adding-oral-serds-failure-record",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-09-12T12:07:00Z",
+      "epoch": 1789214820,
+      "sentiment": 0.33,
+      "tickers": [
+        "AZN.L",
+        "ROG"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "After FDA nod for novel Cabometyx formulation, analysts predict limited threat to Exelixis",
       "summary": "Following formal sign-off from the FDA, Handa Pharmaceuticals’ branded drug reformulation strategy has paid off for a third time.",
       "url": "https://www.fiercepharma.com/pharma/after-fda-nod-novel-cabometyx-formulation-analyst-predicts-limited-threat-exelixis",
@@ -2985,20 +3002,6 @@
       "source_id": "fiercepharma",
       "published_at": "2026-09-08T02:27:00Z",
       "epoch": 1788834420,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Ardelyx launches first connected TV ad for GI drug Ibsrela",
-      "summary": "Ardelyx is running a new ad campaign for its irritable bowel syndrome with constipation drug, Ibsrela, across connected TV.",
-      "url": "https://www.fiercepharma.com/marketing/ardelyx-launches-first-connected-tv-ad-gi-drug-ibsrela",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-09-07T02:54:00Z",
-      "epoch": 1788749640,
       "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
