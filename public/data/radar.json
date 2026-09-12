@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-12T09:20:17Z",
+  "generated_at": "2026-09-12T12:59:18Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 143,
-    "breaking_catalyst_count": 27,
+    "breaking_count": 149,
+    "breaking_catalyst_count": 26,
     "pipeline_count": 57,
     "pipeline_catalyst_count": 12,
     "movers_count": 0
@@ -11,12 +11,6 @@
   "trending_tickers": [
     {
       "ticker": "SNDK",
-      "count": 1,
-      "catalyst_count": 1,
-      "source_count": 1
-    },
-    {
-      "ticker": "ARAY",
       "count": 1,
       "catalyst_count": 1,
       "source_count": 1
@@ -56,6 +50,12 @@
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
+    },
+    {
+      "ticker": "QNT",
+      "count": 2,
+      "catalyst_count": 0,
+      "source_count": 1
     },
     {
       "ticker": "COF",
@@ -440,20 +440,192 @@
       "small_cap_risk": false
     },
     {
-      "title": "Accuray and RaySearch Agree to Collaboration Integrating RayStation Software with Accuray Platforms to Accelerate Accuray's Online Adaptive Capabilities",
-      "summary": "MADISON, Wis., Sept. 11, 2026 /PRNewswire/ -- Accuray Incorporated (NASDAQ: ARAY), a leading provider of radiation therapy systems for cancer treatment, and RaySearch Laboratories AB (publ) today announced that they had entered into a definitive agreement providing for an expande",
-      "url": "https://www.prnewswire.com/news-releases/accuray-and-raysearch-agree-to-collaboration-integrating-raystation-software-with-accuray-platforms-to-accelerate-accurays-online-adaptive-capabilities-302876539.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-11T15:28:00Z",
-      "epoch": 1789140480,
+      "title": "New Delhi Marks UN Day for South-South Cooperation with Push to Scale Dryland Innovation Across the Global South",
+      "summary": "NEW DELHI, Sept. 12, 2026 /PRNewswire/ -- A major international push to accelerate agricultural innovation across the Global South took centre stage in New Delhi today, as the United Nations Day for South-South Cooperation was commemorated amid mounting climate, water and food-se",
+      "url": "https://www.prnewswire.com/news-releases/new-delhi-marks-un-day-for-south-south-cooperation-with-push-to-scale-dryland-innovation-across-the-global-south-302876853.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-12T12:30:00Z",
+      "epoch": 1789216200,
       "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Quantinuum nimmt an der 5. jährlichen Growth Frontiers Conference von Piper Sandler teil",
+      "summary": "BROOMFIELD, Colorado, 12. September 2026 /PRNewswire/ -- Quantinuum Inc. (Nasdaq: QNT) (das „Unternehmen\"), ein führendes Unternehmen im Bereich Quantencomputing, gab heute bekannt, dass Mitglieder seines Führungsteams an der „Piper Sandler 5th Annual Growth Frontiers Conference\"",
+      "url": "https://www.prnewswire.com/news-releases/quantinuum-nimmt-an-der-5-jahrlichen-growth-frontiers-conference-von-piper-sandler-teil-302876852.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-12T12:17:00Z",
+      "epoch": 1789215420,
+      "sentiment": 0.67,
       "tickers": [
-        "ARAY"
+        "QNT"
       ],
       "company_name": null,
-      "catalyst": true,
+      "catalyst": false,
       "small_cap_risk": true
+    },
+    {
+      "title": "Quantinuum participera à la 5e édition de la conférence « Growth Frontiers » organisée par Piper Sandler",
+      "summary": "BROOMFIELD, Colorado, 12 septembre 2026 /PRNewswire/ -- Quantinuum Inc. (Nasdaq : QNT) (ci-après dénommée « la Société »), une entreprise de premier plan dans le domaine de l'informatique quantique, a annoncé aujourd'hui que des membres de son équipe de direction participeront à ",
+      "url": "https://www.prnewswire.com/news-releases/quantinuum-participera-a-la-5e-edition-de-la-conference--growth-frontiers--organisee-par-piper-sandler-302876849.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-12T12:01:00Z",
+      "epoch": 1789214460,
+      "sentiment": 0.33,
+      "tickers": [
+        "QNT"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "OneOdio conclut une participation positive au salon IFA 2026 de Berlin",
+      "summary": "BERLIN,/PRNewswire/ -- OneOdio a conclu sa participation au salon IFA 2026 qui s'est déroulé du 4 au 8 septembre à Berlin. Dans le stand 217, hall 8.2, la marque d'audio professionnel a accueilli des visiteurs, des DJ, des créateurs et des professionnels du secteur pour des essai",
+      "url": "https://www.prnewswire.com/news-releases/oneodio-conclut-une-participation-positive-au-salon-ifa-2026-de-berlin-302872022.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-12T12:00:00Z",
+      "epoch": 1789214400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "OneOdio conclude con successo la sua presentazione all'IFA 2026 di Berlino.",
+      "summary": "BERLINO, 12 settembre 2026 /PRNewswire/ -- OneOdio ha concluso la sua presentazione all'IFA 2026, svoltasi dal 4 all'8 settembre a Berlino. Presso lo Stand 217, Padiglione 8.2, il marchio di audio professionale ha accolto visitatori, DJ, creatori e professionisti del settore per ",
+      "url": "https://www.prnewswire.com/news-releases/oneodio-conclude-con-successo-la-sua-presentazione-allifa-2026-di-berlino-302873111.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-12T12:00:00Z",
+      "epoch": 1789214400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "OneOdio Concludes a Successful IFA 2026 Showcase in Berlin",
+      "summary": "BERLIN, Sept. 12, 2026 /PRNewswire/ -- OneOdio concluded its showcase at IFA 2026, held from September 4–8 in Berlin. At Hall 8.2, Booth 217, the professional audio brand welcomed visitors, DJs, creators, and industry professionals for hands-on product experiences, live DJ perfor",
+      "url": "https://www.prnewswire.com/news-releases/oneodio-concludes-a-successful-ifa-2026-showcase-in-berlin-302871839.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-12T12:00:00Z",
+      "epoch": 1789214400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "OneOdio schließt seine erfolgreiche Präsentation auf der IFA 2026 in Berlin ab",
+      "summary": "BERLIN, 12. September 2026 /PRNewswire/ -- OneOdio hat seinen Auftritt auf der IFA 2026, die vom 4. bis 8. September in Berlin stattfand, abgeschlossen. In Halle 8.2, Stand 217, empfing die Marke für professionelle Audiotechnik Besucher, DJs, Kreative und Fachleute aus der Branch",
+      "url": "https://www.prnewswire.com/news-releases/oneodio-schlieWt-seine-erfolgreiche-prasentation-auf-der-ifa-2026-in-berlin-ab-302873095.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-12T12:00:00Z",
+      "epoch": 1789214400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "OneOdio concluye con éxito su participación en la IFA 2026 en Berlín",
+      "summary": "BERLÍN, 12 de septiembre de 2026 /PRNewswire/ -- OneOdio concluyó su participación en la IFA 2026, celebrada del 4 al 8 de septiembre en Berlín. En el pabellón 8.2, stand 217, la marca de audio profesional dio la bienvenida a visitantes, DJs, creadores y profesionales del sector ",
+      "url": "https://www.prnewswire.com/news-releases/oneodio-concluye-con-exito-su-participacion-en-la-ifa-2026-en-berlin-302872435.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-12T12:00:00Z",
+      "epoch": 1789214400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Global Times: Silk Road Maritime shipping routes span 153 ports, boosting global trade prosperity amid uncertainty",
+      "summary": "BEIJING, Sept. 12, 2026 /PRNewswire/ -- Across the rippling Baltic waters, a cargo vessel loaded with Chinese goods glides steadily into Poland's Gdansk Port, docking at Europe's largest deep-water container terminal. For decades, the port has served as a critical hub for trade m",
+      "url": "https://www.prnewswire.com/news-releases/global-times-silk-road-maritime-shipping-routes-span-153-ports-boosting-global-trade-prosperity-amid-uncertainty-302876847.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-12T11:49:00Z",
+      "epoch": 1789213740,
+      "sentiment": 0.0,
+      "tickers": [
+        "WAT"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "International Association for the Study of Lung Cancer Launches Complimentary IASLC Full Membership for Eligible Countries to Expand Worldwide Participation in Thoracic Oncology",
+      "summary": "Full Membership Initiative Removes Financial Barriers for Clinicians, Researchers and Health Professionals in Eligible Low- and Lower-Middle-Income Countries DENVER, Sept. 12, 2026 /PRNewswire/ -- The International Association for the Study of Lung Cancer (IASLC) today announced ",
+      "url": "https://www.prnewswire.com/news-releases/international-association-for-the-study-of-lung-cancer-launches-complimentary-iaslc-full-membership-for-eligible-countries-to-expand-worldwide-participation-in-thoracic-oncology-302876825.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-12T11:19:00Z",
+      "epoch": 1789211940,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Meant Health Expands Telehealth Access to FDA-Approved GLP-1 Prescriptions, Including Ozempic®",
+      "summary": "MANASSAS, Va., Sept. 12, 2026 /PRNewswire/ -- Meant Health, a digital health platform that connects patients with licensed clinicians for evaluation, prescription and ongoing care coaching, announced today that it is expanding telehealth access to FDA-approved GLP-1 medications. ",
+      "url": "https://www.prnewswire.com/news-releases/meant-health-expands-telehealth-access-to-fda-approved-glp-1-prescriptions-including-ozempic-302876301.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-12T11:00:00Z",
+      "epoch": 1789210800,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Aignostics Launches PathoSearch, a Visual Search Engine for Pathology Cases",
+      "summary": "Now available via early access: image-based search retrieves real, diagnosed reference cases from world-class centers, spanning 300+ diagnostic entities. BERLIN and NEW YORK, Sept. 12, 2026 /PRNewswire/ -- Today, Aignostics announced the early access release of PathoSearch, a vis",
+      "url": "https://www.prnewswire.com/news-releases/aignostics-launches-pathosearch-a-visual-search-engine-for-pathology-cases-302876588.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-12T10:00:00Z",
+      "epoch": 1789207200,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Nocpix lance l'ACE 2 : La nouvelle génération de sa lunette de visée thermique phare",
+      "summary": "VARSOVIE, Pologne, 12 septembre 2026 /PRNewswire/ -- Le 12 septembre, Nocpix a officiellement lancé la série ACE 2 , sa gamme phare de lunettes de visée thermiques de nouvelle génération, comprenant les modèles ACE 2 S60R, ACE 2 H50R et ACE 2 H35R. S'appuyant sur les fondements d",
+      "url": "https://www.prnewswire.com/news-releases/nocpix-lance-lace-2--la-nouvelle-generation-de-sa-lunette-de-visee-thermique-phare-302876343.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-12T09:00:00Z",
+      "epoch": 1789203600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
     },
     {
       "title": "Nocpix bringt ACE 2 auf den Markt: Die nächste Generation seines Flaggschiff-Wärmebildzielfernrohrs",
@@ -478,20 +650,6 @@
       "published_at": "2026-09-12T09:00:00Z",
       "epoch": 1789203600,
       "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Nocpix lance l'ACE 2 : La nouvelle génération de sa lunette de visée thermique phare",
-      "summary": "VARSOVIE, Pologne, 12 septembre 2026 /PRNewswire/ -- Le 12 septembre, Nocpix a officiellement lancé la série ACE 2 , sa gamme phare de lunettes de visée thermiques de nouvelle génération, comprenant les modèles ACE 2 S60R, ACE 2 H50R et ACE 2 H35R. S'appuyant sur les fondements d",
-      "url": "https://www.prnewswire.com/news-releases/nocpix-lance-lace-2--la-nouvelle-generation-de-sa-lunette-de-visee-thermique-phare-302876343.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-12T09:00:00Z",
-      "epoch": 1789203600,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -533,34 +691,6 @@
       "source_id": "prnewswire-financial",
       "published_at": "2026-09-12T06:40:00Z",
       "epoch": 1789195200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "PHAM NHAT VUONG AND PHAM THU HUONG TRANSITION LEADERSHIP ROLES AT VINFAST AND GSM",
-      "summary": "HANOI, Vietnam, Sept. 12, 2026 /PRNewswire/ -- VinFast and GSM today officially announced new leadership appointments, succeeding Mr. Pham Nhat Vuong and Ms. Pham Thu Huong in senior global leadership roles. Accordingly, Mr. Pham Nhat Quan Anh, currently Chairman of VinFast Globa",
-      "url": "https://www.prnewswire.com/news-releases/pham-nhat-vuong-and-pham-thu-huong-transition-leadership-roles-at-vinfast-and-gsm-302876823.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-12T06:21:00Z",
-      "epoch": 1789194060,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "New Mud Springs Trail System Opens Near Moab, Expanding World-Class Mountain Biking Opportunities",
-      "summary": "New race-ready trail system adds to the Moab area's renowned mountain biking offerings with trails for youth racing, adaptive cyclists, families and riders of varying abilities MOAB, Utah, Sept. 11, 2026 /PRNewswire/ -- Mud Springs Trail System, a new mountain biking destination ",
-      "url": "https://www.prnewswire.com/news-releases/new-mud-springs-trail-system-opens-near-moab-expanding-world-class-mountain-biking-opportunities-302876800.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-12T02:46:00Z",
-      "epoch": 1789181160,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -2061,34 +2191,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Jim Belushi to Visit Three Bloom Cannabis Locations in Ohio October 1-2",
-      "summary": "Appearances celebrate Belushi's Farm products, produced in Ohio by Wondergrove COLUMBUS, Ohio, Sept. 11, 2026 /PRNewswire/ -- Bloom Cannabis will welcome Jim Belushi, the actor, comedian and founder of Belushi's Farm, to Ohio for three special appearances at Bloom dispensaries in",
-      "url": "https://www.prnewswire.com/news-releases/jim-belushi-to-visit-three-bloom-cannabis-locations-in-ohio-october-12-302876524.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-11T15:10:00Z",
-      "epoch": 1789139400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Frank Russo Calls for Florida Crackdown on Addictive Social Media Features Targeting Children",
-      "summary": "Independent candidate for Governor says protecting children, parents and classrooms must come before Big Tech profits NEW SMYRNA BEACH, Fla., Sept. 11, 2026 /PRNewswire/ -- Non-party affiliated candidate for Florida Governor Frank Russo today announced that, if elected, he will s",
-      "url": "https://www.prnewswire.com/news-releases/frank-russo-calls-for-florida-crackdown-on-addictive-social-media-features-targeting-children-302876490.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-11T15:00:00Z",
-      "epoch": 1789138800,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "8-K - Caring Brands, Inc. (0002020737) (Filer)",
       "summary": "Filed:  2026-09-11  AccNo:  0001493152-26-042368  Size:  307 KB\n Item 3.02: Unregistered Sales of Equity Securities\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
       "url": "https://www.sec.gov/Archives/edgar/data/2020737/000149315226042368/0001493152-26-042368-index.htm",
@@ -2099,20 +2201,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Caring Brands, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Esperovax Announces U.S. Patent Allowance for In Vivo Therapeutic Protein Expression Platform",
-      "summary": "PLYMOUTH, Mich., Sept. 11, 2026 /PRNewswire/ -- Esperovax, Inc. today announced that the United States Patent and Trademark Office (USPTO) has issued a Notice of Allowance for U.S. Patent Application No. 18/038,673, entitled \"Yeast-Based Expression of Therapeutic Proteins In Vivo",
-      "url": "https://www.prnewswire.com/news-releases/esperovax-announces-us-patent-allowance-for-in-vivo-therapeutic-protein-expression-platform-302876507.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-11T14:44:00Z",
-      "epoch": 1789137840,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     }
