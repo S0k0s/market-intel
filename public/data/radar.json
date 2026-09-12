@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T20:45:54Z",
+  "generated_at": "2026-09-12T22:48:15Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 150,
@@ -670,25 +670,11 @@
       "small_cap_risk": true
     },
     {
-      "title": "OneOdio schließt seine erfolgreiche Präsentation auf der IFA 2026 in Berlin ab",
-      "summary": "BERLIN, 12. September 2026 /PRNewswire/ -- OneOdio hat seinen Auftritt auf der IFA 2026, die vom 4. bis 8. September in Berlin stattfand, abgeschlossen. In Halle 8.2, Stand 217, empfing die Marke für professionelle Audiotechnik Besucher, DJs, Kreative und Fachleute aus der Branch",
-      "url": "https://www.prnewswire.com/news-releases/oneodio-schlieWt-seine-erfolgreiche-prasentation-auf-der-ifa-2026-in-berlin-ab-302873095.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-12T12:00:00Z",
-      "epoch": 1789214400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "OneOdio conclut une participation positive au salon IFA 2026 de Berlin",
       "summary": "BERLIN,/PRNewswire/ -- OneOdio a conclu sa participation au salon IFA 2026 qui s'est déroulé du 4 au 8 septembre à Berlin. Dans le stand 217, hall 8.2, la marque d'audio professionnel a accueilli des visiteurs, des DJ, des créateurs et des professionnels du secteur pour des essai",
       "url": "https://www.prnewswire.com/news-releases/oneodio-conclut-une-participation-positive-au-salon-ifa-2026-de-berlin-302872022.html",
-      "source": "PR Newswire — Biotechnology",
-      "source_id": "prnewswire-biotech",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
       "published_at": "2026-09-12T12:00:00Z",
       "epoch": 1789214400,
       "sentiment": 0.0,
@@ -2215,6 +2201,20 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Caring Brands, Inc. (0002020737) (Filer)",
+      "summary": "Filed:  2026-09-11  AccNo:  0001493152-26-042368  Size:  307 KB\n Item 3.02: Unregistered Sales of Equity Securities\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/2020737/000149315226042368/0001493152-26-042368-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-09-11T14:46:01Z",
+      "epoch": 1789137961,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Caring Brands, Inc.",
       "catalyst": false,
       "small_cap_risk": false
     }
