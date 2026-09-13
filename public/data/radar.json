@@ -1,14 +1,26 @@
 {
-  "generated_at": "2026-09-12T22:48:15Z",
+  "generated_at": "2026-09-13T00:35:06Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 150,
+    "breaking_count": 149,
     "breaking_catalyst_count": 26,
     "pipeline_count": 57,
     "pipeline_catalyst_count": 12,
     "movers_count": 0
   },
   "trending_tickers": [
+    {
+      "ticker": "MRK",
+      "count": 2,
+      "catalyst_count": 2,
+      "source_count": 1
+    },
+    {
+      "ticker": "AMGN",
+      "count": 3,
+      "catalyst_count": 1,
+      "source_count": 3
+    },
     {
       "ticker": "AZN.L",
       "count": 2,
@@ -22,13 +34,13 @@
       "source_count": 1
     },
     {
-      "ticker": "ABBV",
+      "ticker": "GSK.L",
       "count": 1,
       "catalyst_count": 1,
       "source_count": 1
     },
     {
-      "ticker": "MRK",
+      "ticker": "ABBV",
       "count": 1,
       "catalyst_count": 1,
       "source_count": 1
@@ -50,18 +62,6 @@
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
-    },
-    {
-      "ticker": "AMGN",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 2
-    },
-    {
-      "ticker": "QNT",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 1
     },
     {
       "ticker": "COF",
@@ -440,6 +440,51 @@
       "small_cap_risk": false
     },
     {
+      "title": "BRICS countries rally to counter shocks of power politics, unilateralism: China Daily editorial",
+      "summary": "BEIJING, Sept. 12, 2026 /PRNewswire/ -- The following article was published today by China Daily. The 18th BRICS Summit, which opened on Saturday in New Delhi, the capital of India, is an opportunity for the participating countries to build consensus on development through strate",
+      "url": "https://www.prnewswire.com/news-releases/brics-countries-rally-to-counter-shocks-of-power-politics-unilateralism-china-daily-editorial-302876908.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-13T00:18:00Z",
+      "epoch": 1789258680,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Red Bank Catholic High School and Conscientia Health Open New Wellness Room, Marking Expanded Commitment to Student Mental and Physical Health",
+      "summary": "Ribbon-cutting held on World Suicide Prevention Day RED BANK, N.J., Sept. 12, 2026 /PRNewswire/ -- Red Bank Catholic High School officially opened a new Wellness Room on its Broad Street campus today, with a ribbon-cutting and blessing ceremony marking the next chapter of the sch",
+      "url": "https://www.prnewswire.com/news-releases/red-bank-catholic-high-school-and-conscientia-health-open-new-wellness-room-marking-expanded-commitment-to-student-mental-and-physical-health-302876907.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-13T00:01:00Z",
+      "epoch": 1789257660,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Hyundai Motor Group Accelerates Autonomous Driving Innovation with AI-Powered Data Flywheel",
+      "summary": "Hyundai Motor Group hosts \"HMG Autonomous Driving Media Day\", outlining its roadmap for the next era of autonomous driving; first showcase of Level 2++ technology Dual-Track strategy accelerates Level 2+ production through NVIDIA collaboration while internalizing key autonomous d",
+      "url": "https://www.prnewswire.com/news-releases/hyundai-motor-group-accelerates-autonomous-driving-innovation-with-ai-powered-data-flywheel-302876366.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-13T00:00:00Z",
+      "epoch": 1789257600,
+      "sentiment": 0.67,
+      "tickers": [
+        "005380.KS",
+        "NVDA"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Agog-Supported Works Win Two of Three Immersive Prizes at the 83rd Venice International Film Festival",
       "summary": "Out of the Ashes receives the Venice Immersive Special Jury Prize and Empire at Sea receives the Venice Immersive Achievement Prize; the two projects offer distinct approaches to climate storytelling LOS ANGELES, Sept. 12, 2026 /PRNewswire/ -- Two projects supported by Agog: The ",
       "url": "https://www.prnewswire.com/news-releases/agog-supported-works-win-two-of-three-immersive-prizes-at-the-83rd-venice-international-film-festival-302876895.html",
@@ -631,52 +676,6 @@
       "source_id": "prnewswire-public-co",
       "published_at": "2026-09-12T12:30:00Z",
       "epoch": 1789216200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Quantinuum nimmt an der 5. jährlichen Growth Frontiers Conference von Piper Sandler teil",
-      "summary": "BROOMFIELD, Colorado, 12. September 2026 /PRNewswire/ -- Quantinuum Inc. (Nasdaq: QNT) (das „Unternehmen\"), ein führendes Unternehmen im Bereich Quantencomputing, gab heute bekannt, dass Mitglieder seines Führungsteams an der „Piper Sandler 5th Annual Growth Frontiers Conference\"",
-      "url": "https://www.prnewswire.com/news-releases/quantinuum-nimmt-an-der-5-jahrlichen-growth-frontiers-conference-von-piper-sandler-teil-302876852.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-12T12:17:00Z",
-      "epoch": 1789215420,
-      "sentiment": 0.67,
-      "tickers": [
-        "QNT"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Quantinuum participera à la 5e édition de la conférence « Growth Frontiers » organisée par Piper Sandler",
-      "summary": "BROOMFIELD, Colorado, 12 septembre 2026 /PRNewswire/ -- Quantinuum Inc. (Nasdaq : QNT) (ci-après dénommée « la Société »), une entreprise de premier plan dans le domaine de l'informatique quantique, a annoncé aujourd'hui que des membres de son équipe de direction participeront à ",
-      "url": "https://www.prnewswire.com/news-releases/quantinuum-participera-a-la-5e-edition-de-la-conference--growth-frontiers--organisee-par-piper-sandler-302876849.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-12T12:01:00Z",
-      "epoch": 1789214460,
-      "sentiment": 0.33,
-      "tickers": [
-        "QNT"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "OneOdio conclut une participation positive au salon IFA 2026 de Berlin",
-      "summary": "BERLIN,/PRNewswire/ -- OneOdio a conclu sa participation au salon IFA 2026 qui s'est déroulé du 4 au 8 septembre à Berlin. Dans le stand 217, hall 8.2, la marque d'audio professionnel a accueilli des visiteurs, des DJ, des créateurs et des professionnels du secteur pour des essai",
-      "url": "https://www.prnewswire.com/news-releases/oneodio-conclut-une-participation-positive-au-salon-ifa-2026-de-berlin-302872022.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-12T12:00:00Z",
-      "epoch": 1789214400,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -2191,20 +2190,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "/C O R R E C T I O N -- Octapharma/",
-      "summary": "In the news release, Fewer Blood Components Transfused with fibryga® Than Cryoprecipitate, Secondary Analysis of Prespecified FIBRES Subgroups Reports, issued 09-Sep-2026 by Octapharma over PR Newswire, we are advised by the company that the fifth paragraph, second sentence, shou",
-      "url": "https://www.prnewswire.com/news-releases/fewer-blood-components-transfused-with-fibryga-than-cryoprecipitate-secondary-analysis-of-prespecified-fibres-subgroups-reports-302874089.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-11T15:36:00Z",
-      "epoch": 1789140960,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "8-K - Caring Brands, Inc. (0002020737) (Filer)",
       "summary": "Filed:  2026-09-11  AccNo:  0001493152-26-042368  Size:  307 KB\n Item 3.02: Unregistered Sales of Equity Securities\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
       "url": "https://www.sec.gov/Archives/edgar/data/2020737/000149315226042368/0001493152-26-042368-index.htm",
@@ -2220,6 +2205,24 @@
     }
   ],
   "pipeline": [
+    {
+      "title": "GSK’s Hansoh-partnered ADC lays down marker for lung cancer scrap with Merck",
+      "summary": "GSK’s risvutatug rezetecan has achieved a median overall survival of 18.5 months in a phase 3 trial, painting the antibody-drug conjugate as a threat to Amgen and Merck &amp; Co. in the lung cancer field.",
+      "url": "https://www.fiercebiotech.com/biotech/gsks-adc-lays-down-marker-lung-cancer-scrap-merck-co",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-09-11T04:54:00Z",
+      "epoch": 1789102440,
+      "sentiment": 0.0,
+      "tickers": [
+        "AMGN",
+        "GSK.L",
+        "MRK"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
     {
       "title": "AbbVie lines up Qulipta expansion with phase 3 win in untapped menstrual migraine indication",
       "summary": "With positive phase 3 results in hand, AbbVie is one step closer to expanding the reach of its key migraine preventative Qulipta, also known as atogepant.",
@@ -2301,20 +2304,6 @@
       "published_at": "2026-09-09T08:11:00Z",
       "epoch": 1788941460,
       "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Beeline flies into phase 3 as oral lupus drug soars past placebo",
-      "summary": "A phase 2 trial of Beeline Medicines’ afimetoran has hit its primary endpoint, positioning the biotech to swarm into pivotal development in two forms of lupus.",
-      "url": "https://www.fiercebiotech.com/biotech/beeline-flies-phase-3-oral-lupus-drug-soars-past-placebo",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-09-09T04:23:00Z",
-      "epoch": 1788927780,
-      "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": true,
