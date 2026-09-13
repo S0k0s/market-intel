@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-13T00:35:06Z",
+  "generated_at": "2026-09-13T05:22:28Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 149,
     "breaking_catalyst_count": 26,
     "pipeline_count": 57,
-    "pipeline_catalyst_count": 12,
+    "pipeline_catalyst_count": 13,
     "movers_count": 0
   },
   "trending_tickers": [
@@ -440,6 +440,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "El «Boo Bash Fall Festival» se estrenará en California el 18 de septiembre, con un huerto de calabazas inmersivo de más de 100.000 pies cuadrados en Escondido",
+      "summary": "Una nueva experiencia de temporada convertirá el centro comercial Mershops North County Mall en un destino otoñal de seis semanas de duración, con cinco zonas diferenciadas y una programación para todas las edades. ESCONDIDO, California, 12 de septiembre de 2026 /PRNewswire-HISPA",
+      "url": "https://www.prnewswire.com/news-releases/el-boo-bash-fall-festival-se-estrenara-en-california-el-18-de-septiembre-con-un-huerto-de-calabazas-inmersivo-de-mas-de-100-000-pies-cuadrados-en-escondido-882630177.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-13T03:47:00Z",
+      "epoch": 1789271220,
+      "sentiment": -0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "BRICS countries rally to counter shocks of power politics, unilateralism: China Daily editorial",
       "summary": "BEIJING, Sept. 12, 2026 /PRNewswire/ -- The following article was published today by China Daily. The 18th BRICS Summit, which opened on Saturday in New Delhi, the capital of India, is an opportunity for the participating countries to build consensus on development through strate",
       "url": "https://www.prnewswire.com/news-releases/brics-countries-rally-to-counter-shocks-of-power-politics-unilateralism-china-daily-editorial-302876908.html",
@@ -669,20 +683,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "New Delhi Marks UN Day for South-South Cooperation with Push to Scale Dryland Innovation Across the Global South",
-      "summary": "NEW DELHI, Sept. 12, 2026 /PRNewswire/ -- A major international push to accelerate agricultural innovation across the Global South took centre stage in New Delhi today, as the United Nations Day for South-South Cooperation was commemorated amid mounting climate, water and food-se",
-      "url": "https://www.prnewswire.com/news-releases/new-delhi-marks-un-day-for-south-south-cooperation-with-push-to-scale-dryland-innovation-across-the-global-south-302876853.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-12T12:30:00Z",
-      "epoch": 1789216200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "International Association for the Study of Lung Cancer Launches Complimentary IASLC Full Membership for Eligible Countries to Expand Worldwide Participation in Thoracic Oncology",
       "summary": "Full Membership Initiative Removes Financial Barriers for Clinicians, Researchers and Health Professionals in Eligible Low- and Lower-Middle-Income Countries DENVER, Sept. 12, 2026 /PRNewswire/ -- The International Association for the Study of Lung Cancer (IASLC) today announced ",
       "url": "https://www.prnewswire.com/news-releases/international-association-for-the-study-of-lung-cancer-launches-complimentary-iaslc-full-membership-for-eligible-countries-to-expand-worldwide-participation-in-thoracic-oncology-302876825.html",
@@ -713,7 +713,7 @@
     {
       "title": "Aignostics Launches PathoSearch, a Visual Search Engine for Pathology Cases",
       "summary": "Now available via early access: image-based search retrieves real, diagnosed reference cases from world-class centers, spanning 300+ diagnostic entities. BERLIN and NEW YORK, Sept. 12, 2026 /PRNewswire/ -- Today, Aignostics announced the early access release of PathoSearch, a vis",
-      "url": "https://www.prnewswire.com/news-releases/aignostics-launches-pathosearch-a-visual-search-engine-for-pathology-cases-302876588.html",
+      "url": "https://www.prnewswire.com/news-releases/aignostics-launches-pathosearch-a-visual-search-engine-for-pathology-cases-302876571.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
       "published_at": "2026-09-12T10:00:00Z",
@@ -2206,6 +2206,20 @@
   ],
   "pipeline": [
     {
+      "title": "Merck, Gilead’s failed Trodelvy lung cancer trial shows better China results",
+      "summary": "Newly revealed global phase 3 data from Merck and Gilead’s failed Trodelvy first-line non-small cell lung cancer trial could reignite the question around translating Chinese data to the West.",
+      "url": "https://www.fiercepharma.com/pharma/merck-gileads-failed-trodelvy-trial-first-line-lung-cancer-shows-better-china-results",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-09-11T16:04:00Z",
+      "epoch": 1789142640,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
       "title": "GSK’s Hansoh-partnered ADC lays down marker for lung cancer scrap with Merck",
       "summary": "GSK’s risvutatug rezetecan has achieved a median overall survival of 18.5 months in a phase 3 trial, painting the antibody-drug conjugate as a threat to Amgen and Merck &amp; Co. in the lung cancer field.",
       "url": "https://www.fiercebiotech.com/biotech/gsks-adc-lays-down-marker-lung-cancer-scrap-merck-co",
@@ -2978,20 +2992,6 @@
       "published_at": "2026-09-08T10:43:00Z",
       "epoch": 1788864180,
       "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "UCB turns to art for ‘Expressing Epilepsy’ awareness campaign",
-      "summary": "Belgian biopharma UCB is seeking to boost awareness of what epilepsy looks like to patients, literally, with a new campaign using art to tell their stories.",
-      "url": "https://www.fiercepharma.com/marketing/ucb-launches-expressing-epilepsy-through-art-awareness-campaign",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-09-08T02:27:00Z",
-      "epoch": 1788834420,
-      "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
