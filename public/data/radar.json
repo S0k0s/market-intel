@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-13T17:39:44Z",
+  "generated_at": "2026-09-13T19:48:28Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 142,
+    "breaking_count": 143,
     "breaking_catalyst_count": 31,
     "pipeline_count": 57,
     "pipeline_catalyst_count": 12,
@@ -58,13 +58,13 @@
       "source_count": 2
     },
     {
-      "ticker": "CCL",
+      "ticker": "COF",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "COF",
+      "ticker": "005930.KS",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 1
@@ -510,6 +510,34 @@
       "small_cap_risk": false
     },
     {
+      "title": "PANDAG G1 to Make First Official Appearance at GaLaBau 2026",
+      "summary": "Modular commercial autonomous mower combines LiDAR, AI Vision, RTK and 4G for professional grounds maintenance. NUREMBERG, Germany, Sept. 13, 2026 /PRNewswire/ -- PANDAG will make its first official appearance at GaLaBau 2026 in Nuremberg, Germany, showcasing the G1 commercial au",
+      "url": "https://www.prnewswire.com/news-releases/pandag-g1-to-make-first-official-appearance-at-galabau-2026-302877024.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-13T18:34:00Z",
+      "epoch": 1789324440,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Everlight Wins 2026 Madison People's Choice Award",
+      "summary": "VERONA, Wis., Sept. 13, 2026 /PRNewswire/ -- Everlight Solar has been voted Madison's People's Choice Favorite Solar Company for 2026, marking the company's third consecutive year receiving this community-driven honor. The Wisconsin State Journal's People's Choice Awards recogniz",
+      "url": "https://www.prnewswire.com/news-releases/everlight-wins-2026-madison-peoples-choice-award-302875444.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-13T18:20:00Z",
+      "epoch": 1789323600,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Insurance Agent Nick Hogan Explains What First-Time Homeowners Often Miss About Homeowners Insurance in HelloNation",
       "summary": "The article explains key parts of a homeowners insurance policy that every first-time buyer should understand before filing a claim. CAPE GIRARDEAU, Mo., Sept. 13, 2026 /PRNewswire/ -- What does homeowners insurance actually cover? A HelloNation article featuring insights from In",
       "url": "https://www.prnewswire.com/news-releases/insurance-agent-nick-hogan-explains-what-first-time-homeowners-often-miss-about-homeowners-insurance-in-hellonation-302876446.html",
@@ -599,8 +627,8 @@
       "title": "Aignostics bringt „PathoSearch\" auf den Markt, eine visuelle Suchmaschine für pathologische Fälle",
       "summary": "Jetzt im Early Access verfügbar: Die bildbasierte Suche liefert echte, diagnostizierte Referenzfälle aus weltweit führenden Zentren, die mehr als 300 Diagnosekategorien abdecken. BERLIN und NEW YORK, 13. September 2026 /PRNewswire/ -- Aignostics gab heute die Veröffentlichung der",
       "url": "https://www.prnewswire.com/news-releases/aignostics-bringt-pathosearch-auf-den-markt-eine-visuelle-suchmaschine-fur-pathologische-falle-302876971.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-13T09:15:00Z",
       "epoch": 1789290900,
       "sentiment": 0.0,
@@ -610,27 +638,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "CARNIVAL TROPICALE 号开放预订 | CARNIVAL TROPICALE 号正式开放预订，2028 年将从加尔维斯顿启航",
-      "summary": "德国帕彭堡2026年9月13日 /美通社/ -- 宾客现已可以预定 Carnival Cruise Line 旗下最新邮轮，也是 Excel 级船队的收官之作——Carnival Tropicale。在开放预订之际，Carnival Cruise Line 还在德国帕彭堡的 MEYER WERFT 造船厂举行了庆祝活动，见证该船从概念设计走向实体建造的里程碑。 从加尔维斯顿启航 德克萨斯州的一切总是更胜一筹。自 2028 年 4 月 15 日起，Carnival Tropicale 将为加尔维斯顿带来全新升级的邮轮乐趣。作为从德克萨斯州启航的最新邮轮，C",
-      "url": "https://www.prnewswire.com/news-releases/carnival-tropicale-hao-kai-fang-yu-ding-carnival-tropicale-hao-zheng-shi-kai-fang-yu-ding-2028-nian-jiang-cong-jia-er-wei-si-dun-qi-hang--846074486.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-13T09:11:00Z",
-      "epoch": 1789290660,
-      "sentiment": 0.0,
-      "tickers": [
-        "CCL"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Aignostics lance PathoSearch, un moteur de recherche visuel dédié aux cas pathologiques",
       "summary": "Désormais disponible en accès anticipé : La recherche par image permet de retrouver des cas de référence réels et diagnostiqués, provenant de centres de renommée mondiale, couvrant plus de 300 entités diagnostiques. BERLIN et NEW YORK, 13 septembre 2026 /PRNewswire/ -- Aignostics",
       "url": "https://www.prnewswire.com/news-releases/aignostics-lance-pathosearch-un-moteur-de-recherche-visuel-dedie-aux-cas-pathologiques-302876970.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-13T09:11:00Z",
       "epoch": 1789290660,
       "sentiment": 0.0,
@@ -712,7 +724,7 @@
     {
       "title": "Aignostics Launches PathoSearch, a Visual Search Engine for Pathology Cases",
       "summary": "Now available via early access: image-based search retrieves real, diagnosed reference cases from world-class centers, spanning 300+ diagnostic entities. BERLIN and NEW YORK, Sept. 12, 2026 /PRNewswire/ -- Today, Aignostics announced the early access release of PathoSearch, a vis",
-      "url": "https://www.prnewswire.com/news-releases/aignostics-launches-pathosearch-a-visual-search-engine-for-pathology-cases-302876588.html",
+      "url": "https://www.prnewswire.com/news-releases/aignostics-launches-pathosearch-a-visual-search-engine-for-pathology-cases-302876571.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
       "published_at": "2026-09-12T10:00:00Z",
