@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-13T10:27:36Z",
+  "generated_at": "2026-09-13T14:34:56Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 150,
-    "breaking_catalyst_count": 27,
+    "breaking_count": 145,
+    "breaking_catalyst_count": 31,
     "pipeline_count": 57,
-    "pipeline_catalyst_count": 13,
+    "pipeline_catalyst_count": 12,
     "movers_count": 0
   },
   "trending_tickers": [
@@ -20,12 +20,6 @@
       "count": 3,
       "catalyst_count": 1,
       "source_count": 3
-    },
-    {
-      "ticker": "AZN.L",
-      "count": 2,
-      "catalyst_count": 1,
-      "source_count": 1
     },
     {
       "ticker": "SNDK",
@@ -68,17 +62,79 @@
       "count": 2,
       "catalyst_count": 0,
       "source_count": 1
+    },
+    {
+      "ticker": "COF",
+      "count": 2,
+      "catalyst_count": 0,
+      "source_count": 1
     }
   ],
   "movers": [],
   "concentration_warning": null,
   "breaking": [
     {
+      "title": "Phase III TAISHAN-302 Trial Shows Tam-Peli Significantly Improves Survival in Relapsed Small-Cell Lung Cancer",
+      "summary": "Anti-B7-H3 antibody-drug conjugate reduced the risk of death by 54% versus topotecan and improved progression-free survival and response rates SEOUL, Republic of Korea, Sept. 13, 2026 /PRNewswire/ -- The phase III TAISHAN-302 trial found that tambotatug pelitecan (Tam-Peli, YL201",
+      "url": "https://www.prnewswire.com/news-releases/phase-iii-taishan-302-trial-shows-tam-peli-significantly-improves-survival-in-relapsed-small-cell-lung-cancer-302876947.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-13T12:57:00Z",
+      "epoch": 1789304220,
+      "sentiment": -0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Phase III MAVERICK Trial Supports Brain MRI Surveillance Alone as Standard of Care for Small-Cell Lung Cancer",
+      "summary": "MRI surveillance without prophylactic cranial irradiation improved cognitive failure-free survival and substantially reduced serious treatment-related adverse events SEOUL, Republic of Korea, Sept. 13, 2026 /PRNewswire/ -- Results from the international phase III SWOG S1827 MAVER",
+      "url": "https://www.prnewswire.com/news-releases/phase-iii-maverick-trial-supports-brain-mri-surveillance-alone-as-standard-of-care-for-small-cell-lung-cancer-302876943.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-13T12:54:00Z",
+      "epoch": 1789304040,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Sacituzumab Govitecan Plus Pembrolizumab Does Not Meet Primary Endpoints in First-Line PD-L1-High Metastatic NSCLC",
+      "summary": "Phase 3 EVOKE-03/KEYNOTE-D46 reports numerically longer progression-free survival and higher response rates, but no statistically significant PFS or OS benefit SEOUL, Republic of Korea, Sept. 13, 2026 /PRNewswire/ -- Sacituzumab govitecan (SG) plus pembrolizumab did not demonstra",
+      "url": "https://www.prnewswire.com/news-releases/sacituzumab-govitecan-plus-pembrolizumab-does-not-meet-primary-endpoints-in-first-line-pd-l1-high-metastatic-nsclc-302876942.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-13T11:50:00Z",
+      "epoch": 1789300200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Phase III ARTEMIS-008 Trial Shows Risvutatug Rezetecan Significantly Improves Overall Survival in Relapsed Small-Cell Lung Cancer",
+      "summary": "B7-H3-directed antibody-drug conjugate reduced the risk of death by 54% compared with topotecan and improved progression-free survival and response rates SEOUL, South Korea, Sept. 13, 2026 /PRNewswire/ -- Results from the randomized Phase III ARTEMIS-008 trial show that risvutatu",
+      "url": "https://www.prnewswire.com/news-releases/phase-iii-artemis-008-trial-shows-risvutatug-rezetecan-significantly-improves-overall-survival-in-relapsed-small-cell-lung-cancer-302876941.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-13T11:46:00Z",
+      "epoch": 1789299960,
+      "sentiment": -0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
       "title": "Ivonescimab Versus Pembrolizumab in First-Line PD-L1-Positive NSCLC: Positive Overall Survival Results from HARMONi-2 Presented at WCLC 2026",
       "summary": "HONG KONG, Sept. 13, 2026 /PRNewswire/ -- Akeso, Inc. (9926.HK) today announced the presentation of positive overall survival (OS) results from the randomized, double-blind, multicenter, registrational Phase III HARMONi-2 study (AK112-303) at the 2026 World Conference on Lung Can",
       "url": "https://www.prnewswire.com/news-releases/ivonescimab-versus-pembrolizumab-in-first-line-pd-l1-positive-nsclc-positive-overall-survival-results-from-harmoni-2-presented-at-wclc-2026-302876953.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-13T06:59:00Z",
       "epoch": 1789282740,
       "sentiment": 0.0,
@@ -454,6 +510,62 @@
       "small_cap_risk": false
     },
     {
+      "title": "Insurance Agent Nick Hogan Explains What First-Time Homeowners Often Miss About Homeowners Insurance in HelloNation",
+      "summary": "The article explains key parts of a homeowners insurance policy that every first-time buyer should understand before filing a claim. CAPE GIRARDEAU, Mo., Sept. 13, 2026 /PRNewswire/ -- What does homeowners insurance actually cover? A HelloNation article featuring insights from In",
+      "url": "https://www.prnewswire.com/news-releases/insurance-agent-nick-hogan-explains-what-first-time-homeowners-often-miss-about-homeowners-insurance-in-hellonation-302876446.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-13T14:05:00Z",
+      "epoch": 1789308300,
+      "sentiment": -0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "GORGIE INTRODUCES BERRY BURST, BRINGING BOLD BERRY FLAVOR AND IT-GIRL STYLE TO MODERN ENERGY",
+      "summary": "The Target-Exclusive Launch Pairs Bright Berry Flavor With GORGIE's Clean, Functional Formula NEW YORK, Sept. 13, 2026 /PRNewswire/ -- GORGIE, the modern energy drink redefining the category with clean ingredients and no artificial sweeteners, announced today the launch of Berry ",
+      "url": "https://www.prnewswire.com/news-releases/gorgie-introduces-berry-burst-bringing-bold-berry-flavor-and-it-girl-style-to-modern-energy-302876167.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-13T13:00:00Z",
+      "epoch": 1789304400,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "GAC AION UT gewinnt den Preis für das beste Außendesign beim Torino Automotive Design Award 2026",
+      "summary": "TURIN, Italien, 13. September 2026 /PRNewswire/ -- Der AION UT von GAC wurde beim Torino Automotive Design Award (TADA) 2026, der im Rahmen des Salone Auto Torino 2026 stattfand, mit dem Preis für das beste Außendesign ausgezeichnet. Diese Auszeichnung würdigt die unverwechselbar",
+      "url": "https://www.prnewswire.com/news-releases/gac-aion-ut-gewinnt-den-preis-fur-das-beste-auWendesign-beim-torino-automotive-design-award-2026-302876985.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-13T11:54:00Z",
+      "epoch": 1789300440,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "L'AION UT de GAC remporte le prix du meilleur design extérieur lors du Torino Automotive Design Award 2026",
+      "summary": "TURIN, Italie, 13 septembre 2026 /PRNewswire/ -- L'AION UT de GAC a remporté le prix du meilleur design extérieur lors du Torino Automotive Design Award (TADA) 2026, organisé dans le cadre du Salone Auto Torino 2026. Cette distinction récompense l'identité visuelle unique de ce m",
+      "url": "https://www.prnewswire.com/news-releases/laion-ut-de-gac-remporte-le-prix-du-meilleur-design-exterieur-lors-du-torino-automotive-design-award-2026-302876984.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-13T11:51:00Z",
+      "epoch": 1789300260,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "POWTEK Group, Heating Tech Expo 2026 ve Zuchex 2026 Fuarlarında Çok Markalı Üretim Gücünü Sergiliyor",
       "summary": "VARŞOVA, Polonya ve İSTANBUL, 13 Eylül 2026 /PRNewswire/ -- POWTEK Group (\"POWTEK\"), Eylül ayında düzenlenen iki büyük Avrupa fuarında çok markalı ürün portföyünü ve üretim kapasitesini sergiledi. KALTEC, Polonya'nın Varşova kentinde düzenlenen Heating Tech Expo 2026 fuarına katı",
       "url": "https://www.prnewswire.com/news-releases/powtek-group-heating-tech-expo-2026-ve-zuchex-2026-fuarlarnda-cok-markal-uretim-gucunu-sergiliyor-302876974.html",
@@ -572,170 +684,13 @@
       "small_cap_risk": true
     },
     {
-      "title": "CGTN: Jak BRICS vytváří nové příležitosti pro rozvoj Globálního Jihu",
-      "summary": "Čínská státní televizní stanice CGTN zveřejnila článek, který se zabývá tím, jak se čtyři globální iniciativy Číny propojují se spoluprací v rámci BRICS s cílem vytvořit nové příležitosti pro rozvoj Globálního Jihu. Článek zdůrazňuje, jak tyto iniciativy pomáhají Globálnímu Jihu ",
-      "url": "https://www.prnewswire.com/news-releases/cgtn-jak-brics-vytvai-nove-pileitosti-pro-rozvoj-globalniho-jihu-302876959.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-13T07:53:00Z",
-      "epoch": 1789285980,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "CGTN -- Как БРИКС создает новые возможности для развития Глобального Юга",
-      "summary": "CGTN опубликовала статью, в которой рассматривается, как четыре глобальные инициативы Китая согласуются с сотрудничеством БРИКС для создания новых возможностей развития для Глобального Юга. В статье подчеркивается, как эти инициативы помогают Глобальному Югу добиваться более инкл",
-      "url": "https://www.prnewswire.com/news-releases/cgtn-----------302876957.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-13T07:39:00Z",
-      "epoch": 1789285140,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "CGTN: Ako BRICS vytvára nové príležitosti pre rozvoj globálneho Juhu",
-      "summary": "CGTN publikovala článok skúmajúci, ako sa štyri globálne iniciatívy Číny zosúlaďujú so spoluprácou v rámci BRICS s cieľom vytvoriť nové rozvojové príležitosti pre globálny Juh. Článok zdôrazňuje, ako tieto iniciatívy pomáhajú globálnemu Juhu presadzovať inkluzívnejší rozvoj a zís",
-      "url": "https://www.prnewswire.com/news-releases/cgtn-ako-brics-vytvara-nove-prileitosti-pre-rozvoj-globalneho-juhu-302876956.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-13T07:34:00Z",
-      "epoch": 1789284840,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "CGTN : Comment les BRICS ouvrent de nouvelles perspectives pour le développement des pays du Sud",
-      "summary": "CGTN a publié un article analysant la manière dont les quatre initiatives mondiales de la Chine s'inscrivent dans le cadre de la coopération entre les BRICS afin de créer de nouvelles opportunités de développement pour les pays du Sud. Cet article met en lumière la manière dont c",
-      "url": "https://www.prnewswire.com/news-releases/cgtn--comment-les-brics-ouvrent-de-nouvelles-perspectives-pour-le-developpement-des-pays-du-sud-302876955.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-13T07:21:00Z",
-      "epoch": 1789284060,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "CGTN: Wie die BRICS-Staaten neue Entwicklungsmöglichkeiten für den Globalen Süden schaffen",
-      "summary": "CGTN veröffentlichte einen Artikel, in dem untersucht wird, wie Chinas vier globale Initiativen mit der BRICS-Zusammenarbeit in Einklang stehen, um neue Entwicklungsmöglichkeiten für den Globalen Süden zu schaffen. Der Artikel hebt hervor, wie die Initiativen dem Globalen Süden h",
-      "url": "https://www.prnewswire.com/news-releases/cgtn-wie-die-brics-staaten-neue-entwicklungsmoglichkeiten-fur-den-globalen-suden-schaffen-302876954.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-13T07:16:00Z",
-      "epoch": 1789283760,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "CGTN: Cómo los BRICS crean nuevas oportunidades para el desarrollo del Sur Global",
-      "summary": "CGTN publicó un artículo que analiza cómo las cuatro iniciativas globales de China se alinean con la cooperación de los BRICS para crear nuevas oportunidades de desarrollo para el Sur Global. El artículo destaca cómo estas iniciativas están ayudando al Sur Global a impulsar un de",
-      "url": "https://www.prnewswire.com/news-releases/cgtn-como-los-brics-crean-nuevas-oportunidades-para-el-desarrollo-del-sur-global-302876952.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-13T06:50:00Z",
-      "epoch": 1789282200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "El «Boo Bash Fall Festival» se estrenará en California el 18 de septiembre, con un huerto de calabazas inmersivo de más de 100.000 pies cuadrados en Escondido",
-      "summary": "Una nueva experiencia de temporada convertirá el centro comercial Mershops North County Mall en un destino otoñal de seis semanas de duración, con cinco zonas diferenciadas y una programación para todas las edades. ESCONDIDO, California, 12 de septiembre de 2026 /PRNewswire-HISPA",
-      "url": "https://www.prnewswire.com/news-releases/el-boo-bash-fall-festival-se-estrenara-en-california-el-18-de-septiembre-con-un-huerto-de-calabazas-inmersivo-de-mas-de-100-000-pies-cuadrados-en-escondido-882630177.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-13T03:47:00Z",
-      "epoch": 1789271220,
-      "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "BRICS countries rally to counter shocks of power politics, unilateralism: China Daily editorial",
-      "summary": "BEIJING, Sept. 12, 2026 /PRNewswire/ -- The following article was published today by China Daily. The 18th BRICS Summit, which opened on Saturday in New Delhi, the capital of India, is an opportunity for the participating countries to build consensus on development through strate",
-      "url": "https://www.prnewswire.com/news-releases/brics-countries-rally-to-counter-shocks-of-power-politics-unilateralism-china-daily-editorial-302876908.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-13T00:18:00Z",
-      "epoch": 1789258680,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Red Bank Catholic High School and Conscientia Health Open New Wellness Room, Marking Expanded Commitment to Student Mental and Physical Health",
       "summary": "Ribbon-cutting held on World Suicide Prevention Day RED BANK, N.J., Sept. 12, 2026 /PRNewswire/ -- Red Bank Catholic High School officially opened a new Wellness Room on its Broad Street campus today, with a ribbon-cutting and blessing ceremony marking the next chapter of the sch",
       "url": "https://www.prnewswire.com/news-releases/red-bank-catholic-high-school-and-conscientia-health-open-new-wellness-room-marking-expanded-commitment-to-student-mental-and-physical-health-302876907.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-13T00:01:00Z",
       "epoch": 1789257660,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Hyundai Motor Group Accelerates Autonomous Driving Innovation with AI-Powered Data Flywheel",
-      "summary": "Hyundai Motor Group hosts \"HMG Autonomous Driving Media Day\", outlining its roadmap for the next era of autonomous driving; first showcase of Level 2++ technology Dual-Track strategy accelerates Level 2+ production through NVIDIA collaboration while internalizing key autonomous d",
-      "url": "https://www.prnewswire.com/news-releases/hyundai-motor-group-accelerates-autonomous-driving-innovation-with-ai-powered-data-flywheel-302876366.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-13T00:00:00Z",
-      "epoch": 1789257600,
-      "sentiment": 0.67,
-      "tickers": [
-        "005380.KS",
-        "NVDA"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Agog-Supported Works Win Two of Three Immersive Prizes at the 83rd Venice International Film Festival",
-      "summary": "Out of the Ashes receives the Venice Immersive Special Jury Prize and Empire at Sea receives the Venice Immersive Achievement Prize; the two projects offer distinct approaches to climate storytelling LOS ANGELES, Sept. 12, 2026 /PRNewswire/ -- Two projects supported by Agog: The ",
-      "url": "https://www.prnewswire.com/news-releases/agog-supported-works-win-two-of-three-immersive-prizes-at-the-83rd-venice-international-film-festival-302876895.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-12T20:15:00Z",
-      "epoch": 1789244100,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Allstream Energy Partners Nominated in Multiple Categories for Fast Company's Best Workplaces for Innovators",
-      "summary": "Nomination Categories for Fast Company's Best Workplaces for Innovators in AI & Automation, Advertising, Marketing & PR HOUSTON, Sept. 12, 2026 /PRNewswire/ -- Allstream Energy Partners has been nominated in multiple categories for Fast Company's Best Workplaces for Innovators pr",
-      "url": "https://www.prnewswire.com/news-releases/allstream-energy-partners-nominated-in-multiple-categories-for-fast-companys-best-workplaces-for-innovators-302876887.html",
-      "source": "PR Newswire — Biotechnology",
-      "source_id": "prnewswire-biotech",
-      "published_at": "2026-09-12T20:15:00Z",
-      "epoch": 1789244100,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -1084,34 +1039,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "LifeCare Home Health &amp; Hospice Family Agencies Earn 2025 SHPBest Awards for Patient and Caregiver Experience",
-      "summary": "Eternal Faith Hospice and Beyond Faith Homecare teams recognized among top-performing providers for hospice caregiver and home health patient experience IRVING, Texas, Sept. 11, 2026 /PRNewswire/ -- LifeCare Home Health & Hospice Family announced that four locations within its fa",
-      "url": "https://www.prnewswire.com/news-releases/lifecare-home-health--hospice-family-agencies-earn-2025-shpbest-awards-for-patient-and-caregiver-experience-302876660.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-11T19:34:00Z",
-      "epoch": 1789155240,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Armor Health Remembers September 11 and Reaffirms Commitment to Public Safety",
-      "summary": "MIAMI, Sept. 11, 2026 /PRNewswire/ -- Twenty-five years after the attacks of September 11, 2001, Armor Health (Armorhealthcare.com) joins Americans across the country in remembering the lives lost, honoring the heroes who answered the call, and recognizing the extraordinary coura",
-      "url": "https://www.prnewswire.com/news-releases/armor-health-remembers-september-11-and-reaffirms-commitment-to-public-safety-302876656.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-11T19:24:00Z",
-      "epoch": 1789154640,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "St. Johns County Outlines Preparations for Proposed Property Tax Amendment 3",
       "summary": "County began planning in May to protect essential services, evaluate capital projects, strengthen reserves, and inform residents ST. JOHNS COUNTY, Fla., Sept. 11, 2026 /PRNewswire/ -- St. Johns County has been preparing since May for the potential effects of proposed Property Tax",
       "url": "https://www.prnewswire.com/news-releases/st-johns-county-outlines-preparations-for-proposed-property-tax-amendment-3-302876641.html",
@@ -1164,20 +1091,6 @@
       "published_at": "2026-09-11T17:58:00Z",
       "epoch": 1789149480,
       "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "/C O R R E C T I O N -- Aesthetic Management Partners/",
-      "summary": "In the news release, Aesthetic Management Partners Expands Its Aesthetic Portfolio with ATTIVA® Subdermal Radiofrequency, issued 10-Sept-2026 by Aesthetic Management Partners over PR Newswire, we are advised by the company that changes have been made. The complete, corrected rele",
-      "url": "https://www.prnewswire.com/news-releases/aesthetic-management-partners-expands-its-aesthetic-portfolio-with-attiva-subdermal-radiofrequency-302874806.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-11T17:46:00Z",
-      "epoch": 1789148760,
-      "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -1530,20 +1443,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Daily Journal Corp",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Real Estate Expert \"King\" Gary Cox Breaks Down Comparative Market Analysis in HelloNation",
-      "summary": "In HelloNation, Real Estate Expert \"King\" Gary Cox of Anchorage, Alaska Explains How a Comparative Market Analysis Reveals a Home's True Value. ANCHORAGE, Alaska, Sept. 11, 2026 /PRNewswire/ -- What determines a home's true market value? A HelloNation article explains how a compa",
-      "url": "https://www.prnewswire.com/news-releases/real-estate-expert-king-gary-cox-breaks-down-comparative-market-analysis-in-hellonation-302876576.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-11T16:46:00Z",
-      "epoch": 1789145160,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
@@ -2218,6 +2117,36 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Capital One Auto Receivables LLC (0001133438) (Filer)",
+      "summary": "Filed:  2026-09-11  AccNo:  0001193125-26-389229  Size:  53 KB\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1133438/000119312526389229/0001193125-26-389229-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-09-11T15:45:23Z",
+      "epoch": 1789141523,
+      "sentiment": 0.0,
+      "tickers": [
+        "COF"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Caring Brands, Inc. (0002020737) (Filer)",
+      "summary": "Filed:  2026-09-11  AccNo:  0001493152-26-042368  Size:  307 KB\n Item 3.02: Unregistered Sales of Equity Securities\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/2020737/000149315226042368/0001493152-26-042368-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-09-11T14:46:01Z",
+      "epoch": 1789137961,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Caring Brands, Inc.",
+      "catalyst": false,
+      "small_cap_risk": false
     }
   ],
   "pipeline": [
@@ -2284,6 +2213,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "Akeso, Summit’s ivonescimab tops Keytruda in lung cancer survival, with strong data in PD-L1-high patients",
+      "summary": "Akeso and Summit’s ivonescimab reduced the risk of death by 27% compared with Keytruda in the phase 3 Harmoni-2 trial in first-line, PD-L1-positive non-small cell lung cancer, with particularly strong data in the PD-L1-high group.",
+      "url": "https://www.fiercepharma.com/pharma/akeso-summit-ivonescimab-tops-keytruda-lung-cancer-survival-strong-data-pd-l1-high-patients",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-09-09T15:35:00Z",
+      "epoch": 1788968100,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
       "title": "nPhase launches AI clinical data management platform to soup up sponsor trial design",
       "summary": "Clinical research company nPhase has launched an end-to-end clinical data management platform designed to help trial sponsors leverage trial results with AI.",
       "url": "https://www.fiercebiotech.com/cro/nphase-launches-clinical-data-management-platform-improve-sponsor-trial-design",
@@ -2340,20 +2283,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Solstice rises with $225M series A to advance next-gen CTLA-4 immunotherapy into phase 2",
-      "summary": "Solstice Oncology has secured $225 million in series A funding to advance a next-gen immunotherapy that the biotech hopes will turn “darkness to light” for cancer care.",
-      "url": "https://www.fiercebiotech.com/biotech/solstice-rises-225m-advance-second-gen-ctla-4-immunotherapy",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-09-09T00:08:00Z",
-      "epoch": 1788912480,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
       "title": "Eight Trends Reshaping Patient-Centric Drug Development",
       "summary": "Exclusive insights from the Patients as Partners Advisory Board on the biggest challenges and opportunities shaping patient engagement, patient advocacy, clinical trial participation, trust, transparency, and patient-focused drug development.",
       "url": "https://www.fiercepharma.com/partner-content/eight-trends-reshaping-patient-centric-drug-development",
@@ -2382,22 +2311,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "FDA approves AstraZeneca’s Etcamah, opening ctDNA-guided treatment paradigm in breast cancer",
-      "summary": "In a rare divergence from its own expert panel, the FDA has granted accelerated approval to AstraZeneca’s camizestrant, turning a contentious regulatory review into a landmark win that opens a new treatment paradigm for molecular-guided cancer care.",
-      "url": "https://www.fiercepharma.com/pharma/fda-approves-astrazeneca-etcamah-opening-ctdna-guided-treatment-shift-breast-cancer",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-09-08T09:57:00Z",
-      "epoch": 1788861420,
-      "sentiment": 1.0,
-      "tickers": [
-        "AZN.L"
-      ],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
       "title": "Is Moderna, Merck's mRNA cancer vaccine win the start of a 'personalized medicine revolution'?",
       "summary": "The announcement from Merck &amp; Co. and Moderna last month that their mRNA cancer vaccine had successfully lengthened patient survival in a phase 3 study affirmed the two companies' years of hard work and reignited hopes for the field of personalized medicine.",
       "url": "https://www.fiercebiotech.com/biotech/moderna-merck-re-invigorating-mrna-cancer-vaccine-therapy",
@@ -2412,6 +2325,22 @@
       ],
       "company_name": null,
       "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "GE HealthCare mulls $1B imaging chemicals maker deal: Financial Times",
+      "summary": "GE HealthCare is said to be on the cusp of buying out radiopharmaceutical developer Sofie Biosciences, according to a report by the Financial Times.",
+      "url": "https://www.fiercebiotech.com/medtech/ge-healthcare-mulling-1b-imaging-chemicals-maker-deal-financial-times",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-09-13T08:05:00Z",
+      "epoch": 1789286700,
+      "sentiment": 0.33,
+      "tickers": [
+        "GEHC"
+      ],
+      "company_name": null,
+      "catalyst": false,
       "small_cap_risk": false
     },
     {
