@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-14T23:16:56Z",
+  "generated_at": "2026-09-15T01:40:46Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 149,
-    "breaking_catalyst_count": 24,
+    "breaking_catalyst_count": 25,
     "pipeline_count": 57,
     "pipeline_catalyst_count": 13,
     "movers_count": 0
@@ -73,6 +73,20 @@
   "movers": [],
   "concentration_warning": null,
   "breaking": [
+    {
+      "title": "Castelion Moves Blackbeard into Production with U.S. Navy Order Valued Up to $200 Million",
+      "summary": "Navy order transitions Blackbeard from early operational capability prototypes to production rounds under a SBIR Phase III award TORRANCE, Calif., Sept. 14, 2026 /PRNewswire/ -- Castelion today announced a production delivery order from the U.S. Navy, with a total value of up to ",
+      "url": "https://www.prnewswire.com/news-releases/castelion-moves-blackbeard-into-production-with-us-navy-order-valued-up-to-200-million-302878187.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-14T23:18:00Z",
+      "epoch": 1789427880,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
     {
       "title": "8-K - Clean Energy Technologies, Inc. (0001329606) (Filer)",
       "summary": "Filed:  2026-09-14  AccNo:  0001493152-26-042617  Size:  458 KB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant\n Item 3.02: Unregistered Sales of E",
@@ -412,6 +426,178 @@
       "small_cap_risk": false
     },
     {
+      "title": "Ukrainian Parliament Awards U.S. Bipartisan Delegation in Kyiv as Russian Attacks Intensify Against Civilian Infrastructure and the U.S. House Weighs the Lindsey O. Graham Sanctioning Russia and Iran Act",
+      "summary": "Three Republican senators and a bipartisan group of five U.S. representatives honored by Chairman Ruslan Stefanchuk; For Country Caucus backs the Russia sanctions bill as the House prepares to take up the Senate-passed version. WASHINGTON, Sept. 14, 2026 /PRNewswire/ -- The Chair",
+      "url": "https://www.prnewswire.com/news-releases/ukrainian-parliament-awards-us-bipartisan-delegation-in-kyiv-as-russian-attacks-intensify-against-civilian-infrastructure-and-the-us-house-weighs-the-lindsey-o-graham-sanctioning-russia-and-iran-act-302878254.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-15T01:18:00Z",
+      "epoch": 1789435080,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Titomic awarded US$5.0 million U.S. defense contract for next-generation cold spray system",
+      "summary": "HUNTSVILLE, Ala., Sept. 14, 2026 /PRNewswire/ -- Titomic Limited (ASX: TTT), a global leader in industrial-scale cold spray additive manufacturing and coating solutions, is pleased to announce that its wholly owned U.S. subsidiary, Titomic USA, Inc., has been awarded a US$5.0 mil",
+      "url": "https://www.prnewswire.com/news-releases/titomic-awarded-us5-0-million-us-defense-contract-for-next-generation-cold-spray-system-302878252.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-15T01:14:00Z",
+      "epoch": 1789434840,
+      "sentiment": 0.0,
+      "tickers": [
+        "TTT"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Peak3 launches the first global insurance AI-DLC, alongside its AI-native core system",
+      "summary": "Graphene Harness turns insurance software delivery into an AI production line. Graphene v4 gives agents a governed core to run and change the business. SINGAPORE, Sept. 15, 2026 /PRNewswire/ -- Peak3, a global provider of digital and AI-driven insurance software, today announced ",
+      "url": "https://www.prnewswire.com/news-releases/peak3-launches-the-first-global-insurance-ai-dlc-alongside-its-ai-native-core-system-302877508.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-15T01:00:00Z",
+      "epoch": 1789434000,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Shanghai Electric hlási v prvej polovici roka 2026 rast tržieb o 16,6 % - nové objednávky dosahujú 100,39 miliardy CNY",
+      "summary": "Urýchlené zavádzanie technológií zelenej energie a priemyselnej AI prináša pokroky v projektoch na európskych a blízkovýchodných trhoch ŠANGHAJ, 15. september 2026 /PRNewswire/ – Spoločnosť Shanghai Electric (SEHK: 02727, SSE: 601727) zverejnila svoje priebežné výsledky za prvú p",
+      "url": "https://www.prnewswire.com/news-releases/shanghai-electric-hlasi-v-prvej-polovici-roka-2026-rast-trieb-o-16-6---nove-objednavky-dosahuju-100-39-miliardy-cny-302878076.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-15T00:10:00Z",
+      "epoch": 1789431000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Shanghai Electric oznámila za první pololetí roku 2026 nárůst tržeb o 16,6% a objem nových zakázek dosáhl 100,39 miliardy jüanů",
+      "summary": "Zrychlené zavádění technologií v oblasti zelené energie a průmyslové umělé inteligence, pokrok v projektech na trzích v Evropě a na Středním východě ŠANGHAJ, 15. září 2026 /PRNewswire/ -- Společnost Shanghai Electric (SEHK: 02727, SSE: 601727) zveřejnila své předběžné výsledky za",
+      "url": "https://www.prnewswire.com/news-releases/shanghai-electric-oznamila-za-prvni-pololeti-roku-2026-narst-treb-o-16-6-a-objem-novych-zakazek-dosahl-100-39-miliardy-juan-302877588.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-15T00:10:00Z",
+      "epoch": 1789431000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Shanghai Electric Reports 16.6% Revenue Growth in H1 2026 as New Orders Reach CNY 100.39 Billion",
+      "summary": "Accelerated deployment of green energy and industrial AI technologies, with project progress in European and Middle Eastern markets SHANGHAI, Sept. 14, 2026 /PRNewswire/ -- Shanghai Electric (SEHK: 02727, SSE: 601727) has released its interim results for the first half of 2026. D",
+      "url": "https://www.prnewswire.com/news-releases/shanghai-electric-reports-16-6-revenue-growth-in-h1-2026-as-new-orders-reach-cny-100-39-billion-302877397.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-15T00:10:00Z",
+      "epoch": 1789431000,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Shanghai Electric annonce une hausse de 16,6 % de son chiffre d'affaires au premier semestre de 2026, avec un volume de nouvelles commandes atteignant 100,39 milliards de yuans",
+      "summary": "Déploiement accéléré des technologies liées aux énergies vertes et à l'IA industrielle, avec des avancées dans les projets sur les marchés européens et du Moyen-Orient SHANGHAI, 15 septembre 2026 /PRNewswire/ -- Shanghai Electric (SEHK : 02727, SSE : 601727) a publié ses résultat",
+      "url": "https://www.prnewswire.com/news-releases/shanghai-electric-annonce-une-hausse-de-16-6--de-son-chiffre-daffaires-au-premier-semestre-de-2026--avec-un-volume-de-nouvelles-commandes-atteignant-100-39-milliards-de-yuans-302877538.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-15T00:10:00Z",
+      "epoch": 1789431000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Shanghai Electric odnotowuje wzrost przychodów o 16,6% w I półroczu 2026 r., a wartość nowych zamówień sięga 100,39 mld CNY",
+      "summary": "Przyspieszenie wdrażania technologii AI w obszarze zielonej energii i przemysłu oraz postępy projektów na rynkach europejskich i bliskowschodnich SZANGHAJ, 15 września 2026 r. /PRNewswire/ -- Spółka Shanghai Electric (SEHK: 02727, SSE: 601727) opublikowała wyniki okresowe za pier",
+      "url": "https://www.prnewswire.com/news-releases/shanghai-electric-odnotowuje-wzrost-przychodow-o-16-6-w-i-poroczu-2026-r-a-warto-nowych-zamowie-siga-100-39-mld-cny-302877778.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-15T00:10:00Z",
+      "epoch": 1789431000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Shanghai Electric registra un crecimiento de ingresos del 16,6 % en el primer semestre de 2026",
+      "summary": "-Shanghai Electric registra un crecimiento de ingresos del 16,6 % en el primer semestre de 2026; los nuevos pedidos alcanzan los 100.390 millones de CNY Despliegue acelerado de energías verdes y tecnologías de IA industrial, con avances en proyectos en los mercados de Europa y Or",
+      "url": "https://www.prnewswire.com/news-releases/shanghai-electric-registra-un-crecimiento-de-ingresos-del-16-6--en-el-primer-semestre-de-2026--302877524.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-15T00:10:00Z",
+      "epoch": 1789431000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Shanghai Electric verzeichnet im ersten Halbjahr 2026 ein Umsatzwachstum von 16,6 %; Auftragseingang erreicht 100,39 Milliarden CNY",
+      "summary": "Beschleunigter Einsatz grüner Energien und industrieller KI-Technologien sowie Fortschritte bei Projekten auf den Märkten in Europa und im Nahen Osten SHANGHAI, 15. September 2026 /PRNewswire/ -- Shanghai Electric (SEHK: 02727, SSE: 601727) hat seine Halbjahresergebnisse für das ",
+      "url": "https://www.prnewswire.com/news-releases/shanghai-electric-verzeichnet-im-ersten-halbjahr-2026-ein-umsatzwachstum-von-16-6--auftragseingang-erreicht-100-39-milliarden-cny-302877546.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-15T00:10:00Z",
+      "epoch": 1789431000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Corteva Categorically Rejects Unfounded, Unprecedented Allegations by State Attorneys General",
+      "summary": "Future crop protection company will be a strongly capitalized market leader with compelling value proposition for farmers, shareholders INDIANAPOLIS, Sept. 14, 2026 /PRNewswire/ -- Corteva, Inc. (NYSE: CTVA) categorically rejects the attempt by a number of State Attorneys General",
+      "url": "https://www.prnewswire.com/news-releases/corteva-categorically-rejects-unfounded-unprecedented-allegations-by-state-attorneys-general-302878200.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-14T23:47:00Z",
+      "epoch": 1789429620,
+      "sentiment": 0.0,
+      "tickers": [
+        "CTVA"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Are BWIN, ACVA, SWMR Obtaining Fair Deals for their Shareholders?",
+      "summary": "Insiders may stand to receive substantial financial benefits not available to ordinary shareholders. The proposed transactions may contain terms that could limit superior competing offers. Shareholders are encouraged to contact the firm to discuss their rights and options at no c",
+      "url": "https://www.prnewswire.com/news-releases/are-bwin-acva-swmr-obtaining-fair-deals-for-their-shareholders-302878120.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-14T23:44:00Z",
+      "epoch": 1789429440,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "AMAZON TEAMSTERS RALLY FOR DELIVERY PROTECTION ACT",
       "summary": "Teamsters Demand City Council Pass Logistics Reform Ordinance CHICAGO, Sept. 14, 2026 /PRNewswire/ -- Hundreds of Amazon Teamsters in Chicago will be joined by local elected officials and labor and civil society coalition allies for a rally on Tuesday, September 15. The workers w",
       "url": "https://www.prnewswire.com/news-releases/amazon-teamsters-rally-for-delivery-protection-act-302878181.html",
@@ -474,20 +660,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Pine Ridge Vineyards Celebrates 30 Years of Its Iconic Chenin Blanc + Viognier and Announces Expanded Role for Winemaker Josh Widaman",
-      "summary": "As Pine Ridge Vineyards earns a Wine Enthusiast 2026 Wine Star Awards nomination for American Winery of the Year, its iconic Chenin Blanc + Viognier enters a new era with Josh Widaman leading the program while continuing to shape the winery's Cabernet Sauvignon legacy. NAPA, Cali",
-      "url": "https://www.prnewswire.com/news-releases/pine-ridge-vineyards-celebrates-30-years-of-its-iconic-chenin-blanc--viognier-and-announces-expanded-role-for-winemaker-josh-widaman-302878140.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-14T22:39:00Z",
-      "epoch": 1789425540,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Bitmine Immersion Technologies (BMNR) maakt bekend dat het 5,96 miljoen ETH-tokens in bezit heeft en dat het totale bezit aan cryptovaluta en contanten USD 15,8 miljard bedraagt.",
       "summary": "Bitmine bezit 4,9% van het totale aanbod van ETH-munten van 122,0 miljoen Bitmine heeft in slechts 15 maanden 98% van de weg naar de 'Alchemie van 5%' afgelegd ETH is tot nu toe de best presterende macro-activa in het derde kwartaal van 2026, met een prestatie die 5866 basispunte",
       "url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-maakt-bekend-dat-het-5-96-miljoen-eth-tokens-in-bezit-heeft-en-dat-het-totale-bezit-aan-cryptovaluta-en-contanten-usd-15-8-miljard-bedraagt-302878152.html",
@@ -495,20 +667,6 @@
       "source_id": "prnewswire-financial",
       "published_at": "2026-09-14T22:14:00Z",
       "epoch": 1789424040,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "KanEquip JCB Rolls into Kansas City",
-      "summary": "KANSAS CITY, Kan. , Sept. 14, 2026 /PRNewswire/ -- KanEquip JCB is rolling into the Kansas City market with a new location dedicated to JCB equipment sales, parts and service, expanding the company's ability to support JCB customers throughout the region. The Kansas City location",
-      "url": "https://www.prnewswire.com/news-releases/kanequip-jcb-rolls-into-kansas-city-302878149.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-14T22:08:00Z",
-      "epoch": 1789423680,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -528,53 +686,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "Zip Security Joins CrowdStrike's Project QuiltWorks to Secure SMBs Against Frontier AI Risk",
-      "summary": "Zip brings its managed security platform to the coalition, extending frontier AI risk protection to businesses with lean or no security teams NEW YORK, Sept. 14, 2026 /PRNewswire/ -- Zip Security today announced it has joined Project QuiltWorks, the coalition led by CrowdStrike t",
-      "url": "https://www.prnewswire.com/news-releases/zip-security-joins-crowdstrikes-project-quiltworks-to-secure-smbs-against-frontier-ai-risk-302878146.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-14T21:58:00Z",
-      "epoch": 1789423080,
-      "sentiment": -0.67,
-      "tickers": [
-        "CRWD"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "California Waste Solutions Plans New Renewable Energy Facility To Help Vietnam Achieve National Net Zero Target",
-      "summary": "Vietnam Waste Solutions (VWS), the California-owned operator of Ho Chi Minh City's largest engineered landfill, is now embracing an expansion and conversion. Plans include a 50- to 60-megawatt waste-to-energy plant and specialized recycling lines that would supplement VWS's exist",
-      "url": "https://www.prnewswire.com/news-releases/california-waste-solutions-plans-new-renewable-energy-facility-to-help-vietnam-achieve-national-net-zero-target-302878145.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-14T21:57:00Z",
-      "epoch": 1789423020,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "ATI CEO to speak at Morgan Stanley 14th Annual Laguna Conference",
-      "summary": "Kim Fields to discuss aerospace opportunities, growing value of ATI's differentiated capabilities DALLAS, Sept. 14, 2026 /PRNewswire/ -- ATI Inc. (NYSE: ATI) Board Chair, President and Chief Executive Officer Kim Fields will attend the Morgan Stanley 14th Annual Laguna Conference",
-      "url": "https://www.prnewswire.com/news-releases/ati-ceo-to-speak-at-morgan-stanley-14th-annual-laguna-conference-302878141.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-14T21:50:00Z",
-      "epoch": 1789422600,
-      "sentiment": 0.0,
-      "tickers": [
-        "ATI",
-        "MS"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
     },
     {
       "title": "Sullivan &amp; Cromwell eröffnet Niederlassung im ADGM",
@@ -621,61 +732,17 @@
       "small_cap_risk": false
     },
     {
-      "title": "PPL Electric Proposes New Customer Protection Transmission Rider, Building on its Existing Customer Protection Framework",
-      "summary": "ALLENTOWN, Pa., Sept. 14, 2026 /PRNewswire/ -- PPL Electric Utilities today filed a proposal with the Pennsylvania Public Utility Commission that would make transmission costs more transparent for customers and create a new way to directly assign certain transmission-related cost",
-      "url": "https://www.prnewswire.com/news-releases/ppl-electric-proposes-new-customer-protection-transmission-rider-building-on-its-existing-customer-protection-framework-302878126.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-14T21:24:00Z",
-      "epoch": 1789421040,
-      "sentiment": 0.0,
-      "tickers": [
-        "PPL"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "ZS named a Leader in 2026 IDC MarketScape for Life Science R&D RWD and RWE",
       "summary": "Assessment recognizes ZS's capabilities across real-world data and evidence platforms, technology solutions and consulting services EVANSTON, Ill., Sept. 14, 2026 /PRNewswire/ -- ZS, a global management consulting and technology firm, has been named a Leader in the IDC MarketScap",
       "url": "https://www.prnewswire.com/news-releases/zs-named-a-leader-in-2026-idc-marketscape-for-life-science-rd-rwd-and-rwe-302876669.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-14T21:24:00Z",
       "epoch": 1789421040,
       "sentiment": 0.0,
       "tickers": [
         "RWE.DE"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Gold House Honors the 2026 Multicultural Emmy® Nominees at the One House Toast to the Emmys®",
-      "summary": "Red Carpet Photos (Credit: Andrew Ge) Party Photos (Credit: Duke Winn) LOS ANGELES, Sept. 14, 2026 /PRNewswire/ -- Gold House, the cultural platform shaping global opportunity, honored the multicultural nominees of the 78th Emmy® Awards at its annual One House Toast to the Emmys®",
-      "url": "https://www.prnewswire.com/news-releases/gold-house-honors-the-2026-multicultural-emmy-nominees-at-the-one-house-toast-to-the-emmys-302878125.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-14T21:18:00Z",
-      "epoch": 1789420680,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Do employers value University of Phoenix graduates? The Harris Poll survey finds 98% report satisfaction",
-      "summary": "97% of managers supervising University of Phoenix graduates say they are likely to hire someone with a University of Phoenix degree in the future PHOENIX, Sept. 14, 2026 /PRNewswire/ -- New research conducted by The Harris Poll on behalf of University of Phoenix finds high levels",
-      "url": "https://www.prnewswire.com/news-releases/do-employers-value-university-of-phoenix-graduates-the-harris-poll-survey-finds-98-report-satisfaction-302878118.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-14T21:08:00Z",
-      "epoch": 1789420080,
-      "sentiment": 0.0,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -688,20 +755,6 @@
       "source_id": "prnewswire-financial",
       "published_at": "2026-09-14T21:07:00Z",
       "epoch": 1789420020,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Fireplace Expert John Bubenik Explains How a Fireplace Remodel Can Upgrade a Home in HelloNation",
-      "summary": "A Focused Fireplace Update Can Refresh a Room's Style and Function Without the Cost and Disruption of a Larger Renovation. ST. LOUIS, Sept. 14, 2026 /PRNewswire/ -- How can a fireplace remodel upgrade a home? HelloNation published an article featuring insights from Fireplace Expe",
-      "url": "https://www.prnewswire.com/news-releases/fireplace-expert-john-bubenik-explains-how-a-fireplace-remodel-can-upgrade-a-home-in-hellonation-302878116.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-14T21:05:00Z",
-      "epoch": 1789419900,
       "sentiment": 0.67,
       "tickers": [],
       "company_name": null,
@@ -824,6 +877,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "Starwood Capital Promotes Tim Abram to Head of Asset Management, Europe",
+      "summary": "Expands Firm's Bench of Leaders Focused on Value Creation and Deal Execution in the Region MIAMI, Sept. 14, 2026 /PRNewswire/ -- Starwood Capital Group (\"Starwood Capital\"), a leading global private investment firm, today announced the promotion of Tim Abram to Head of Asset Mana",
+      "url": "https://www.prnewswire.com/news-releases/starwood-capital-promotes-tim-abram-to-head-of-asset-management-europe-302878024.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-14T20:30:00Z",
+      "epoch": 1789417800,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "TriNet Announces Quarterly Dividend",
       "summary": "DUBLIN, Calif., Sept. 14, 2026 /PRNewswire/ -- TriNet (NYSE: TNET), a leading provider of comprehensive human resources solutions for small and medium-size businesses (SMBs), today announced that, on September 11, 2026, its Board of Directors approved a dividend of $0.29 per shar",
       "url": "https://www.prnewswire.com/news-releases/trinet-announces-quarterly-dividend-302878075.html",
@@ -838,20 +905,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "Starwood Capital Promotes Tim Abram to Head of Asset Management, Europe",
-      "summary": "Expands Firm's Bench of Leaders Focused on Value Creation and Deal Execution in the Region MIAMI, Sept. 14, 2026 /PRNewswire/ -- Starwood Capital Group (\"Starwood Capital\"), a leading global private investment firm, today announced the promotion of Tim Abram to Head of Asset Mana",
-      "url": "https://www.prnewswire.com/news-releases/starwood-capital-promotes-tim-abram-to-head-of-asset-management-europe-302878024.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-14T20:30:00Z",
-      "epoch": 1789417800,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "AAOS submits comment letter to CMS on Physician Fee Schedule",
@@ -924,22 +977,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Enova Withdraws Bank Regulatory Applications",
-      "summary": "Company Reaffirms 2026 Guidance and Intends to Accelerate Share Repurchases CHICAGO, Sept. 14, 2026 /PRNewswire/ -- Enova International (NYSE: ENVA), a leading financial services company powered by machine learning and world-class analytics, today announced that it has withdrawn ",
-      "url": "https://www.prnewswire.com/news-releases/enova-withdraws-bank-regulatory-applications-302878053.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-14T20:10:00Z",
-      "epoch": 1789416600,
-      "sentiment": 0.0,
-      "tickers": [
-        "ENVA"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "SENA Health Secures Series A Financing to Accelerate Growth and Expand AI and Technology Capabilities",
       "summary": "In the news release, SENA Health Secures Series A Financing to Accelerate Growth and Expand AI and Technology Capabilities, issued 14-Sep-2026 by SENA Health over PR Newswire, we are advised by the company that the link at the bottom has been removed. The complete, corrected rele",
       "url": "https://www.prnewswire.com/news-releases/sena-health-secures-series-a-financing-to-accelerate-growth-and-expand-ai-and-technology-capabilities-302877700.html",
@@ -957,8 +994,8 @@
       "title": "NHI to Participate in the BofA Securities 2026 Global Real Estate Conference; Updates Pipeline",
       "summary": "MURFREESBORO, Tenn., Sept. 14, 2026 /PRNewswire/ -- National Health Investors, Inc. (NYSE: NHI) announced today that management will participate in investor meetings at the BofA Securities 2026 Global Real Estate Conference on September 15, 2026. In conjunction with the upcoming ",
       "url": "https://www.prnewswire.com/news-releases/nhi-to-participate-in-the-bofa-securities-2026-global-real-estate-conference-updates-pipeline-302877985.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-14T20:05:00Z",
       "epoch": 1789416300,
       "sentiment": 0.0,
@@ -968,23 +1005,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "Realty Income to Present at Bank of America's 2026 Global Real Estate Conference",
-      "summary": "SAN DIEGO, Sept. 14, 2026 /PRNewswire/ -- Realty Income Corporation (Realty Income, NYSE: O), The Monthly Dividend Company®, today announced that Jonathan Pong, Realty Income's Executive Vice President, Chief Financial Officer and Treasurer, will participate in a live roundtable.",
-      "url": "https://www.prnewswire.com/news-releases/realty-income-to-present-at-bank-of-americas-2026-global-real-estate-conference-302878054.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-14T20:05:00Z",
-      "epoch": 1789416300,
-      "sentiment": 0.33,
-      "tickers": [
-        "BAC",
-        "O"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "Vizbodx Expands Clinician-First AI Architecture with Third Patent Filing",
@@ -1073,20 +1093,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Mercy Medical Center Among First in the Mid-Atlantic to Offer Mako SmartRobotics™ Technology for Shoulder Replacement Surgery",
-      "summary": "Dr. Gregory Gasbarro Leads Introduction of Advanced Robotic-Arm Assisted Shoulder Arthroplasty at Mercy BALTIMORE, Sept. 14, 2026 /PRNewswire/ -- Mercy Medical Center is advancing orthopedic care in the Mid-Atlantic region with the introduction of Mako SmartRobotics™ technology f",
-      "url": "https://www.prnewswire.com/news-releases/mercy-medical-center-among-first-in-the-mid-atlantic-to-offer-mako-smartrobotics-technology-for-shoulder-replacement-surgery-302877964.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-14T18:00:00Z",
-      "epoch": 1789408800,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Endpoint Clinical Acquires Bluefin, a Provider of Clinical Supply Forecasting and Planning Technology",
       "summary": "This acquisition expands Endpoint into clinical supply planning while keeping Bluefin independent and RTSM-agnostic. RALEIGH, N.C. and BOSTON, Sept. 14, 2026 /PRNewswire/ -- Endpoint Clinical L.P., a global leader in randomization and trial supply management (\"RTSM\") solutions an",
       "url": "https://www.prnewswire.com/news-releases/endpoint-clinical-acquires-bluefin-a-provider-of-clinical-supply-forecasting-and-planning-technology-302877573.html",
@@ -1101,6 +1107,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "Mercy Medical Center Among First in the Mid-Atlantic to Offer Mako SmartRobotics™ Technology for Shoulder Replacement Surgery",
+      "summary": "Dr. Gregory Gasbarro Leads Introduction of Advanced Robotic-Arm Assisted Shoulder Arthroplasty at Mercy BALTIMORE, Sept. 14, 2026 /PRNewswire/ -- Mercy Medical Center is advancing orthopedic care in the Mid-Atlantic region with the introduction of Mako SmartRobotics™ technology f",
+      "url": "https://www.prnewswire.com/news-releases/mercy-medical-center-among-first-in-the-mid-atlantic-to-offer-mako-smartrobotics-technology-for-shoulder-replacement-surgery-302877964.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-09-14T18:00:00Z",
+      "epoch": 1789408800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "National GED Day Celebrates Graduates Taking the Next Step Toward College and Careers",
       "summary": "Annual observance recognizes the achievements of adult learners and the opportunities they create for themselves, their families, and their communities WASHINGTON, Sept. 14, 2026 /PRNewswire/ -- On September 16, GED Testing Service® will celebrate National GED Day, honoring indiv",
       "url": "https://www.prnewswire.com/news-releases/national-ged-day-celebrates-graduates-taking-the-next-step-toward-college-and-careers-302877961.html",
@@ -1108,34 +1128,6 @@
       "source_id": "prnewswire-health",
       "published_at": "2026-09-14T17:52:00Z",
       "epoch": 1789408320,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Your Muscles May Be One of Your Most Valuable Retirement Assets",
-      "summary": "Fitness & Finance co-founders explain why preserving muscle should be part of the retirement-planning conversation FREDERICKSBURG, Va., Sept. 14, 2026 /PRNewswire/ -- When it comes to retirement planning, most people focus on how much to save and where to invest it. But another a",
-      "url": "https://www.prnewswire.com/news-releases/your-muscles-may-be-one-of-your-most-valuable-retirement-assets-302877812.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-14T17:41:00Z",
-      "epoch": 1789407660,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "PolicyMe: Family Well-Being Leads Life Insurance Priorities for Canadians",
-      "summary": "Analysis found 42.0% of life insurance seekers mentioned family well-being, while a separate review found $500,000 was the most common coverage amount applied for and sold. TORONTO, Sept. 14, 2026 /PRNewswire/ -- Family well-being was mentioned in 42.0% of PolicyMe customer inter",
-      "url": "https://www.prnewswire.com/news-releases/policyme-family-well-being-leads-life-insurance-priorities-for-canadians-302877951.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-14T17:39:00Z",
-      "epoch": 1789407540,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -2427,6 +2419,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "As ‘cultural weight’ of a psychedelic approval looms, FDA hearing focuses on access and safety",
+      "summary": "As the FDA marches toward the likely first approval of a psychedelic medicine, the agency today convened a hearing seeking public input on how these drugs should be used, monitored and continuously studied in the real world.",
+      "url": "https://www.fiercebiotech.com/biotech/cultural-weight-psychedelic-approval-looms-fda-hearing-focuses-access-and-safety",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-09-14T17:48:00Z",
+      "epoch": 1789408080,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Summit, Akeso look to shed PD-1/VEGF drug doubts with latest study results",
       "summary": "As dueling data emerge between their drug ivonescimab and a rival Merck medication, Summit and Akeso revealed new findings that impressed Wall Street.",
       "url": "https://www.biopharmadive.com/news/summit-akeso-wclc-2026-ivonescimab-lung-cancer-survival/830318/",
@@ -2599,6 +2605,20 @@
       "published_at": "2026-09-11T14:09:00Z",
       "epoch": 1789135740,
       "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Owkin, Servier ink oncology R&D deal to guide discovery and trial design",
+      "summary": "AI drug discovery company Owkin has signed a pact with French drugmaker Servier to license Owkin’s AI scientist K Pro across Servier’s oncology discovery and trial operations.",
+      "url": "https://www.fiercebiotech.com/cro/owkin-servier-ink-oncology-rd-deal-guide-trial-design-and-discovery",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-09-11T14:03:00Z",
+      "epoch": 1789135380,
+      "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -2892,34 +2912,6 @@
       "tickers": [
         "NOVN"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Biohaven epilepsy drug suffers FDA hold days after attracting $350M deal",
-      "summary": "The FDA has put enrollment in trials of Biohaven’s epilepsy drug candidate BHV-7000 on hold in response to findings from rodent tests, dealing a blow to an asset covered by a pending $350 million deal.",
-      "url": "https://www.fiercebiotech.com/biotech/biohaven-drug-suffers-fda-hold-days-after-attracting-350m-deal",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-09-10T10:03:00Z",
-      "epoch": 1789034580,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Frazier Life Sciences nets $1.1B in long-running fund aimed at small, midsize biotechs",
-      "summary": "Frazier Life Sciences (FLS) has stacked up another sizable biotech-focused capital commitment, netting more than $1.1 billion for its long-running public fund.",
-      "url": "https://www.fiercebiotech.com/biotech/frazier-life-sciences-rallies-11b-aimed-small-and-midsize-public-biotechs",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-09-10T09:45:00Z",
-      "epoch": 1789033500,
-      "sentiment": 0.0,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
