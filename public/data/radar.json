@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T00:30:38Z",
+  "generated_at": "2026-09-17T05:24:27Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 145,
-    "breaking_catalyst_count": 20,
+    "breaking_count": 150,
+    "breaking_catalyst_count": 21,
     "pipeline_count": 58,
     "pipeline_catalyst_count": 12,
     "movers_count": 0
@@ -20,6 +20,12 @@
       "count": 3,
       "catalyst_count": 1,
       "source_count": 2
+    },
+    {
+      "ticker": "IPHA",
+      "count": 1,
+      "catalyst_count": 1,
+      "source_count": 1
     },
     {
       "ticker": "PSA",
@@ -62,17 +68,27 @@
       "count": 2,
       "catalyst_count": 0,
       "source_count": 1
-    },
-    {
-      "ticker": "ISTR",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
     }
   ],
   "movers": [],
   "concentration_warning": null,
   "breaking": [
+    {
+      "title": "Sobi and Innate announce partnership is now effective following completion of closing conditions",
+      "summary": "STOCKHOLM, Sept. 16, 2026 /PRNewswire/ -- Swedish Orphan Biovitrum AB (publ) (Sobi®) and Innate Pharma SA (Euronext Paris: IPH) (NASDAQ: IPHA) (\"Innate\" or the \"Company\") today announced that the previously announced strategic partnership with Innate is now effective following th",
+      "url": "https://www.prnewswire.com/news-releases/sobi-and-innate-announce-partnership-is-now-effective-following-completion-of-closing-conditions-302881377.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-17T03:28:00Z",
+      "epoch": 1789615680,
+      "sentiment": 0.67,
+      "tickers": [
+        "IPHA"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": true
+    },
     {
       "title": "8-K - Aperture AC (0002093524) (Filer)",
       "summary": "Filed:  2026-09-16  AccNo:  0001213900-26-100601  Size:  1 MB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 9.01: Financial Statements and Exhibits",
@@ -360,13 +376,13 @@
       "small_cap_risk": false
     },
     {
-      "title": "SHANG XIA PRÉSENTE DEUX EXPOSITIONS À L'OCCASION DE LA PARIS DESIGN WEEK : une perspective orientale contemporaine trouve un écho à travers tout Paris",
-      "summary": "PARIS, 17 septembre 2026 /PRNewswire/ -- À l'occasion de la Paris Design Week 2026, qui se déroule du 10 au 17 septembre, SHANG XIA présente deux expositions à Paris, au Mobilier national et au Domaine national du Palais-Royal. Au Mobilier national, les meubles SHANG XIA entrent ",
-      "url": "https://www.prnewswire.com/news-releases/shang-xia-presente-deux-expositions-a-loccasion-de-la-paris-design-week--une-perspective-orientale-contemporaine-trouve-un-echo-a-travers-tout-paris-302881233.html",
+      "title": "FP Markets gewinnt drei Auszeichnungen bei den Global Forex Awards 2026",
+      "summary": "LIMASSOL, Zypern, 17. September 2026 /PRNewswire/ -- Der globale Forex- und CFD-Broker FP Markets wurde bei den Global Forex Awards 2026 mit drei renommierten Auszeichnungen geehrt und erhielt: ‚Best Value Broker – Global', ‚Most Transparent Broker – Asia', und ‚Most Transparent ",
+      "url": "https://www.prnewswire.com/news-releases/fp-markets-gewinnt-drei-auszeichnungen-bei-den-global-forex-awards-2026-302881507.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-16T23:18:00Z",
-      "epoch": 1789600680,
+      "published_at": "2026-09-17T05:22:00Z",
+      "epoch": 1789622520,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -374,13 +390,219 @@
       "small_cap_risk": false
     },
     {
-      "title": "/UPDATE -- Fortune Media (USA) Corporation/",
-      "summary": "Bezüglich der Pressemitteilung, Die „Fortune 500 Europe\"-Liste 2026 wurde veröffentlicht, die am 16. September 2026 von der Fortune Media (USA) Corporation über PR Newswire veröffentlicht wurde, teilt uns das Unternehmen mit, dass die Pressemitteilung aktualisiert wurde. Die „For",
-      "url": "https://www.prnewswire.com/news-releases/die-fortune-500-europe-liste-2026-wurde-veroffentlicht-302876969.html",
+      "title": "FP Markets gana tres premios en los Global Forex Awards 2026",
+      "summary": "LIMASSOL, Chipre, 17 de septiembre de 2026 /PRNewswire/ -- El bróker global de Forex y CFD FP Markets ha sido galardonado con tres prestigiosas distinciones en los Global Forex Awards 2026, obteniendo los premios a: 'Mejor bróker por relación calidad-precio – Global', 'Bróker más",
+      "url": "https://www.prnewswire.com/news-releases/fp-markets-gana-tres-premios-en-los-global-forex-awards-2026-302881506.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-16T23:02:00Z",
-      "epoch": 1789599720,
+      "published_at": "2026-09-17T05:21:00Z",
+      "epoch": 1789622460,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Home Trends &amp; Design's \"Rooted in Craft\" Wins Best Documentary at the 2026 Austin Spotlight Film Festival",
+      "summary": "AUSTIN, Texas, Sept. 16, 2026 /PRNewswire/ -- Home Trends & Design (HTD) is proud to announce that its new documentary film, Rooted in Craft, has been awarded \"Best Documentary\" at the 2026 Austin Spotlight Film Festival. The award was officially presented on September 12, 2026, ",
+      "url": "https://www.prnewswire.com/news-releases/home-trends--designs-rooted-in-craft-wins-best-documentary-at-the-2026-austin-spotlight-film-festival-302881503.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-17T05:17:00Z",
+      "epoch": 1789622220,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Cogent Communications Holdings, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - CCOI",
+      "summary": "NEW YORK, Sept. 17, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Cogent Communications Holdings, Inc. (\"Cogent\" or \"the Company\") (NASDAQ: CCOI) violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 pro",
+      "url": "https://www.prnewswire.com/news-releases/cogent-communications-holdings-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--ccoi-302881367.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-17T05:09:00Z",
+      "epoch": 1789621740,
+      "sentiment": -0.67,
+      "tickers": [
+        "CCOI"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "EquipmentShare.com Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - EQPT",
+      "summary": "LOS ANGELES, Sept. 17, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against EquipmentShare.com Inc. (\"EquipmentShare\" or \"the Company\") (NASDAQ: EQPT) violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promu",
+      "url": "https://www.prnewswire.com/news-releases/equipmentsharecom-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--eqpt-302881365.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-17T05:07:00Z",
+      "epoch": 1789621620,
+      "sentiment": -0.67,
+      "tickers": [
+        "EQPT"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "/C O R R E C C I O N -- Fortune Media (USA) Corporation/",
+      "summary": "En relación con el comunicado de prensa titulado \"Se ha revelado la Lista Fortune 500 Europe de 2026\", emitido el 16 de septiembre de 2026 por Fortune Media (USA) Corporation a través de PR Newswire, la empresa nos informa de que dicho comunicado ha sido actualizado. Se ha revela",
+      "url": "https://www.prnewswire.com/news-releases/se-ha-revelado-la-lista-fortune-500-europe-de-2026-302876779.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-17T05:01:00Z",
+      "epoch": 1789621260,
+      "sentiment": 0.0,
+      "tickers": [
+        "INF.L"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Chunghwa Telecom Receives Frost &amp; Sullivan's 2026 Taiwanese Customer Value Leadership Recognition for AI-Powered Customer Services",
+      "summary": "This recognition highlights Chunghwa Telecom's leadership in AI-powered customer services through market-relevant AI innovation, measurable customer value, and operational excellence. SAN ANTONIO, Sept. 17, 2026 /PRNewswire/ -- Frost & Sullivan is pleased to announce that Chunghw",
+      "url": "https://www.prnewswire.com/news-releases/chunghwa-telecom-receives-frost--sullivans-2026-taiwanese-customer-value-leadership-recognition-for-ai-powered-customer-services-302878802.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-17T05:00:00Z",
+      "epoch": 1789621200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Das Amos International Candy Festival 2026 feiert süße Innovationen für Glück und Gesundheit",
+      "summary": "SHENZHEN, China, 17. September 2026 /PRNewswire/ -- Das 2026 Amos International Candy Festival brachte Händler, Entwickler, Branchenführer und Partner aus fast 50 Ländern zu drei Tagen voller Feierlichkeiten, Innovationen und Austausch in Shenzhen zusammen – einem globalen...",
+      "url": "https://www.prnewswire.com/news-releases/das-amos-international-candy-festival-2026-feiert-suWe-innovationen-fur-gluck-und-gesundheit-302881468.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-17T04:39:00Z",
+      "epoch": 1789619940,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "M31 Expands Rambus Collaboration, Strengthening Its One-Stop MIPI Subsystem Solution",
+      "summary": "HSINCHU, Sept. 17, 2026 /PRNewswire/ -- M31 Technology (M31), a global silicon intellectual property (IP) provider, today unveiled a technology collaboration with Rambus Inc. for its MIPI CSI (Camera Serial Interface) Controller and MIPI DSI (Display Serial Interface) Controller.",
+      "url": "https://www.prnewswire.com/news-releases/m31-expands-rambus-collaboration-strengthening-its-one-stop-mipi-subsystem-solution-302881454.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-17T04:29:00Z",
+      "epoch": 1789619340,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Buckingham Returns to Its Downtown Akron Roots with Opening of New Office",
+      "summary": "AKRON, Ohio, Sept. 17, 2026 /PRNewswire/ -- Buckingham, Doolittle & Burroughs, LLC is pleased to announce that its Akron office will open at its new downtown location on September 21, 2026. The move marks the firm's return to the city where it was founded more than a century ago,",
+      "url": "https://www.prnewswire.com/news-releases/buckingham-returns-to-its-downtown-akron-roots-with-opening-of-new-office-302876168.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-17T04:07:00Z",
+      "epoch": 1789618020,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Luvme Hair Introduces Originalive™: A New Standard for Good Hair",
+      "summary": "The upcoming premium human hair collection redefines good hair through natural quality, craftsmanship, and lasting performance. NEW YORK, Sept. 16, 2026 /PRNewswire/ -- Luvme Hair is previewing Originalive™, a new premium human hair collection planned for launch in October 2026. ",
+      "url": "https://www.prnewswire.com/news-releases/luvme-hair-introduces-originalive-a-new-standard-for-good-hair-302880677.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-17T03:37:00Z",
+      "epoch": 1789616220,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "TORM plc announces closing of secondary public offering of its class A common shares",
+      "summary": "HELLERUP, Denmark, Sept. 16, 2026 /PRNewswire/ -- TORM plc (the \"Company\" or \"TORM\") (NASDAQ: TRMD) (NASDAQ: TRMD A) today announces the closing of the previously announced secondary public offering of 9,000,000 of the Company's Class A common shares by OCM Njord Holdings S.à r.l",
+      "url": "https://www.prnewswire.com/news-releases/torm-plc-announces-closing-of-secondary-public-offering-of-its-class-a-common-shares-302881353.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-17T03:03:00Z",
+      "epoch": 1789614180,
+      "sentiment": 0.0,
+      "tickers": [
+        "TRMD"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Statement by CII Executive Director Glenn Davis on the SEC's Proposed Rescission of Rule 14a-8",
+      "summary": "WASHINGTON, Sept. 16, 2026 /PRNewswire/ -- Let this moment settle in: The SEC, created for the purpose of protecting investors in the aftermath of the Crash of 1929, today proposed to rescind a World War II-era rule protecting shareholders' ability to suggest ideas to improve the",
+      "url": "https://www.prnewswire.com/news-releases/statement-by-cii-executive-director-glenn-davis-on-the-secs-proposed-rescission-of-rule-14a-8-302881338.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-17T02:51:00Z",
+      "epoch": 1789613460,
+      "sentiment": -0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Marvion Inc. Reports Strong First-Half 2026 Financial Performance with 21% Revenue Growth, 62% Gross Profit Growth and Significant Improvement in Operating Cash Flow",
+      "summary": "HONG KONG, Sept. 16, 2026 /PRNewswire/ -- Marvion Inc. (OTCQB: MVNC) (\"Marvion\" or the \"Company\"), a Nevada-based holding company operating through its wholly owned subsidiaries in Hong Kong and the British Virgin Islands, today announced financial results for the six months ende",
+      "url": "https://www.prnewswire.com/news-releases/marvion-inc-reports-strong-first-half-2026-financial-performance-with-21-revenue-growth-62-gross-profit-growth-and-significant-improvement-in-operating-cash-flow-302881333.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-17T02:39:00Z",
+      "epoch": 1789612740,
+      "sentiment": 1.0,
+      "tickers": [
+        "MVNC"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Reducto Opens New York City Office to Expand East Coast Presence",
+      "summary": "SAN FRANCISCO, Sept. 16, 2026 /PRNewswire/ -- Reducto, the agentic document platform for leading enterprises and AI teams, today announced the opening of its New York City office. The office will serve as the center of Reducto's East Coast presence and support the company's conti",
+      "url": "https://www.prnewswire.com/news-releases/reducto-opens-new-york-city-office-to-expand-east-coast-presence-302881326.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-17T02:33:00Z",
+      "epoch": 1789612380,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Bielat Santore &amp; Company Releases Episode 6 of the Owner's Edge Podcast Series: \"New Jersey Liquor Licenses: Regulatory Structure and Market Value\"",
+      "summary": "First installment of a two-part educational series provides hospitality owners, buyers, and developers with an in-depth framework for navigating state ABC regulations, municipal population caps, Class C license privileges, and asset valuation. ALLENHURST, N.J. , Sept. 16, 2026...",
+      "url": "https://www.prnewswire.com/news-releases/bielat-santore--company-releases-episode-6-of-the-owners-edge-podcast-series-new-jersey-liquor-licenses-regulatory-structure-and-market-value-302881231.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-17T01:00:00Z",
+      "epoch": 1789606800,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -405,39 +627,11 @@
       "title": "Armor Health Expands Structured Approach to Women's Postpartum Mental Health in Correctional Settings",
       "summary": "MIAMI, Sept. 16, 2026 /PRNewswire/ -- Armor Health (ArmorHealthcare.com), a national provider of correctional healthcare, is expanding its distinct, structured approach to addressing postpartum depression (PPD) among women in correctional settings, where postpartum patients face.",
       "url": "https://www.prnewswire.com/news-releases/armor-health-expands-structured-approach-to-womens-postpartum-mental-health-in-correctional-settings-302881223.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-16T22:51:00Z",
       "epoch": 1789599060,
       "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "/U P D A T E -- CACI International Inc/",
-      "summary": "In the news release, CACI Receives Contract Award to Advance U.S. Central Command Information Advantage and Irregular Warfare Operations, issued 16-Sep-2026 by CACI International Inc over PR Newswire, we are advised by the company that changes have been made. The complete, update",
-      "url": "https://www.prnewswire.com/news-releases/caci-receives-contract-award-to-advance-us-central-command-information-advantage-and-irregular-warfare-operations-302881015.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-16T22:51:00Z",
-      "epoch": 1789599060,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "NSSF Releases 2026 Congressional Report Card",
-      "summary": "WASHINGTON, Sept. 16, 2026 /PRNewswire/ -- NSSF®, The Firearm Industry Trade Association, released its 2026 Congressional Report Card, grading sitting U.S. Representatives and U.S. Senators on key legislation that is of critical importance to the firearm industry, the Second Amen",
-      "url": "https://www.prnewswire.com/news-releases/nssf-releases-2026-congressional-report-card-302881219.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-16T22:42:00Z",
-      "epoch": 1789598520,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -460,39 +654,11 @@
       "small_cap_risk": true
     },
     {
-      "title": "Sutton (formerly Digit) targets the spreadsheet workaround with a build-your-own tool for operations teams",
-      "summary": "New Sutton Studio lets shop-floor and operations staff create tools on live production data without a development queue ATLANTA, Sept. 16, 2026 /PRNewswire/ -- Every operation has questions its software can't answer - a bespoke quality check, an unusual way of batching jobs, a re",
-      "url": "https://www.prnewswire.com/news-releases/sutton-formerly-digit-targets-the-spreadsheet-workaround-with-a-build-your-own-tool-for-operations-teams-302881204.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-16T22:26:00Z",
-      "epoch": 1789597560,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Two-for-two: Ontario International Airport ranks second among medium-sized airports in latest JD Power study",
-      "summary": "ONTARIO, Calif., Sept. 16, 2026 /PRNewswire/ -- For the second year in a row, Ontario International Airport (ONT) ranks No. 2 among all medium-sized airports in the JD Power 2026 North America Airport Satisfaction StudySM. ONT earned a customer satisfaction score of 705 – just se",
-      "url": "https://www.prnewswire.com/news-releases/two-for-two-ontario-international-airport-ranks-second-among-medium-sized-airports-in-latest-jd-power-study-302881207.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-16T22:26:00Z",
-      "epoch": 1789597560,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Robinson Pharma, Inc. Receives \"Above and Beyond\" Supplier Award from Bausch + Lomb for September 2026",
       "summary": "SANTA ANA, Calif., Sept. 16, 2026 /PRNewswire/ -- Robinson Pharma, Inc. (RPI), a premier full-service contract manufacturer of dietary supplements and nutraceuticals, is proud to announce that it has been honored by Bausch + Lomb with the \"Above and Beyond\" Supplier Award for the",
       "url": "https://www.prnewswire.com/news-releases/robinson-pharma-inc-receives-above-and-beyond-supplier-award-from-bausch--lomb-for-september-2026-302881203.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-16T22:24:00Z",
       "epoch": 1789597440,
       "sentiment": 0.0,
@@ -509,20 +675,6 @@
       "source_id": "prnewswire-financial",
       "published_at": "2026-09-16T22:14:00Z",
       "epoch": 1789596840,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "HIGH LINE AND CHANEL CULTURE FUND CO-COMMISSION ALISON NGUYEN FOR FIFTH HIGH LINE ORIGINALS FILM",
-      "summary": "Nguyenʼs Prior Occupants Unearths the Industrial and Cultural Histories of the High Line and Westbethʼs Past NEW YORK, Sept. 16, 2026 /PRNewswire/ -- The High Line and CHANEL Culture Fund today announced that Prior Occupants, a new film by Alison Nguyen commissioned by the High L",
-      "url": "https://www.prnewswire.com/news-releases/high-line-and-chanel-culture-fund-co-commission-alison-nguyen-for-fifth-high-line-originals-film-302881192.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-16T22:13:00Z",
-      "epoch": 1789596780,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -620,6 +772,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "Adora Life Science Announces the Appointment of Dr. Clinton D. Morgan as Chief Medical Officer",
+      "summary": "FRANKLIN, Tenn., Sept. 16, 2026 /PRNewswire/ -- Adora Life Science (Adora) today announced that Dr. Clinton D. Morgan, MD, will be joining Adora as its full-time Chief Medical Officer, effective November 1, 2026. Dr. Morgan has previously been appointed to Adora's Board of Direct",
+      "url": "https://www.prnewswire.com/news-releases/adora-life-science-announces-the-appointment-of-dr-clinton-d-morgan-as-chief-medical-officer-302881158.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-09-16T21:12:00Z",
+      "epoch": 1789593120,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "U.S. Dermatology Partners Opens New Office in Liberty Hill, Texas",
       "summary": "New Liberty Hill Location Expands U.S. Dermatology Partners' Central Texas Network to Serve the Region's Growing Communities LIBERTY HILL, Texas, Sept. 16, 2026 /PRNewswire/ -- U.S. Dermatology Partners is pleased to announce the opening of its newest location in Liberty Hill, Te",
       "url": "https://www.prnewswire.com/news-releases/us-dermatology-partners-opens-new-office-in-liberty-hill-texas-302881156.html",
@@ -642,20 +808,6 @@
       "published_at": "2026-09-16T21:12:00Z",
       "epoch": 1789593120,
       "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Adora Life Science Announces the Appointment of Dr. Clinton D. Morgan as Chief Medical Officer",
-      "summary": "FRANKLIN, Tenn., Sept. 16, 2026 /PRNewswire/ -- Adora Life Science (Adora) today announced that Dr. Clinton D. Morgan, MD, will be joining Adora as its full-time Chief Medical Officer, effective November 1, 2026. Dr. Morgan has previously been appointed to Adora's Board of Direct",
-      "url": "https://www.prnewswire.com/news-releases/adora-life-science-announces-the-appointment-of-dr-clinton-d-morgan-as-chief-medical-officer-302881158.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-16T21:12:00Z",
-      "epoch": 1789593120,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -796,6 +948,23 @@
       "small_cap_risk": false
     },
     {
+      "title": "Nelnet Board of Directors Appoints Two New Members",
+      "summary": "LINCOLN, Neb., Sept. 16, 2026 /PRNewswire/ -- Nelnet, Inc. (NYSE: NNI) today announced the appointment of Angie Klein and Ed Pallesen to its board of directors, expanding the board to 10 members. Klein, who recently joined Apple, brings nearly 25 years of consumer marketing and g",
+      "url": "https://www.prnewswire.com/news-releases/nelnet-board-of-directors-appoints-two-new-members-302881101.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-16T20:15:00Z",
+      "epoch": 1789589700,
+      "sentiment": 0.0,
+      "tickers": [
+        "AAPL",
+        "NNI"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
       "title": "Trinity Capital Declares Monthly Cash Distribution of $0.17 per Share for the Fourth Quarter of 2026",
       "summary": "TRIN dividend has remained consistent for seven years PHOENIX, Sept. 16, 2026 /PRNewswire/ -- Trinity Capital Inc. (NYSE: TRIN) (\"the Company\"), a leading international alternative asset manager, today announced that its Board of Directors declared a monthly regular dividend of $",
       "url": "https://www.prnewswire.com/news-releases/trinity-capital-declares-monthly-cash-distribution-of-0-17-per-share-for-the-fourth-quarter-of-2026--302880941.html",
@@ -822,23 +991,6 @@
       "sentiment": 0.33,
       "tickers": [
         "ACR"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Nelnet Board of Directors Appoints Two New Members",
-      "summary": "LINCOLN, Neb., Sept. 16, 2026 /PRNewswire/ -- Nelnet, Inc. (NYSE: NNI) today announced the appointment of Angie Klein and Ed Pallesen to its board of directors, expanding the board to 10 members. Klein, who recently joined Apple, brings nearly 25 years of consumer marketing and g",
-      "url": "https://www.prnewswire.com/news-releases/nelnet-board-of-directors-appoints-two-new-members-302881101.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-16T20:15:00Z",
-      "epoch": 1789589700,
-      "sentiment": 0.0,
-      "tickers": [
-        "AAPL",
-        "NNI"
       ],
       "company_name": null,
       "catalyst": false,
@@ -898,36 +1050,6 @@
       "source_id": "prnewswire-health",
       "published_at": "2026-09-16T20:01:00Z",
       "epoch": 1789588860,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "First Horizon Bank's Jimmy Dunn and Mary Lakey Receive 2026 New Orleans CityBusiness Leadership Awards",
-      "summary": "NEW ORLEANS, Sept. 16, 2026 /PRNewswire/ -- First Horizon Bank (NYSE: FHN) (or \"First Horizon\") announced today that Jimmy Dunn, New Orleans Market President, will receive the New Orleans City Business ICON award, and Mary Lakey, Director of Pricing and Profitability, Corporate T",
-      "url": "https://www.prnewswire.com/news-releases/first-horizon-banks-jimmy-dunn-and-mary-lakey-receive-2026-new-orleans-citybusiness-leadership-awards-302881097.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-16T20:00:00Z",
-      "epoch": 1789588800,
-      "sentiment": 0.0,
-      "tickers": [
-        "FHN"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Millennium Partners Management LLC - Notice of Data Security Incident",
-      "summary": "NEW YORK, Sept. 16, 2026 /PRNewswire/ -- Millennium Partners Management experienced data security incident involving the personal information of some customers and employees. On April 27, 2026, Millennium discovered a network disruption. It took immediate action to secure its net",
-      "url": "https://www.prnewswire.com/news-releases/millennium-partners-management-llc---notice-of-data-security-incident-302881103.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-16T20:00:00Z",
-      "epoch": 1789588800,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -1027,20 +1149,6 @@
       "published_at": "2026-09-16T19:07:00Z",
       "epoch": 1789585620,
       "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Frank Russo Unveils Florida Medical Freedom Initiative",
-      "summary": "Independent candidate for Governor calls for informed consent, patient and parental rights, personal responsibility and greater transparency in healthcare decisions NEW SMYRNA BEACH, Fla., Sept. 16, 2026 /PRNewswire/ -- Non-party affiliated candidate for Florida Governor Frank Ru",
-      "url": "https://www.prnewswire.com/news-releases/frank-russo-unveils-florida-medical-freedom-initiative-302881044.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-16T19:02:00Z",
-      "epoch": 1789585320,
-      "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -2131,34 +2239,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Sunshine Biopharma Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - Viper Energy, Inc. (0002074176) (Filer)",
-      "summary": "Filed:  2026-09-16  AccNo:  0001104659-26-108245  Size:  191 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-      "url": "https://www.sec.gov/Archives/edgar/data/2074176/000110465926108245/0001104659-26-108245-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-09-16T16:05:23Z",
-      "epoch": 1789574723,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Viper Energy, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - CB Financial Services, Inc. (0001605301) (Filer)",
-      "summary": "Filed:  2026-09-16  AccNo:  0001605301-26-000038  Size:  138 KB\n Item 8.01: Other Events",
-      "url": "https://www.sec.gov/Archives/edgar/data/1605301/000160530126000038/0001605301-26-000038-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-09-16T16:05:23Z",
-      "epoch": 1789574723,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Cb Financial Services, Inc.",
       "catalyst": false,
       "small_cap_risk": false
     }
