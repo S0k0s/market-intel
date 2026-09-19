@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T21:15:09Z",
+  "generated_at": "2026-09-19T23:10:59Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 150,
@@ -52,13 +52,13 @@
       "source_count": 2
     },
     {
-      "ticker": "CCL",
+      "ticker": "CAH",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "PZZA",
+      "ticker": "CCL",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -468,6 +468,50 @@
       "small_cap_risk": false
     },
     {
+      "title": "Employment Law Attorneys, at Blumenthal Nordrehaug Bhowmik De Blouw LLP, Filed a Lawsuit Against Cardinal Health 414, LLC, for Alleged Failure to Reimburse Employees' Business Expenses",
+      "summary": "Cardinal Health 414, LLC, a manufacturer and distributor of medical and surgical products, allegedly failed to reimburse employees for their business expenses incurred while performing the job as instructed by Defendant. This resulted in inaccurate wage statements amongst other..",
+      "url": "https://www.prnewswire.com/news-releases/employment-law-attorneys-at-blumenthal-nordrehaug-bhowmik-de-blouw-llp-filed-a-lawsuit-against-cardinal-health-414-llc-for-alleged-failure-to-reimburse-employees-business-expenses-302882790.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T22:32:00Z",
+      "epoch": 1789857120,
+      "sentiment": -0.33,
+      "tickers": [
+        "CAH"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Haunted Attraction Fans Expect the Unexpected  When Choosing Their Favorites",
+      "summary": "America Haunts names the top five fan favorites that keep guests coming back for immersive experiences, live performers, and thrills no screen can replicate. KANSAS CITY, Mo., Sept. 19, 2026 /PRNewswire/ -- What makes a haunted attraction a fan favorite? For some, it is the scare",
+      "url": "https://www.prnewswire.com/news-releases/haunted-attraction-fans-expect-the-unexpected--when-choosing-their-favorites-302883868.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T22:00:00Z",
+      "epoch": 1789855200,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "NEW YORK IS CALLING AS YSL BEAUTY CONTINUES ITS ICONIC BLOCK PARTY SERIES",
+      "summary": "TEYANA TAYLOR, LAURYN HILL, EMMY ROSSUM, KARL ANTHONY TOWNES, MARK RONSON AND MORE JOIN YSL BEAUTY U.S. AMBASSADORS AMELIA GRAY AND LAURA HARRIER FOR THE HIGHLY ANTICIPATED NYC EDITION NEW YORK, Sept. 19, 2026 /PRNewswire/ -- YSL Beauty doesn't play by the rules; it rewrites them",
+      "url": "https://www.prnewswire.com/news-releases/new-york-is-calling-as-ysl-beauty-continues-its-iconic-block-party-series-302883867.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T21:30:00Z",
+      "epoch": 1789853400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Olight presenta la serie ArkTac y la nueva versión de color ArkPro Ultra en el O-Fan Day 2026",
       "summary": "HOUSTON, 19 de septiembre de 2026 /PRNewswire/ -- Olight, empresa innovadora a nivel mundial en iluminación portátil, presentó la serie ArkTac durante el O-Fan Day 2026, llevando por primera vez al ámbito de la iluminación táctica el diseño característico de cuerpo plano y fuente",
       "url": "https://www.prnewswire.com/news-releases/olight-presenta-la-serie-arktac-y-la-nueva-version-de-color-arkpro-ultra-en-el-o-fan-day-2026-302883144.html",
@@ -708,41 +752,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "Shareholders who lost money in shares of acquired Papa John's International, Inc. (NASDAQ: PZZA) should contact Wolf Haldenstein Immediately",
-      "summary": "Lead Plaintiff Deadline November 2, 2026 NEW YORK, Sept. 19, 2026 /PRNewswire/ -- Wolf Haldenstein Adler Freeman & Herz LLP (\"Wolf Haldenstein\"), a nationally recognized securities litigation law firm, announces that a class action lawsuit has been filed on behalf of shareholders",
-      "url": "https://www.prnewswire.com/news-releases/shareholders-who-lost-money-in-shares-of-acquired-papa-johns-international-inc-nasdaq-pzza-should-contact-wolf-haldenstein-immediately-302880305.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-19T13:25:00Z",
-      "epoch": 1789824300,
-      "sentiment": -0.33,
-      "tickers": [
-        "PZZA"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Qatar Foundation - Wilton Park Dialogue Calls for Global Action to Drive Social Development Through Sport",
-      "summary": "Three-day UK dialogue emphasizes female empowerment, inclusion, and systemic reform across the Global South. WEST SUSSEX, England, Sept. 19, 2026 /PRNewswire/ -- International leaders spanning government, policy, development, and sport convened at Wilton Park for a three-day dial",
-      "url": "https://www.prnewswire.com/news-releases/qatar-foundation---wilton-park-dialogue-calls-for-global-action-to-drive-social-development-through-sport-302883790.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-19T13:08:00Z",
-      "epoch": 1789823280,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Med Spa Expert Lindsey Smith Explains What to Expect From a First Med Spa Visit in HelloNation",
       "summary": "The article explains how consultations, medical history reviews, treatment planning, and clear communication help patients prepare for their first med spa visit. BRYANT, Ark., Sept. 19, 2026 /PRNewswire/ -- What should patients expect during their first med spa visit in Bryant, A",
       "url": "https://www.prnewswire.com/news-releases/med-spa-expert-lindsey-smith-explains-what-to-expect-from-a-first-med-spa-visit-in-hellonation-302883678.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-19T13:00:00Z",
       "epoch": 1789822800,
       "sentiment": 0.0,
@@ -1239,20 +1253,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Cleanspark, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "ASTHO welcomes Lindsey Myers, Jane Bigham, and Jeffrey Ekoma to New Leadership Roles",
-      "summary": "ARLINGTON, Va., Sept. 18, 2026 /PRNewswire/ -- Today, the Association of State and Territorial Health Officials (ASTHO) announced two promotions and a new hire. Lindsey Myers was promoted to Senior Vice President for Leadership, Infrastructure and Transformation; Jeffrey Ekoma wa",
-      "url": "https://www.prnewswire.com/news-releases/astho-welcomes-lindsey-myers-jane-bigham-and-jeffrey-ekoma-to-new-leadership-roles-302883475.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-18T17:17:00Z",
-      "epoch": 1789751820,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
