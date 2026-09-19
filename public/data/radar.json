@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-19T09:09:26Z",
+  "generated_at": "2026-09-19T13:09:01Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 142,
+    "breaking_count": 147,
     "breaking_catalyst_count": 28,
     "pipeline_count": 58,
     "pipeline_catalyst_count": 14,
@@ -52,6 +52,12 @@
       "source_count": 2
     },
     {
+      "ticker": "CCL",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
       "ticker": "MTB",
       "count": 1,
       "catalyst_count": 0,
@@ -59,12 +65,6 @@
     },
     {
       "ticker": "CLSK",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "LFT",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -465,6 +465,106 @@
       "tickers": [],
       "company_name": "Pro Dex Inc",
       "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Med Spa Expert Lindsey Smith Explains What to Expect From a First Med Spa Visit in HelloNation",
+      "summary": "The article explains how consultations, medical history reviews, treatment planning, and clear communication help patients prepare for their first med spa visit. BRYANT, Ark., Sept. 19, 2026 /PRNewswire/ -- What should patients expect during their first med spa visit in Bryant, A",
+      "url": "https://www.prnewswire.com/news-releases/med-spa-expert-lindsey-smith-explains-what-to-expect-from-a-first-med-spa-visit-in-hellonation-302883678.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T13:00:00Z",
+      "epoch": 1789822800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Xinhua Silk Road: 2026 International Audio-Visual Arts Carnival to debut in Jing'an, Shanghai",
+      "summary": "BEIJING, Sept. 19, 2026 /PRNewswire/ -- The 2026 International Audio-Visual Arts Carnival will take place in Jing'an District, east China's Shanghai, from Sept. 24 to Oct. 18, offering the public an immersive audiovisual arts experience through deeper integration of audiovisual..",
+      "url": "https://www.prnewswire.com/news-releases/xinhua-silk-road-2026-international-audio-visual-arts-carnival-to-debut-in-jingan-shanghai-302883787.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T12:19:00Z",
+      "epoch": 1789820340,
+      "sentiment": 0.0,
+      "tickers": [
+        "CCL"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "This is a test from PRN Test - 8:17",
+      "summary": "This is a test subheadline. This is a test from PRN Test CLEVELAND, Sept. 19, 2026 /PRNewswire/ -- THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG'S TAIL This is a test from PRN Test The Quick Brown Fox Jumps Over The Lazy Dog's Tail. The Quick Brown Fox Jumps Over The Lazy Dog's Tai",
+      "url": "https://www.prnewswire.com/news-releases/this-is-a-test-from-prn-test---717-302883313.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T12:17:00Z",
+      "epoch": 1789820220,
+      "sentiment": 1.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Hainan Airlines Retains SKYTRAX Five-Star Rating for 15th Consecutive Year, and Ranks among the Skytrax World's Best Airlines Top 10 List",
+      "summary": "LONDON, Sept. 19, 2026 /PRNewswire/ -- Hainan Airlines, part of HNA Aviation Group, was named a SKYTRAX Five-Star Airline for the 15th consecutive year at the 2026 World Airline Awards ceremony in London on Sept. 18, in recognition of its consistently high-quality products and se",
+      "url": "https://www.prnewswire.com/news-releases/hainan-airlines-retains-skytrax-five-star-rating-for-15th-consecutive-year-and-ranks-among-the-skytrax-worlds-best-airlines-top-10-list-302883786.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T11:45:00Z",
+      "epoch": 1789818300,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Fast Guard Service Expands Nationwide Emergency Fire Watch Response for Businesses and Properties",
+      "summary": "Security provider strengthens rapid-response fire watch coverage for commercial properties, construction sites, hotels, residential communities and facilities requiring immediate life-safety monitoring. HOLLYWOOD, Fla., Sept. 19, 2026 /PRNewswire/ -- Fast Guard Service, a nationw",
+      "url": "https://www.prnewswire.com/news-releases/fast-guard-service-expands-nationwide-emergency-fire-watch-response-for-businesses-and-properties-302883710.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T11:00:00Z",
+      "epoch": 1789815600,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Chery Auto to Showcase Nearly 20 Green Technology and Ecosystem Innovations. 2026 Chery International User Summit Opens in October",
+      "summary": "WUHU, China, Sept. 19, 2026 /PRNewswire/ -- Chery Auto will host the 2026 Chery International User Summit from October 18 to 24 at its global headquarters in Wuhu, China. Focused on technology, sustainability and convergence, the Summit will showcase nearly 20 green technologies ",
+      "url": "https://www.prnewswire.com/news-releases/chery-auto-to-showcase-nearly-20-green-technology-and-ecosystem-innovations-2026-chery-international-user-summit-opens-in-october-302883783.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T10:32:00Z",
+      "epoch": 1789813920,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "GAC Cambodia KD Plant Starts Production, Setting a New Benchmark for Localized Manufacturing",
+      "summary": "KAMPONG CHHNANG, Cambodia, Sept. 19, 2026 /PRNewswire/ -- On September 17, the inauguration ceremony of GAC Cambodia KD Plant was grandly held in Kampong Chhnang Province. Cambodian Prime Minister Hun Manet and Chinese Ambassador to Cambodia Wang Wenbin attended the ceremony, whi",
+      "url": "https://www.prnewswire.com/news-releases/gac-cambodia-kd-plant-starts-production-setting-a-new-benchmark-for-localized-manufacturing-302883780.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T09:29:00Z",
+      "epoch": 1789810140,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
       "small_cap_risk": false
     },
     {
@@ -1241,22 +1341,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "NorCal Auto Group Deepens Support for Hyundai Hope on Wheels with $100,000 for UC Davis Comprehensive Cancer Center",
-      "summary": "Potamkin Hyundai dealerships have contributed more than $4 million to the program since 1998 SACRAMENTO, Calif., Sept. 18, 2026 /PRNewswire/ -- NorCal Auto Group, a Potamkin Automotive Group company operating three Hyundai dealerships in the Sacramento region, deepened its suppor",
-      "url": "https://www.prnewswire.com/news-releases/norcal-auto-group-deepens-support-for-hyundai-hope-on-wheels-with-100-000-for-uc-davis-comprehensive-cancer-center-302883456.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-18T16:52:00Z",
-      "epoch": 1789750320,
-      "sentiment": 0.0,
-      "tickers": [
-        "005380.KS"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "8-K - Concentrix Corp (0001803599) (Filer)",
       "summary": "Filed:  2026-09-18  AccNo:  0001803599-26-000142  Size:  141 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
       "url": "https://www.sec.gov/Archives/edgar/data/1803599/000180359926000142/0001803599-26-000142-index.htm",
@@ -2027,20 +2111,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Kkr Fs Income Trust Select",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "National Medical Fellowships Celebrates 80 Years of Strengthening the Future of Health Care",
-      "summary": "Anniversary weekend brings NMF's eight decades of impact full circle with national conversations, community health programming, and a milestone celebration CHICAGO, Sept. 18, 2026 /PRNewswire/ -- For 80 years, National Medical Fellowships (NMF) has worked to broaden pathways to m",
-      "url": "https://www.prnewswire.com/news-releases/national-medical-fellowships-celebrates-80-years-of-strengthening-the-future-of-health-care-302883433.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-18T15:58:00Z",
-      "epoch": 1789747080,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
