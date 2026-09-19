@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-19T13:09:01Z",
+  "generated_at": "2026-09-19T16:28:53Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 147,
+    "breaking_count": 150,
     "breaking_catalyst_count": 28,
     "pipeline_count": 58,
     "pipeline_catalyst_count": 14,
@@ -58,13 +58,13 @@
       "source_count": 1
     },
     {
-      "ticker": "MTB",
+      "ticker": "PZZA",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "CLSK",
+      "ticker": "MTB",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -468,6 +468,150 @@
       "small_cap_risk": false
     },
     {
+      "title": "Nuevas estampillas recién salidas del horno",
+      "summary": "Las estampillas Christmas Cookies Forever ya están disponibles en todo el país WASHINGTON, 19 de septiembre de 2026 /PRNewswire-HISPANIC PR WIRE/ -- Hoy, el servicio postal de Estados Unidos, U.S. Postal Service (USPS), ha presentado su colección de estampillas Christmas Cookies ",
+      "url": "https://www.prnewswire.com/news-releases/nuevas-estampillas-recien-salidas-del-horno-871256848.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T16:15:00Z",
+      "epoch": 1789834500,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "There's Nothing Half-Baked About These Stamps",
+      "summary": "Christmas Cookies Forever stamps now available nationwide WASHINGTON, Sept. 19, 2026 /PRNewswire/ -- Today, the U.S. Postal Service released its Christmas Cookies Forever stamps at a family-friendly event at the Smithsonian National Postal Museum. For generations, people have bee",
+      "url": "https://www.prnewswire.com/news-releases/theres-nothing-half-baked-about-these-stamps-302879026.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T16:15:00Z",
+      "epoch": 1789834500,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "RITFIT Announces $150,000 Partnership with Breast Cancer Research Foundation to Advance Women's Health Through Fitness",
+      "summary": "CHINO HILLS, Calif., Sept. 19, 2026 /PRNewswire/ -- RITFIT, a leading U.S. home fitness equipment brand, today announced an annual partnership with the Breast Cancer Research Foundation (BCRF), a leading nonprofit organization dedicated to preventing and curing breast cancer by a",
+      "url": "https://www.prnewswire.com/news-releases/ritfit-announces-150-000-partnership-with-breast-cancer-research-foundation-to-advance-womens-health-through-fitness-302883027.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T16:00:00Z",
+      "epoch": 1789833600,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Xinhua Silk Road: 2026 International Audio-Visual Arts Carnival to debut in Jing'an, Shanghai",
+      "summary": "BEIJING, Sept. 19, 2026 /PRNewswire/ -- The 2026 International Audio-Visual Arts Carnival will take place in Jing'an District, east China's Shanghai, from Sept. 24 to Oct. 18, offering the public an immersive audiovisual arts experience through deeper integration of audiovisual..",
+      "url": "https://www.prnewswire.com/news-releases/xinhua-silk-road-2026-international-audio-visual-arts-carnival-to-debut-in-jingan-shanghai-302883811.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T15:45:00Z",
+      "epoch": 1789832700,
+      "sentiment": 0.0,
+      "tickers": [
+        "CCL"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Hainan Airlines Retains SKYTRAX Five-Star Rating for 15th Consecutive Year, and Ranks among the Skytrax World's Best Airlines Top 10 List",
+      "summary": "LONDON, Sept. 19, 2026 /PRNewswire/ -- Hainan Airlines, part of HNA Aviation Group, was named a SKYTRAX Five-Star Airline for the 15th consecutive year at the 2026 World Airline Awards ceremony in London on Sept. 18, in recognition of its consistently high-quality products and se",
+      "url": "https://www.prnewswire.com/news-releases/hainan-airlines-retains-skytrax-five-star-rating-for-15th-consecutive-year-and-ranks-among-the-skytrax-worlds-best-airlines-top-10-list-302883809.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T15:32:00Z",
+      "epoch": 1789831920,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "American Vitality Highlights Liver Nurture as Interest in Liver Health Support Grows",
+      "summary": "MANASSAS, Va., Sept. 19, 2026 /PRNewswire/ -- More people are paying closer attention to liver wellness, looking for everyday ways to help it beyond diet alone. American Vitality is meeting that interest with Liver Nurture, a formulation built around Milk Thistle, Turmeric, Black",
+      "url": "https://www.prnewswire.com/news-releases/american-vitality-highlights-liver-nurture-as-interest-in-liver-health-support-grows-302879643.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T15:00:00Z",
+      "epoch": 1789830000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "ARIDGE and UAE Authorities to Jointly Establish the World's First Personal Flying Car Regulatory Sandbox",
+      "summary": "Company deepens its UAE presence through flight validation, airworthiness activities and preparations for future inter-emirate advanced air mobility services. RAS AL KHAIMAH, UAE, Sept. 19, 2026 /PRNewswire/ -- ARIDGE (Formerly XPENG AEROHT), Asia's largest flying car company, of",
+      "url": "https://www.prnewswire.com/news-releases/aridge-and-uae-authorities-to-jointly-establish-the-worlds-first-personal-flying-car-regulatory-sandbox-302883801.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T14:33:00Z",
+      "epoch": 1789828380,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Want Your Own Barrel of Bourbon? BarrelPick.com Launches at Kentucky Bourbon Festival",
+      "summary": "New platform gives bourbon enthusiasts the ability to buy a full barrel of bourbon, continue aging it and ultimately create their own private single-barrel release. BARDSTOWN, Ky., Sept. 19, 2026 /PRNewswire/ -- BarrelPick.com, a new platform designed to make full-barrel bourbon ",
+      "url": "https://www.prnewswire.com/news-releases/want-your-own-barrel-of-bourbon-barrelpickcom-launches-at-kentucky-bourbon-festival-302883741.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T14:00:00Z",
+      "epoch": 1789826400,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Shareholders who lost money in shares of acquired Papa John's International, Inc. (NASDAQ: PZZA) should contact Wolf Haldenstein Immediately",
+      "summary": "Lead Plaintiff Deadline November 2, 2026 NEW YORK, Sept. 19, 2026 /PRNewswire/ -- Wolf Haldenstein Adler Freeman & Herz LLP (\"Wolf Haldenstein\"), a nationally recognized securities litigation law firm, announces that a class action lawsuit has been filed on behalf of shareholders",
+      "url": "https://www.prnewswire.com/news-releases/shareholders-who-lost-money-in-shares-of-acquired-papa-johns-international-inc-nasdaq-pzza-should-contact-wolf-haldenstein-immediately-302880305.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T13:25:00Z",
+      "epoch": 1789824300,
+      "sentiment": -0.33,
+      "tickers": [
+        "PZZA"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Qatar Foundation - Wilton Park Dialogue Calls for Global Action to Drive Social Development Through Sport",
+      "summary": "Three-day UK dialogue emphasizes female empowerment, inclusion, and systemic reform across the Global South. WEST SUSSEX, England, Sept. 19, 2026 /PRNewswire/ -- International leaders spanning government, policy, development, and sport convened at Wilton Park for a three-day dial",
+      "url": "https://www.prnewswire.com/news-releases/qatar-foundation---wilton-park-dialogue-calls-for-global-action-to-drive-social-development-through-sport-302883790.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-19T13:08:00Z",
+      "epoch": 1789823280,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Med Spa Expert Lindsey Smith Explains What to Expect From a First Med Spa Visit in HelloNation",
       "summary": "The article explains how consultations, medical history reviews, treatment planning, and clear communication help patients prepare for their first med spa visit. BRYANT, Ark., Sept. 19, 2026 /PRNewswire/ -- What should patients expect during their first med spa visit in Bryant, A",
       "url": "https://www.prnewswire.com/news-releases/med-spa-expert-lindsey-smith-explains-what-to-expect-from-a-first-med-spa-visit-in-hellonation-302883678.html",
@@ -482,22 +626,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Xinhua Silk Road: 2026 International Audio-Visual Arts Carnival to debut in Jing'an, Shanghai",
-      "summary": "BEIJING, Sept. 19, 2026 /PRNewswire/ -- The 2026 International Audio-Visual Arts Carnival will take place in Jing'an District, east China's Shanghai, from Sept. 24 to Oct. 18, offering the public an immersive audiovisual arts experience through deeper integration of audiovisual..",
-      "url": "https://www.prnewswire.com/news-releases/xinhua-silk-road-2026-international-audio-visual-arts-carnival-to-debut-in-jingan-shanghai-302883787.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-19T12:19:00Z",
-      "epoch": 1789820340,
-      "sentiment": 0.0,
-      "tickers": [
-        "CCL"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "This is a test from PRN Test - 8:17",
       "summary": "This is a test subheadline. This is a test from PRN Test CLEVELAND, Sept. 19, 2026 /PRNewswire/ -- THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG'S TAIL This is a test from PRN Test The Quick Brown Fox Jumps Over The Lazy Dog's Tail. The Quick Brown Fox Jumps Over The Lazy Dog's Tai",
       "url": "https://www.prnewswire.com/news-releases/this-is-a-test-from-prn-test---717-302883313.html",
@@ -506,20 +634,6 @@
       "published_at": "2026-09-19T12:17:00Z",
       "epoch": 1789820220,
       "sentiment": 1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Hainan Airlines Retains SKYTRAX Five-Star Rating for 15th Consecutive Year, and Ranks among the Skytrax World's Best Airlines Top 10 List",
-      "summary": "LONDON, Sept. 19, 2026 /PRNewswire/ -- Hainan Airlines, part of HNA Aviation Group, was named a SKYTRAX Five-Star Airline for the 15th consecutive year at the 2026 World Airline Awards ceremony in London on Sept. 18, in recognition of its consistently high-quality products and se",
-      "url": "https://www.prnewswire.com/news-releases/hainan-airlines-retains-skytrax-five-star-rating-for-15th-consecutive-year-and-ranks-among-the-skytrax-worlds-best-airlines-top-10-list-302883786.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-19T11:45:00Z",
-      "epoch": 1789818300,
-      "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -604,34 +718,6 @@
       "published_at": "2026-09-19T04:35:00Z",
       "epoch": 1789792500,
       "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Global Times: China's success and prosperity stem from the CPC's outstanding leadership: former Egyptian PM",
-      "summary": "BEIJING, Sept. 18, 2026 /PRNewswire/ -- As this year marks the 105th anniversary of the founding of the Communist Party of China (CPC), a national conference on Party building was held in Beijing on June 15, making arrangements for studying and implementing Xi Jinping Thought on ",
-      "url": "https://www.prnewswire.com/news-releases/global-times-chinas-success-and-prosperity-stem-from-the-cpcs-outstanding-leadership-former-egyptian-pm-302883746.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-19T04:35:00Z",
-      "epoch": 1789792500,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Lactips и SmartSolve объявляют о глобальном стратегическом партнерстве в области беспластиковой упаковки",
-      "summary": "Передовые инновации в области упаковки на двух континентах ПАРИЖ, 19 сентября 2026 г. /PRNewswire/ -- Lactips, французская компания-новатор в области 100%-ных биоматериалов на основе водорастворимых природных полимеров, и SmartSolve, американский пионер в области водорастворимой ",
-      "url": "https://www.prnewswire.com/news-releases/lactips--smartsolve----------302883730.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-19T02:21:00Z",
-      "epoch": 1789784460,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -1293,34 +1379,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Atossa Therapeutics, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "In HelloNation, Insurance Expert Kirk Goodnight Explains Full Coverage Auto Insurance",
-      "summary": "The Article Compares Liability and Full Coverage So Drivers Can Choose the Right Protection for Their Vehicle. PAPILLION, Neb., Sept. 18, 2026 /PRNewswire/ -- The Article Compares Liability and Full Coverage So Drivers Can Choose the Right Protection for Their Vehicle. What is th",
-      "url": "https://www.prnewswire.com/news-releases/in-hellonation-insurance-expert-kirk-goodnight-explains-full-coverage-auto-insurance-302883427.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-18T17:00:00Z",
-      "epoch": 1789750800,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Congress Introduces Pharmacy Workforce Suicide Awareness Day Resolution",
-      "summary": "WASHINGTON, Sept. 18, 2026 /PRNewswire/ -- The American Society of Health-System Pharmacists (ASHP) and the American Pharmacists Association (APhA) applaud the introduction of a House of Representatives resolution recognizing Sept. 20 as Pharmacy Workforce Suicide Awareness Day..",
-      "url": "https://www.prnewswire.com/news-releases/congress-introduces-pharmacy-workforce-suicide-awareness-day-resolution-302883462.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-18T16:59:00Z",
-      "epoch": 1789750740,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
@@ -2139,20 +2197,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Cottonwood Communities, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - GS Mortgage Securities Trust 2019-GC40 (0001778232) (Filer)",
-      "summary": "Filed:  2026-09-18  AccNo:  0001888524-26-016639  Size:  17 KB\n Item 6.02: Change of Servicer or Trustee",
-      "url": "https://www.sec.gov/Archives/edgar/data/1778232/000188852426016639/0001888524-26-016639-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-09-18T15:18:05Z",
-      "epoch": 1789744685,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Gs Mortgage Securities Trust 2019-Gc40",
       "catalyst": false,
       "small_cap_risk": false
     }
