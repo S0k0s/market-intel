@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-20T17:54:34Z",
+  "generated_at": "2026-09-20T20:15:23Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 135,
+    "breaking_count": 137,
     "breaking_catalyst_count": 28,
     "pipeline_count": 58,
     "pipeline_catalyst_count": 14,
@@ -52,19 +52,19 @@
       "source_count": 2
     },
     {
-      "ticker": "SAP.DE",
+      "ticker": "EQPT",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "INCY",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
       "ticker": "ORBS",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "INF.L",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -468,6 +468,122 @@
       "small_cap_risk": false
     },
     {
+      "title": "EQPT Deadline: EQPT Investors Have Opportunity to Lead EquipmentShare.com Inc Securities Lawsuit",
+      "summary": "NEW YORK, Sept. 20, 2026 /PRNewswire/ -- Rosen Law Firm, a global investor rights law firm, reminds purchasers of EquipmentShare.com Inc (NASDAQ: EQPT): (i) Class A common stock pursuant and/or traceable to the registration statement and prospectus (collectively, the \"Registratio",
+      "url": "https://www.prnewswire.com/news-releases/eqpt-deadline-eqpt-investors-have-opportunity-to-lead-equipmentsharecom-inc-securities-lawsuit-302883709.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-20T20:15:00Z",
+      "epoch": 1789935300,
+      "sentiment": -0.33,
+      "tickers": [
+        "EQPT"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Specialised Therapeutics Expands Partnership with Incyte to Include Ruxolitinib Cream (Opzelura®) in Australia",
+      "summary": "SINGAPORE, Sept. 20, 2026 /PRNewswire/ -- Independent biopharmaceutical company Specialised Therapeutics (ST) today announced an expansion of its existing partnership with Incyte Biosciences International, an affiliate of Incyte (NASDAQ: INCY), to commercialise, distribute, and r",
+      "url": "https://www.prnewswire.com/news-releases/specialised-therapeutics-expands-partnership-with-incyte-to-include-ruxolitinib-cream-opzelura-in-australia-302882999.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-20T20:00:00Z",
+      "epoch": 1789934400,
+      "sentiment": 1.0,
+      "tickers": [
+        "INCY"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "JACC: Clinical Electrophysiology veröffentlicht die 12-Monats-Ergebnisse der ersten Field PULSE-Studie am Menschen von Field Medical: 94,2 % PVI-Haltbarkeit pro Vene bei optimierter Wellenform",
+      "summary": "Aktuelle HRX-Daten treiben den „Instantaneous Ablation\"-Arbeitsablauf von Field Medical voran und erweitern die klinische Evidenz für Hochvolt-Fokal-PFA mit dem FieldForce™-PFA-System. ATLANTA und CARLSBAD, Kalifornien, 20. September 2026 /PRNewswire/ -- Field Medical, Inc., ein.",
+      "url": "https://www.prnewswire.com/news-releases/jacc-clinical-electrophysiology-veroffentlicht-die-12-monats-ergebnisse-der-ersten-field-pulse-studie-am-menschen-von-field-medical-94-2--pvi-haltbarkeit-pro-vene-bei-optimierter-wellenform-302884066.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-20T19:37:00Z",
+      "epoch": 1789933020,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "JACC: Clinical Electrophysiology publie les résultats à 12 mois du premier essai Field PULSE chez l'humain de Field Medical : 94,2 % de durabilité de l'isolement des veines pulmonaires, par veine, grâce à une forme d'onde optimisée",
+      "summary": "Les données de dernière minute présentées à HRX font progresser le protocole d'« ablation instantanée » de Field Medical et étoffent les données cliniques sur l'ablation focale par champ pulsé (PFA) à haute tension avec le système de PFA FieldForce™ ATLANTA et CARLSBAD, Californi",
+      "url": "https://www.prnewswire.com/news-releases/jacc-clinical-electrophysiology-publie-les-resultats-a-12-mois-du-premier-essai-field-pulse-chez-lhumain-de-field-medical--94-2--de-durabilite-de-lisolement-des-veines-pulmonaires-par-veine-grace-a-une-forme-donde-optimise-302884065.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-20T19:34:00Z",
+      "epoch": 1789932840,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "L'usine GAC Cambodia KD démarre sa production et établit une nouvelle référence en matière de fabrication locale",
+      "summary": "Cambodge, 20 septembre 2026 /PRNewswire/ -- Le 17 septembre, la cérémonie d'inauguration de l'usine GAC Cambodia KD s'est déroulée en grande pompe dans la province de Kampong Chhnang. Le Premier ministre cambodgien Hun Manet et l'ambassadeur de Chine au Cambodge, Wang Wenbin, ont",
+      "url": "https://www.prnewswire.com/news-releases/lusine-gac-cambodia-kd-demarre-sa-production-et-etablit-une-nouvelle-reference-en-matiere-de-fabrication-locale-302884058.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-20T18:39:00Z",
+      "epoch": 1789929540,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Das GAC-KD-Werk in Kambodscha nimmt die Produktion auf und setzt damit neue Maßstäbe für die lokale Fertigung",
+      "summary": "Kambodscha, 20. September 2026 /PRNewswire/ -- Am 17. September fand in der Provinz Kampong Chhnang die feierliche Einweihungszeremonie des GAC-KD-Werks in Kambodscha statt. Der kambodschanische Ministerpräsident Hun Manet und der chinesische Botschafter in Kambodscha, Wang Wenbi",
+      "url": "https://www.prnewswire.com/news-releases/das-gac-kd-werk-in-kambodscha-nimmt-die-produktion-auf-und-setzt-damit-neue-maWstabe-fur-die-lokale-fertigung-302884056.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-20T18:37:00Z",
+      "epoch": 1789929420,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Chery Auto präsentiert fast 20 Innovationen im Bereich grüner Technologien und Ökosysteme. Der „Chery International User Summit 2026\" beginnt im Oktober",
+      "summary": "WUHU, China, 20. September 2026 /PRNewswire/ -- Chery Auto veranstaltet vom 18. bis 24. Oktober in seiner weltweiten Zentrale in Wuhu, China, den „2026 Chery International User Summit\". Der Gipfel, dessen Schwerpunkte auf Technologie, Nachhaltigkeit und Konvergenz liegen, wird fa",
+      "url": "https://www.prnewswire.com/news-releases/chery-auto-prasentiert-fast-20-innovationen-im-bereich-gruner-technologien-und-okosysteme-der-chery-international-user-summit-2026-beginnt-im-oktober-302884050.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-20T18:21:00Z",
+      "epoch": 1789928460,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Chery Auto présentera près de 20 innovations en matière de technologies vertes et d'écosystèmes. Le Sommet international des utilisateurs Chery 2026 s'ouvrira en octobre",
+      "summary": "WUHU, Chine, 20 septembre 2026 /PRNewswire/ -- Chery Auto organisera le Sommet international des utilisateurs Chery 2026 du 18 au 24 octobre à son siège social mondial à Wuhu, en Chine. Axé sur la technologie, le développement durable et la convergence, ce sommet présentera près ",
+      "url": "https://www.prnewswire.com/news-releases/chery-auto-presentera-pres-de-20-innovations-en-matiere-de-technologies-vertes-et-decosystemes-le-sommet-international-des-utilisateurs-chery-2026-souvrira-en-octobre-302884048.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-20T18:19:00Z",
+      "epoch": 1789928340,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Global Times: How Mohe, China's northernmost and coldest city, turns ice and snow into invaluable assets",
       "summary": "BEIJING, Sept. 20, 2026 /PRNewswire/ -- At 53 degrees north latitude, Mohe sits at the \"crown of the golden rooster\" on China's map — the highest-latitude place in the country. At -53 C, the city in Northeast China's Heilongjiang once saw the lowest temperature ever recorded in C",
       "url": "https://www.prnewswire.com/news-releases/global-times-how-mohe-chinas-northernmost-and-coldest-city-turns-ice-and-snow-into-invaluable-assets-302884037.html",
@@ -510,50 +626,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "GameSir Announces Official Fortnite Mobile Controller Collection",
-      "summary": "Officially Licensed Fortnite Edition Mobile Controllers Deliver Console-Level Precision and Premium Collectible Designs ORLANDO, Fla., Sept. 20, 2026 /PRNewswire/ -- GameSir, a global leader in gaming peripherals, announced its collaboration with Fortnite, introducing an all-new.",
-      "url": "https://www.prnewswire.com/news-releases/gamesir-announces-official-fortnite-mobile-controller-collection-302883993.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-20T14:00:00Z",
-      "epoch": 1789912800,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "1MORE S20 Ultra Clip-On Earbuds Launch as a New All-Around Standard for Open-Ear Audio",
-      "summary": "SHENZHEN, China, Sept. 20, 2026 /PRNewswire/ -- 1MORE S20 Ultra Clip-On Earbuds combine advanced acoustic architecture, all-day comfort, intelligent features, and versatile performance to redefine the ear-clip headphone experience. 1MORE, a professional audio brand, has officiall",
-      "url": "https://www.prnewswire.com/news-releases/1more-s20-ultra-clip-on-earbuds-launch-as-a-new-all-around-standard-for-open-ear-audio-302883974.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-20T13:18:00Z",
-      "epoch": 1789910280,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "MSITEK Participates in New York Fashion Week Retail Innovation Lab",
-      "summary": "NEW YORK, Sept. 20, 2026 /PRNewswire/ -- MSITEK , Global SAP partner and digital transformation company, participated in the Retail Innovation Lab by NYFW Collections and SAP in New York during New York Fashion Week (NYFW). As an innovative SAP partner invited to participate, MSI",
-      "url": "https://www.prnewswire.com/news-releases/msitek-participates-in-new-york-fashion-week-retail-innovation-lab-302883861.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-20T13:03:00Z",
-      "epoch": 1789909380,
-      "sentiment": 0.0,
-      "tickers": [
-        "SAP.DE"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Insurance Expert Ben Buenzow Explains Small Business Insurance Priorities in HelloNation",
       "summary": "The article outlines how small businesses in the Des Moines metro can prioritize insurance coverage to manage operational and financial risks. URBANDALE, Iowa, Sept. 20, 2026 /PRNewswire/ -- What insurance coverage should a small business in the Des Moines metro secure first to p",
       "url": "https://www.prnewswire.com/news-releases/insurance-expert-ben-buenzow-explains-small-business-insurance-priorities-in-hellonation-302883689.html",
@@ -571,8 +643,8 @@
       "title": "Mediaplanet Launches Women vs. Cancer Campaign in the Los Angeles Times to Advance Awareness, Early Detection and Advocacy",
       "summary": "National campaign features ESPN broadcaster and cervical cancer survivor Erin Andrews alongside leading women's cancer organizations and experts NEW YORK, Sept. 20, 2026 /PRNewswire/ -- Mediaplanet today announces the national launch of its Women vs. Cancer campaign, publishing S",
       "url": "https://www.prnewswire.com/news-releases/mediaplanet-launches-women-vs-cancer-campaign-in-the-los-angeles-times-to-advance-awareness-early-detection-and-advocacy-302882510.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-20T13:00:00Z",
       "epoch": 1789909200,
       "sentiment": 0.67,
@@ -812,20 +884,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Par Health Issues Voluntary Nationwide Recall of Two Lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection Due to the Presence of Particulate Matter",
-      "summary": "ROCHESTER, Mich., Sept. 18, 2026 /PRNewswire/ -- Par Health is voluntarily recalling two lots of Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 400 mcg/100 mL (4 mcg/mL) to the hospital level. The product is being recalled due to the presence of particulate matter identifi",
-      "url": "https://www.prnewswire.com/news-releases/par-health-issues-voluntary-nationwide-recall-of-two-lots-of-dexmedetomidine-hcl-in-0-9-sodium-chloride-injection-due-to-the-presence-of-particulate-matter-302883679.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-18T22:47:00Z",
-      "epoch": 1789771620,
-      "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Strafverfolgungsbehörden der Vereinigten Arabischen Emirate verhaften Anführer einer Geldwäscher-Bande",
       "summary": "ABU DHABI, VAE, 19. September 2026 /PRNewswire/ -- Im Rahmen einer gemeinsamen Operation, die internationale Sicherheitszusammenarbeit im Kampf gegen die grenzüberschreitende organisierte Kriminalität widerspiegelt, hat die Polizei der VAE in Abstimmung mit den schwedischen Behör",
       "url": "https://www.prnewswire.com/news-releases/strafverfolgungsbehorden-der-vereinigten-arabischen-emirate-verhaften-anfuhrer-einer-geldwascher-bande-302883669.html",
@@ -886,20 +944,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "MemorialCare's Long Beach and Saddleback Medical Centers Earn American Heart Association Get With The Guidelines® Gold Plus Awards",
-      "summary": "National recognitions highlight excellence in evidence-based stroke and cardiovascular care, improving outcomes and supporting recovery for patients across Southern California. FOUNTAIN VALLEY, Calif., Sept. 18, 2026 /PRNewswire/ -- MemorialCare's Long Beach Medical Center and Sa",
-      "url": "https://www.prnewswire.com/news-releases/memorialcares-long-beach-and-saddleback-medical-centers-earn-american-heart-association-get-with-the-guidelines-gold-plus-awards-302883629.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-18T21:04:00Z",
-      "epoch": 1789765440,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Lument Finance Trust Suspends Common Stock Dividend, and Declares Q3 Preferred Stock Dividend",
       "summary": "NEW YORK, Sept. 18, 2026 /PRNewswire/ -- Lument Finance Trust, Inc. (NYSE: LFT) (\"we\", \"LFT\" or \"the Company\") today announced that its Board of Directors suspended the Company's quarterly dividend on its common stock commencing with the third quarter dividend that would have oth",
       "url": "https://www.prnewswire.com/news-releases/lument-finance-trust-suspends-common-stock-dividend-and-declares-q3-preferred-stock-dividend-302883559.html",
@@ -914,20 +958,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "Pensacola Has Plenty of Places to Work Out. BEEM® Wants to Be Where the City Recovers",
-      "summary": "First-time entrepreneurs Clara Kim and Ryan Roberts are opening a private infrared sauna and light therapy studio designed to make recovery part of the routine. PENSACOLA, Fla., Sept. 18, 2026 /PRNewswire/ -- For years, Pensacola resident Clara Kim wished there were a place close",
-      "url": "https://www.prnewswire.com/news-releases/pensacola-has-plenty-of-places-to-work-out-beem-wants-to-be-where-the-city-recovers-302883626.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-18T20:59:00Z",
-      "epoch": 1789765140,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "Haymaker Acquisition Corp V Completes $287,500,000 Initial Public Offering",
