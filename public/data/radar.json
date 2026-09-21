@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-20T22:35:29Z",
+  "generated_at": "2026-09-21T00:30:04Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 143,
+    "breaking_count": 141,
     "breaking_catalyst_count": 28,
     "pipeline_count": 58,
     "pipeline_catalyst_count": 14,
@@ -46,12 +46,6 @@
       "source_count": 2
     },
     {
-      "ticker": "HBAN",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 2
-    },
-    {
       "ticker": "EQPT",
       "count": 1,
       "catalyst_count": 0,
@@ -65,6 +59,12 @@
     },
     {
       "ticker": "ORBS",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "INF.L",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -468,6 +468,48 @@
       "small_cap_risk": false
     },
     {
+      "title": "Velocys expands Fischer-Tropsch reactor roadmap with AlphaCore 800 for larger-scale SAF and e-fuels projects",
+      "summary": "Larger-capacity microchannel reactor is designed to reduce reactor count, simplify FT configuration and lower FT unit cost HOUSTON and OXFORD, England, Sept. 21, 2026 /PRNewswire/ -- Velocys, a Fischer-Tropsch technology licensor for sustainable fuels, today announced the release",
+      "url": "https://www.prnewswire.com/news-releases/velocys-expands-fischer-tropsch-reactor-roadmap-with-alphacore-800-for-larger-scale-saf-and-e-fuels-projects-302883899.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-21T00:05:00Z",
+      "epoch": 1789949100,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "01F Group Announces Investment in DANA, Indonesia's Leading Digital Financial Company, Reinforcing Long-Term Confidence in Asia's Fintech Opportunity",
+      "summary": "SINGAPORE, Sept. 20, 2026 /PRNewswire/ -- 01F Group through its growth-stage fintech private equity arm, 01Fintech, today announced its investment in DANA, Indonesia's leading digital financial platform. The investment reflects 01F Group's commitment to supporting resilient, loca",
+      "url": "https://www.prnewswire.com/news-releases/01f-group-announces-investment-in-dana-indonesias-leading-digital-financial-company-reinforcing-long-term-confidence-in-asias-fintech-opportunity-302883128.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-21T00:00:00Z",
+      "epoch": 1789948800,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "The Walter Family Reaffirms Longstanding Philanthropic Commitment and Forcefully Rejects False and Defamatory Claims",
+      "summary": "CHICAGO, Sept. 20, 2026 /PRNewswire/ -- The Walter Family today reaffirmed Mark and Kimbra Walter's (the \"Walters\") longstanding commitment to philanthropy and the organizations, causes and communities they have supported for decades. Recent media speculation suggesting that the ",
+      "url": "https://www.prnewswire.com/news-releases/the-walter-family-reaffirms-longstanding-philanthropic-commitment-and-forcefully-rejects-false-and-defamatory-claims-302884107.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-20T23:30:00Z",
+      "epoch": 1789947000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Employment &amp; Labor Lawyers, at Blumenthal Nordrehaug Bhowmik De Blouw LLP, File Suit Against W.S. Balkhi Corporation, Alleging Failure to Provide Meal Periods and Rest Breaks",
       "summary": "W.S. Balkhi Corporation allegedly failed to provide employees with accurate wages due to missed meal breaks. This allegedly resulted in violations of various California Labor codes. **THIS IS AN ATTORNEY ADVERTISEMENT** SAN BERNARDINO, Calif., Sept. 20, 2026 /PRNewswire/ -- The L",
       "url": "https://www.prnewswire.com/news-releases/employment--labor-lawyers-at-blumenthal-nordrehaug-bhowmik-de-blouw-llp-file-suit-against-ws-balkhi-corporation-alleging-failure-to-provide-meal-periods-and-rest-breaks-302882812.html",
@@ -615,8 +657,8 @@
       "title": "JACC: Clinical Electrophysiology veröffentlicht die 12-Monats-Ergebnisse der ersten Field PULSE-Studie am Menschen von Field Medical: 94,2 % PVI-Haltbarkeit pro Vene bei optimierter Wellenform",
       "summary": "Aktuelle HRX-Daten treiben den „Instantaneous Ablation\"-Arbeitsablauf von Field Medical voran und erweitern die klinische Evidenz für Hochvolt-Fokal-PFA mit dem FieldForce™-PFA-System. ATLANTA und CARLSBAD, Kalifornien, 20. September 2026 /PRNewswire/ -- Field Medical, Inc., ein.",
       "url": "https://www.prnewswire.com/news-releases/jacc-clinical-electrophysiology-veroffentlicht-die-12-monats-ergebnisse-der-ersten-field-pulse-studie-am-menschen-von-field-medical-94-2--pvi-haltbarkeit-pro-vene-bei-optimierter-wellenform-302884066.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-20T19:37:00Z",
       "epoch": 1789933020,
       "sentiment": 0.0,
@@ -629,52 +671,10 @@
       "title": "JACC: Clinical Electrophysiology publie les résultats à 12 mois du premier essai Field PULSE chez l'humain de Field Medical : 94,2 % de durabilité de l'isolement des veines pulmonaires, par veine, grâce à une forme d'onde optimisée",
       "summary": "Les données de dernière minute présentées à HRX font progresser le protocole d'« ablation instantanée » de Field Medical et étoffent les données cliniques sur l'ablation focale par champ pulsé (PFA) à haute tension avec le système de PFA FieldForce™ ATLANTA et CARLSBAD, Californi",
       "url": "https://www.prnewswire.com/news-releases/jacc-clinical-electrophysiology-publie-les-resultats-a-12-mois-du-premier-essai-field-pulse-chez-lhumain-de-field-medical--94-2--de-durabilite-de-lisolement-des-veines-pulmonaires-par-veine-grace-a-une-forme-donde-optimise-302884065.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-20T19:34:00Z",
       "epoch": 1789932840,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "L'usine GAC Cambodia KD démarre sa production et établit une nouvelle référence en matière de fabrication locale",
-      "summary": "Cambodge, 20 septembre 2026 /PRNewswire/ -- Le 17 septembre, la cérémonie d'inauguration de l'usine GAC Cambodia KD s'est déroulée en grande pompe dans la province de Kampong Chhnang. Le Premier ministre cambodgien Hun Manet et l'ambassadeur de Chine au Cambodge, Wang Wenbin, ont",
-      "url": "https://www.prnewswire.com/news-releases/lusine-gac-cambodia-kd-demarre-sa-production-et-etablit-une-nouvelle-reference-en-matiere-de-fabrication-locale-302884058.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-20T18:39:00Z",
-      "epoch": 1789929540,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Das GAC-KD-Werk in Kambodscha nimmt die Produktion auf und setzt damit neue Maßstäbe für die lokale Fertigung",
-      "summary": "Kambodscha, 20. September 2026 /PRNewswire/ -- Am 17. September fand in der Provinz Kampong Chhnang die feierliche Einweihungszeremonie des GAC-KD-Werks in Kambodscha statt. Der kambodschanische Ministerpräsident Hun Manet und der chinesische Botschafter in Kambodscha, Wang Wenbi",
-      "url": "https://www.prnewswire.com/news-releases/das-gac-kd-werk-in-kambodscha-nimmt-die-produktion-auf-und-setzt-damit-neue-maWstabe-fur-die-lokale-fertigung-302884056.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-20T18:37:00Z",
-      "epoch": 1789929420,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Chery Auto präsentiert fast 20 Innovationen im Bereich grüner Technologien und Ökosysteme. Der „Chery International User Summit 2026\" beginnt im Oktober",
-      "summary": "WUHU, China, 20. September 2026 /PRNewswire/ -- Chery Auto veranstaltet vom 18. bis 24. Oktober in seiner weltweiten Zentrale in Wuhu, China, den „2026 Chery International User Summit\". Der Gipfel, dessen Schwerpunkte auf Technologie, Nachhaltigkeit und Konvergenz liegen, wird fa",
-      "url": "https://www.prnewswire.com/news-releases/chery-auto-prasentiert-fast-20-innovationen-im-bereich-gruner-technologien-und-okosysteme-der-chery-international-user-summit-2026-beginnt-im-oktober-302884050.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-20T18:21:00Z",
-      "epoch": 1789928460,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -1056,39 +1056,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "Bank of America Declares Preferred Stock Dividends Payable in October and November 2026",
-      "summary": "CHARLOTTE, N.C., Sept. 18, 2026 /PRNewswire/ -- Bank of America Corporation today announced the Board of Directors has authorized regular cash dividends on the outstanding shares or depositary shares of the following series of preferred stock: Series of Preferred Stock Dividend p",
-      "url": "https://www.prnewswire.com/news-releases/bank-of-america-declares-preferred-stock-dividends-payable-in-october-and-november-2026-302882135.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-18T20:15:00Z",
-      "epoch": 1789762500,
-      "sentiment": 0.33,
-      "tickers": [
-        "BAC"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Huntington Bancshares Incorporated Declares Cash Dividend On Its Series I Preferred Stock",
-      "summary": "COLUMBUS, Ohio, Sept. 18, 2026 /PRNewswire/ -- Huntington Bancshares Incorporated announced that the Board of Directors declared and set aside a quarterly cash dividend on the company's 5.70% Series I Non-Cumulative Perpetual Preferred Stock (Nasdaq: HBANM) of $356.25 per share..",
-      "url": "https://www.prnewswire.com/news-releases/huntington-bancshares-incorporated-declares-cash-dividend-on-its-series-i-preferred-stock-302883498.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-18T20:05:00Z",
-      "epoch": 1789761900,
-      "sentiment": 0.67,
-      "tickers": [
-        "HBAN",
-        "HBANM"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
     },
     {
       "title": "8-K - HWH International Inc. (0001897245) (Filer)",
