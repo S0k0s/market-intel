@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T01:49:49Z",
+  "generated_at": "2026-09-26T07:01:34Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 144,
@@ -58,13 +58,13 @@
       "source_count": 1
     },
     {
-      "ticker": "INTU",
+      "ticker": "CVS",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "IP",
+      "ticker": "WEBC",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -614,14 +614,114 @@
       "small_cap_risk": false
     },
     {
-      "title": "MAYPHARM Unveils HYALMASS AQUATOX, a Next-Generation Multi-Active Skin Solution for the Global Aesthetic Market",
-      "summary": "SEOUL, South Korea, Sept. 26, 2026 /PRNewswire/ -- MAYPHARM, a global aesthetic and cosmeceutical company, has announced the upcoming launch of HYALMASS AQUATOX, introducing a new multi-active formulation designed to respond to the rapidly evolving demands of the global aesthetic",
-      "url": "https://www.prnewswire.com/news-releases/maypharm-unveils-hyalmass-aquatox-a-next-generation-multi-active-skin-solution-for-the-global-aesthetic-market-302890709.html",
+      "title": "Did Zeta Global Holdings Corp. Insiders Breach their Fiduciary Duties to Shareholders?",
+      "summary": "Shareholders are encouraged to contact the firm to discuss their rights and options at no cost or obligation. We would handle any matter on a contingent fee basis, whereby you would not be responsible for out-of-pocket payment of our legal fees or expenses. Shareholders should co",
+      "url": "https://www.prnewswire.com/news-releases/did-zeta-global-holdings-corp-insiders-breach-their-fiduciary-duties-to-shareholders-302890729.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-26T01:33:00Z",
-      "epoch": 1790386380,
-      "sentiment": 0.67,
+      "published_at": "2026-09-26T05:45:00Z",
+      "epoch": 1790401500,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Did TransMedics Group, Inc. Insiders Breach their Fiduciary Duties to Shareholders?",
+      "summary": "Shareholders are encouraged to contact the firm to discuss their rights and options at no cost or obligation. We would handle any matter on a contingent fee basis, whereby you would not be responsible for out-of-pocket payment of our legal fees or expenses. Shareholders should co",
+      "url": "https://www.prnewswire.com/news-releases/did-transmedics-group-inc-insiders-breach-their-fiduciary-duties-to-shareholders-302890731.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-26T05:44:00Z",
+      "epoch": 1790401440,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Did BellRing Brands, Inc. Insiders Breach their Fiduciary Duties to Shareholders?",
+      "summary": "Shareholders are encouraged to contact the firm to discuss their rights and options at no cost or obligation. We would handle any matter on a contingent fee basis, whereby you would not be responsible for out-of-pocket payment of our legal fees or expenses. Shareholders should co",
+      "url": "https://www.prnewswire.com/news-releases/did-bellring-brands-inc-insiders-breach-their-fiduciary-duties-to-shareholders-302890725.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-26T04:43:00Z",
+      "epoch": 1790397780,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Did Treace Medical Concepts, Inc. Insiders Breach their Fiduciary Duties to Shareholders?",
+      "summary": "Shareholders are encouraged to contact the firm to discuss their rights and options at no cost or obligation. We would handle any matter on a contingent fee basis, whereby you would not be responsible for out-of-pocket payment of our legal fees or expenses. Shareholders should co",
+      "url": "https://www.prnewswire.com/news-releases/did-treace-medical-concepts-inc-insiders-breach-their-fiduciary-duties-to-shareholders-302890728.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-26T04:43:00Z",
+      "epoch": 1790397780,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Did CVS Health Corporation Insiders Breach their Fiduciary Duties to Shareholders?",
+      "summary": "Shareholders are encouraged to contact the firm to discuss their rights and options at no cost or obligation. We would handle any matter on a contingent fee basis, whereby you would not be responsible for out-of-pocket payment of our legal fees or expenses. Shareholders should co",
+      "url": "https://www.prnewswire.com/news-releases/did-cvs-health-corporation-insiders-breach-their-fiduciary-duties-to-shareholders-302890723.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-26T04:42:00Z",
+      "epoch": 1790397720,
+      "sentiment": 0.0,
+      "tickers": [
+        "CVS"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Did Krispy Kreme, Inc. Insiders Breach their Fiduciary Duties to Shareholders?",
+      "summary": "Shareholders are encouraged to contact the firm to discuss their rights and options at no cost or obligation. We would handle any matter on a contingent fee basis, whereby you would not be responsible for out-of-pocket payment of our legal fees or expenses. Shareholders should co",
+      "url": "https://www.prnewswire.com/news-releases/did-krispy-kreme-inc-insiders-breach-their-fiduciary-duties-to-shareholders-302890722.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-26T04:40:00Z",
+      "epoch": 1790397600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Did PACS Group, Inc. Insiders Breach their Fiduciary Duties to Shareholders?",
+      "summary": "Shareholders are encouraged to contact the firm to discuss their rights and options at no cost or obligation. We would handle any matter on a contingent fee basis, whereby you would not be responsible for out-of-pocket payment of our legal fees or expenses. Shareholders should co",
+      "url": "https://www.prnewswire.com/news-releases/did-pacs-group-inc-insiders-breach-their-fiduciary-duties-to-shareholders-302890703.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-26T03:16:00Z",
+      "epoch": 1790392560,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Did Geron Corporation Insiders Breach their Fiduciary Duties to Shareholders?",
+      "summary": "Shareholders are encouraged to contact the firm to discuss their rights and options at no cost or obligation. We would handle any matter on a contingent fee basis, whereby you would not be responsible for out-of-pocket payment of our legal fees or expenses. Shareholders should co",
+      "url": "https://www.prnewswire.com/news-releases/did-geron-corporation-insiders-breach-their-fiduciary-duties-to-shareholders-302890718.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-26T02:35:00Z",
+      "epoch": 1790390100,
+      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -631,42 +731,12 @@
       "title": "STEMREGEN® Named to Inc. 5000 for Third Consecutive Year",
       "summary": "Stem cell science company ranks No. 332 nationally following 1,017% three-year growth WHITEFISH, Mont., Sept. 25, 2026 /PRNewswire/ -- STEMREGEN®, the leader in science-backed stem cell supplements supporting the body's innate repair system, has been named to the Inc. 5000 list o",
       "url": "https://www.prnewswire.com/news-releases/stemregen-named-to-inc-5000-for-third-consecutive-year-302890705.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-26T01:06:00Z",
       "epoch": 1790384760,
       "sentiment": 0.33,
       "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Marketing Maven CEO and Founder, Lindsey Carnett, to Keynote Elevate's Inspiring Women in Business Event",
-      "summary": "Ventura County event will bring together women business owners and leaders for an evening focused on leadership, mentorship and meaningful connections VENTURA COUNTY, Calif., Sept. 25, 2026 /PRNewswire/ -- Marketing Maven CEO and President Lindsey Carnett will serve as the keynot",
-      "url": "https://www.prnewswire.com/news-releases/marketing-maven-ceo-and-founder-lindsey-carnett-to-keynote-elevates-inspiring-women-in-business-event-302890676.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-26T00:30:00Z",
-      "epoch": 1790382600,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "LOVB'S LOS ANGELES ORBIT ANNOUNCES TEAM NAME AT INTUIT DOME",
-      "summary": "Team unveils its identity, announces Yaamava' Resort & Casino as Founding Partner, with owners Alexis Ohanian, Issa Rae and Savannah James in attendance LOS ANGELES, Sept. 25, 2026 /PRNewswire/ -- LOVB (pronounced LOVE) Los Angeles officially unveiled its new team name, Los Angel",
-      "url": "https://www.prnewswire.com/news-releases/lovbs-los-angeles-orbit-announces-team-name-at-intuit-dome-302890697.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-26T00:24:00Z",
-      "epoch": 1790382240,
-      "sentiment": 0.33,
-      "tickers": [
-        "INTU"
-      ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -700,52 +770,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "International Paper CEO to Speak at Baird 2026 Global Industrial Conference",
-      "summary": "MEMPHIS, Tenn., Sep 25, 2026 /PRNewswire/ -- International Paper (NYSE: IP; LSE: IPC) Chief Executive Officer Andy Silvernail will speak at the Baird 2026 Global Industrial Conference on November 11, 2026. The Fireside Chat and Q&A session is scheduled to begin at 8:30 a.m. CT (9",
-      "url": "https://www.prnewswire.com/news-releases/international-paper-ceo-to-speak-at-baird-2026-global-industrial-conference-302890460.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-25T23:10:00Z",
-      "epoch": 1790377800,
-      "sentiment": 0.0,
-      "tickers": [
-        "IP"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Labor &amp; Employment Attorneys, at Blumenthal Nordrehaug Bhowmik De Blouw LLP, File Suit Against Goforth &amp; Marti for Alleged Failure to Pay Accurate Wages",
-      "summary": "Goforth & Marti allegedly failed to accurately record employees' time during their shifts. Allegedly, this resulted in violations of various California Labor Codes. **THIS IS AN ATTORNEY ADVERTISEMENT** KERN, Calif., Sept. 25, 2026 /PRNewswire/ -- The Los Angeles employment law a",
-      "url": "https://www.prnewswire.com/news-releases/labor--employment-attorneys-at-blumenthal-nordrehaug-bhowmik-de-blouw-llp-file-suit-against-goforth--marti-for-alleged-failure-to-pay-accurate-wages-302882868.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-25T22:59:00Z",
-      "epoch": 1790377140,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Sabre Corporation Announces Early Tender Results of Previously Announced Cash Tender Offer and Consent Solicitation by Sabre Financial Borrower, LLC",
-      "summary": "SOUTHLAKE, Texas, Sept. 25, 2026 /PRNewswire/ -- Sabre Corporation (\"Sabre\") (Nasdaq: SABR) today announced the early tender results of the previously announced cash tender offer (the \"Tender Offer\") by Sabre Financial Borrower, LLC (\"Sabre Financial\"), its indirect wholly-owned.",
-      "url": "https://www.prnewswire.com/news-releases/sabre-corporation-announces-early-tender-results-of-previously-announced-cash-tender-offer-and-consent-solicitation-by-sabre-financial-borrower-llc-302890677.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-25T22:55:00Z",
-      "epoch": 1790376900,
-      "sentiment": 0.0,
-      "tickers": [
-        "SABR"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "WEBCO INDUSTRIES, INC. REPORTS FISCAL 2026 FOURTH QUARTER AND YEAR END RESULTS",
       "summary": "SAND SPRINGS, Okla., Sept. 25, 2026 /PRNewswire/ -- Webco Industries, Inc. (OTC: WEBC) today reported results for our fourth fiscal quarter and year ended July 31, 2026. For our fourth quarter of fiscal year 2026, we had net income of $5.0 million, or $7.35 per diluted share, whi",
       "url": "https://www.prnewswire.com/news-releases/webco-industries-inc-reports-fiscal-2026-fourth-quarter-and-year-end-results-302890674.html",
@@ -762,39 +786,11 @@
       "small_cap_risk": true
     },
     {
-      "title": "MagLev Aero Secures Dual DARPA Contracts to Advance Next-Generation U.S. Drone Propulsion",
-      "summary": "Concurrent DARPA awards provide non-dilutive funding to accelerate MagLev Aero's path to TRL-6 flight readiness, de-risking dual-use commercialization and advancing U.S.-manufactured propulsion for American \"Drone Dominance\" initiatives. BOSTON, Sept. 25, 2026 /PRNewswire/ -- Pro",
-      "url": "https://www.prnewswire.com/news-releases/maglev-aero-secures-dual-darpa-contracts-to-advance-next-generation-us-drone-propulsion-302890673.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-25T22:37:00Z",
-      "epoch": 1790375820,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Comviva beruft Jeet Singh zur Förderung von globalem Wachstum, Transformation und strategischen Partnerschaften",
-      "summary": "NEU-DELHI, 26. September 2026 /PRNewswire/ -- Comviva, ein weltweit führender Anbieter von Lösungen für die digitale Transformation, der sich auf Kundenerlebnismanagement, Datenmonetarisierung und digitale Finanzdienstleistungen spezialisiert hat, gab heute die Ernennung von Jeet",
-      "url": "https://www.prnewswire.com/news-releases/comviva-beruft-jeet-singh-zur-forderung-von-globalem-wachstum-transformation-und-strategischen-partnerschaften-302890671.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-25T22:31:00Z",
-      "epoch": 1790375460,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Monumental Sports &amp; Entertainment and MedStar Health Celebrate $1.1 Million Gift to Services Supporting Women, Infants, and Community Pediatrics",
       "summary": "WASHINGTON, Sept. 25, 2026 /PRNewswire/ -- MedStar Health and Monumental Sports & Entertainment (MSE) are proud to continue their philanthropic partnership supporting some of the District's most vulnerable residents. Through a $1.1 million donation, MSE will continue funding MedS",
       "url": "https://www.prnewswire.com/news-releases/monumental-sports--entertainment-and-medstar-health-celebrate-1-1-million-gift-to-services-supporting-women-infants-and-community-pediatrics-302890669.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-25T22:29:00Z",
       "epoch": 1790375340,
       "sentiment": 0.33,
