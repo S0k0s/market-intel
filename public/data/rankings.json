@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T20:37:32Z",
+  "generated_at": "2026-09-26T23:21:44Z",
   "continents": {
     "na": {
       "label": "Βόρεια Αμερική",
@@ -46,7 +46,7 @@
       "volume_bonus": 4,
       "source_count": 2,
       "unusual": false,
-      "baseline_articles": 2.6,
+      "baseline_articles": 2.4,
       "horizon": null,
       "swing_count": 1,
       "longterm_count": 1
@@ -68,9 +68,9 @@
       "longterm_count": 0
     },
     {
-      "ticker": "PG",
-      "name": "Procter & Gamble",
-      "sector": "Καταναλωτικά (Βασικά)",
+      "ticker": "JBL",
+      "name": "Jabil",
+      "sector": "Τεχνολογία",
       "continent": "na",
       "score": 78.8,
       "article_count": 1,
@@ -78,10 +78,10 @@
       "volume_bonus": 2,
       "source_count": 1,
       "unusual": false,
-      "baseline_articles": 1.1,
-      "horizon": "long_term",
+      "baseline_articles": 1.0,
+      "horizon": null,
       "swing_count": 0,
-      "longterm_count": 1
+      "longterm_count": 0
     },
     {
       "ticker": "NCLH",
@@ -146,22 +146,6 @@
       "horizon": "swing",
       "swing_count": 1,
       "longterm_count": 0
-    },
-    {
-      "ticker": "COST",
-      "name": "Costco",
-      "sector": "Καταναλωτικά (Βασικά)",
-      "continent": "na",
-      "score": 69.7,
-      "article_count": 2,
-      "avg_sentiment": 0.39,
-      "volume_bonus": 4,
-      "source_count": 2,
-      "unusual": false,
-      "baseline_articles": 1.1,
-      "horizon": null,
-      "swing_count": 1,
-      "longterm_count": 1
     },
     {
       "ticker": "CRM",
@@ -328,13 +312,13 @@
       "name": "Oracle",
       "sector": "Τεχνολογία",
       "continent": "na",
-      "score": 57.0,
+      "score": 57.1,
       "article_count": 3,
       "avg_sentiment": 0.03,
       "volume_bonus": 6,
       "source_count": 2,
       "unusual": false,
-      "baseline_articles": 2.4,
+      "baseline_articles": 2.6,
       "horizon": null,
       "swing_count": 1,
       "longterm_count": 1
@@ -420,6 +404,22 @@
       "longterm_count": 0
     },
     {
+      "ticker": "COST",
+      "name": "Costco",
+      "sector": "Καταναλωτικά (Βασικά)",
+      "continent": "na",
+      "score": 54.0,
+      "article_count": 2,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 4,
+      "source_count": 2,
+      "unusual": false,
+      "baseline_articles": 1.1,
+      "horizon": null,
+      "swing_count": 1,
+      "longterm_count": 1
+    },
+    {
       "ticker": "SSE.L",
       "name": "SSE",
       "sector": null,
@@ -446,7 +446,7 @@
       "volume_bonus": 4,
       "source_count": 1,
       "unusual": false,
-      "baseline_articles": 1.9,
+      "baseline_articles": 1.7,
       "horizon": null,
       "swing_count": 0,
       "longterm_count": 0
@@ -500,6 +500,38 @@
       "longterm_count": 0
     },
     {
+      "ticker": "COO",
+      "name": "Cooper Companies (The)",
+      "sector": "Υγεία",
+      "continent": "na",
+      "score": 52.0,
+      "article_count": 1,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": 1.1,
+      "horizon": null,
+      "swing_count": 0,
+      "longterm_count": 0
+    },
+    {
+      "ticker": "RDDT",
+      "name": "Reddit",
+      "sector": "Επικοινωνίες/Μέσα",
+      "continent": "na",
+      "score": 52.0,
+      "article_count": 1,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": 1.0,
+      "horizon": null,
+      "swing_count": 0,
+      "longterm_count": 0
+    },
+    {
       "ticker": "PEP",
       "name": "PepsiCo",
       "sector": "Καταναλωτικά (Βασικά)",
@@ -518,6 +550,22 @@
     {
       "ticker": "WDC",
       "name": "Western Digital",
+      "sector": "Τεχνολογία",
+      "continent": "na",
+      "score": 52.0,
+      "article_count": 1,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": 1.0,
+      "horizon": null,
+      "swing_count": 0,
+      "longterm_count": 0
+    },
+    {
+      "ticker": "INTU",
+      "name": "Intuit",
       "sector": "Τεχνολογία",
       "continent": "na",
       "score": 52.0,
@@ -580,6 +628,22 @@
       "longterm_count": 0
     },
     {
+      "ticker": "BNY",
+      "name": "BNY Mellon",
+      "sector": "Χρηματοοικονομικά",
+      "continent": "na",
+      "score": 52.0,
+      "article_count": 1,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": 1.0,
+      "horizon": null,
+      "swing_count": 0,
+      "longterm_count": 0
+    },
+    {
       "ticker": "TXN",
       "name": "Texas Instruments",
       "sector": "Τεχνολογία",
@@ -606,7 +670,7 @@
       "volume_bonus": 2,
       "source_count": 1,
       "unusual": false,
-      "baseline_articles": 3.4,
+      "baseline_articles": 3.1,
       "horizon": null,
       "swing_count": 0,
       "longterm_count": 0
@@ -734,7 +798,7 @@
       "volume_bonus": 6,
       "source_count": 2,
       "unusual": false,
-      "baseline_articles": 2.0,
+      "baseline_articles": 2.1,
       "horizon": null,
       "swing_count": 1,
       "longterm_count": 1
@@ -750,7 +814,7 @@
       "volume_bonus": 6,
       "source_count": 2,
       "unusual": false,
-      "baseline_articles": 1.6,
+      "baseline_articles": 1.7,
       "horizon": "swing",
       "swing_count": 1,
       "longterm_count": 0
