@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-27T11:18:45Z",
+  "generated_at": "2026-09-27T15:45:02Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 146,
+    "breaking_count": 148,
     "breaking_catalyst_count": 38,
     "pipeline_count": 58,
     "pipeline_catalyst_count": 8,
@@ -58,13 +58,13 @@
       "source_count": 1
     },
     {
-      "ticker": "WEBC",
+      "ticker": "005930.KS",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "CLSK",
+      "ticker": "ARAY",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -614,6 +614,81 @@
       "small_cap_risk": false
     },
     {
+      "title": "Accuray and Samsung NeuroLogica Advance Volumetric Imaging Collaboration for the Accuray CyberKnife® Platform",
+      "summary": "MADISON, Wis., Sept. 27, 2026 /PRNewswire/ -- Accuray Incorporated (NASDAQ: ARAY) today announced that it had entered into agreements with Samsung HME America, Inc., dba NeuroLogica Corp. (\"Samsung NeuroLogica\") to pursue advanced volumetric imaging capabilities for the CyberKnif",
+      "url": "https://www.prnewswire.com/news-releases/accuray-and-samsung-neurologica-advance-volumetric-imaging-collaboration-for-the-accuray-cyberknife-platform-302890828.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-27T15:15:00Z",
+      "epoch": 1790522100,
+      "sentiment": 0.0,
+      "tickers": [
+        "005930.KS",
+        "ARAY"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Leo Cancer Care Unveils Bold Plans to Improve How Children Experience Radiotherapy, Following World-First Treatments",
+      "summary": "BOSTON, Sept. 27, 2026 /PRNewswire/ -- Leo Cancer Care has announced plans to further invest in the treatment experience for children undergoing radiation therapy. Following the world's first pediatric treatments using an upright positioning and imaging platform, Marie®, the comp",
+      "url": "https://www.prnewswire.com/news-releases/leo-cancer-care-unveils-bold-plans-to-improve-how-children-experience-radiotherapy-following-world-first-treatments-302890855.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-27T15:00:00Z",
+      "epoch": 1790521200,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Employment Law Attorneys, at Blumenthal Nordrehaug Bhowmik De Blouw LLP, Filed a Lawsuit Against Synagro Technologies, Inc., for Alleged Failure to Reimburse Employees' Business Expenses",
+      "summary": "Synagro Technologies, Inc., a provider of sustainable solution for biosolids company, allegedly failed to reimburse employees for their business expenses incurred while performing the job as instructed by Defendant. This resulted in inaccurate wage statements amongst other allega",
+      "url": "https://www.prnewswire.com/news-releases/employment-law-attorneys-at-blumenthal-nordrehaug-bhowmik-de-blouw-llp-filed-a-lawsuit-against-synagro-technologies-inc-for-alleged-failure-to-reimburse-employees-business-expenses-302884318.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-27T12:52:00Z",
+      "epoch": 1790513520,
+      "sentiment": -0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Fuse Oncology to Showcase S!GNAL Workflow Experience at ASTRO 2026",
+      "summary": "Potential workflow illustrates how patient workflow coordination in GE HealthCare's Intelligent Radiation Therapy™ (iRT) software solution could connect to targeted charge review in S!GNAL BOONE, N.C., Sept. 27, 2026 /PRNewswire/ -- Fuse Oncology today announced plans to showcase",
+      "url": "https://www.prnewswire.com/news-releases/fuse-oncology-to-showcase-sgnal-workflow-experience-at-astro-2026-302890548.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-27T12:00:00Z",
+      "epoch": 1790510400,
+      "sentiment": 0.0,
+      "tickers": [
+        "GEHC"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Leo Cancer Care Brings Into Clinical Use an Upright Radiotherapy Platform Cleared for Use With Any Radiation Beam",
+      "summary": "Upright. From Concept to Clinical Reality BOSTON, Sept. 27, 2026 /PRNewswire/ -- Leo Cancer Care is marking a defining moment for radiation oncology as upright radiotherapy moves from concept to clinical reality. The Upright Platform is designed to be beam-agnostic and cleared fo",
+      "url": "https://www.prnewswire.com/news-releases/leo-cancer-care-brings-into-clinical-use-an-upright-radiotherapy-platform-cleared-for-use-with-any-radiation-beam-302890849.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-27T12:00:00Z",
+      "epoch": 1790510400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Labor Law Attorneys, at Blumenthal Nordrehaug Bhowmik De Blouw LLP, File Suit Against Salveo Home Care, for Alleged Failure to Pay Employees' Full Wages",
       "summary": "A provider of home care services, Salveo Home Care, allegedly failed to provide employees with required meal and rest breaks. This resulted in an alleged loss of wages for the employees affected. SACRAMENTO, Calif., Sept. 27, 2026 /PRNewswire/ -- The Sacramento employment law att",
       "url": "https://www.prnewswire.com/news-releases/labor-law-attorneys-at-blumenthal-nordrehaug-bhowmik-de-blouw-llp-file-suit-against-salveo-home-care-for-alleged-failure-to-pay-employees-full-wages-302882872.html",
@@ -799,8 +874,8 @@
       "title": "Los senadores estadounidenses Tillis y Padilla presentan un proyecto de ley para acelerar la investigación contra la principal causa de muerte en EE. UU.",
       "summary": "En la lucha contra las enfermedades cardiovasculares, ASANA Voices ha abogado por la creación de una fundación que movilice recursos públicos, privados y filantrópicos para impulsar una mayor investigación. WASHINGTON, 27 de septiembre de 2026 /PRNewswire-HISPANIC PR WIRE/ -- ASA",
       "url": "https://www.prnewswire.com/news-releases/los-senadores-estadounidenses-tillis-y-padilla-presentan-un-proyecto-de-ley-para-acelerar-la-investigacion-contra-la-principal-causa-de-muerte-en-ee-uu--835580473.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-27T04:06:00Z",
       "epoch": 1790481960,
       "sentiment": 0.0,
@@ -813,8 +888,8 @@
       "title": "Envision Energy uvádza na trh pevninskú veternú turbínu Model T - EN175/8.0, ktorá zlepšuje optimalizáciu celej elektrárne a zvyšuje hodnotu životného cyklu budúcich energetických systémov",
       "summary": "HAMBURG, Nemecko, 27. septembra 2026 /PRNewswire/ -- Spoločnosť Envision Energy, globálny líder v oblasti zelených technológií, dnes na veľtrhu WindEnergy Hamburg predstavila Model T – EN175/8.0, inteligentnú pevninskú veternú turbínu s výkonom 8 MW a rotorom s priemerom 175 metr",
       "url": "https://www.prnewswire.com/news-releases/envision-energy-uvadza-na-trh-pevninsku-veternu-turbinu-model-t--en1758-0--ktora-zlepuje-optimalizaciu-celej-elektrarne-a-zvyuje-hodnotu-ivotneho-cyklu-buducich-energetickych-systemov-302890816.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Clinical Trials/FDA",
+      "source_id": "prnewswire-trials-fda",
       "published_at": "2026-09-27T03:50:00Z",
       "epoch": 1790481000,
       "sentiment": 0.0,
@@ -827,8 +902,8 @@
       "title": "Envision Energy запускает Model T - береговую ветряную турбину EN175/8.0, продвигая оптимизацию в масштабах всей станции и ценность жизненного цикла для будущих энергетических систем",
       "summary": "ГАМБУРГ, Германия, 27 сентября 2026 г. /PRNewswire/ -- Компания Envision Energy, мировой лидер в области экологически чистых технологий, сегодня представила модель T – EN175/8.0, интеллектуальную береговую ветряную турбину класса 8 МВт с 175-метровым ротором на заводе WindEnergy ",
       "url": "https://www.prnewswire.com/news-releases/envision-energy--model-t-----en1758-0----------------302890815.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Clinical Trials/FDA",
+      "source_id": "prnewswire-trials-fda",
       "published_at": "2026-09-27T03:46:00Z",
       "epoch": 1790480760,
       "sentiment": 0.0,
@@ -841,8 +916,8 @@
       "title": "2026 IMS | IASO Bio Presented FUCASO China Real-World Data",
       "summary": "--- In a large China real-world study of 281 heavily pretreated, predominantly high-risk patients with relapsed/refractory plasma cell neoplasms, FUCASO achieved a 95.9% objective response rate, a 77.2% CR/sCR rate, and a 94.1% MRD negativity rate --- with median PFS and OS not y",
       "url": "https://www.prnewswire.com/news-releases/2026-ims--iaso-bio-presented-fucaso-china-real-world-data-302890814.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-27T03:16:00Z",
       "epoch": 1790478960,
       "sentiment": -0.33,
@@ -855,8 +930,8 @@
       "title": "2026 IMS | IASO Bio Presented First-in-Human Data of BCMA-Targeted In Vivo CAR-T Cell Therapy IASO206",
       "summary": "— Late-breaking oral presentation of first-in-human data (LBA-11) showed that a single intravenous infusion of IASO206 generated functional BCMA CAR-T cells in vivo without lymphodepleting chemotherapy. The study demonstrated a 90% objective response rate and a 90% MRD negativity",
       "url": "https://www.prnewswire.com/news-releases/2026-ims--iaso-bio-presented-first-in-human-data-of-bcma-targeted-in-vivo-car-t-cell-therapy-iaso206-302890813.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-27T03:03:00Z",
       "epoch": 1790478180,
       "sentiment": 0.0,
@@ -1036,34 +1111,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "The Kenaitze Indian Tribe Notifies Individuals of Data Security Incident",
-      "summary": "KENAI, Alaska, Sept. 25, 2026 /PRNewswire/ -- The Kenaitze Indian Tribe (\"KIT\") has learned of a data security incident that may have involved protected health information. KIT is providing notice of this incident to potentially affected individuals and resources to assist them. ",
-      "url": "https://www.prnewswire.com/news-releases/the-kenaitze-indian-tribe-notifies-individuals-of-data-security-incident-302889914.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-25T21:00:00Z",
-      "epoch": 1790370000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Notice of Data Incident",
-      "summary": "BEACHWOOD, Ohio, Sept. 25, 2026 /PRNewswire/ -- Saber Healthcare Group announces a security incident that may have affected certain individuals' information. On July 27, 2026, Saber detected a service outage affecting some of its internal and external computer systems. Once disco",
-      "url": "https://www.prnewswire.com/news-releases/notice-of-data-incident-302890531.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-25T20:55:00Z",
-      "epoch": 1790369700,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "CleanSpark, Inc. Announces Closing of $2.276 Billion of Senior Secured Notes",
       "summary": "LAS VEGAS, Sept. 25, 2026 /PRNewswire/ -- CleanSpark, Inc. (Nasdaq: CLSK) (\"CleanSpark\" or the \"Company\"), a market-leading data center developer, today announced that its wholly owned subsidiary, CSDC Finance I, LLC, has closed its previously announced offering of $2.276 billion",
       "url": "https://www.prnewswire.com/news-releases/cleanspark-inc-announces-closing-of-2-276-billion-of-senior-secured-notes-302890605.html",
@@ -1119,22 +1166,6 @@
       "tickers": [
         "PTC",
         "PTCT"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "NeuroSense Provides Business Update and Progress for the First Half of 2026",
-      "summary": "CAMBRIDGE, Mass., Sept. 25, 2026 /PRNewswire/ -- Therapeutics Ltd. (NASDAQ: NRSN) (\"NeuroSense\" or the \"Company\"), a late-stage clinical biotechnology company focused on developing disease-modifying treatments for neurodegenerative diseases, today provided a business update with ",
-      "url": "https://www.prnewswire.com/news-releases/neurosense-provides-business-update-and-progress-for-the-first-half-of-2026-302890404.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-25T20:30:00Z",
-      "epoch": 1790368200,
-      "sentiment": 0.0,
-      "tickers": [
-        "NRSN"
       ],
       "company_name": null,
       "catalyst": false,
