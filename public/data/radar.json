@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-27T22:26:12Z",
+  "generated_at": "2026-09-28T01:01:28Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 145,
+    "breaking_count": 144,
     "breaking_catalyst_count": 37,
     "pipeline_count": 58,
     "pipeline_catalyst_count": 8,
@@ -74,6 +74,20 @@
   "concentration_warning": null,
   "breaking": [
     {
+      "title": "Innovent Announces Expansion of Global Phase 3 MarsLight-11 Study of IBI363/TAK-928 (Alpha-biased IL-2/PD-1 Bispecific Fusion Protein) in Immunotherapy-Resistant NSCLC to Include Patients with Non-Squamous NSCLC",
+      "summary": "SAN FRANCISCO and SUZHOU, China, Sept. 27, 2026 /PRNewswire/ -- Innovent Biologics, Inc. (HKEX Stock Code: 01801), a biopharmaceutical company dedicated to the research, development, manufacturing, and commercialization of innovative drugs for major diseases including oncology,..",
+      "url": "https://www.prnewswire.com/news-releases/innovent-announces-expansion-of-global-phase-3-marslight-11-study-of-ibi363tak-928-alpha-biased-il-2pd-1-bispecific-fusion-protein-in-immunotherapy-resistant-nsclc-to-include-patients-with-non-squamous-nsclc-302890858.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-28T00:00:00Z",
+      "epoch": 1790553600,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
       "title": "AI in Clinical Trials Market to Reach USD 7.32 Billion by 2034 as AI Reshapes Patient Recruitment, Data Analysis and Drug Development, says Maximize Market Research",
       "summary": "PUNE, India, Sept. 25, 2026 /PRNewswire/ -- The Global AI in Clinical Trials Market was valued at USD 2 Billion in 2025 and is projected to grow at a 15.5% CAGR from 2026 to 2034, reaching USD 7.32 Billion by 2034, according to Maximize Market Research. Global AI in Clinical Tria",
       "url": "https://www.prnewswire.com/news-releases/ai-in-clinical-trials-market-to-reach-usd-7-32-billion-by-2034-as-ai-reshapes-patient-recruitment-data-analysis-and-drug-development-says-maximize-market-research-302890252.html",
@@ -102,20 +116,6 @@
       "company_name": null,
       "catalyst": true,
       "small_cap_risk": true
-    },
-    {
-      "title": "Global Clinical Trials Market to Reach USD 99.4 Bn. by 2034 at 6.13% CAGR as Personalized Medicine, Decentralized Trials, AI Integration, and Rising Biopharmaceutical R&amp;D Accelerate Market Growth, Reports Maximize Market Research",
-      "summary": "PUNE, India, Sept. 25, 2026 /PRNewswire/ -- The Global Clinical Trials Market was valued at USD 58.19 Billion in 2025 and is projected to grow at a 6.13% CAGR from 2026 to 2034, reaching USD 99.4 Billion by 2034, according to Maximize Market Research. Global Clinical Trials Marke",
-      "url": "https://www.prnewswire.com/news-releases/global-clinical-trials-market-to-reach-usd-99-4-bn-by-2034-at-6-13-cagr-as-personalized-medicine-decentralized-trials-ai-integration-and-rising-biopharmaceutical-rd-accelerate-market-growth-reports-maximize-market-research-302890211.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-25T21:45:00Z",
-      "epoch": 1790372700,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
     },
     {
       "title": "8-K - United States 12 Month Natural Gas Fund, LP (0001405513) (Filer)",
@@ -600,6 +600,48 @@
       "small_cap_risk": false
     },
     {
+      "title": "SEEKOUT Moves Beyond Japan into North America and Europe, Accelerating Global Push in Premium Pet Market",
+      "summary": "Premium pet mobility company builds on export experience in Japan to expand into international markets SEOUL, South Korea, Sept. 27, 2026 /PRNewswire/ -- Premium pet mobility company SEEKOUT is expanding its business into global markets, including North America and Europe, buildi",
+      "url": "https://www.prnewswire.com/news-releases/seekout-moves-beyond-japan-into-north-america-and-europe-accelerating-global-push-in-premium-pet-market-302878734.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-28T00:00:00Z",
+      "epoch": 1790553600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "PAINSTUDY Inc. Targets 'Self-Medication' Demand with Functional Muscle and Joint Patches",
+      "summary": "Functional healthcare brand leads with everyday muscle and joint care patches as it expands into a growing global wellness trend SEOUL, South Korea, Sept. 27, 2026 /PRNewswire/ -- Functional healthcare brand PAINSTUDY Inc. is expanding its market presence with a new line of patch",
+      "url": "https://www.prnewswire.com/news-releases/painstudy-inc-targets-self-medication-demand-with-functional-muscle-and-joint-patches-302890874.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-28T00:00:00Z",
+      "epoch": 1790553600,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Cuvo Health Publishes 2026 State-by-State Virtual Clinic Compliance Report: 33 of 51 Jurisdictions Restrict the Corporate Practice of Medicine",
+      "summary": "Free 51-jurisdiction dataset maps compact licensing, telehealth registration, nurse practitioner authority and MSO rules for white-label virtual clinics and digital health startups. Only 14 states offer out-of-state physicians a telehealth registration or telemedicine license. WI",
+      "url": "https://www.prnewswire.com/news-releases/cuvo-health-publishes-2026-state-by-state-virtual-clinic-compliance-report-33-of-51-jurisdictions-restrict-the-corporate-practice-of-medicine-302890969.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-27T22:57:00Z",
+      "epoch": 1790549820,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Global Running Boom Takes Center Stage at Sold-Out Life Time Chicago Half Marathon &amp; 5K",
       "summary": "Participants from all 50 states and 52 countries hit the pavement on Chicago's Southside for 29th annual event By the Numbers Nearly 10,000 participants 50 states represented 52 countries represented Nearly 45% running their first-ever half marathon or 5K 1,000+ participants runn",
       "url": "https://www.prnewswire.com/news-releases/global-running-boom-takes-center-stage-at-sold-out-life-time-chicago-half-marathon--5k-302890934.html",
@@ -801,34 +843,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Kunst am Wasser: Das 4. Internationale Kanal-Kunst- -Festival in Peking beginnt in Tongzhou",
-      "summary": "PEKING, 27. September 2026 /PRNewswire/ -- Das „Beijing International Canal Arts Fest\" ist eine Leitveranstaltung für den kulturellen und künstlerischen Austausch zwischen China und anderen Kanalstaaten sowie für die Verknüpfung von Kultur und Tourismus. Seit seiner Einführung im",
-      "url": "https://www.prnewswire.com/news-releases/kunst-am-wasser-das-4-internationale-kanal-kunst---festival-in-peking-beginnt-in-tongzhou-302890841.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-27T07:22:00Z",
-      "epoch": 1790493720,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "L'art sur les quais : le 4e Festival international des arts du canal de Pékin s'ouvre à Tongzhou",
-      "summary": "PÉKIN, 27 septembre 2026 /PRNewswire/ -- Le Festival international des arts des canaux de Pékin est un événement phare dédié aux échanges culturels et artistiques entre la Chine et d'autres pays dotés de canaux, ainsi qu'à l'intégration de la culture et du tourisme. Depuis son la",
-      "url": "https://www.prnewswire.com/news-releases/lart-sur-les-quais--le-4e-festival-international-des-arts-du-canal-de-pekin-souvre-a-tongzhou-302890839.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-27T07:11:00Z",
-      "epoch": 1790493060,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "美國參議員 Tillis 與 Padilla 提出法案，加速針對全美首要死因的研究",
       "summary": "為對抗心血管疾病，ASANA Voices 倡議成立基金會，整合公部門、私部門及慈善資源，擴大研究投入 華盛頓2026年9月27日 /美通社/ -- ASANA Voices 今日對美國參議院提出一項跨黨派法案表示歡迎。該法案旨在成立心臟健康保障基金會（Heart Security Foundation），規劃由聯邦政府特許設立，作為以美國國家衛生研究院（NIH）為運作據點的非營利組織。這個組織將加速心血管研究、強化預防與早期偵測，並改善不同背景美國民眾的健康狀況。 ASANA Voices 一直是 S.5469《HEART...",
       "url": "https://www.prnewswire.com/news-releases/mei-guo-can-yi-yuan-tillis-yu-padilla-ti-chu-fa-an-jia-su-zhen-dui-quan-mei-shou-yao-si-yin-de-yan-jiu--876257520.html",
@@ -1021,34 +1035,6 @@
       "published_at": "2026-09-25T22:00:00Z",
       "epoch": 1790373600,
       "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "After Presley Gerber's death, many families are asking the same question: what is a sober living home, and who oversees it?",
-      "summary": "DELAND, Fla., Sept. 25, 2026 /PRNewswire/ -- LA-based interventionist and recovery coach Pej Alaghamandan can help your viewers understand the answer. He works with families in crisis every week and is available for on-camera or phone interviews today and through the weekend. Joi",
-      "url": "https://www.prnewswire.com/news-releases/after-presley-gerbers-death-many-families-are-asking-the-same-question-what-is-a-sober-living-home-and-who-oversees-it-302890656.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-25T21:51:00Z",
-      "epoch": 1790373060,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Global Knee Replacement Market to Reach USD 17.81 Bn. by 2034, Driven by Rising Osteoarthritis Prevalence, Rapid Adoption of Robotic-Assisted Surgery, and Advancements in Smart Implant Technologies Says Maximize Market Research",
-      "summary": "PUNE, India, Sept. 25, 2026 /PRNewswire/ -- The Global Knee Replacement Market was valued at USD 12.17 Billion in 2025 and is projected to expand at a 4.32% CAGR from 2026 to 2034, reaching USD 17.81 Billion by 2034, according to a new analysis by Maximize Market Research. Global",
-      "url": "https://www.prnewswire.com/news-releases/global-knee-replacement-market-to-reach-usd-17-81-bn-by-2034--driven-by-rising-osteoarthritis-prevalence-rapid-adoption-of-robotic-assisted-surgery-and-advancements-in-smart-implant-technologies-says-maximize-market-research-302890218.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-25T21:30:00Z",
-      "epoch": 1790371800,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
