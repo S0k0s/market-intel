@@ -597,6 +597,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-01",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "MRNA": [
@@ -755,6 +761,12 @@
       "score": 56.0,
       "avg_sentiment": 0.0,
       "article_count": 3
+    },
+    {
+      "date": "2026-10-01",
+      "score": 78.8,
+      "avg_sentiment": 0.67,
+      "article_count": 1
     }
   ],
   "MO": [
@@ -1556,9 +1568,9 @@
     },
     {
       "date": "2026-10-01",
-      "score": 80.1,
-      "avg_sentiment": 0.5,
-      "article_count": 6
+      "score": 58.0,
+      "avg_sentiment": 0.0,
+      "article_count": 4
     }
   ],
   "WMT": [
@@ -1908,8 +1920,8 @@
     },
     {
       "date": "2026-10-01",
-      "score": 56.0,
-      "avg_sentiment": 0.0,
+      "score": 69.5,
+      "avg_sentiment": 0.34,
       "article_count": 3
     }
   ],
@@ -2745,12 +2757,6 @@
   ],
   "TSLA": [
     {
-      "date": "2026-08-31",
-      "score": 67.9,
-      "avg_sentiment": 0.25,
-      "article_count": 4
-    },
-    {
       "date": "2026-09-01",
       "score": 48.0,
       "avg_sentiment": -0.25,
@@ -2922,6 +2928,12 @@
       "date": "2026-09-30",
       "score": 52.0,
       "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-01",
+      "score": 38.8,
+      "avg_sentiment": -0.33,
       "article_count": 1
     }
   ],
@@ -3343,12 +3355,6 @@
   ],
   "AAPL": [
     {
-      "date": "2026-08-31",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
-      "article_count": 1
-    },
-    {
       "date": "2026-09-01",
       "score": 60.0,
       "avg_sentiment": -0.0,
@@ -3518,6 +3524,12 @@
     },
     {
       "date": "2026-09-30",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-01",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -3842,9 +3854,9 @@
     },
     {
       "date": "2026-10-01",
-      "score": 54.0,
+      "score": 56.0,
       "avg_sentiment": 0.0,
-      "article_count": 2
+      "article_count": 3
     }
   ],
   "0267.HK": [
@@ -5274,9 +5286,9 @@
     },
     {
       "date": "2026-10-01",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
-      "article_count": 1
+      "score": 42.3,
+      "avg_sentiment": -0.29,
+      "article_count": 2
     }
   ],
   "HMC": [
@@ -7284,9 +7296,9 @@
     },
     {
       "date": "2026-10-01",
-      "score": 65.2,
-      "avg_sentiment": 0.33,
-      "article_count": 1
+      "score": 88.3,
+      "avg_sentiment": 0.81,
+      "article_count": 3
     }
   ],
   "IBM": [
@@ -7576,9 +7588,9 @@
     },
     {
       "date": "2026-10-01",
-      "score": 66.4,
-      "avg_sentiment": 0.16,
-      "article_count": 5
+      "score": 70.8,
+      "avg_sentiment": 0.32,
+      "article_count": 4
     }
   ],
   "CPAY": [
@@ -8034,9 +8046,9 @@
     },
     {
       "date": "2026-10-01",
-      "score": 67.2,
+      "score": 65.2,
       "avg_sentiment": 0.33,
-      "article_count": 2
+      "article_count": 1
     }
   ],
   "AIR.DE": [
@@ -8204,9 +8216,9 @@
     },
     {
       "date": "2026-10-01",
-      "score": 67.2,
+      "score": 65.2,
       "avg_sentiment": 0.33,
-      "article_count": 2
+      "article_count": 1
     }
   ],
   "ICE": [
@@ -9912,9 +9924,9 @@
     },
     {
       "date": "2026-10-01",
-      "score": 82.7,
-      "avg_sentiment": 0.67,
-      "article_count": 3
+      "score": 73.2,
+      "avg_sentiment": 0.48,
+      "article_count": 2
     }
   ],
   "WDAY": [
@@ -11352,9 +11364,9 @@
     },
     {
       "date": "2026-10-01",
-      "score": 38.8,
-      "avg_sentiment": -0.33,
-      "article_count": 1
+      "score": 63.9,
+      "avg_sentiment": 0.25,
+      "article_count": 2
     }
   ],
   "TSM": [
@@ -13365,6 +13377,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-01",
+      "score": 54.0,
+      "avg_sentiment": 0.0,
+      "article_count": 2
     }
   ],
   "TGT": [
@@ -13724,9 +13742,9 @@
     },
     {
       "date": "2026-10-01",
-      "score": 58.0,
-      "avg_sentiment": 0.0,
-      "article_count": 4
+      "score": 56.2,
+      "avg_sentiment": 0.01,
+      "article_count": 3
     }
   ],
   "WFC": [
@@ -16376,6 +16394,12 @@
       "date": "2026-09-16",
       "score": 25.2,
       "avg_sentiment": -0.67,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-01",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -22675,6 +22699,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-01",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "STAN.L": [
@@ -23308,6 +23338,12 @@
     },
     {
       "date": "2026-09-21",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-01",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
