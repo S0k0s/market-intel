@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-30T23:12:32Z",
+  "generated_at": "2026-10-01T02:10:24Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 144,
-    "breaking_catalyst_count": 31,
+    "breaking_count": 147,
+    "breaking_catalyst_count": 32,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 12,
     "movers_count": 0
@@ -46,16 +46,16 @@
       "source_count": 1
     },
     {
-      "ticker": "AZN.L",
+      "ticker": "PSKY",
       "count": 3,
       "catalyst_count": 0,
       "source_count": 3
     },
     {
-      "ticker": "PSKY",
-      "count": 2,
+      "ticker": "AZN.L",
+      "count": 3,
       "catalyst_count": 0,
-      "source_count": 2
+      "source_count": 3
     },
     {
       "ticker": "ABBV",
@@ -73,6 +73,20 @@
   "movers": [],
   "concentration_warning": null,
   "breaking": [
+    {
+      "title": "bolttech and Bold Penguin enter global strategic partnership",
+      "summary": "Recognized insurtech leaders to develop joint commercial and personal lines offering, serving agents, insurers and embedded partnerships with a seamless digital experience LAS VEGAS, Oct. 1, 2026 /PRNewswire/ -- Today, award-winning AI-enabled insurance distribution platforms Bol",
+      "url": "https://www.prnewswire.com/news-releases/bolttech-and-bold-penguin-enter-global-strategic-partnership-302895154.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-01T00:37:00Z",
+      "epoch": 1790815020,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
     {
       "title": "8-K - STANDARD BIOTOOLS INC. (0001162194) (Filer)",
       "summary": "Filed:  2026-09-30  AccNo:  0001140361-26-038110  Size:  1 MB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 1.02: Termination of a Material Definitive Agreement\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
@@ -512,14 +526,242 @@
       "small_cap_risk": false
     },
     {
-      "title": "Expenditure Watch 2.0 launch: improved expenditure compliance across tenement portfolios",
-      "summary": "BRISBANE, Australia, Sept. 30, 2026 /PRNewswire/ -- Datamine has announced the launch of Expenditure Watch 2.0, a redesigned expenditure compliance and reporting platform for mining and exploration companies managing mineral title obligations across tenement portfolios. Originall",
-      "url": "https://www.prnewswire.com/news-releases/expenditure-watch-2-0-launch-improved-expenditure-compliance-across-tenement-portfolios-302877385.html",
+      "title": "vivo X Fold6 Makes Global Debut: A New Foldable Powerhouse for Mobile Productivity",
+      "summary": "SHENZHEN, China, Sept. 30, 2026 /PRNewswire/ -- vivo officially announced the global debut of its latest flagship foldable smartphone, vivo X Fold6. Designed for professionals who are constantly on the move, X Fold6 combines powerful productivity tools, a slim design, extended ba",
+      "url": "https://www.prnewswire.com/news-releases/vivo-x-fold6-makes-global-debut-a-new-foldable-powerhouse-for-mobile-productivity-302894068.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-30T23:00:00Z",
-      "epoch": 1790809200,
+      "published_at": "2026-10-01T02:00:00Z",
+      "epoch": 1790820000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Mediaplanet Announces the launch of The Future of Healthy Living campaign today!",
+      "summary": "NEW YORK, Sept. 30, 2026 /PRNewswire/ -- Mediaplanet today announces the launch of its Future of Healthy Living Campaign, a comprehensive health-awareness initiative publishing today within USA TODAY and online through the campaign's digital content hub, futureofpersonalhealth.co",
+      "url": "https://www.prnewswire.com/news-releases/mediaplanet-announces-the-launch-of-the-future-of-healthy-living-campaign-today-302892945.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-01T01:05:00Z",
+      "epoch": 1790816700,
       "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Paramount Skydance Corporation Announces $41.4 Billion and €885 Million Senior Secured Notes Offerings and $8.5 Billion and €850 Million Term Loan B Facility Pricing",
+      "summary": "LOS ANGELES and NEW YORK, Sept. 30, 2026 /PRNewswire/ -- PARAMOUNT SKYDANCE CORPORATION (NASDAQ: PSKY) (the \"Company\") today announced that it has agreed to sell $3.5 billion aggregate principal amount of 6.30% Senior Secured First Lien Notes due 2028 (the \"2028 First Lien Notes\"",
+      "url": "https://www.prnewswire.com/news-releases/paramount-skydance-corporation-announces-41-4-billion-and-885-million-senior-secured-notes-offerings-and-8-5-billion-and-850-million-term-loan-b-facility-pricing-302895161.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-01T01:02:00Z",
+      "epoch": 1790816520,
+      "sentiment": 0.0,
+      "tickers": [
+        "PSKY"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Casio to Release MR-G Crafted in Blue Sapphire Crystal",
+      "summary": "Featuring Multi-Component Structure with Screwless Design TOKYO, Oct. 1, 2026 /PRNewswire/ -- Casio Computer Co., Ltd. announces the release of a new MR-G timepiece, adding to the flagship collection of the G-SHOCK brand of shock-resistant watches. The new MRG-D5000 features a sc",
+      "url": "https://www.prnewswire.com/news-releases/casio-to-release-mr-g-crafted-in-blue-sapphire-crystal-302892356.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-01T01:00:00Z",
+      "epoch": 1790816400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Pickswise Launches Free NFL Career Simulator",
+      "summary": "Experience a 20-season football career in just four minutes, from draft day to retirement. WASHINGTON, Sept. 30, 2026 /PRNewswire/ -- Pickswise has officially launched \"NFL Career,\" a new, free-to-play football simulation that lets any sports fan step into the cleats of a pro ath",
+      "url": "https://www.prnewswire.com/news-releases/pickswise-launches-free-nfl-career-simulator-302895053.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-01T01:00:00Z",
+      "epoch": 1790816400,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Casio s'apprête à lancer une MR-G réalisée en verre saphir bleu",
+      "summary": "Structure multicomposant et conception sans vis TOKYO, 1er octobre 2026 /PRNewswire/ -- Casio Computer Co., Ltd. annonce la sortie d'un nouveau modèle MR-G, qui vient enrichir la collection phare de la marque G-SHOCK, spécialisée dans les montres résistantes aux chocs. La nouvell",
+      "url": "https://www.prnewswire.com/news-releases/casio-sapprete-a-lancer-une-mr-g-realisee-en-verre-saphir-bleu-302893066.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-01T01:00:00Z",
+      "epoch": 1790816400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "TIER IV joins Arm Total Design for Physical AI to accelerate ready-to-use Autoware solutions through Open AD Kit",
+      "summary": "TOKYO, Sept. 30, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind Autoware, open-source software for autonomous driving, today announced that it has joined Arm® Total Design for Physical AI. Building on its longstanding collaboration with Arm through Open AD Kit, TIER IV",
+      "url": "https://www.prnewswire.com/news-releases/tier-iv-joins-arm-total-design-for-physical-ai-to-accelerate-ready-to-use-autoware-solutions-through-open-ad-kit-302895137.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-01T01:00:00Z",
+      "epoch": 1790816400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Omnis Energy Reports New Cooperation on Governance and Operating Cash in Pleasants Power Station Bankruptcy Case",
+      "summary": "Agreements follow replacement of conflicted counsel as sale advances and dismissal motion remains unresolved WILMINGTON, Del., Sep 30, 2026 /PRNewswire/ -- Agreements on independent oversight and continued use of operating cash mark a new phase of cooperation in the Pleasants Pow",
+      "url": "https://www.prnewswire.com/news-releases/omnis-energy-reports-new-cooperation-on-governance-and-operating-cash-in-pleasants-power-station-bankruptcy-case-302895155.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-01T00:38:00Z",
+      "epoch": 1790815080,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "IMG Completes Acquisition of World Nomads, Expanding Global Travel Insurance Distribution",
+      "summary": "SYDNEY, Oct. 1, 2026 /PRNewswire/ -- IMG (International Medical Group) is excited to announce the successful completion of its acquisition of World Nomads. First announced in February 2026, the acquisition strengthens IMG's global travel insurance distribution capabilities and ex",
+      "url": "https://www.prnewswire.com/news-releases/img-completes-acquisition-of-world-nomads-expanding-global-travel-insurance-distribution-302895147.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-01T00:18:00Z",
+      "epoch": 1790813880,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "CometAPI Delivers Unified Access to Frontier AI Models to Empower Developers",
+      "summary": "CometAPIis a platform that platform brings multimodal models and newly released frontier APIs into a single OpenAI-compatible interface LOS ANGELES, Sept. 30, 2026 /PRNewswire/ -- As artificial intelligence moves rapidly from experimentation into production, developers are facing",
+      "url": "https://www.prnewswire.com/news-releases/cometapi-delivers-unified-access-to-frontier-ai-models-to-empower-developers-302894529.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-01T00:04:00Z",
+      "epoch": 1790813040,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Mynd.ai's Promethean Brand Launches On-Device AI Companion to Help Teachers Create Lesson Content in Seconds",
+      "summary": "ALPHARETTA, Ga., Sept. 30, 2026 /PRNewswire/ -- Mynd.ai, Inc. (\"Mynd\") (NYSE American: MYND) today announced that its subsidiary, Promethean®, a leading provider of educational technology solutions, has launched an AI Companion for its Explore Everything® app – using on-device ar",
+      "url": "https://www.prnewswire.com/news-releases/myndais-promethean-brand-launches-on-device-ai-companion-to-help-teachers-create-lesson-content-in-seconds-302895133.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-30T23:43:00Z",
+      "epoch": 1790811780,
+      "sentiment": 0.33,
+      "tickers": [
+        "MYND"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Zoomlion célèbre son 34e anniversaire en mettant en avant ses avancées en matière d'innovation et de croissance mondiale",
+      "summary": "CHANGSHA, Chine, 1er octobre 2026 /PRNewswire/ -- Zoomlion Heavy Industry Science & Technology Co., Ltd. (« Zoomlion » ou « la Société ») a célébré son 34e anniversaire le 28 septembre avec des festivités organisées dans l'ensemble de ses sites à travers le monde, sous le thème «",
+      "url": "https://www.prnewswire.com/news-releases/zoomlion-celebre-son-34e-anniversaire-en-mettant-en-avant-ses-avancees-en-matiere-dinnovation-et-de-croissance-mondiale-302895130.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-30T23:41:00Z",
+      "epoch": 1790811660,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "POLLO CAMPERO DONATES $25,000 TO DIRECT RELIEF FOLLOWING NATIONAL FUNDRAISING DAY FOR EARTHQUAKE VICTIMS IN VENEZUELA AND COLOMBIA",
+      "summary": "Guests nationwide helped the Guatemalan-born brand turn everyday meals into support for long-term earthquake recovery DALLAS, Sept. 30, 2026 /PRNewswire/ -- Pollo Campero, the Guatemalan-born fast-casual restaurant, is donating $25,000 to Direct Relief following its national fund",
+      "url": "https://www.prnewswire.com/news-releases/pollo-campero-donates-25-000-to-direct-relief-following-national-fundraising-day-for-earthquake-victims-in-venezuela-and-colombia-302895098.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-09-30T23:37:00Z",
+      "epoch": 1790811420,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Sinocare présente ses solutions intégrées de prise en charge des maladies chroniques lors du congrès de l'EASD 2026",
+      "summary": "MILAN, 1er octobre 2026 /PRNewswire/ -- Sinocare présente son portefeuille de solutions intégrées de prise en charge des maladies chroniques lors du 62e congrès annuel de l'Association européenne pour l'étude du diabète (EASD 2026), qui se tient à Milan du 28 septembre au 2 octob",
+      "url": "https://www.prnewswire.com/news-releases/sinocare-presente-ses-solutions-integrees-de-prise-en-charge-des-maladies-chroniques-lors-du-congres-de-leasd-2026-302895123.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-09-30T23:33:00Z",
+      "epoch": 1790811180,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "FIRST-IN-HUMAN STUDY DEMONSTRATES Qi601 CAN PHYSICALLY CAPTURE MICROPLASTICS",
+      "summary": "Peer-reviewed research reports the first human proof-of-concept evidence of a technology intentionally designed to capture microplastics SARASOTA, Fla., Sept. 30, 2026 /PRNewswire/ -- Micro- and nanoplastics are now found throughout the environment - in the air we breathe, the wa",
+      "url": "https://www.prnewswire.com/news-releases/first-in-human-study-demonstrates-qi601-can-physically-capture-microplastics-302895121.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-09-30T23:32:00Z",
+      "epoch": 1790811120,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Vyrao is acquired by a newly established Healthcare &amp; Beauty Platform, Tresalis, Naming Yasmin Sewell Chief Brand Officer",
+      "summary": "The new owner-operator platform, anchored by ATHOS and Dr. Fernando Tamez, becomes majority shareholder and operating partner; founder Yasmin Sewell continues to lead as Chief Brand Officer and shareholder. LONDON, Sept. 30, 2026 /PRNewswire/ -- A new owner-operator platform, Tre",
+      "url": "https://www.prnewswire.com/news-releases/vyrao-is-acquired-by-a-newly-established-healthcare--beauty-platform-tresalis-naming-yasmin-sewell-chief-brand-officer-302895082.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-09-30T23:30:00Z",
+      "epoch": 1790811000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Brad Rostolsky Recognized on City &amp; State's 2026 'Trailblazers in Healthcare' List",
+      "summary": "PHILADELPHIA, Sept. 30, 2026 /PRNewswire/ -- Brad M. Rostolsky, a shareholder in global law firm Greenberg Traurig, LLP's Health Care & FDA Practice in Philadelphia, was named to City & State's 2026 \"Trailblazers in Healthcare\" list. According to City & State, this year's list re",
+      "url": "https://www.prnewswire.com/news-releases/brad-rostolsky-recognized-on-city--states-2026-trailblazers-in-healthcare-list-302895092.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-09-30T23:30:00Z",
+      "epoch": 1790811000,
+      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -560,64 +802,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "THE FREDERICK ARTS COUNCIL LAUNCHES NEW RECORD LABEL OCTOBER 30TH WITH INAUGURAL RELEASE FROM LOCAL FREDERICK ARTIST LIBBY KNIGHT",
-      "summary": "FREDERICK, Md., Sept. 30, 2026 /PRNewswire/ -- The Frederick Arts Council (FAC) is proud to announce the launch of its new FAC record label, Good People, expanding its commitment to supporting, promoting, and creating opportunities for artists across Frederick County. The label w",
-      "url": "https://www.prnewswire.com/news-releases/the-frederick-arts-council-launches-new-record-label-october-30th-with-inaugural-release-from-local-frederick-artist-libby-knight-302895077.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-30T22:37:00Z",
-      "epoch": 1790807820,
-      "sentiment": 1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Austin Trail of Lights, Powered by H-E-B, Announces Tickets for 62nd Annual Holiday Celebration",
-      "summary": "Texas tradition returns December 10–23 with more than 2 million lights and seven free admission nights AUSTIN, Texas, Sept. 30, 2026 /PRNewswire/ -- Tickets are now available for the 62nd Annual Austin Trail of Lights, powered by H-E-B, returning to Zilker Park December 10–23. Fe",
-      "url": "https://www.prnewswire.com/news-releases/austin-trail-of-lights-powered-by-h-e-b-announces-tickets-for-62nd-annual-holiday-celebration-302895078.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-30T22:18:00Z",
-      "epoch": 1790806680,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "The United States Department of Commerce and the Government of the Republic of Korea Announce Strategic Investment in Project Star, a $22.3 billion Energy Infrastructure Campus in Encinal, Texas, being jointly developed by Related Companies and NextEra Energy, in partnership with Lewis Energy Group",
-      "summary": "Project Star will create 6.47 GW of natural gas generation to directly support an adjacent 5 GW digital infrastructure campus and deliver excess power generation back to the grid. DALLAS and SAN ANTONIO and JUNO BEACH, Fla., Sept. 30, 2026 /PRNewswire/ -- The U.S. Department of C",
-      "url": "https://www.prnewswire.com/news-releases/the-united-states-department-of-commerce-and-the-government-of-the-republic-of-korea-announce-strategic-investment-in-project-star-a-22-3-billion-energy-infrastructure-campus-in-encinal-texas-being-jointly-developed-by-related-302895079.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-30T22:18:00Z",
-      "epoch": 1790806680,
-      "sentiment": 0.33,
-      "tickers": [
-        "NEE"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "OutRival Appoints Former NICE Executive Shaun Sjolin as Chief Customer Officer",
-      "summary": "Sjolin brings deep experience with enterprise contact center technology to help brands genuinely care for every person they serve, from the first conversation through the full customer journey MIAMI, Sept. 30, 2026 /PRNewswire/ -- OutRival, creator of AI-powered Digital Workers t",
-      "url": "https://www.prnewswire.com/news-releases/outrival-appoints-former-nice-executive-shaun-sjolin-as-chief-customer-officer-302895072.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-30T22:08:00Z",
-      "epoch": 1790806080,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Royce Global Trust (NYSE: RGT) as of Aug 31, 2026",
       "summary": "NEW YORK, Sept. 30, 2026 /PRNewswire/ -- A closed-end fund that invests in global equities using a disciplined value approach Average weekly trading volume of approximately 132,238 shares Fund's adviser has more than 50 years of small- and micro-cap investment experience CLOSING ",
       "url": "https://www.prnewswire.com/news-releases/royce-global-trust-nyse-rgt-as-of-aug-31-2026-302895075.html",
@@ -634,13 +818,13 @@
       "small_cap_risk": true
     },
     {
-      "title": "Are SSTI, MG, CBNK, MGLD Obtaining Fair Deals for their Shareholders?",
-      "summary": "Insiders may stand to receive substantial financial benefits not available to ordinary shareholders. The proposed transactions may contain terms that could limit superior competing offers. Shareholders are encouraged to contact the firm to discuss their rights and options at no c",
-      "url": "https://www.prnewswire.com/news-releases/are-ssti-mg-cbnk-mgld-obtaining-fair-deals-for-their-shareholders-302894957.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-09-30T22:06:00Z",
-      "epoch": 1790805960,
+      "title": "OutRival Appoints Former NICE Executive Shaun Sjolin as Chief Customer Officer",
+      "summary": "Sjolin brings deep experience with enterprise contact center technology to help brands genuinely care for every person they serve, from the first conversation through the full customer journey MIAMI, Sept. 30, 2026 /PRNewswire/ -- OutRival, creator of AI-powered Digital Workers t",
+      "url": "https://www.prnewswire.com/news-releases/outrival-appoints-former-nice-executive-shaun-sjolin-as-chief-customer-officer-302895072.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-09-30T22:08:00Z",
+      "epoch": 1790806080,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -683,8 +867,8 @@
       "title": "Lilly's oral GLP-1, Foundayo (orforglipron), demonstrated cardiovascular safety alongside sustained A1C reduction and weight loss in its largest and longest type 2 diabetes study",
       "summary": "In ACHIEVE-4, participants taking Foundayo experienced a 16% lower risk of MACE-4 and a 23% lower risk of MACE-3, meeting the primary objective for non-inferiority compared to insulin glargine In pre-planned analyses, Foundayo showed a 53% lower risk of cardiovascular death and a",
       "url": "https://www.prnewswire.com/news-releases/lillys-oral-glp-1-foundayo-orforglipron-demonstrated-cardiovascular-safety-alongside-sustained-a1c-reduction-and-weight-loss-in-its-largest-and-longest-type-2-diabetes-study-302891823.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-09-30T22:00:00Z",
       "epoch": 1790805600,
       "sentiment": -1.0,
@@ -702,20 +886,6 @@
       "published_at": "2026-09-30T22:00:00Z",
       "epoch": 1790805600,
       "sentiment": -0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "USC Dedicates New Korean Air Convergence Plaza",
-      "summary": "A vibrant hub of interdisciplinary collaboration and community connection, the plaza is named in honor of the global airline chaired by USC alumnus Walter Cho MBA '06. LOS ANGELES, Sept. 30, 2026 /PRNewswire/ -- USC leaders and special guests gathered Tuesday to celebrate the ded",
-      "url": "https://www.prnewswire.com/news-releases/usc-dedicates-new-korean-air-convergence-plaza-302894933.html",
-      "source": "PR Newswire — Clinical Trials/FDA",
-      "source_id": "prnewswire-trials-fda",
-      "published_at": "2026-09-30T22:00:00Z",
-      "epoch": 1790805600,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -936,22 +1106,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "NEUBERGER ENERGY INFRASTRUCTURE AND INCOME FUND ANNOUNCES MONTHLY DISTRIBUTION",
-      "summary": "NEW YORK, Sept. 30, 2026 /PRNewswire/ -- Neuberger Energy Infrastructure and Income Fund Inc. (NYSE American: NML) (the \"Fund\") has announced a distribution declaration of $0.07008 per share of common stock. The distribution announced today is payable on October 30, 2026, has a r",
-      "url": "https://www.prnewswire.com/news-releases/neuberger-energy-infrastructure-and-income-fund-announces-monthly-distribution-302894841.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-30T20:30:00Z",
-      "epoch": 1790800200,
-      "sentiment": 0.0,
-      "tickers": [
-        "NML"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "NEUBERGER HIGH YIELD STRATEGIES FUND ANNOUNCES MONTHLY DISTRIBUTION",
       "summary": "NEW YORK, Sept. 30, 2026 /PRNewswire/ -- Neuberger High Yield Strategies Fund Inc. (NYSE American: NHS) (the \"Fund\") has announced a distribution declaration of $0.0905 per share of common stock. The distribution announced today is payable on October 30, 2026, has a record date o",
       "url": "https://www.prnewswire.com/news-releases/neuberger-high-yield-strategies-fund-announces-monthly-distribution-302894842.html",
@@ -962,22 +1116,6 @@
       "sentiment": 0.33,
       "tickers": [
         "NHS"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "NEUBERGER NEXT GENERATION CONNECTIVITY FUND INC. NOTICE TO SHAREHOLDERS - SOURCES OF DISTRIBUTION UNDER SECTION 19(a)",
-      "summary": "NEW YORK, Sept. 30, 2026 /PRNewswire/ -- This announcement provides stockholders of Neuberger Next Generation Connectivity Fund Inc. (NYSE: NBXG) (the \"Fund\") with important information concerning the sources of distribution declared in August 2026, as required by the Fund's mana",
-      "url": "https://www.prnewswire.com/news-releases/neuberger-next-generation-connectivity-fund-inc-notice-to-shareholders---sources-of-distribution-under-section-19a-302894912.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-09-30T20:30:00Z",
-      "epoch": 1790800200,
-      "sentiment": 0.0,
-      "tickers": [
-        "NBXG"
       ],
       "company_name": null,
       "catalyst": false,
@@ -1016,16 +1154,16 @@
       "small_cap_risk": true
     },
     {
-      "title": "First Citizens BancShares, Inc. Announces Date of Third Quarter 2026 Earnings Call",
-      "summary": "RALEIGH, N.C., Sept. 30, 2026 /PRNewswire/ -- First Citizens BancShares, Inc. (\"BancShares\") (NASDAQ: FCNCA) today announced it will report its financial results for the quarter ended September 30, 2026, before the U.S. financial markets open on Friday, October 23, 2026. BancShar",
-      "url": "https://www.prnewswire.com/news-releases/first-citizens-bancshares-inc-announces-date-of-third-quarter-2026-earnings-call-302894872.html",
+      "title": "NEUBERGER NEXT GENERATION CONNECTIVITY FUND INC. NOTICE TO SHAREHOLDERS - SOURCES OF DISTRIBUTION UNDER SECTION 19(a)",
+      "summary": "NEW YORK, Sept. 30, 2026 /PRNewswire/ -- This announcement provides stockholders of Neuberger Next Generation Connectivity Fund Inc. (NYSE: NBXG) (the \"Fund\") with important information concerning the sources of distribution declared in August 2026, as required by the Fund's mana",
+      "url": "https://www.prnewswire.com/news-releases/neuberger-next-generation-connectivity-fund-inc-notice-to-shareholders---sources-of-distribution-under-section-19a-302894912.html",
       "source": "PR Newswire — Financial",
       "source_id": "prnewswire-financial",
       "published_at": "2026-09-30T20:30:00Z",
       "epoch": 1790800200,
       "sentiment": 0.0,
       "tickers": [
-        "FCNCA"
+        "NBXG"
       ],
       "company_name": null,
       "catalyst": false,
@@ -1058,114 +1196,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "CVS Health declares quarterly dividend",
-      "summary": "WOONSOCKET, R.I., Sept. 30, 2026 /PRNewswire/ -- CVS Health® (NYSE: CVS) has announced that its board of directors has approved a quarterly dividend of sixty-six and one-half cents ($0.665 cents) per share on the Common Stock of the Corporation. The dividend is payable on Novembe",
-      "url": "https://www.prnewswire.com/news-releases/cvs-health-declares-quarterly-dividend-302894998.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-30T20:26:00Z",
-      "epoch": 1790799960,
-      "sentiment": 1.0,
-      "tickers": [
-        "CVS"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Sigo Seguros Launches Commercial Auto Insurance to Help Hispanic and Working-Class Business Owners Find the Coverage Their Work Requires",
-      "summary": "Starting in Texas, the licensed agency helps contractors, delivery drivers, and small fleet owners understand their options and compare quotes from multiple carriers, in Spanish or English AUSTIN, Texas, Sept. 30, 2026 /PRNewswire/ -- Sigo Seguros, a licensed insurance agency bui",
-      "url": "https://www.prnewswire.com/news-releases/sigo-seguros-launches-commercial-auto-insurance-to-help-hispanic-and-working-class-business-owners-find-the-coverage-their-work-requires-302894997.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-30T20:25:00Z",
-      "epoch": 1790799900,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Haemonetics Sets Date for Publishing Second Quarter Fiscal Year 2027 Results: November 5, 2026",
-      "summary": "BOSTON, Sept. 30, 2026 /PRNewswire/ -- Haemonetics Corporation (NYSE: HAE) announced that the Company intends to publish second quarter fiscal year 2027 financial results at 6:00 am ET on Thursday, November 5, 2026. The Company will hold a conference call with investors and analy",
-      "url": "https://www.prnewswire.com/news-releases/haemonetics-sets-date-for-publishing-second-quarter-fiscal-year-2027-results-november-5-2026-302894803.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-30T20:05:00Z",
-      "epoch": 1790798700,
-      "sentiment": 0.0,
-      "tickers": [
-        "HAE"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Aflac Incorporated to Release Third Quarter Results and CFO Video Update on November 4, 2026 and Host Webcast on November 5, 2026",
-      "summary": "COLUMBUS, Ga., Sept. 30, 2026 /PRNewswire/ -- Aflac Incorporated (NYSE: AFL) announced today that it will release third quarter 2026 financial results after the market closes on Wednesday, November 4, 2026. At that time, earnings materials, including the quarterly earnings releas",
-      "url": "https://www.prnewswire.com/news-releases/aflac-incorporated-to-release-third-quarter-results-and-cfo-video-update-on-november-4-2026-and-host-webcast-on-november-5-2026-302894955.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-30T20:05:00Z",
-      "epoch": 1790798700,
-      "sentiment": 0.0,
-      "tickers": [
-        "AFL"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "RedHill Biopharma Announces Operational Highlights and First Half 2026 Financial Results",
-      "summary": "Executing a full strategic portfolio reset, RedHill is now a stronger commercial entity with Rebyota® and Clenpiq®, two established FDA-approved gastrointestinal (GI) brands that generated $37.5 million in 2025 net sales under Ferring Pharmaceuticals (\"Ferring\"), an advanced late",
-      "url": "https://www.prnewswire.com/news-releases/redhill-biopharma-announces-operational-highlights-and-first-half-2026-financial-results-302894804.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-30T20:05:00Z",
-      "epoch": 1790798700,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Halozyme Announces Appointment of Jim Daly to its Board of Directors",
-      "summary": "SAN DIEGO, Sept. 30, 2026 /PRNewswire/ -- Halozyme Therapeutics, Inc. (Nasdaq: HALO) (\"Halozyme\" or the \"Company\") today announced the appointment of James \"Jim\" Daly to its Board of Directors. Mr. Daly is a highly respected biopharmaceutical executive with more than three decade",
-      "url": "https://www.prnewswire.com/news-releases/halozyme-announces-appointment-of-jim-daly-to-its-board-of-directors-302893932.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-30T20:05:00Z",
-      "epoch": 1790798700,
-      "sentiment": 0.0,
-      "tickers": [
-        "HALO"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Health In Tech Launches HitRix to Modernize the Nearly $1 Trillion U.S. Self-Funded Health Insurance Market and Announces Updated 2026 Full-Year Revenue Guidance",
-      "summary": "AI-powered HitRix platform streamlines large-group submissions, multi-market quoting, proposal comparison and placement in one secure environment, thereby reducing time to market. STUART, Fla., Sept. 30, 2026 /PRNewswire/ -- Health In Tech, Inc. (Nasdaq: HIT), an AI-enabled Insur",
-      "url": "https://www.prnewswire.com/news-releases/health-in-tech-launches-hitrix-to-modernize-the-nearly-1-trillion-us-self-funded-health-insurance-market-and-announces-updated-2026-full-year-revenue-guidance-302894826.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-09-30T20:00:00Z",
-      "epoch": 1790798400,
-      "sentiment": 0.33,
-      "tickers": [
-        "HIT"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
     },
     {
       "title": "8-K - Liquidia Corp (0001819576) (Filer)",
@@ -2387,7 +2417,7 @@
     },
     {
       "title": "Bristol Myers trial revisions shake confidence in new class of fibrosis drugs",
-      "summary": "A spokesperson confirmed that a &ldquo;limited number&rdquo; of liver-related safety events, including a patient death, were observed in testing of Bristol Myers&rsquo; admilparant &mdash; though it&rsquo;s unclear whether the drug was to blame.&nbsp;",
+      "summary": "A spokesperson confirmed that a &ldquo;limited number&rdquo; of liver-related safety events, including a patient death, were observed in testing of Bristol&rsquo;s admilparant &mdash; though it&rsquo;s unclear whether the drug was to blame.&nbsp;",
       "url": "https://www.biopharmadive.com/news/bristol-admilparant-fibrosis-aloft-study-amendment-lpa1r-contineum/831763/",
       "source": "BioPharma Dive",
       "source_id": "biopharmadive",
