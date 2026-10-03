@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T12:02:17Z",
+  "generated_at": "2026-10-03T16:16:16Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 138,
+    "breaking_count": 140,
     "breaking_catalyst_count": 32,
     "pipeline_count": 60,
     "pipeline_catalyst_count": 14,
@@ -58,13 +58,13 @@
       "source_count": 2
     },
     {
-      "ticker": "NOVN",
+      "ticker": "005930.KS",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
     },
     {
-      "ticker": "005930.KS",
+      "ticker": "PFE",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
@@ -530,6 +530,48 @@
       "small_cap_risk": false
     },
     {
+      "title": "RoboParty Unveils RP1, a High-Performance Full-Stack Open-Source Humanoid Robot at IROS",
+      "summary": "PITTSBURGH, Oct. 3, 2026 /PRNewswire/ -- On September 28, 2026, RoboParty publicly unveiled RP1 (ROBOTO 01) at IROS 2026, marking the robot's global debut. Building on RPO (ROBOTO ORIGIN), its fully open-source humanoid project launched in January 2026 with more than 2,500 GitHub",
+      "url": "https://www.prnewswire.com/news-releases/roboparty-unveils-rp1-a-high-performance-full-stack-open-source-humanoid-robot-at-iros-302897655.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-03T15:59:00Z",
+      "epoch": 1791043140,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Why PureHealth Research Formulates Its GLP-1 Support Supplements with Prebiotic Fiber and Electrolytes?",
+      "summary": "MANASSAS, Va., Oct. 3, 2026 /PRNewswire/ -- As GLP-1 medications reshape how millions of people eat, a quieter question is getting far less attention: what happens to nutrition when appetite drops sharply? PureHealth Research is addressing that gap directly, with a collection bui",
+      "url": "https://www.prnewswire.com/news-releases/why-purehealth-research-formulates-its-glp-1-support-supplements-with-prebiotic-fiber-and-electrolytes-302880091.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-03T15:00:00Z",
+      "epoch": 1791039600,
+      "sentiment": -0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Painting Expert Melvin Jones Explains Cabinet Painting vs. Replacement in HelloNation",
+      "summary": "The article explains how cabinet condition, preparation, durable finishes, and project costs can help homeowners choose between refinishing and replacement. LEXINGTON, S.C., Oct. 3, 2026 /PRNewswire/ -- Should you paint your kitchen cabinets or replace them? According to a HelloN",
+      "url": "https://www.prnewswire.com/news-releases/painting-expert-melvin-jones-explains-cabinet-painting-vs-replacement-in-hellonation-302897303.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-03T12:30:00Z",
+      "epoch": 1791030600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Govee Turns Up the Spooky With Sarah Michelle Gellar in New Nationwide Halloween Campaign",
       "summary": "The horror screen icon stars in Govee's \"Turn Up the Spooky. Slay Halloween.\" outdoor lighting campaign, bringing a little Hollywood drama to Halloween at home LOS ANGELES, Oct. 3, 2026 /PRNewswire/ -- Govee, the No. 1 brand for household permanent outdoor lights in the U.S.*, to",
       "url": "https://www.prnewswire.com/news-releases/govee-turns-up-the-spooky-with-sarah-michelle-gellar-in-new-nationwide-halloween-campaign-302892255.html",
@@ -963,20 +1005,6 @@
       "tickers": [
         "EXR"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "NeuroSense Provides Update on Nasdaq Listing Compliance",
-      "summary": "Company regains compliance with Nasdaq's minimum bid price requirement and intends to request a Nasdaq Hearings Panel hearing to seek additional time to regain compliance with the minimum market value requirement CAMBRIDGE, Mass., Oct. 2, 2026 /PRNewswire/ -- NeuroSense Therapeut",
-      "url": "https://www.prnewswire.com/news-releases/neurosense-provides-update-on-nasdaq-listing-compliance-302897458.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-02T20:15:00Z",
-      "epoch": 1790972100,
-      "sentiment": 0.0,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -2279,22 +2307,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs",
-      "summary": "In exchange for a $575 million payment up front, Abogen Biosciences will furnish Novartis with access to its RNA technology, including an option to license its lead program ABO-2203.",
-      "url": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
-      "source": "BioPharma Dive",
-      "source_id": "biopharmadive",
-      "published_at": "2026-10-02T10:16:54Z",
-      "epoch": 1790936214,
-      "sentiment": 0.0,
-      "tickers": [
-        "NOVN"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Teva, Samsung Bioepis deepen bonds in pact for up to 6 new biosimilars",
       "summary": "Already sharing the load on two biosimilar assets, Teva Pharmaceutical and Samsung Bioepis have elected to take their partnership to the next level.",
       "url": "https://www.fiercepharma.com/pharma/teva-samsung-bioepis-deepen-bonds-pact-6-new-biosimilars",
@@ -2753,6 +2765,22 @@
       "sentiment": 0.33,
       "tickers": [
         "AZN.L"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "PhRMA names next CEO; Pierre Fabre takes third swing at Ebvallo approval",
+      "summary": "A former congressman will take over for prominent lobbyist Steve Ubl. Elsewhere, recent buyout deals paid dividends for Mirum and AbbVie.",
+      "url": "https://www.biopharmadive.com/news/phrma-cantor-ebvallo-fda-mirum-bluejay-abbvie-juvmo/831450/",
+      "source": "BioPharma Dive",
+      "source_id": "biopharmadive",
+      "published_at": "2026-09-30T10:18:00Z",
+      "epoch": 1790763480,
+      "sentiment": 0.33,
+      "tickers": [
+        "ABBV"
       ],
       "company_name": null,
       "catalyst": false,
