@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T20:34:31Z",
+  "generated_at": "2026-10-03T23:30:03Z",
   "continents": {
     "na": {
       "label": "Βόρεια Αμερική",
@@ -19,6 +19,22 @@
     }
   },
   "rankings": [
+    {
+      "ticker": "DELL",
+      "name": "Dell Technologies",
+      "sector": "Τεχνολογία",
+      "continent": "na",
+      "score": 94.0,
+      "article_count": 2,
+      "avg_sentiment": 1.0,
+      "volume_bonus": 4,
+      "source_count": 2,
+      "unusual": false,
+      "baseline_articles": 1.4,
+      "horizon": "swing",
+      "swing_count": 1,
+      "longterm_count": 0
+    },
     {
       "ticker": "ACN",
       "name": "Accenture",
@@ -84,20 +100,20 @@
       "longterm_count": 0
     },
     {
-      "ticker": "KMI",
-      "name": "Kinder Morgan",
-      "sector": "Ενέργεια",
+      "ticker": "LMT",
+      "name": "Lockheed Martin",
+      "sector": "Βιομηχανία",
       "continent": "na",
-      "score": 78.8,
-      "article_count": 1,
-      "avg_sentiment": 0.67,
-      "volume_bonus": 2,
-      "source_count": 1,
+      "score": 78.6,
+      "article_count": 2,
+      "avg_sentiment": 0.62,
+      "volume_bonus": 4,
+      "source_count": 2,
       "unusual": false,
       "baseline_articles": 1.0,
-      "horizon": "swing",
-      "swing_count": 1,
-      "longterm_count": 0
+      "horizon": "long_term",
+      "swing_count": 0,
+      "longterm_count": 1
     },
     {
       "ticker": "META",
@@ -110,7 +126,7 @@
       "volume_bonus": 4,
       "source_count": 2,
       "unusual": false,
-      "baseline_articles": 3.3,
+      "baseline_articles": 3.1,
       "horizon": null,
       "swing_count": 0,
       "longterm_count": 0
@@ -142,7 +158,7 @@
       "volume_bonus": 4,
       "source_count": 1,
       "unusual": false,
-      "baseline_articles": 2.6,
+      "baseline_articles": 2.4,
       "horizon": "swing",
       "swing_count": 1,
       "longterm_count": 0
@@ -174,7 +190,7 @@
       "volume_bonus": 6,
       "source_count": 1,
       "unusual": false,
-      "baseline_articles": 2.3,
+      "baseline_articles": 2.1,
       "horizon": "swing",
       "swing_count": 2,
       "longterm_count": 0
@@ -260,22 +276,6 @@
       "longterm_count": 0
     },
     {
-      "ticker": "DELL",
-      "name": "Dell Technologies",
-      "sector": "Τεχνολογία",
-      "continent": "na",
-      "score": 65.2,
-      "article_count": 1,
-      "avg_sentiment": 0.33,
-      "volume_bonus": 2,
-      "source_count": 1,
-      "unusual": false,
-      "baseline_articles": 1.4,
-      "horizon": "swing",
-      "swing_count": 1,
-      "longterm_count": 0
-    },
-    {
       "ticker": "MRVL",
       "name": "Marvell Technology",
       "sector": "Τεχνολογία",
@@ -296,13 +296,13 @@
       "name": "Nvidia",
       "sector": "Τεχνολογία",
       "continent": "na",
-      "score": 58.7,
+      "score": 58.5,
       "article_count": 8,
-      "avg_sentiment": -0.03,
+      "avg_sentiment": -0.04,
       "volume_bonus": 10,
       "source_count": 3,
       "unusual": false,
-      "baseline_articles": 7.6,
+      "baseline_articles": 7.4,
       "horizon": "swing",
       "swing_count": 1,
       "longterm_count": 0
@@ -337,7 +337,7 @@
       "baseline_articles": 1.1,
       "horizon": "long_term",
       "swing_count": 0,
-      "longterm_count": 2
+      "longterm_count": 1
     },
     {
       "ticker": "AIR.PA",
@@ -346,7 +346,7 @@
       "continent": "eu",
       "score": 55.0,
       "article_count": 2,
-      "avg_sentiment": 0.03,
+      "avg_sentiment": 0.02,
       "volume_bonus": 4,
       "source_count": 2,
       "unusual": false,
@@ -362,25 +362,9 @@
       "continent": "eu",
       "score": 55.0,
       "article_count": 2,
-      "avg_sentiment": 0.03,
+      "avg_sentiment": 0.02,
       "volume_bonus": 4,
       "source_count": 2,
-      "unusual": false,
-      "baseline_articles": 1.4,
-      "horizon": null,
-      "swing_count": 0,
-      "longterm_count": 0
-    },
-    {
-      "ticker": "FOX",
-      "name": "Fox Corporation (Class B)",
-      "sector": "Επικοινωνίες/Μέσα",
-      "continent": "na",
-      "score": 54.0,
-      "article_count": 2,
-      "avg_sentiment": 0.0,
-      "volume_bonus": 4,
-      "source_count": 1,
       "unusual": false,
       "baseline_articles": 1.4,
       "horizon": null,
@@ -430,7 +414,7 @@
       "volume_bonus": 4,
       "source_count": 1,
       "unusual": false,
-      "baseline_articles": 2.4,
+      "baseline_articles": 2.3,
       "horizon": null,
       "swing_count": 0,
       "longterm_count": 0
@@ -500,6 +484,22 @@
       "longterm_count": 0
     },
     {
+      "ticker": "DIS",
+      "name": "Walt Disney Company (The)",
+      "sector": "Επικοινωνίες/Μέσα",
+      "continent": "na",
+      "score": 52.0,
+      "article_count": 1,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": 1.0,
+      "horizon": "swing",
+      "swing_count": 1,
+      "longterm_count": 0
+    },
+    {
       "ticker": "MS",
       "name": "Morgan Stanley",
       "sector": "Χρηματοοικονομικά",
@@ -532,6 +532,22 @@
       "longterm_count": 0
     },
     {
+      "ticker": "FOX",
+      "name": "Fox Corporation (Class B)",
+      "sector": "Επικοινωνίες/Μέσα",
+      "continent": "na",
+      "score": 52.0,
+      "article_count": 1,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": 1.3,
+      "horizon": null,
+      "swing_count": 0,
+      "longterm_count": 0
+    },
+    {
       "ticker": "EQIX",
       "name": "Equinix",
       "sector": "Ακίνητα",
@@ -545,6 +561,22 @@
       "baseline_articles": 1.0,
       "horizon": "swing",
       "swing_count": 1,
+      "longterm_count": 0
+    },
+    {
+      "ticker": "DVA",
+      "name": "DaVita",
+      "sector": "Υγεία",
+      "continent": "na",
+      "score": 52.0,
+      "article_count": 1,
+      "avg_sentiment": 0.0,
+      "volume_bonus": 2,
+      "source_count": 1,
+      "unusual": false,
+      "baseline_articles": 1.0,
+      "horizon": null,
+      "swing_count": 0,
       "longterm_count": 0
     },
     {
@@ -580,22 +612,6 @@
       "longterm_count": 0
     },
     {
-      "ticker": "PGR",
-      "name": "Progressive",
-      "sector": "Χρηματοοικονομικά",
-      "continent": "na",
-      "score": 52.0,
-      "article_count": 1,
-      "avg_sentiment": 0.0,
-      "volume_bonus": 2,
-      "source_count": 1,
-      "unusual": false,
-      "baseline_articles": 1.0,
-      "horizon": null,
-      "swing_count": 0,
-      "longterm_count": 0
-    },
-    {
       "ticker": "COST",
       "name": "Costco",
       "sector": "Καταναλωτικά (Βασικά)",
@@ -609,22 +625,6 @@
       "baseline_articles": 1.3,
       "horizon": "swing",
       "swing_count": 1,
-      "longterm_count": 0
-    },
-    {
-      "ticker": "LMT",
-      "name": "Lockheed Martin",
-      "sector": "Βιομηχανία",
-      "continent": "na",
-      "score": 52.0,
-      "article_count": 1,
-      "avg_sentiment": 0.0,
-      "volume_bonus": 2,
-      "source_count": 1,
-      "unusual": false,
-      "baseline_articles": 1.0,
-      "horizon": null,
-      "swing_count": 0,
       "longterm_count": 0
     },
     {
@@ -670,7 +670,7 @@
       "volume_bonus": 2,
       "source_count": 1,
       "unusual": false,
-      "baseline_articles": 1.4,
+      "baseline_articles": 1.3,
       "horizon": null,
       "swing_count": 0,
       "longterm_count": 0
@@ -728,13 +728,13 @@
       "name": "Dow",
       "sector": "Ορυκτά/Υλικά",
       "continent": "na",
-      "score": 43.9,
+      "score": 43.8,
       "article_count": 4,
-      "avg_sentiment": -0.35,
+      "avg_sentiment": -0.36,
       "volume_bonus": 8,
       "source_count": 1,
       "unusual": false,
-      "baseline_articles": 3.0,
+      "baseline_articles": 3.1,
       "horizon": "swing",
       "swing_count": 2,
       "longterm_count": 0
@@ -746,7 +746,7 @@
       "continent": "eu",
       "score": 41.8,
       "article_count": 2,
-      "avg_sentiment": -0.3,
+      "avg_sentiment": -0.31,
       "volume_bonus": 4,
       "source_count": 2,
       "unusual": false,
