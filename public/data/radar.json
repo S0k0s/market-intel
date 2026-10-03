@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T19:19:35Z",
+  "generated_at": "2026-10-03T22:16:46Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 138,
+    "breaking_count": 140,
     "breaking_catalyst_count": 32,
     "pipeline_count": 60,
     "pipeline_catalyst_count": 14,
@@ -58,13 +58,13 @@
       "source_count": 2
     },
     {
-      "ticker": "005930.KS",
+      "ticker": "NOVN",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
     },
     {
-      "ticker": "PFE",
+      "ticker": "005930.KS",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
@@ -530,6 +530,48 @@
       "small_cap_risk": false
     },
     {
+      "title": "Plastic-Covered Couch Turned Work of Art To Protect Black Culture Lands In Brooklyn This Weekend",
+      "summary": "The living archive project \"Protect Our Piece\" makes its CultureCon debut inviting people to add to its hand-stitched story and inspire its next appearances NEW YORK, Oct. 2, 2026 /PRNewswire/ -- If you grew up in a Black home, you probably remember the couch you weren't supposed",
+      "url": "https://www.prnewswire.com/news-releases/plastic-covered-couch-turned-work-of-art-to-protect-black-culture-lands-in-brooklyn-this-weekend-302897690.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-03T20:11:00Z",
+      "epoch": 1791058260,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "ARTBOX, KOREA'S ICONIC LIFESTYLE RETAILER, MAKES U.S. DEBUT WITH LOS ANGELES POP-UP FEATURING GLOBAL K-POP ICON ILLIT",
+      "summary": "The Korean retailer, founded in 1984, will open its first U.S. retail activation on Melrose Avenue from October 3–11, marking the first step in ARTBOX's broader American expansion LOS ANGELES, Oct. 3, 2026 /PRNewswire/ -- ARTBOX, Korea's original design-lifestyle retail brand, is",
+      "url": "https://www.prnewswire.com/news-releases/artbox-koreas-iconic-lifestyle-retailer-makes-us-debut-with-los-angeles-pop-up-featuring-global-k-pop-icon-illit-302897494.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-03T20:00:00Z",
+      "epoch": 1791057600,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Corboy &amp; Demetrio files Lawsuit for Family of Frankfort Girl Killed by School Bus",
+      "summary": "CHICAGO, Oct. 3, 2026 /PRNewswire/ -- Corboy & Demetrio has filed a wrongful death lawsuit against two school districts for the death of Jenna Menias, a 6-year-old girl struck and killed on Sept. 8, 2026, seconds after being dropped off by the districts' jointly operated school b",
+      "url": "https://www.prnewswire.com/news-releases/corboy--demetrio-files-lawsuit-for-family-of-frankfort-girl-killed-by-school-bus-302897689.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-03T19:52:00Z",
+      "epoch": 1791057120,
+      "sentiment": -0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Captain D's cobra impulso para su crecimiento internacional",
       "summary": "-Captain D's cobra impulso para su crecimiento internacional a medida que se extiende el interés por la franquicia en toda Europa NASHVILLE, Tenn., 3 de octubre de 2026 /PRNewswire/ -- Captain D's, la principal franquicia de mariscos de estilo fast-casual de Estados Unidos, está ",
       "url": "https://www.prnewswire.com/news-releases/captain-ds-cobra-impulso-para-su-crecimiento-internacional-302897681.html",
@@ -658,20 +700,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Sklad budoucnosti: Geekplus a LPP Logistics mění maloobchodní logistiku pomocí inteligentní automatizace",
-      "summary": "VARŠAVA, Polsko, 3. října 2026 /PRNewswire/ -- Geekplus, globální lídr v oblasti skladové robotiky, rozšířil své partnerství se společností LPP Logistics, interním poskytovatelem logistických služeb pro LPP Group, nadnárodní společnost působící v módním průmyslu. Společně rozšiřu",
-      "url": "https://www.prnewswire.com/news-releases/sklad-budoucnosti-geekplus-a-lpp-logistics-mni-maloobchodni-logistiku-pomoci-inteligentni-automatizace-302897645.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-03T11:37:00Z",
-      "epoch": 1791027420,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Online Trading Platform Market Projected to Reach $18.18 Billion by 2031 as Mobile Becomes the Front Door for Retail Investors",
       "summary": "VANCOUVER, BC, Oct. 3, 2026 /PRNewswire/ -- USA News Group News Commentary - Mordor Intelligence values the online trading platform market at $11.65 billion in 2025 and projects $18.18 billion by 2031, a compound annual growth rate of 7.66% from 2026 to 2031. Active Companies fro",
       "url": "https://www.prnewswire.com/news-releases/online-trading-platform-market-projected-to-reach-18-18-billion-by-2031-as-mobile-becomes-the-front-door-for-retail-investors-302897636.html",
@@ -689,8 +717,8 @@
       "title": "Ractigen Therapeutics Presents Positive First-in-Human Data for RAG-18 at WMS 2026, Establishing Clinical Proof-of-Mechanism for RNA Activation in Duchenne Muscular Dystrophy",
       "summary": "First clinical evidence demonstrating that a systemically delivered small activating RNA (saRNA) can safely upregulate an endogenous target protein in human skeletal muscle in a monogenic disease. Paired muscle biopsies reveal 3.5- to 5.3-fold increases in sarcolemmal utrophin ex",
       "url": "https://www.prnewswire.com/news-releases/ractigen-therapeutics-presents-positive-first-in-human-data-for-rag-18-at-wms-2026-establishing-clinical-proof-of-mechanism-for-rna-activation-in-duchenne-muscular-dystrophy-302897620.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-03T11:30:00Z",
       "epoch": 1791027000,
       "sentiment": 0.0,
@@ -703,8 +731,8 @@
       "title": "WIRD DIE HAUTPFLEGE ZU KOMPLIZIERT? CERAVE ÜBERZEUGT DURCH SICHERHEIT, WIRKSAMKEIT UND EINFACHHEIT",
       "summary": "Eine neue europäische Studie hat ergeben, dass 81 % der Befragten die Bedeutung eines Hautschutzes über den UV-Schutz hinaus anerkennen, jedoch nur 22 % Produkte verwenden, die die Hautbarriere stärken sollen. WIEN, 3. Oktober 2026 /PRNewswire/ -- CeraVe, die gemeinsam mit Dermat",
       "url": "https://www.prnewswire.com/news-releases/wird-die-hautpflege-zu-kompliziert-cerave-uberzeugt-durch-sicherheit-wirksamkeit-und-einfachheit-302897644.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-03T11:29:00Z",
       "epoch": 1791026940,
       "sentiment": 0.0,
@@ -966,22 +994,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Ares Management Corporation Updates the Time of Its Earnings Conference Call for the Third Quarter Ending September 30, 2026",
-      "summary": "NEW YORK, Oct. 2, 2026 /PRNewswire/ -- Ares Management Corporation announced today that it has updated the time it will hold its earnings webcast/conference call for the third quarter ending September 30, 2026 to 9:00am ET on Thursday, October 29, 2026. Ares Management Corporatio",
-      "url": "https://www.prnewswire.com/news-releases/ares-management-corporation-updates-the-time-of-its-earnings-conference-call-for-the-third-quarter-ending-september-30-2026-302897437.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-02T20:15:00Z",
-      "epoch": 1790972100,
-      "sentiment": 0.0,
-      "tickers": [
-        "ARES"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Extra Space Storage Inc. Announces Date of Earnings Release and Conference Call to Discuss 3rd Quarter Results",
       "summary": "SALT LAKE CITY, Oct. 2, 2026 /PRNewswire/ -- Extra Space Storage Inc. (the \"Company\") (NYSE: EXR) announced today it will release financial results for the three and nine months ended September 30, 2026, on Tuesday, October 27, 2026, after the market closes. The Company will host",
       "url": "https://www.prnewswire.com/news-releases/extra-space-storage-inc-announces-date-of-earnings-release-and-conference-call-to-discuss-3rd-quarter-results-302897279.html",
@@ -992,6 +1004,22 @@
       "sentiment": 0.0,
       "tickers": [
         "EXR"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Ares Management Corporation Updates the Time of Its Earnings Conference Call for the Third Quarter Ending September 30, 2026",
+      "summary": "NEW YORK, Oct. 2, 2026 /PRNewswire/ -- Ares Management Corporation announced today that it has updated the time it will hold its earnings webcast/conference call for the third quarter ending September 30, 2026 to 9:00am ET on Thursday, October 29, 2026. Ares Management Corporatio",
+      "url": "https://www.prnewswire.com/news-releases/ares-management-corporation-updates-the-time-of-its-earnings-conference-call-for-the-third-quarter-ending-september-30-2026-302897437.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-02T20:15:00Z",
+      "epoch": 1790972100,
+      "sentiment": 0.0,
+      "tickers": [
+        "ARES"
       ],
       "company_name": null,
       "catalyst": false,
@@ -2281,6 +2309,22 @@
       "small_cap_risk": false
     },
     {
+      "title": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs",
+      "summary": "In exchange for a $575 million payment up front, Abogen Biosciences will furnish Novartis with access to its RNA technology, including an option to license its lead program ABO-2203.",
+      "url": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
+      "source": "BioPharma Dive",
+      "source_id": "biopharmadive",
+      "published_at": "2026-10-02T10:16:54Z",
+      "epoch": 1790936214,
+      "sentiment": 0.0,
+      "tickers": [
+        "NOVN"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Teva, Samsung Bioepis deepen bonds in pact for up to 6 new biosimilars",
       "summary": "Already sharing the load on two biosimilar assets, Teva Pharmaceutical and Samsung Bioepis have elected to take their partnership to the next level.",
       "url": "https://www.fiercepharma.com/pharma/teva-samsung-bioepis-deepen-bonds-pact-6-new-biosimilars",
@@ -2739,22 +2783,6 @@
       "sentiment": 0.33,
       "tickers": [
         "AZN.L"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "PhRMA names next CEO; Pierre Fabre takes third swing at Ebvallo approval",
-      "summary": "A former congressman will take over for prominent lobbyist Steve Ubl. Elsewhere, recent buyout deals paid dividends for Mirum and AbbVie.",
-      "url": "https://www.biopharmadive.com/news/phrma-cantor-ebvallo-fda-mirum-bluejay-abbvie-juvmo/831450/",
-      "source": "BioPharma Dive",
-      "source_id": "biopharmadive",
-      "published_at": "2026-09-30T10:18:00Z",
-      "epoch": 1790763480,
-      "sentiment": 0.33,
-      "tickers": [
-        "ABBV"
       ],
       "company_name": null,
       "catalyst": false,
