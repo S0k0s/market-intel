@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T07:42:55Z",
+  "generated_at": "2026-10-04T13:29:07Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 142,
+    "breaking_count": 143,
     "breaking_catalyst_count": 32,
     "pipeline_count": 60,
     "pipeline_catalyst_count": 14,
@@ -58,13 +58,13 @@
       "source_count": 2
     },
     {
-      "ticker": "005930.KS",
+      "ticker": "NOVN",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
     },
     {
-      "ticker": "PFE",
+      "ticker": "005930.KS",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
@@ -530,6 +530,34 @@
       "small_cap_risk": false
     },
     {
+      "title": "Monster Energy Sweeps Men's Skateboard Street Podium at SLS Paris 2026",
+      "summary": "Men's Skateboard Street: Nyjah Huston Takes 1st Place, Toa Sasaki Claims 2nd Place, and Giovanni Vianna Finishes 3rd Women's Skateboard Street: Liz Akama Claims 3rd Place PARIS, Oct. 4, 2026 /PRNewswire/ -- Back on top! Monster Energy congratulates team rider Nyjah Huston on taki",
+      "url": "https://www.prnewswire.com/news-releases/monster-energy-sweeps-mens-skateboard-street-podium-at-sls-paris-2026-302897731.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-04T12:00:00Z",
+      "epoch": 1791115200,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Blokees představila na veletrhu Festival zázraků Šanghaj 2026 více než 90 nových produktů",
+      "summary": "ŠANGHAJ, 4. října 2026 /PRNewswire/ -- Ve dnech 3. až 4. října se značka sestavitelných hraček Blokees zúčastnila veletrhu Festival zázraků Šanghaj 2026, kde představila téměř 500 produktů ze svých dvou hlavních kategorií: stavebnice modelů Blokees a KOLA BLOKEES. Poprvé bylo pře",
+      "url": "https://www.prnewswire.com/news-releases/blokees-pedstavila-na-veletrhu-festival-zazrak-anghaj-2026-vice-ne-90-novych-produkt-302897735.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-04T09:00:00Z",
+      "epoch": 1791104400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Blokees Debuts 90+ New Products at Wonder Festival Shanghai 2026",
       "summary": "SHANGHAI, Oct. 4, 2026 /PRNewswire/ -- From October 3 to 4, Assembly Character Toys Brand Blokees exhibited at Wonder Festival Shanghai 2026, featuring nearly 500 products across its two core categories, Blokees Model Kits and BLOKEES WHEELS. More than 90 new products made their ",
       "url": "https://www.prnewswire.com/news-releases/blokees-debuts-90-new-products-at-wonder-festival-shanghai-2026-302897719.html",
@@ -700,27 +728,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "Coastal Financial Corporation (CCB) Scrutinized Over BaaS Credit Risk Management Effectiveness, Shares Tank 43% - Hagens Berman Investigation and Investor Advisory",
-      "summary": "SAN FRANCISCO, Oct. 3, 2026 /PRNewswire/ -- National shareholder rights law firm Hagens Berman is looking into critical corporate governance, underwriting, and risk management failures at Coastal Financial Corporation (NASDAQ: CCB). Following a 43% single-day stock plunge trigger",
-      "url": "https://www.prnewswire.com/news-releases/coastal-financial-corporation-ccb-scrutinized-over-baas-credit-risk-management-effectiveness-shares-tank-43--hagens-berman-investigation-and-investor-advisory-302896751.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-03T18:22:00Z",
-      "epoch": 1791051720,
-      "sentiment": -1.0,
-      "tickers": [
-        "CCB"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "Снижение массы тела на 19,3 % к 48-й неделе -- данные исследования фазы III препарата Olatorepatide, двойного селективного агониста ГПП-1/ГИП компании Hansoh, представлены на EASD",
       "summary": "МИЛАН, 3 октября 2026 г. /PRNewswire/ -- С 28 сентября по 2 октября 2026 года в Милане, Италия, проходит ежегодная конференция ассоциации European Association for the Study of Diabetes (EASD). Разработанный компанией Hansoh Pharma двойной селективный агонист рецепторов глюкагоноп",
       "url": "https://www.prnewswire.com/news-releases/----19-3---48-------iii--olatorepatide-----1--hansoh---easd-302897664.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-03T16:58:00Z",
       "epoch": 1791046680,
       "sentiment": 0.0,
@@ -2339,6 +2351,22 @@
       "small_cap_risk": false
     },
     {
+      "title": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs",
+      "summary": "In exchange for a $575 million payment up front, Abogen Biosciences will furnish Novartis with access to its RNA technology, including an option to license its lead program ABO-2203.",
+      "url": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
+      "source": "BioPharma Dive",
+      "source_id": "biopharmadive",
+      "published_at": "2026-10-02T10:16:54Z",
+      "epoch": 1790936214,
+      "sentiment": 0.0,
+      "tickers": [
+        "NOVN"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Teva, Samsung Bioepis deepen bonds in pact for up to 6 new biosimilars",
       "summary": "Already sharing the load on two biosimilar assets, Teva Pharmaceutical and Samsung Bioepis have elected to take their partnership to the next level.",
       "url": "https://www.fiercepharma.com/pharma/teva-samsung-bioepis-deepen-bonds-pact-6-new-biosimilars",
@@ -2797,22 +2825,6 @@
       "sentiment": 0.33,
       "tickers": [
         "AZN.L"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "PhRMA names next CEO; Pierre Fabre takes third swing at Ebvallo approval",
-      "summary": "A former congressman will take over for prominent lobbyist Steve Ubl. Elsewhere, recent buyout deals paid dividends for Mirum and AbbVie.",
-      "url": "https://www.biopharmadive.com/news/phrma-cantor-ebvallo-fda-mirum-bluejay-abbvie-juvmo/831450/",
-      "source": "BioPharma Dive",
-      "source_id": "biopharmadive",
-      "published_at": "2026-09-30T10:18:00Z",
-      "epoch": 1790763480,
-      "sentiment": 0.33,
-      "tickers": [
-        "ABBV"
       ],
       "company_name": null,
       "catalyst": false,
