@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-04T20:49:24Z",
+  "generated_at": "2026-10-04T23:48:10Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 145,
-    "breaking_catalyst_count": 32,
+    "breaking_count": 148,
+    "breaking_catalyst_count": 35,
     "pipeline_count": 60,
     "pipeline_catalyst_count": 14,
     "movers_count": 0
@@ -26,6 +26,12 @@
       "count": 2,
       "catalyst_count": 1,
       "source_count": 2
+    },
+    {
+      "ticker": "ORCL",
+      "count": 1,
+      "catalyst_count": 1,
+      "source_count": 1
     },
     {
       "ticker": "FLEX",
@@ -58,13 +64,7 @@
       "source_count": 2
     },
     {
-      "ticker": "005930.KS",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 2
-    },
-    {
-      "ticker": "PFE",
+      "ticker": "NOVN",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
@@ -73,6 +73,50 @@
   "movers": [],
   "concentration_warning": null,
   "breaking": [
+    {
+      "title": "FGR advances carbon fibre commercialisation with Aeropreg agreement",
+      "summary": "Highlights First Graphene enters Development and Commercialisation Agreement with global prepreg manufacturer Aeropreg to develop graphene-enhanced carbon fibre prepreg Three-year agreement builds on positive results from First Graphene's development work incorporating PureGRAPH®",
+      "url": "https://www.prnewswire.com/news-releases/fgr-advances-carbon-fibre-commercialisation-with-aeropreg-agreement-302897732.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-04T23:00:00Z",
+      "epoch": 1791154800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Oracle Announces $10 Million Partnership with the Nashville Symphony",
+      "summary": "The investment will allow Music City's orchestra to reinstate its 2026-27 season and recall furloughed musicians and staff NASHVILLE, Tenn., Oct. 4, 2026 /PRNewswire/ -- Oracle today announced that it is investing $10 million and creating a strategic partnership to help sustain t",
+      "url": "https://www.prnewswire.com/news-releases/oracle-announces-10-million-partnership-with-the-nashville-symphony-302897808.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-04T22:00:00Z",
+      "epoch": 1791151200,
+      "sentiment": 0.33,
+      "tickers": [
+        "ORCL"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Late-Breaking Clinical Trial Results Announced at The VEINS 2026",
+      "summary": "LAS VEGAS, Oct. 4, 2026 /PRNewswire/ -- The VIVA Foundation, a not-for-profit organization dedicated to advancing the field of vascular medicine through education and research, today announced results from the Late-Breaking Clinical Trials presented at The VEINS 2026 conference, ",
+      "url": "https://www.prnewswire.com/news-releases/late-breaking-clinical-trial-results-announced-at-the-veins-2026-302897814.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-04T21:16:00Z",
+      "epoch": 1791148560,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
     {
       "title": "8-K - Planet Green Holdings Corp. (0001117057) (Filer)",
       "summary": "Filed:  2026-10-02  AccNo:  0001213900-26-106521  Size:  543 KB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 9.01: Financial Statements and Exhibits",
@@ -530,6 +574,118 @@
       "small_cap_risk": false
     },
     {
+      "title": "E&amp;R Engineering eröffnet neues Werk in Malaysia: Ausbau der weltweiten Produktion von Verpackungsmaterialien und lokalisierter Dienstleistungen",
+      "summary": "KAOHSIUNG, 5. Oktober 2026 /PRNewswire/ -- E&R Engineering Corp. (TWSE: 8027), ein internationaler Anbieter von Halbleiterverpackungsanlagen, gab heute die bevorstehende feierliche Eröffnung seiner neuen malaysischen Tochtergesellschaft – E&R SEMICONDUCTOR (MALAYSIA) SDN. BHD. – ",
+      "url": "https://www.prnewswire.com/news-releases/er-engineering-eroffnet-neues-werk-in-malaysia-ausbau-der-weltweiten-produktion-von-verpackungsmaterialien-und-lokalisierter-dienstleistungen-302897783.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-04T23:30:00Z",
+      "epoch": 1791156600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "E&amp;R Engineering va inaugurer une nouvelle usine en Malaisie : développement de la production mondiale de matériaux d'emballage et services localisés",
+      "summary": "KAOHSIUNG, 5 octobre 2026 /PRNewswire/ -- E&R Engineering Corp., (TWSE : 8027), un fournisseur international d'équipements de conditionnement de semi-conducteurs, a annoncé aujourd'hui l'inauguration prochaine de sa nouvelle filiale malaisienne, E&R SEMICONDUCTOR (MALAYSIA) SDN. ",
+      "url": "https://www.prnewswire.com/news-releases/er-engineering-va-inaugurer-une-nouvelle-usine-en-malaisie--developpement-de-la-production-mondiale-de-materiaux-demballage-et-services-localises-302897782.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-04T23:30:00Z",
+      "epoch": 1791156600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "E&amp;R Engineering to Launch New Malaysia Plant: Expanding Global Packaging Materials Production and Localized Services",
+      "summary": "KAOHSIUNG, Oct. 5, 2026 /PRNewswire/ -- E&R Engineering Corp., (TWSE: 8027) an international provider of semiconductor packaging equipment, announced today the upcoming grand opening of its new Malaysian subsidiary—E&R SEMICONDUCTOR (MALAYSIA) SDN. BHD.—at the Melaka Free Trade Z",
+      "url": "https://www.prnewswire.com/news-releases/er-engineering-to-launch-new-malaysia-plant-expanding-global-packaging-materials-production-and-localized-services-302897740.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-04T23:30:00Z",
+      "epoch": 1791156600,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "CSL and Alentis announce global partnership to develop and commercialise lixudebart for rare kidney and liver diseases",
+      "summary": "Alentis to receive US$355 million initial payment and up to US$1.2 billion in commercial milestones, with global profits shared MELBOURNE, Australia and BASEL, Switzerland, Oct. 4, 2026 /PRNewswire/ -- CSL and Alentis Therapeutics today announced they have entered into an exclusi",
+      "url": "https://www.prnewswire.com/news-releases/csl-and-alentis-announce-global-partnership-to-develop-and-commercialise-lixudebart-for-rare-kidney-and-liver-diseases-302897821.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-04T21:42:00Z",
+      "epoch": 1791150120,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Blokees predstavuje na Wonder Festival Shanghai 2026 viac ako 90 nových produktov",
+      "summary": "ŠANGHAJ,/PRNewswire/ – Od 3. do 4. októbra vystavovala značka stavebníc Blokees na veľtrhu Wonder Festival Shanghai 2026, kde predstavila takmer 500 produktov v dvoch hlavných kategóriách: stavebnice Blokees Model Kits a autá BLOKEES WHEELS. Premiéru malo viac ako 90 nových produ",
+      "url": "https://www.prnewswire.com/news-releases/blokees-predstavuje-na-wonder-festival-shanghai-2026-viac-ako-90-novych-produktov-302897817.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-04T21:29:00Z",
+      "epoch": 1791149340,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Blokees präsentiert über 90 neue Produkte auf dem Wonder Festival Shanghai 2026",
+      "summary": "SHANGHAI,/PRNewswire/ -- Vom 3. bis 4. Oktober stellte die Spielzeugmarke „Blokees\" von Assembly Character auf dem Wonder Festival Shanghai 2026 aus und präsentierte dabei fast 500 Produkte aus ihren beiden Kernkategorien „Blokees Model Kits\" und „BLOKEES WHEELS\". Mehr als 90 neu",
+      "url": "https://www.prnewswire.com/news-releases/blokees-prasentiert-uber-90-neue-produkte-auf-dem-wonder-festival-shanghai-2026-302897815.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-04T21:23:00Z",
+      "epoch": 1791148980,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "SIBIONICS и PharmaSens исследуют новые горизонты для автоматической доставки инсулина на EASD 2026",
+      "summary": "МИЛАН, 5 октября 2026 г. /PRNewswire/ -- На конференции Европейской ассоциации по изучению диабета (EASD) 2026 года компания SiBionics представила программу «Видеть больше, действовать раньше», которая связывает постоянный мониторинг с лечением диабета в будущем. Три главы выстав",
+      "url": "https://www.prnewswire.com/news-releases/sibionics--pharmasens---------easd-2026-302897813.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-04T21:16:00Z",
+      "epoch": 1791148560,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "PMET Signs Letter of Intent with Matagami for Spodumene Concentrate Transshipment to the Rail Network",
+      "summary": "Letter of Intent (\"LOI\") advances a key component of the planned concentrate transportation infrastructure for the Shaakichiuwaanaan Project. MONTREAL, Oct. 4, 2026 /PRNewswire/ -- October 5 – Sydney, Australia Highlights Letter of Intent (\"LOI\") signed with the City of Matagami ",
+      "url": "https://www.prnewswire.com/news-releases/pmet-signs-letter-of-intent-with-matagami-for-spodumene-concentrate-transshipment-to-the-rail-network-302897763.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-04T21:00:00Z",
+      "epoch": 1791147600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Alexy Metals Named to 2026 Inc. 5000 List of America's Fastest-Growing Private Companies",
       "summary": "Northeast Ohio brazing alloy manufacturer and precious-metal refiner ranks No. 2,580 nationally following 125% three-year revenue growth WILLOUGHBY, Ohio, Oct. 4, 2026 /PRNewswire/ -- Alexy Metals, a Northeast Ohio manufacturer specializing in brazing alloys, precision preforms a",
       "url": "https://www.prnewswire.com/news-releases/alexy-metals-named-to-2026-inc-5000-list-of-americas-fastest-growing-private-companies-302897794.html",
@@ -658,95 +814,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "Monster Energy's Payton Talbott Defeats Deiveson Figueiredo at UFC 332",
-      "summary": "Rising Bantamweight Talent Talbott Secures First-Round TKO Victory Over Brazilian MMA Icon, Earns $25,000 Finish Bonus 30-Year-Old Esteban Ribovics from Argentina Stops King Green in Round 1 34-Year-Old Johnny Walker from Brazil Earns First-Round KO Victory over Mick Parkin in He",
-      "url": "https://www.prnewswire.com/news-releases/monster-energys-payton-talbott-defeats-deiveson-figueiredo-at-ufc-332-302897747.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-04T15:00:00Z",
-      "epoch": 1791126000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "\"Future Resonance -- ShanghaiEye Night\" Brings Shanghai to Washington, Fosters People-to-People Exchange Across the Pacific",
-      "summary": "WASHINGTON, Oct. 4, 2026 /PRNewswire/ -- On October 3, 2026, local time, a Shanghai-themed cultural exchange event was held on the National Mall in Washington, D.C., bringing a taste of Shanghai to the U.S. Titled \"Future Resonance — ShanghaiEye Night,\" the event was also part of",
-      "url": "https://www.prnewswire.com/news-releases/future-resonance--shanghaieye-night-brings-shanghai-to-washington-fosters-people-to-people-exchange-across-the-pacific-302897752.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-04T14:30:00Z",
-      "epoch": 1791124200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "StarKist and Dongwon Honor Korean War Veterans at The Chosin Few Gala",
-      "summary": "8 Korean War Veterans Gather to Honor the Courage, Sacrifice and Enduring Legacy of Those Who Fought at the Battle of the Chosin Reservoir RESTON, Va., Oct. 4, 2026 /PRNewswire/ -- StarKist and its parent company, Dongwon, honored eight Korean War veterans during this year's Chos",
-      "url": "https://www.prnewswire.com/news-releases/starkist-and-dongwon-honor-korean-war-veterans-at-the-chosin-few-gala-302897749.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-04T13:49:00Z",
-      "epoch": 1791121740,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Monster Energy Sweeps Men's Skateboard Street Podium at SLS Paris 2026",
-      "summary": "Men's Skateboard Street: Nyjah Huston Takes 1st Place, Toa Sasaki Claims 2nd Place, and Giovanni Vianna Finishes 3rd Women's Skateboard Street: Liz Akama Claims 3rd Place PARIS, Oct. 4, 2026 /PRNewswire/ -- Back on top! Monster Energy congratulates team rider Nyjah Huston on taki",
-      "url": "https://www.prnewswire.com/news-releases/monster-energy-sweeps-mens-skateboard-street-podium-at-sls-paris-2026-302897731.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-04T12:00:00Z",
-      "epoch": 1791115200,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Blokees představila na veletrhu Festival zázraků Šanghaj 2026 více než 90 nových produktů",
-      "summary": "ŠANGHAJ, 4. října 2026 /PRNewswire/ -- Ve dnech 3. až 4. října se značka sestavitelných hraček Blokees zúčastnila veletrhu Festival zázraků Šanghaj 2026, kde představila téměř 500 produktů ze svých dvou hlavních kategorií: stavebnice modelů Blokees a KOLA BLOKEES. Poprvé bylo pře",
-      "url": "https://www.prnewswire.com/news-releases/blokees-pedstavila-na-veletrhu-festival-zazrak-anghaj-2026-vice-ne-90-novych-produkt-302897735.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-04T09:00:00Z",
-      "epoch": 1791104400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Blokees Debuts 90+ New Products at Wonder Festival Shanghai 2026",
-      "summary": "SHANGHAI, Oct. 4, 2026 /PRNewswire/ -- From October 3 to 4, Assembly Character Toys Brand Blokees exhibited at Wonder Festival Shanghai 2026, featuring nearly 500 products across its two core categories, Blokees Model Kits and BLOKEES WHEELS. More than 90 new products made their ",
-      "url": "https://www.prnewswire.com/news-releases/blokees-debuts-90-new-products-at-wonder-festival-shanghai-2026-302897719.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-04T04:00:00Z",
-      "epoch": 1791086400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "SIBIONICS and PharmaSens Explore New Horizons for Automated Insulin Delivery at EASD 2026",
       "summary": "MILAN, Oct. 4, 2026 /PRNewswire/ -- At the European Association for the Study of Diabetes (EASD) 2026, SiBionics presented \"See More, Act Earlier,\" connecting continuous sensing with future diabetes care. Three exhibition chapters shaped this vision: \"See More: Beyond Glucose,\" c",
       "url": "https://www.prnewswire.com/news-releases/sibionics-and-pharmasens-explore-new-horizons-for-automated-insulin-delivery-at-easd-2026-302897720.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-04T03:09:00Z",
       "epoch": 1791083340,
       "sentiment": 0.0,
@@ -759,8 +831,8 @@
       "title": "Smartee segna un traguardo europeo con il primo vertice regionale a Maiorca",
       "summary": "PALMA DI MAIORCA, Spagna, 4 ottobre 2026 /PRNewswire/ -- Smartee Denti-Technology ha concluso lo Smartee European Summit 2026 a Palma di Maiorca, in Spagna, il 19 settembre, segnando il primo vertice accademico su larga scala dell'azienda tenuto al di fuori della Cina. L'evento, ",
       "url": "https://www.prnewswire.com/news-releases/smartee-segna-un-traguardo-europeo-con-il-primo-vertice-regionale-a-maiorca-302897712.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-04T02:08:00Z",
       "epoch": 1791079680,
       "sentiment": 0.0,
@@ -946,34 +1018,6 @@
       "published_at": "2026-10-03T02:14:00Z",
       "epoch": 1790993640,
       "sentiment": -0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "CaseBioscience® schließt sich einem Team an, das von ARPA-H bis zu 7,3 Millionen US-Dollar für die Weiterentwicklung der Lagerung von Zelltherapien bei Raumtemperatur erhält",
-      "summary": "FORT COLLINS, Colorado, 3. Oktober 2026 /PRNewswire/ -- CaseBioscience® gab heute seine Beteiligung an einem multidisziplinären Team unter der Leitung von Likarda bekannt, dem von der Advanced Research Projects Agency for Health (ARPA-H) im Rahmen ihres Programms „BioStabilizatio",
-      "url": "https://www.prnewswire.com/news-releases/casebioscience-schlieWt-sich-einem-team-an-das-von-arpa-h-bis-zu-7-3-millionen-us-dollar-fur-die-weiterentwicklung-der-lagerung-von-zelltherapien-bei-raumtemperatur-erhalt-302897580.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-03T00:35:00Z",
-      "epoch": 1790987700,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Antengene to Present Latest Preclinical Results of Novel Cos-TCE Platform in Rapid Oral Abstract Presentation at SITC 2026",
-      "summary": "SHANGHAI and HONG KONG, Oct. 2, 2026 /PRNewswire/ -- Antengene Corporation Limited (\"Antengene\", SEHK: 6996.HK), a leading innovative, commercial-stage global biotech company dedicated to discovering, developing and commercializing first-in-class and/or best-in-class medicines fo",
-      "url": "https://www.prnewswire.com/news-releases/antengene-to-present-latest-preclinical-results-of-novel-cos-tce-platform-in-rapid-oral-abstract-presentation-at-sitc-2026-302891249.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-03T00:30:00Z",
-      "epoch": 1790987400,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -2379,6 +2423,22 @@
       "small_cap_risk": false
     },
     {
+      "title": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs",
+      "summary": "In exchange for a $575 million payment up front, Abogen Biosciences will furnish Novartis with access to its RNA technology, including an option to license its lead program ABO-2203.",
+      "url": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
+      "source": "BioPharma Dive",
+      "source_id": "biopharmadive",
+      "published_at": "2026-10-02T10:16:54Z",
+      "epoch": 1790936214,
+      "sentiment": 0.0,
+      "tickers": [
+        "NOVN"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Teva, Samsung Bioepis deepen bonds in pact for up to 6 new biosimilars",
       "summary": "Already sharing the load on two biosimilar assets, Teva Pharmaceutical and Samsung Bioepis have elected to take their partnership to the next level.",
       "url": "https://www.fiercepharma.com/pharma/teva-samsung-bioepis-deepen-bonds-pact-6-new-biosimilars",
@@ -2837,22 +2897,6 @@
       "sentiment": 0.33,
       "tickers": [
         "AZN.L"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "PhRMA names next CEO; Pierre Fabre takes third swing at Ebvallo approval",
-      "summary": "A former congressman will take over for prominent lobbyist Steve Ubl. Elsewhere, recent buyout deals paid dividends for Mirum and AbbVie.",
-      "url": "https://www.biopharmadive.com/news/phrma-cantor-ebvallo-fda-mirum-bluejay-abbvie-juvmo/831450/",
-      "source": "BioPharma Dive",
-      "source_id": "biopharmadive",
-      "published_at": "2026-09-30T10:18:00Z",
-      "epoch": 1790763480,
-      "sentiment": 0.33,
-      "tickers": [
-        "ABBV"
       ],
       "company_name": null,
       "catalyst": false,
