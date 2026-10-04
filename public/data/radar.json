@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T22:16:46Z",
+  "generated_at": "2026-10-04T01:46:54Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 140,
+    "breaking_count": 141,
     "breaking_catalyst_count": 32,
     "pipeline_count": 60,
     "pipeline_catalyst_count": 14,
@@ -58,13 +58,13 @@
       "source_count": 2
     },
     {
-      "ticker": "NOVN",
+      "ticker": "005930.KS",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
     },
     {
-      "ticker": "005930.KS",
+      "ticker": "PFE",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
@@ -530,6 +530,50 @@
       "small_cap_risk": false
     },
     {
+      "title": "Power Knot MEA Recognized as THE BIZZ 2026 Winner for Business Excellence",
+      "summary": "FREMONT, Calif., Oct. 3, 2026 /PRNewswire/ -- Power Knot LLC, the market leader for on-site organic waste management solutions, announced that its sister office, Power Knot Middle East (PKME), has been recognized as a THE BIZZ 2026 Winner by the World Confederation of Businesses.",
+      "url": "https://www.prnewswire.com/news-releases/power-knot-mea-recognized-as-the-bizz-2026-winner-for-business-excellence-302897697.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-04T00:20:00Z",
+      "epoch": 1791073200,
+      "sentiment": 0.0,
+      "tickers": [
+        "WM"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "La tercera campaña anual Flags of Fellowship de la International Fellowship of Christians and Jews duplica con creces el número de participantes y se expande a nivel internacional para luchar contra el antisemitismo",
+      "summary": "Más de 4375 iglesias, sinagogas y organizaciones de 13 países de todo el mundo izarán más de 5,2 millones de banderas y se unirán en oración, recuerdo y solidaridad con Israel y el pueblo judío a lo largo del mes de octubre CHICAGO, 3 de octubre de 2026 /PRNewswire-HISPANIC PR WI",
+      "url": "https://www.prnewswire.com/news-releases/la-tercera-campana-anual-flags-of-fellowship-de-la-international-fellowship-of-christians-and-jews-duplica-con-creces-el-numero-de-participantes-y-se-expande-a-nivel-internacional-para-luchar-contra-el-antisemitismo-822599359.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-03T22:52:00Z",
+      "epoch": 1791067920,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Une nouvelle carte interactive du Costa Rica met en valeur son patrimoine culturel, naturel et marin",
+      "summary": "Discover Costa Rica est une plateforme gratuite développée par essential COSTA RICA en partenariat avec le ministère des Affaires étrangères et du Culte, le CIMAR-UCR et l'UCR School of Geography SAN JOSÉ, Costa Rica, 4 octobre 2026 /PRNewswire/ -- Le Costa Rica dispose désormais",
+      "url": "https://www.prnewswire.com/news-releases/une-nouvelle-carte-interactive-du-costa-rica-met-en-valeur-son-patrimoine-culturel-naturel-et-marin-302897701.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-03T22:42:00Z",
+      "epoch": 1791067320,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Plastic-Covered Couch Turned Work of Art To Protect Black Culture Lands In Brooklyn This Weekend",
       "summary": "The living archive project \"Protect Our Piece\" makes its CultureCon debut inviting people to add to its hand-stitched story and inspire its next appearances NEW YORK, Oct. 2, 2026 /PRNewswire/ -- If you grew up in a Black home, you probably remember the couch you weren't supposed",
       "url": "https://www.prnewswire.com/news-releases/plastic-covered-couch-turned-work-of-art-to-protect-black-culture-lands-in-brooklyn-this-weekend-302897690.html",
@@ -652,34 +696,6 @@
       "published_at": "2026-10-03T15:00:00Z",
       "epoch": 1791039600,
       "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Painting Expert Melvin Jones Explains Cabinet Painting vs. Replacement in HelloNation",
-      "summary": "The article explains how cabinet condition, preparation, durable finishes, and project costs can help homeowners choose between refinishing and replacement. LEXINGTON, S.C., Oct. 3, 2026 /PRNewswire/ -- Should you paint your kitchen cabinets or replace them? According to a HelloN",
-      "url": "https://www.prnewswire.com/news-releases/painting-expert-melvin-jones-explains-cabinet-painting-vs-replacement-in-hellonation-302897303.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-03T12:30:00Z",
-      "epoch": 1791030600,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Govee Turns Up the Spooky With Sarah Michelle Gellar in New Nationwide Halloween Campaign",
-      "summary": "The horror screen icon stars in Govee's \"Turn Up the Spooky. Slay Halloween.\" outdoor lighting campaign, bringing a little Hollywood drama to Halloween at home LOS ANGELES, Oct. 3, 2026 /PRNewswire/ -- Govee, the No. 1 brand for household permanent outdoor lights in the U.S.*, to",
-      "url": "https://www.prnewswire.com/news-releases/govee-turns-up-the-spooky-with-sarah-michelle-gellar-in-new-nationwide-halloween-campaign-302892255.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-03T12:00:00Z",
-      "epoch": 1791028800,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -2309,22 +2325,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs",
-      "summary": "In exchange for a $575 million payment up front, Abogen Biosciences will furnish Novartis with access to its RNA technology, including an option to license its lead program ABO-2203.",
-      "url": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
-      "source": "BioPharma Dive",
-      "source_id": "biopharmadive",
-      "published_at": "2026-10-02T10:16:54Z",
-      "epoch": 1790936214,
-      "sentiment": 0.0,
-      "tickers": [
-        "NOVN"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Teva, Samsung Bioepis deepen bonds in pact for up to 6 new biosimilars",
       "summary": "Already sharing the load on two biosimilar assets, Teva Pharmaceutical and Samsung Bioepis have elected to take their partnership to the next level.",
       "url": "https://www.fiercepharma.com/pharma/teva-samsung-bioepis-deepen-bonds-pact-6-new-biosimilars",
@@ -2783,6 +2783,22 @@
       "sentiment": 0.33,
       "tickers": [
         "AZN.L"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "PhRMA names next CEO; Pierre Fabre takes third swing at Ebvallo approval",
+      "summary": "A former congressman will take over for prominent lobbyist Steve Ubl. Elsewhere, recent buyout deals paid dividends for Mirum and AbbVie.",
+      "url": "https://www.biopharmadive.com/news/phrma-cantor-ebvallo-fda-mirum-bluejay-abbvie-juvmo/831450/",
+      "source": "BioPharma Dive",
+      "source_id": "biopharmadive",
+      "published_at": "2026-09-30T10:18:00Z",
+      "epoch": 1790763480,
+      "sentiment": 0.33,
+      "tickers": [
+        "ABBV"
       ],
       "company_name": null,
       "catalyst": false,
