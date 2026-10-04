@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T13:29:07Z",
+  "generated_at": "2026-10-04T17:47:16Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 143,
+    "breaking_count": 145,
     "breaking_catalyst_count": 32,
     "pipeline_count": 60,
     "pipeline_catalyst_count": 14,
@@ -58,13 +58,13 @@
       "source_count": 2
     },
     {
-      "ticker": "NOVN",
+      "ticker": "005930.KS",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
     },
     {
-      "ticker": "005930.KS",
+      "ticker": "PFE",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
@@ -530,6 +530,92 @@
       "small_cap_risk": false
     },
     {
+      "title": "Empowering \"Mom, and More\": Momcozy is Supplying the Best Solutions This Prime Day",
+      "summary": "LOS ANGELES, Oct. 4, 2026 /PRNewswire/ -- Prime Day can bring thousands of products, endless options and one more thing for moms to figure out. During Momcozy Amazon Prime Big Days on October 6–7, 2026, Momcozy is taking a different approach: curating the best solutions around th",
+      "url": "https://www.prnewswire.com/news-releases/empowering-mom-and-more-momcozy-is-supplying-the-best-solutions-this-prime-day-302897679.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-04T16:00:00Z",
+      "epoch": 1791129600,
+      "sentiment": 0.0,
+      "tickers": [
+        "AMZN"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "LiLic Sidecar Debuts at YOTTA 2026 as Vision Group Showcases New Power Solutions for AI Infrastructure",
+      "summary": "LAS VEGAS and NEW YORK, Oct. 4, 2026 /PRNewswire/ -- Vision Group showcased its portfolio of AI data center (AIDC) power and energy storage products at YOTTA 2026 in Las Vegas on September 29–30, marking the first public appearance of LiLic Sidecar. Addressing the growing need fo",
+      "url": "https://www.prnewswire.com/news-releases/lilic-sidecar-debuts-at-yotta-2026-as-vision-group-showcases-new-power-solutions-for-ai-infrastructure-302897757.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-04T15:32:00Z",
+      "epoch": 1791127920,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "The General Insurance® Gives Street Fighter's Iconic Beat-Up Car a Break",
+      "summary": "Fans have a chance to win a real-life, fully pixelated recreation of the Street Fighter II Bonus Stage Car that Street Fighter players have spent decades smashing in the game's infamous Bonus Stage NASHVILLE, Tenn., Oct. 4, 2026 /PRNewswire/ -- The General Insurance® believes eve",
+      "url": "https://www.prnewswire.com/news-releases/the-general-insurance-gives-street-fighters-iconic-beat-up-car-a-break-302897755.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-04T15:20:00Z",
+      "epoch": 1791127200,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Monster Energy's Payton Talbott Defeats Deiveson Figueiredo at UFC 332",
+      "summary": "Rising Bantamweight Talent Talbott Secures First-Round TKO Victory Over Brazilian MMA Icon, Earns $25,000 Finish Bonus 30-Year-Old Esteban Ribovics from Argentina Stops King Green in Round 1 34-Year-Old Johnny Walker from Brazil Earns First-Round KO Victory over Mick Parkin in He",
+      "url": "https://www.prnewswire.com/news-releases/monster-energys-payton-talbott-defeats-deiveson-figueiredo-at-ufc-332-302897747.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-04T15:00:00Z",
+      "epoch": 1791126000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "\"Future Resonance -- ShanghaiEye Night\" Brings Shanghai to Washington, Fosters People-to-People Exchange Across the Pacific",
+      "summary": "WASHINGTON, Oct. 4, 2026 /PRNewswire/ -- On October 3, 2026, local time, a Shanghai-themed cultural exchange event was held on the National Mall in Washington, D.C., bringing a taste of Shanghai to the U.S. Titled \"Future Resonance — ShanghaiEye Night,\" the event was also part of",
+      "url": "https://www.prnewswire.com/news-releases/future-resonance--shanghaieye-night-brings-shanghai-to-washington-fosters-people-to-people-exchange-across-the-pacific-302897752.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-04T14:30:00Z",
+      "epoch": 1791124200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "StarKist and Dongwon Honor Korean War Veterans at The Chosin Few Gala",
+      "summary": "8 Korean War Veterans Gather to Honor the Courage, Sacrifice and Enduring Legacy of Those Who Fought at the Battle of the Chosin Reservoir RESTON, Va., Oct. 4, 2026 /PRNewswire/ -- StarKist and its parent company, Dongwon, honored eight Korean War veterans during this year's Chos",
+      "url": "https://www.prnewswire.com/news-releases/starkist-and-dongwon-honor-korean-war-veterans-at-the-chosin-few-gala-302897749.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-04T13:49:00Z",
+      "epoch": 1791121740,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Monster Energy Sweeps Men's Skateboard Street Podium at SLS Paris 2026",
       "summary": "Men's Skateboard Street: Nyjah Huston Takes 1st Place, Toa Sasaki Claims 2nd Place, and Giovanni Vianna Finishes 3rd Women's Skateboard Street: Liz Akama Claims 3rd Place PARIS, Oct. 4, 2026 /PRNewswire/ -- Back on top! Monster Energy congratulates team rider Nyjah Huston on taki",
       "url": "https://www.prnewswire.com/news-releases/monster-energy-sweeps-mens-skateboard-street-podium-at-sls-paris-2026-302897731.html",
@@ -665,62 +751,6 @@
       "source_id": "prnewswire-public-co",
       "published_at": "2026-10-03T22:42:00Z",
       "epoch": 1791067320,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Plastic-Covered Couch Turned Work of Art To Protect Black Culture Lands In Brooklyn This Weekend",
-      "summary": "The living archive project \"Protect Our Piece\" makes its CultureCon debut inviting people to add to its hand-stitched story and inspire its next appearances NEW YORK, Oct. 2, 2026 /PRNewswire/ -- If you grew up in a Black home, you probably remember the couch you weren't supposed",
-      "url": "https://www.prnewswire.com/news-releases/plastic-covered-couch-turned-work-of-art-to-protect-black-culture-lands-in-brooklyn-this-weekend-302897690.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-03T20:11:00Z",
-      "epoch": 1791058260,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "ARTBOX, KOREA'S ICONIC LIFESTYLE RETAILER, MAKES U.S. DEBUT WITH LOS ANGELES POP-UP FEATURING GLOBAL K-POP ICON ILLIT",
-      "summary": "The Korean retailer, founded in 1984, will open its first U.S. retail activation on Melrose Avenue from October 3–11, marking the first step in ARTBOX's broader American expansion LOS ANGELES, Oct. 3, 2026 /PRNewswire/ -- ARTBOX, Korea's original design-lifestyle retail brand, is",
-      "url": "https://www.prnewswire.com/news-releases/artbox-koreas-iconic-lifestyle-retailer-makes-us-debut-with-los-angeles-pop-up-featuring-global-k-pop-icon-illit-302897494.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-03T20:00:00Z",
-      "epoch": 1791057600,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Corboy &amp; Demetrio files Lawsuit for Family of Frankfort Girl Killed by School Bus",
-      "summary": "CHICAGO, Oct. 3, 2026 /PRNewswire/ -- Corboy & Demetrio has filed a wrongful death lawsuit against two school districts for the death of Jenna Menias, a 6-year-old girl struck and killed on Sept. 8, 2026, seconds after being dropped off by the districts' jointly operated school b",
-      "url": "https://www.prnewswire.com/news-releases/corboy--demetrio-files-lawsuit-for-family-of-frankfort-girl-killed-by-school-bus-302897689.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-03T19:52:00Z",
-      "epoch": 1791057120,
-      "sentiment": -0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Captain D's cobra impulso para su crecimiento internacional",
-      "summary": "-Captain D's cobra impulso para su crecimiento internacional a medida que se extiende el interés por la franquicia en toda Europa NASHVILLE, Tenn., 3 de octubre de 2026 /PRNewswire/ -- Captain D's, la principal franquicia de mariscos de estilo fast-casual de Estados Unidos, está ",
-      "url": "https://www.prnewswire.com/news-releases/captain-ds-cobra-impulso-para-su-crecimiento-internacional-302897681.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-03T18:50:00Z",
-      "epoch": 1791053400,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -2351,22 +2381,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs",
-      "summary": "In exchange for a $575 million payment up front, Abogen Biosciences will furnish Novartis with access to its RNA technology, including an option to license its lead program ABO-2203.",
-      "url": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
-      "source": "BioPharma Dive",
-      "source_id": "biopharmadive",
-      "published_at": "2026-10-02T10:16:54Z",
-      "epoch": 1790936214,
-      "sentiment": 0.0,
-      "tickers": [
-        "NOVN"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Teva, Samsung Bioepis deepen bonds in pact for up to 6 new biosimilars",
       "summary": "Already sharing the load on two biosimilar assets, Teva Pharmaceutical and Samsung Bioepis have elected to take their partnership to the next level.",
       "url": "https://www.fiercepharma.com/pharma/teva-samsung-bioepis-deepen-bonds-pact-6-new-biosimilars",
@@ -2825,6 +2839,22 @@
       "sentiment": 0.33,
       "tickers": [
         "AZN.L"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "PhRMA names next CEO; Pierre Fabre takes third swing at Ebvallo approval",
+      "summary": "A former congressman will take over for prominent lobbyist Steve Ubl. Elsewhere, recent buyout deals paid dividends for Mirum and AbbVie.",
+      "url": "https://www.biopharmadive.com/news/phrma-cantor-ebvallo-fda-mirum-bluejay-abbvie-juvmo/831450/",
+      "source": "BioPharma Dive",
+      "source_id": "biopharmadive",
+      "published_at": "2026-09-30T10:18:00Z",
+      "epoch": 1790763480,
+      "sentiment": 0.33,
+      "tickers": [
+        "ABBV"
       ],
       "company_name": null,
       "catalyst": false,
