@@ -1334,9 +1334,9 @@
     },
     {
       "date": "2026-10-05",
-      "score": 54.0,
+      "score": 60.0,
       "avg_sentiment": 0.0,
-      "article_count": 2
+      "article_count": 5
     }
   ],
   "IHG.L": [
@@ -1642,7 +1642,7 @@
       "date": "2026-10-05",
       "score": 60.0,
       "avg_sentiment": 0.0,
-      "article_count": 6
+      "article_count": 7
     }
   ],
   "WMT": [
@@ -1992,9 +1992,9 @@
     },
     {
       "date": "2026-10-05",
-      "score": 54.0,
-      "avg_sentiment": 0.0,
-      "article_count": 2
+      "score": 41.5,
+      "avg_sentiment": -0.46,
+      "article_count": 5
     }
   ],
   "NDAQ": [
@@ -2261,12 +2261,6 @@
   ],
   "SNDK": [
     {
-      "date": "2026-08-20",
-      "score": 54.0,
-      "avg_sentiment": 0.0,
-      "article_count": 2
-    },
-    {
       "date": "2026-08-22",
       "score": 52.0,
       "avg_sentiment": 0.0,
@@ -2439,6 +2433,12 @@
       "score": 78.8,
       "avg_sentiment": 0.67,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-05",
+      "score": 54.0,
+      "avg_sentiment": 0.0,
+      "article_count": 2
     }
   ],
   "APP": [
@@ -3216,9 +3216,9 @@
     },
     {
       "date": "2026-10-05",
-      "score": 56.0,
+      "score": 54.0,
       "avg_sentiment": 0.0,
-      "article_count": 3
+      "article_count": 2
     }
   ],
   "LOW": [
@@ -3457,12 +3457,6 @@
   ],
   "AAPL": [
     {
-      "date": "2026-09-01",
-      "score": 60.0,
-      "avg_sentiment": -0.0,
-      "article_count": 5
-    },
-    {
       "date": "2026-09-02",
       "score": 58.0,
       "avg_sentiment": 0.0,
@@ -3632,6 +3626,12 @@
     },
     {
       "date": "2026-10-01",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-05",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -4829,6 +4829,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-05",
+      "score": 78.8,
+      "avg_sentiment": 0.67,
+      "article_count": 1
     }
   ],
   "TROW": [
@@ -5902,9 +5908,9 @@
     },
     {
       "date": "2026-10-05",
-      "score": 67.6,
-      "avg_sentiment": 0.34,
-      "article_count": 2
+      "score": 56.0,
+      "avg_sentiment": 0.0,
+      "article_count": 3
     }
   ],
   "PSN.L": [
@@ -7798,9 +7804,9 @@
     },
     {
       "date": "2026-10-05",
-      "score": 52.0,
+      "score": 54.0,
       "avg_sentiment": 0.0,
-      "article_count": 1
+      "article_count": 2
     }
   ],
   "CPAY": [
@@ -8835,6 +8841,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-05",
+      "score": 60.7,
+      "avg_sentiment": 0.17,
+      "article_count": 2
     }
   ],
   "AWK": [
@@ -9590,8 +9602,8 @@
     },
     {
       "date": "2026-10-05",
-      "score": 78.8,
-      "avg_sentiment": 0.67,
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -11682,9 +11694,9 @@
     },
     {
       "date": "2026-10-05",
-      "score": 51.3,
-      "avg_sentiment": -0.12,
-      "article_count": 3
+      "score": 40.8,
+      "avg_sentiment": -0.33,
+      "article_count": 2
     }
   ],
   "TSM": [
@@ -13460,9 +13472,9 @@
     },
     {
       "date": "2026-10-05",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
-      "article_count": 1
+      "score": 67.6,
+      "avg_sentiment": 0.34,
+      "article_count": 2
     }
   ],
   "O": [
@@ -15788,9 +15800,9 @@
     },
     {
       "date": "2026-10-05",
-      "score": 56.0,
+      "score": 52.0,
       "avg_sentiment": 0.0,
-      "article_count": 3
+      "article_count": 1
     }
   ],
   "LIN": [
@@ -18081,6 +18093,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-05",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "INTU": [
@@ -18374,6 +18392,12 @@
       "date": "2026-09-25",
       "score": 78.8,
       "avg_sentiment": 0.67,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-05",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -21901,6 +21925,12 @@
       "score": 25.2,
       "avg_sentiment": -0.67,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-05",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "VRTX": [
@@ -23606,6 +23636,12 @@
       "date": "2026-09-16",
       "score": 52.0,
       "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-05",
+      "score": 38.8,
+      "avg_sentiment": -0.33,
       "article_count": 1
     }
   ],
