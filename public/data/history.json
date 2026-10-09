@@ -678,9 +678,9 @@
     },
     {
       "date": "2026-10-09",
-      "score": 52.0,
+      "score": 54.0,
       "avg_sentiment": 0.0,
-      "article_count": 1
+      "article_count": 2
     }
   ],
   "MRNA": [
@@ -857,6 +857,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-09",
+      "score": 67.4,
+      "avg_sentiment": 0.34,
+      "article_count": 2
     }
   ],
   "MO": [
@@ -1688,8 +1694,8 @@
     },
     {
       "date": "2026-10-09",
-      "score": 44.9,
-      "avg_sentiment": -0.28,
+      "score": 67.8,
+      "avg_sentiment": 0.3,
       "article_count": 3
     }
   ],
@@ -2040,9 +2046,9 @@
     },
     {
       "date": "2026-10-09",
-      "score": 55.5,
-      "avg_sentiment": -0.11,
-      "article_count": 5
+      "score": 65.0,
+      "avg_sentiment": 0.22,
+      "article_count": 3
     }
   ],
   "NDAQ": [
@@ -2794,9 +2800,9 @@
     },
     {
       "date": "2026-10-09",
-      "score": 77.5,
-      "avg_sentiment": 0.49,
-      "article_count": 4
+      "score": 78.0,
+      "avg_sentiment": 0.6,
+      "article_count": 2
     }
   ],
   "9618.HK": [
@@ -3112,9 +3118,9 @@
     },
     {
       "date": "2026-10-09",
-      "score": 52.0,
+      "score": 56.0,
       "avg_sentiment": 0.0,
-      "article_count": 1
+      "article_count": 3
     }
   ],
   "AMD": [
@@ -3294,9 +3300,9 @@
     },
     {
       "date": "2026-10-09",
-      "score": 78.8,
-      "avg_sentiment": 0.67,
-      "article_count": 1
+      "score": 64.9,
+      "avg_sentiment": 0.22,
+      "article_count": 3
     }
   ],
   "LOW": [
@@ -3728,7 +3734,7 @@
     },
     {
       "date": "2026-10-09",
-      "score": 47.4,
+      "score": 47.2,
       "avg_sentiment": -0.17,
       "article_count": 2
     }
@@ -4794,8 +4800,8 @@
     },
     {
       "date": "2026-10-09",
-      "score": 73.9,
-      "avg_sentiment": 0.5,
+      "score": 80.8,
+      "avg_sentiment": 0.67,
       "article_count": 2
     }
   ],
@@ -5429,12 +5435,6 @@
   ],
   "AUTO.L": [
     {
-      "date": "2026-08-27",
-      "score": 65.2,
-      "avg_sentiment": 0.33,
-      "article_count": 1
-    },
-    {
       "date": "2026-08-30",
       "score": 52.0,
       "avg_sentiment": 0.0,
@@ -5607,6 +5607,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-09",
+      "score": 67.1,
+      "avg_sentiment": 0.33,
+      "article_count": 2
     }
   ],
   "HMC": [
@@ -5786,9 +5792,9 @@
     },
     {
       "date": "2026-10-09",
-      "score": 56.0,
+      "score": 54.0,
       "avg_sentiment": 0.0,
-      "article_count": 3
+      "article_count": 2
     }
   ],
   "MC.PA": [
@@ -6070,9 +6076,9 @@
     },
     {
       "date": "2026-10-09",
-      "score": 71.9,
-      "avg_sentiment": 0.35,
-      "article_count": 4
+      "score": 67.6,
+      "avg_sentiment": 0.34,
+      "article_count": 2
     }
   ],
   "PSN.L": [
@@ -7072,9 +7078,9 @@
     },
     {
       "date": "2026-10-09",
-      "score": 47.1,
-      "avg_sentiment": -0.22,
-      "article_count": 3
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "FIX": [
@@ -10205,6 +10211,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-09",
+      "score": 78.8,
+      "avg_sentiment": 0.67,
+      "article_count": 1
     }
   ],
   "LRCX": [
@@ -10470,9 +10482,9 @@
     },
     {
       "date": "2026-10-09",
-      "score": 56.1,
-      "avg_sentiment": 0.0,
-      "article_count": 3
+      "score": 73.2,
+      "avg_sentiment": 0.48,
+      "article_count": 2
     }
   ],
   "WDAY": [
@@ -11326,6 +11338,12 @@
       "date": "2026-10-05",
       "score": 78.8,
       "avg_sentiment": 0.67,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-09",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -12678,6 +12696,12 @@
       "date": "2026-09-25",
       "score": 78.8,
       "avg_sentiment": 0.67,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-09",
+      "score": 25.2,
+      "avg_sentiment": -0.67,
       "article_count": 1
     }
   ],
@@ -15594,6 +15618,12 @@
     },
     {
       "date": "2026-09-24",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-09",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -20799,6 +20829,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-09",
+      "score": 78.8,
+      "avg_sentiment": 0.67,
+      "article_count": 1
     }
   ],
   "3690.HK": [
@@ -23358,6 +23394,12 @@
       "date": "2026-09-13",
       "score": 65.2,
       "avg_sentiment": 0.33,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-09",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
