@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T19:25:32Z",
+  "generated_at": "2026-10-10T22:48:09Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 150,
@@ -34,6 +34,12 @@
       "source_count": 1
     },
     {
+      "ticker": "GEN",
+      "count": 2,
+      "catalyst_count": 0,
+      "source_count": 2
+    },
+    {
       "ticker": "GSK.L",
       "count": 2,
       "catalyst_count": 0,
@@ -59,12 +65,6 @@
     },
     {
       "ticker": "VINP",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "V",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -472,14 +472,14 @@
       "small_cap_risk": false
     },
     {
-      "title": "Solvely.ai Makes the Case for AI That Builds Human Capability",
-      "summary": "SAN FRANCISCO, Oct. 10, 2026 /PRNewswire/ -- Solvely.ai, an applied AI company, outlined its approach to AI agents for learning: helping people build understanding and skills, rather than simply completing tasks. Co-founder Richard Weiqi Zhang shared this perspective at Funding..",
-      "url": "https://www.prnewswire.com/news-releases/solvelyai-makes-the-case-for-ai-that-builds-human-capability-302905080.html",
+      "title": "Roger Spitz Ranked #6 Futurist in the Americas (Global Gurus) and #6 Global Thought Leader on Management (Thinkers360), Announces 2027 Keynotes",
+      "summary": "Thinkers360 Top Voices 2026 and Global Gurus rankings precede a new keynote program on disruption, strategic foresight, and AI, a TEDxJacksonville talk, and a new speaker reel SAN FRANCISCO, Oct. 10, 2026 /PRNewswire/ -- Futurist keynote speaker Roger Spitz, Chair of the Disrupti",
+      "url": "https://www.prnewswire.com/news-releases/roger-spitz-ranked-6-futurist-in-the-americas-global-gurus-and-6-global-thought-leader-on-management-thinkers360-announces-2027-keynotes-302905095.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-10T18:50:00Z",
-      "epoch": 1791658200,
-      "sentiment": 0.0,
+      "published_at": "2026-10-10T21:28:00Z",
+      "epoch": 1791667680,
+      "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -488,11 +488,25 @@
     {
       "title": "STARMUS VIII Announces Two Young Changemakers as Junior Medal Winners",
       "summary": "Valeria Corrales receives the Junior Stephen Hawking Medal and Aneeshwar Kunchala receives the Junior Jane Goodall Earth Medal CANARY ISLANDS, Spain, Oct. 10, 2026 /PRNewswire/ -- STARMUS VIII, the premier international festival of science, music and exploration, is proud to anno",
-      "url": "https://www.prnewswire.com/news-releases/starmus-viii-announces-two-young-changemakers-as-junior-medal-winners-302905079.html",
+      "url": "https://www.prnewswire.com/news-releases/starmus-viii-announces-two-young-changemakers-as-junior-medal-winners-302905091.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-10T18:46:00Z",
-      "epoch": 1791657960,
+      "published_at": "2026-10-10T20:21:00Z",
+      "epoch": 1791663660,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Solvely.ai Makes the Case for AI That Builds Human Capability",
+      "summary": "SAN FRANCISCO, Oct. 10, 2026 /PRNewswire/ -- Solvely.ai, an applied AI company, outlined its approach to AI agents for learning: helping people build understanding and skills, rather than simply completing tasks. Co-founder Richard Weiqi Zhang shared this perspective at Funding..",
+      "url": "https://www.prnewswire.com/news-releases/solvelyai-makes-the-case-for-ai-that-builds-human-capability-302905080.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-10T18:50:00Z",
+      "epoch": 1791658200,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -635,34 +649,6 @@
       "source_id": "prnewswire-public-co",
       "published_at": "2026-10-10T15:00:00Z",
       "epoch": 1791644400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "APsystems to Showcase Advanced C&amp;I Energy Storage Solutions at Smart Energy Forum 2026",
-      "summary": "PRAGUE, Oct. 10, 2026 /PRNewswire/ -- October 14–15, 2026, APsystems will present its latest solar and energy storage solutions at Smart Energy Forum (SEF) 2026, held on October 14-15 at PVA EXPO PRAHA in Letňany, Prague. Visitors are invited to meet the APsystems team at Booth 1",
-      "url": "https://www.prnewswire.com/news-releases/apsystems-to-showcase-advanced-ci-energy-storage-solutions-at-smart-energy-forum-2026-302905058.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-10T14:16:00Z",
-      "epoch": 1791641760,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "AI Made Music Fast. CITY JAM Founder Pat Villaceran Says the Real Asset Is the Artist's Own Sound",
-      "summary": "As AI music races on speed and volume, CITY JAM's INDUSTRY.AIFF works on what no pipeline can force: drawing original sound out of human creators. NEW YORK, Oct. 10, 2026 /PRNewswire/ -- Generative AI has made music fast, and the race in AI music is now about speed and volume. Pa",
-      "url": "https://www.prnewswire.com/news-releases/ai-made-music-fast-city-jam-founder-pat-villaceran-says-the-real-asset-is-the-artists-own-sound-302905056.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-10T14:10:00Z",
-      "epoch": 1791641400,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -989,22 +975,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "POMDOCTOR LIMITED Announces Receipt of Nasdaq Staff Delisting Determination",
-      "summary": "GUANGZHOU, China, Oct. 9, 2026 /PRNewswire/ -- POMDOCTOR LIMITED (\"Pomdoctor\" or the \"Company\") (Nasdaq: POM), a digital healthcare company focused on advancing AI-enabled healthcare solutions and predictive healthcare capabilities, today announced that it received a staff determ",
-      "url": "https://www.prnewswire.com/news-releases/pomdoctor-limited-announces-receipt-of-nasdaq-staff-delisting-determination-302903228.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-09T20:05:00Z",
-      "epoch": 1791576300,
-      "sentiment": 0.0,
-      "tickers": [
-        "POM"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "Astrana Health, Inc. Schedules 2026 Third Quarter Financial Results Release and Conference Call",
       "summary": "ALHAMBRA, Calif., Oct. 9, 2026 /PRNewswire/ -- Astrana Health, Inc. (\"Astrana,\" and together with its subsidiaries and affiliated entities, the \"Company\") (NASDAQ: ASTH), a physician-centric, technology-enabled healthcare company empowering providers to deliver accessible, high-q",
       "url": "https://www.prnewswire.com/news-releases/astrana-health-inc-schedules-2026-third-quarter-financial-results-release-and-conference-call-302903741.html",
@@ -1015,6 +985,22 @@
       "sentiment": 0.0,
       "tickers": [
         "ASTH"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "POMDOCTOR LIMITED Announces Receipt of Nasdaq Staff Delisting Determination",
+      "summary": "GUANGZHOU, China, Oct. 9, 2026 /PRNewswire/ -- POMDOCTOR LIMITED (\"Pomdoctor\" or the \"Company\") (Nasdaq: POM), a digital healthcare company focused on advancing AI-enabled healthcare solutions and predictive healthcare capabilities, today announced that it received a staff determ",
+      "url": "https://www.prnewswire.com/news-releases/pomdoctor-limited-announces-receipt-of-nasdaq-staff-delisting-determination-302903228.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-10-09T20:05:00Z",
+      "epoch": 1791576300,
+      "sentiment": 0.0,
+      "tickers": [
+        "POM"
       ],
       "company_name": null,
       "catalyst": false,
@@ -2209,6 +2195,22 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Veea Inc.",
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Gen Digital Inc. (0000849399) (Filer)",
+      "summary": "Filed:  2026-10-09  AccNo:  0000849399-26-000079  Size:  220 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial",
+      "url": "https://www.sec.gov/Archives/edgar/data/849399/000084939926000079/0000849399-26-000079-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-10-09T16:05:19Z",
+      "epoch": 1791561919,
+      "sentiment": 0.0,
+      "tickers": [
+        "GEN"
+      ],
+      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     }
