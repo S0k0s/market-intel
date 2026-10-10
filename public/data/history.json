@@ -1712,9 +1712,9 @@
     },
     {
       "date": "2026-10-10",
-      "score": 54.0,
+      "score": 56.0,
       "avg_sentiment": 0.0,
-      "article_count": 2
+      "article_count": 3
     }
   ],
   "WMT": [
@@ -3764,8 +3764,8 @@
     },
     {
       "date": "2026-10-10",
-      "score": 47.2,
-      "avg_sentiment": -0.17,
+      "score": 46.9,
+      "avg_sentiment": -0.18,
       "article_count": 2
     }
   ],
@@ -7022,9 +7022,9 @@
     },
     {
       "date": "2026-10-10",
-      "score": 58.1,
+      "score": 56.1,
       "avg_sentiment": 0.0,
-      "article_count": 4
+      "article_count": 3
     }
   ],
   "VZ": [
@@ -7132,9 +7132,9 @@
     },
     {
       "date": "2026-10-10",
-      "score": 51.3,
-      "avg_sentiment": -0.17,
-      "article_count": 4
+      "score": 47.0,
+      "avg_sentiment": -0.23,
+      "article_count": 3
     }
   ],
   "FIX": [
@@ -7899,12 +7899,6 @@
   ],
   "META": [
     {
-      "date": "2026-09-07",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
-      "article_count": 1
-    },
-    {
       "date": "2026-09-08",
       "score": 65.2,
       "avg_sentiment": 0.33,
@@ -8074,6 +8068,12 @@
     },
     {
       "date": "2026-10-07",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-10",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -8975,6 +8975,12 @@
       "score": 54.0,
       "avg_sentiment": 0.0,
       "article_count": 2
+    },
+    {
+      "date": "2026-10-10",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "HCA": [
@@ -14182,6 +14188,12 @@
       "date": "2026-10-05",
       "score": 78.8,
       "avg_sentiment": 0.67,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-10",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -19826,6 +19838,12 @@
       "date": "2026-09-21",
       "score": 65.2,
       "avg_sentiment": 0.33,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-10",
+      "score": 78.8,
+      "avg_sentiment": 0.67,
       "article_count": 1
     }
   ],
