@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T23:17:45Z",
+  "generated_at": "2026-10-10T02:31:58Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 146,
+    "breaking_count": 143,
     "breaking_catalyst_count": 27,
     "pipeline_count": 60,
     "pipeline_catalyst_count": 12,
@@ -58,13 +58,13 @@
       "source_count": 1
     },
     {
-      "ticker": "IT",
+      "ticker": "VINP",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "VZLA",
+      "ticker": "V",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -458,6 +458,90 @@
       "small_cap_risk": false
     },
     {
+      "title": "This is a test from PR Newswire",
+      "summary": "NEW YORK, Oct. 9, 2026 /PRNewswire/ -- This is a test from PR Newswire. This is a test from PR Newswire. This is a test from PR Newswire. This is a test from PR Newswire. This is a test from PR Newswire. This is a test from PR Newswire. This is a test from PR Newswire. This is a ",
+      "url": "https://www.prnewswire.com/news-releases/this-is-a-test-from-pr-newswire-302904959.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-10T02:28:00Z",
+      "epoch": 1791599280,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "MEGAN FOX BECOMES CO-OWNER OF SUBS.COM AND LAUNCHES OFFICIAL PAGE",
+      "summary": "Fox takes an ownership stake in the direct-to-fan platform as she opens a new, exclusive channel to fans — entirely on her terms. LOS ANGELES, Oct. 9, 2026 /PRNewswire/ -- Megan Fox isn't just joining another platform. She owns part of it. With more celebrities set to join in the",
+      "url": "https://www.prnewswire.com/news-releases/megan-fox-becomes-co-owner-of-subscom-and-launches-official-page-302904954.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-10T02:11:00Z",
+      "epoch": 1791598260,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Limestone Custom Homes: New Colorado ADU Law Makes 2026-2027 the Right Time for Douglas County Homeowners to Build an Accessory Dwelling Unit",
+      "summary": "State law HB24-1152 removes long-standing barriers for homeowners in Castle Rock, Parker, Highlands Ranch, and Lone Tree CASTLE ROCK, Colo., Oct. 9, 2026 /PRNewswire/ -- Limestone Custom Homes, a Castle Rock-based design-build custom home company, today said the 2026-2027 buildin",
+      "url": "https://www.prnewswire.com/news-releases/limestone-custom-homes-new-colorado-adu-law-makes-2026-2027-the-right-time-for-douglas-county-homeowners-to-build-an-accessory-dwelling-unit-302903943.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-10T00:50:00Z",
+      "epoch": 1791593400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Catholic Charities USA launches relief fund for those impacted by Hurricane Isaias",
+      "summary": "ALEXANDRIA, Va., Oct. 9, 2026 /PRNewswire/ -- As forecasters warn that Hurricane Isaias will bring devastating winds and dangerous storm surges to the Gulf Coast, Catholic Charities USA (CCUSA), the official domestic relief agency of the Catholic Church in the United States, has ",
+      "url": "https://www.prnewswire.com/news-releases/catholic-charities-usa-launches-relief-fund-for-those-impacted-by-hurricane-isaias-302903938.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-10T00:29:00Z",
+      "epoch": 1791592140,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Seminole Hard Rock Hotel &amp; Casino Hollywood Unveils 'Zona de Fuego' Florida's First Fully Integrated Latin Gaming &amp; Entertainment Experience",
+      "summary": "A Latin Star-Studded First Bet Celebration To download photos, click here. To download B-roll, click here. HOLLYWOOD, Fla., Oct. 9, 2026 /PRNewswire/ -- Seminole Hard Rock Hotel & Casino Hollywood today unveiled Zona de Fuego, Florida's first fully integrated Latin gaming and...",
+      "url": "https://www.prnewswire.com/news-releases/seminole-hard-rock-hotel--casino-hollywood-unveils-zona-de-fuego-floridas-first-fully-integrated-latin-gaming--entertainment-experience-302903934.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-10T00:04:00Z",
+      "epoch": 1791590640,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Seminole Hard Rock Hotel &amp; Casino Hollywood presenta 'Zona de Fuego' la primera experiencia latina de juegos de mesa y entretenimiento plenamente integrada en Florida",
+      "summary": "Una celebración de la primera apuesta junto a grandes estrellas de la música latina Para descargar las fotos, haga clic aquí. Para descargar el B-roll, haga clic aquí. HOLLYWOOD, Fla., 9 de octubre de 2026 /PRNewswire-HISPANIC PR WIRE/ -- Seminole Hard Rock Hotel & Casino Hollywo",
+      "url": "https://www.prnewswire.com/news-releases/seminole-hard-rock-hotel-amp-casino-hollywood-presenta-zona-de-fuego-la-primera-experiencia-latina-de-juegos-de-mesa-y-entretenimiento-plenamente-integrada-en-florida-831002667.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-10T00:03:00Z",
+      "epoch": 1791590580,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Stowers scientist selected for $28.6 million research effort to predict protein changes behind neurodegenerative disease",
       "summary": "The new award brings together a team of scientists who will combine AI, large-scale experiments and human-cell studies to predict harmful protein changes before disease takes hold. KANSAS CITY, Mo., Oct. 9, 2026 /PRNewswire/ -- Neurodegenerative diseases such as Alzheimer's, Park",
       "url": "https://www.prnewswire.com/news-releases/stowers-scientist-selected-for-28-6-million-research-effort-to-predict-protein-changes-behind-neurodegenerative-disease-302903927.html",
@@ -528,52 +612,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "TestMu AI se positionne comme leader dans le « Magic Quadrant™ » 2026 de Gartner® consacré aux plateformes d'assurance qualité logicielle de type « agentic »",
-      "summary": "Évaluation basée sur l'exhaustivité de la vision et la capacité d'exécution NOIDA, Inde, 9 octobre 2026 /PRNewswire/ -- TestMu AI, plateforme d'ingénierie de la qualité d'IA agentique complète, a annoncé avoir été classée parmi les leaders du Magic Quadrant™ 2026 de Gartner® pour",
-      "url": "https://www.prnewswire.com/news-releases/testmu-ai-se-positionne-comme-leader-dans-le--magic-quadrant--2026-de-gartner-consacre-aux-plateformes-dassurance-qualite-logicielle-de-type--agentic--302903916.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-09T22:44:00Z",
-      "epoch": 1791585840,
-      "sentiment": 0.0,
-      "tickers": [
-        "IT"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "VIZSLA SILVER ANNOUNCES RESULTS OF ANNUAL GENERAL AND SPECIAL MEETING",
-      "summary": "VANCOUVER, BC, Oct. 9, 2026 /PRNewswire/ -- Vizsla Silver Corp. (TSX: VZLA) (NYSE: VZLA) (Frankfurt: 0G31) (\"Vizsla Silver\" or the \"Company\") is pleased to announce the results of the Company's annual general and special meeting of shareholders (the \"Meeting\") held in Vancouver, ",
-      "url": "https://www.prnewswire.com/news-releases/vizsla-silver-announces-results-of-annual-general-and-special-meeting-302903906.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-09T22:34:00Z",
-      "epoch": 1791585240,
-      "sentiment": 0.0,
-      "tickers": [
-        "VZLA"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Pope Francis' Coffee-Painted Portrait by Erguvan Art &amp; Academy CEO Dr. Ali Karatay Presented at the Vatican",
-      "summary": "Dr. Ali Karatay's coffee-painted portrait of Pope Francis highlights art's power to connect cultures and celebrate shared humanity. WOODLAND, Calif., Oct. 9, 2026 /PRNewswire/ -- A portrait of Pope Francis created with coffee by artist Dr. Ali Karatay, founder and CEO of Erguvan ",
-      "url": "https://www.prnewswire.com/news-releases/pope-francis-coffee-painted-portrait-by-erguvan-art--academy-ceo-dr-ali-karatay-presented-at-the-vatican-302903900.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-09T22:04:00Z",
-      "epoch": 1791583440,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "CES Properties: A Legacy of Strength, Poised for a New Era of Growth",
       "summary": "Firm to celebrate investors at The Harvest in Woodinville and unveil a new brand honoring founder Ed Springman BELLEVUE, Wash., Oct. 9, 2026 /PRNewswire/ -- As CES Properties approaches its 57th anniversary, the firm remains a quiet but powerful force in Pacific Northwest real es",
       "url": "https://www.prnewswire.com/news-releases/ces-properties-a-legacy-of-strength-poised-for-a-new-era-of-growth-302903896.html",
@@ -619,38 +657,10 @@
       "title": "The Salvation Army Mobilizes Disaster Response Ahead of Hurricane Isaias",
       "summary": "Emergency disaster professionals prepare to meet the immediate and long-term needs of impacted communities across the Gulf Coast ALEXANDRIA, Va., Oct. 9, 2026 /PRNewswire/ -- The Salvation Army's Emergency Disaster Services (EDS) teams are preparing to respond as Hurricane Isaias",
       "url": "https://www.prnewswire.com/news-releases/the-salvation-army-mobilizes-disaster-response-ahead-of-hurricane-isaias-302903884.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-09T21:14:00Z",
       "epoch": 1791580440,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "GAC verstärkt sein Engagement in Europa - das „neue Kapitel\" wird auf dem Pariser Autosalon 2026 vorgestellt",
-      "summary": "PARIS, 9. Oktober 2026 /PRNewswire/ -- Der 91. Pariser Autosalon findet vom 12. bis 18. Oktober in der Paris Expo Porte de Versailles in Frankreich statt. Auf der diesjährigen Messe wird GAC in Halle 5.1 mit seiner neuen Marke, neuen Produkten und neuen Dienstleistungen vertreten",
-      "url": "https://www.prnewswire.com/news-releases/gac-verstarkt-sein-engagement-in-europa--das-neue-kapitel-wird-auf-dem-pariser-autosalon-2026-vorgestellt-302903883.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-09T21:11:00Z",
-      "epoch": 1791580260,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Hisense «оживляет» AI Companion Suite с Social Kitchen",
-      "summary": "ЦИНДАО, Китай, 10 октября 2026 г. / PRNewswire/ -- Компания Hisense, один из ведущих мировых брендов потребительской электроники и бытовой техники, воплощает свое видение «Innovating a Brighter Life» (инновации для более яркой жизни) в самом сердце дома с новой серией холодильник",
-      "url": "https://www.prnewswire.com/news-releases/hisense--ai-companion-suite--social-kitchen-302903881.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-09T21:07:00Z",
-      "epoch": 1791580020,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -672,36 +682,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "AES Announces Quarterly Dividend",
-      "summary": "ARLINGTON, Va., Oct. 9, 2026 /PRNewswire/ -- The Board of Directors of The AES Corporation (NYSE: AES) declared a quarterly common stock dividend of $0.17595 per share payable on November 13, 2026 to shareholders of record at the close of business on October 30, 2026. Additional.",
-      "url": "https://www.prnewswire.com/news-releases/aes-announces-quarterly-dividend-302903571.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-09T21:00:00Z",
-      "epoch": 1791579600,
-      "sentiment": 1.0,
-      "tickers": [
-        "AES"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Hurricane Isaias Warning: Protect Your Family from CO Poisoning and Other Post-Storm Dangers",
-      "summary": "WASHINGTON, Oct. 9, 2026 /PRNewswire/ -- The U.S. Consumer Product Safety Commission (CPSC) is urging those in the path of Hurricane Isaias to take steps to protect themselves and their families against carbon monoxide (CO) poisoning, fires and other post-storm hazards. Hurricane",
-      "url": "https://www.prnewswire.com/news-releases/hurricane-isaias-warning-protect-your-family-from-co-poisoning-and-other-post-storm-dangers-302903879.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-09T20:56:00Z",
-      "epoch": 1791579360,
-      "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "Evernorth Completes Business Combination with Armada Acquisition Corp. II",
@@ -811,22 +791,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "POMDOCTOR LIMITED Announces Receipt of Nasdaq Staff Delisting Determination",
-      "summary": "GUANGZHOU, China, Oct. 9, 2026 /PRNewswire/ -- POMDOCTOR LIMITED (\"Pomdoctor\" or the \"Company\") (Nasdaq: POM), a digital healthcare company focused on advancing AI-enabled healthcare solutions and predictive healthcare capabilities, today announced that it received a staff determ",
-      "url": "https://www.prnewswire.com/news-releases/pomdoctor-limited-announces-receipt-of-nasdaq-staff-delisting-determination-302903228.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-09T20:05:00Z",
-      "epoch": 1791576300,
-      "sentiment": 0.0,
-      "tickers": [
-        "POM"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "Astrana Health, Inc. Schedules 2026 Third Quarter Financial Results Release and Conference Call",
       "summary": "ALHAMBRA, Calif., Oct. 9, 2026 /PRNewswire/ -- Astrana Health, Inc. (\"Astrana,\" and together with its subsidiaries and affiliated entities, the \"Company\") (NASDAQ: ASTH), a physician-centric, technology-enabled healthcare company empowering providers to deliver accessible, high-q",
       "url": "https://www.prnewswire.com/news-releases/astrana-health-inc-schedules-2026-third-quarter-financial-results-release-and-conference-call-302903741.html",
@@ -837,6 +801,22 @@
       "sentiment": 0.0,
       "tickers": [
         "ASTH"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "POMDOCTOR LIMITED Announces Receipt of Nasdaq Staff Delisting Determination",
+      "summary": "GUANGZHOU, China, Oct. 9, 2026 /PRNewswire/ -- POMDOCTOR LIMITED (\"Pomdoctor\" or the \"Company\") (Nasdaq: POM), a digital healthcare company focused on advancing AI-enabled healthcare solutions and predictive healthcare capabilities, today announced that it received a staff determ",
+      "url": "https://www.prnewswire.com/news-releases/pomdoctor-limited-announces-receipt-of-nasdaq-staff-delisting-determination-302903228.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-10-09T20:05:00Z",
+      "epoch": 1791576300,
+      "sentiment": 0.0,
+      "tickers": [
+        "POM"
       ],
       "company_name": null,
       "catalyst": false,
@@ -1465,34 +1445,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Profusa, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "In HelloNation, Senior Living Expert Michelle Bell Explains the Family-Type Home Model",
-      "summary": "The HelloNation Article Compares Family-Type Homes With Larger Assisted Living Communities to Help Families Weigh Senior Housing Options. BINGHAMTON, N.Y., Oct. 9, 2026 /PRNewswire/ -- What is a family-type home for adults? A HelloNation article answers that question, explaining ",
-      "url": "https://www.prnewswire.com/news-releases/in-hellonation-senior-living-expert-michelle-bell-explains-the-family-type-home-model-302903635.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-09T17:00:00Z",
-      "epoch": 1791565200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "In HelloNation, Insurance Expert Chuck Hall of Millsboro, Delaware Explains What Renters Insurance Covers for Tenants in Delaware",
-      "summary": "Renters insurance fills a critical gap that a landlord's policy does not cover, and many tenants in Sussex County do not realize it until after a loss. MILLSBORO, Del., Oct. 9, 2026 /PRNewswire/ -- What does renters insurance actually cover for tenants in Delaware, and why does i",
-      "url": "https://www.prnewswire.com/news-releases/in-hellonation-insurance-expert-chuck-hall-of-millsboro-delaware-explains-what-renters-insurance-covers-for-tenants-in-delaware-302903651.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-09T17:00:00Z",
-      "epoch": 1791565200,
-      "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
