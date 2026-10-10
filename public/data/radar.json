@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-10T15:22:02Z",
+  "generated_at": "2026-10-10T19:25:32Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 148,
+    "breaking_count": 150,
     "breaking_catalyst_count": 28,
     "pipeline_count": 60,
-    "pipeline_catalyst_count": 12,
+    "pipeline_catalyst_count": 11,
     "movers_count": 0
   },
   "trending_tickers": [
@@ -34,12 +34,6 @@
       "source_count": 1
     },
     {
-      "ticker": "GEN",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 2
-    },
-    {
       "ticker": "GSK.L",
       "count": 2,
       "catalyst_count": 0,
@@ -58,13 +52,19 @@
       "source_count": 1
     },
     {
-      "ticker": "1928.HK",
+      "ticker": "YSS",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "DUK",
+      "ticker": "VINP",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "V",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -472,6 +472,148 @@
       "small_cap_risk": false
     },
     {
+      "title": "Solvely.ai Makes the Case for AI That Builds Human Capability",
+      "summary": "SAN FRANCISCO, Oct. 10, 2026 /PRNewswire/ -- Solvely.ai, an applied AI company, outlined its approach to AI agents for learning: helping people build understanding and skills, rather than simply completing tasks. Co-founder Richard Weiqi Zhang shared this perspective at Funding..",
+      "url": "https://www.prnewswire.com/news-releases/solvelyai-makes-the-case-for-ai-that-builds-human-capability-302905080.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-10T18:50:00Z",
+      "epoch": 1791658200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "STARMUS VIII Announces Two Young Changemakers as Junior Medal Winners",
+      "summary": "Valeria Corrales receives the Junior Stephen Hawking Medal and Aneeshwar Kunchala receives the Junior Jane Goodall Earth Medal CANARY ISLANDS, Spain, Oct. 10, 2026 /PRNewswire/ -- STARMUS VIII, the premier international festival of science, music and exploration, is proud to anno",
+      "url": "https://www.prnewswire.com/news-releases/starmus-viii-announces-two-young-changemakers-as-junior-medal-winners-302905079.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-10T18:46:00Z",
+      "epoch": 1791657960,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "KAPSARC TO JOIN 25TH WPC ENERGY CONGRESS IN RIYADH AS NATIONAL PARTNER",
+      "summary": "More than 20 KAPSARC leaders, researchers, and experts to contribute across the Congress's Executive, Technical, Synergy, and Special Programmes RIYADH, Saudi Arabia, Oct. 10, 2026 /PRNewswire/ -- KAPSARC participates as a National Partner in the 25th WPC Energy Congress in Riyad",
+      "url": "https://www.prnewswire.com/news-releases/kapsarc-to-join-25th-wpc-energy-congress-in-riyadh-as-national-partner-302905074.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-10T18:21:00Z",
+      "epoch": 1791656460,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "YSS Investors Have Opportunity to Lead York Space Systems Inc. Securities Lawsuit",
+      "summary": "NEW YORK, Oct. 10, 2026 /PRNewswire/ -- Rosen Law Firm, a global investor rights law firm, reminds purchasers of York Space Systems Inc. (NYSE: YSS): (i) common stock pursuant and/or traceable to the registration statement and prospectus (collectively, the \"Registration Statement",
+      "url": "https://www.prnewswire.com/news-releases/yss-investors-have-opportunity-to-lead-york-space-systems-inc-securities-lawsuit-302903907.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-10T18:12:00Z",
+      "epoch": 1791655920,
+      "sentiment": -0.33,
+      "tickers": [
+        "YSS"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Retail Trading Platforms Post Record Quarters as Investor Apps Multiply",
+      "summary": "VANCOUVER, BC, Oct. 10, 2026 /PRNewswire/ -- Wall Street Investor News Commentary - Four publicly listed retail investing platforms now report more than 41 million funded accounts between them, and two of them reported record quarters this summer. The pattern is the same across a",
+      "url": "https://www.prnewswire.com/news-releases/retail-trading-platforms-post-record-quarters-as-investor-apps-multiply-302905072.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-10T18:06:00Z",
+      "epoch": 1791655560,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "AI Revenue Questions Pull Semiconductor Stocks Off October Highs",
+      "summary": "VANCOUVER, BC, Oct. 10, 2026 /PRNewswire/ -- Stock Preachers News Commentary - Semiconductor equities began October on firm footing, with the iShares Semiconductor ETF advancing for five consecutive sessions and the sector's largest company reaching a record high, before retreati",
+      "url": "https://www.prnewswire.com/news-releases/ai-revenue-questions-pull-semiconductor-stocks-off-october-highs-302905067.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-10T16:38:00Z",
+      "epoch": 1791650280,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "KAILAS Launches \"Stay Warm, Stay Together\" Campaign Celebrating the Bonds Behind Every Climb",
+      "summary": "CHENGDU, China, Oct. 10, 2026 /PRNewswire/ -- KAILAS stands as one of the world's three full-category climbing brands. Its new campaign, \"Stay Warm, Stay Together,\" celebrates the trust and mutual support at the heart of climbing. Featuring Jon Otto, Principal of Chengdu Leadclim",
+      "url": "https://www.prnewswire.com/news-releases/kailas-launches-stay-warm-stay-together-campaign-celebrating-the-bonds-behind-every-climb-302905066.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-10T16:31:00Z",
+      "epoch": 1791649860,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Korean Cultural Center New York Presents \"Tchah Sup Kim: The Key to a New World,\" Featuring an Artwork on Loan from MoMA",
+      "summary": "The Artist's First Posthumous Retrospective Showcases More Than 130 Works and Archival Materials On view September 17 - October 24, 2026 Gallery & Atrium at the Korean Cultural Center New York NEW YORK, Oct. 9, 2026 /PRNewswire/ -- The Korean Cultural Center New York (KCCNY) pres",
+      "url": "https://www.prnewswire.com/news-releases/korean-cultural-center-new-york-presents-tchah-sup-kim-the-key-to-a-new-world-featuring-an-artwork-on-loan-from-moma-302904981.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-10T16:30:00Z",
+      "epoch": 1791649800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Church of Scientology International's Scientology Network Marks World Mental Health Day with CCHR Documentary Marathon",
+      "summary": "LOS ANGELES, Oct. 10, 2026 /PRNewswire/ -- On World Mental Health Day, October 10, Scientology Network presents a marathon event spotlighting the Citizens Commission on Human Rights (CCHR). The program features CCHR's mission to expose psychiatric industry corruption and combat h",
+      "url": "https://www.prnewswire.com/news-releases/church-of-scientology-internationals-scientology-network-marks-world-mental-health-day-with-cchr-documentary-marathon-302905064.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-10T15:35:00Z",
+      "epoch": 1791646500,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "/C O R R E C T I O N - tm:rw/",
+      "summary": "In the news release, tm:rw Turns Its Times Square Flagship Into Nine Live Studios, Shoppable on TikTok Shop, issued 06-Oct-2026 by tm:rw over PR Newswire, we are advised by the company that multiple changes have been made to the headline and release. The complete, corrected relea",
+      "url": "https://www.prnewswire.com/news-releases/tmrw-turns-its-times-square-flagship-into-ten-live-studios-shoppable-on-tiktok-shop-302899147.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-10T15:26:00Z",
+      "epoch": 1791645960,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Arrvel Expands Thermal Label Printer Portfolio for Businesses and Everyday Use",
       "summary": "SHENZHEN, China, Oct. 10, 2026 /PRNewswire/ -- Arrvel is expanding its label printing portfolio with thermal printing solutions designed to support e-commerce sellers, small businesses, and everyday labeling needs. Combining compact designs with practical functionality, Arrvel's ",
       "url": "https://www.prnewswire.com/news-releases/arrvel-expands-thermal-label-printer-portfolio-for-businesses-and-everyday-use-302905040.html",
@@ -542,88 +684,14 @@
       "small_cap_risk": false
     },
     {
-      "title": "Sands China Joins Hands with NBA Legend to Distribute Boxed Lunches to the Macao Community",
-      "summary": "Appreciation plaque unveiled at Fuhong Society of Macau's Happy Kitchen Social Enterprise Extending company's commitment to serving community through Impact Week MACAO, Oct. 10, 2026 /PRNewswire/ -- Coinciding with World Mental Health Day, Sands China and NBA Cares co-organised H",
-      "url": "https://www.prnewswire.com/news-releases/sands-china-joins-hands-with-nba-legend-to-distribute-boxed-lunches-to-the-macao-community-302905051.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-10T13:58:00Z",
-      "epoch": 1791640680,
-      "sentiment": 0.0,
-      "tickers": [
-        "1928.HK"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Duke Energy Florida wrapping up power restoration following Hurricane Isaias; strategic grid improvements delivered customer benefits",
-      "summary": "ST. PETERSBURG, Fla., Oct. 10, 2026 /PRNewswire/ -- Hurricane Isaias cleared Florida this morning. Crews have already restored approximately 10,000, leaving about 2,200 customers without power across North Florida. The company anticipates wrapping up restoration this afternoon. C",
-      "url": "https://www.prnewswire.com/news-releases/duke-energy-florida-wrapping-up-power-restoration-following-hurricane-isaias-strategic-grid-improvements-delivered-customer-benefits-302905049.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-10T13:09:00Z",
-      "epoch": 1791637740,
-      "sentiment": 0.0,
-      "tickers": [
-        "DUK"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Wulcea Advances Smart Heated Clothing with Next-Gen Graphene Heated Jackets",
-      "summary": "An innovator in graphene-powered heated apparel technology delivers lightweight, all-weather comfort designed for winter commutes, alpine sports, and outdoor work. NEW YORK, Oct. 10, 2026 /PRNewswire/ -- Wulcea, a graphene-heated apparel brand specializing in advanced warming tec",
-      "url": "https://www.prnewswire.com/news-releases/wulcea-advances-smart-heated-clothing-with-next-gen-graphene-heated-jackets-302905020.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-10T13:00:00Z",
-      "epoch": 1791637200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "ONLYOFFICE 10.0 brings AI tools, modular apps, and stronger security to its open-source office suite",
-      "summary": "SINGAPORE, Oct. 10, 2026 /PRNewswire/ -- ONLYOFFICE presents the major autumn update 10.0 with context-aware AI tools directly in the editors, new modular Apps, and a significant security upgrade. Around 50 new features and more than 1,000 fixes for the online, desktop, and mobil",
-      "url": "https://www.prnewswire.com/news-releases/onlyoffice-10-0-brings-ai-tools-modular-apps-and-stronger-security-to-its-open-source-office-suite-302902492.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-10T13:00:00Z",
-      "epoch": 1791637200,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Haag-Streit USA and Marco Lombart launch Octopus 910 in the US at AAO 2026 in New Orleans",
       "summary": "MASON, Ohio, Oct. 10, 2026 /PRNewswire/ -- Haag-Streit USA and Marco Lombart, an Advancing Eyecare company and the exclusive U.S. distributor of Haag-Streit's Octopus perimetry range, today announce the U.S. launch of the Octopus 910. The full-field projection perimeter will make",
       "url": "https://www.prnewswire.com/news-releases/haag-streit-usa-and-marco-lombart-launch-octopus-910-in-the-us-at-aao-2026-in-new-orleans-302894598.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-10T12:00:00Z",
       "epoch": 1791633600,
       "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "New Phoenix Scholar issue examining AI, institutional trust and the future of work published by University of Phoenix College of Doctoral Studies",
-      "summary": "Summer/Fall 2026 issue brings together research on artificial intelligence, career optimism, leadership, education and the human dimensions of technological change. PHOENIX, Oct. 10, 2026 /PRNewswire/ -- University of Phoenix College of Doctoral Studies today announced the public",
-      "url": "https://www.prnewswire.com/news-releases/new-phoenix-scholar-issue-examining-ai-institutional-trust-and-the-future-of-work-published-by-university-of-phoenix-college-of-doctoral-studies-302903933.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-10T12:00:00Z",
-      "epoch": 1791633600,
-      "sentiment": -0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -1114,8 +1182,8 @@
       "title": "ACHP Member Companies Stand Out for Quality Across Medicare, Medicaid and Commercial Coverage",
       "summary": "Latest CMS Star Ratings follow strong NCQA ratings across Medicare, Medicaid and commercial coverage WASHINGTON, Oct. 9, 2026 /PRNewswire/ -- The Alliance of Community Health Plans (ACHP) member companies have again earned leading marks for quality in Medicare, Medicaid and the c",
       "url": "https://www.prnewswire.com/news-releases/achp-member-companies-stand-out-for-quality-across-medicare-medicaid-and-commercial-coverage-302903773.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-09T18:04:00Z",
       "epoch": 1791569040,
       "sentiment": 0.33,
@@ -1133,20 +1201,6 @@
       "published_at": "2026-10-09T17:40:00Z",
       "epoch": 1791567600,
       "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Blood Cancer United Presents Inaugural Breakthrough Voice and Breakthrough Rising Leader Awards at First-Ever Night of Champions",
-      "summary": "Dr. Siddhartha Mukherjee and Charlotte Nathanson honored during Blood Cancer United's Breakthroughs Summit in New York City NEW YORK, Oct. 9, 2026 /PRNewswire/ -- Blood Cancer United kicked off the reimagined Breakthroughs Summit last night with its first-ever Night of Champions,",
-      "url": "https://www.prnewswire.com/news-releases/blood-cancer-united-presents-inaugural-breakthrough-voice-and-breakthrough-rising-leader-awards-at-first-ever-night-of-champions-302903756.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-09T17:37:00Z",
-      "epoch": 1791567420,
-      "sentiment": 0.67,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -2157,36 +2211,6 @@
       "company_name": "Veea Inc.",
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "8-K - Gen Digital Inc. (0000849399) (Filer)",
-      "summary": "Filed:  2026-10-09  AccNo:  0000849399-26-000079  Size:  220 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial",
-      "url": "https://www.sec.gov/Archives/edgar/data/849399/000084939926000079/0000849399-26-000079-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-10-09T16:05:19Z",
-      "epoch": 1791561919,
-      "sentiment": 0.0,
-      "tickers": [
-        "GEN"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - GEE Group Inc. (0000040570) (Filer)",
-      "summary": "Filed:  2026-10-09  AccNo:  0001477932-26-006155  Size:  138 KB\n Item 5.07: Submission of Matters to a Vote of Security Holders",
-      "url": "https://www.sec.gov/Archives/edgar/data/40570/000147793226006155/0001477932-26-006155-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-10-09T16:05:17Z",
-      "epoch": 1791561917,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Gee Group Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
     }
   ],
   "pipeline": [
@@ -2349,17 +2373,31 @@
       "small_cap_risk": false
     },
     {
-      "title": "Abbott nabs FDA approval for new CardioMEMS HF System that allows heart readings to be seen at home",
-      "summary": "Abbott has been given U.S. clearance for new updates to its CardioMEMS HF System that allow for patient-facing capabilities through its CardioGuide HF App.",
-      "url": "https://www.fiercebiotech.com/medtech/abbott-nabs-fda-approval-new-cardiomems-hf-system-allows-heart-readings-be-seen-home",
+      "title": "Parkinson’s-focused Aspen and bispecific biotech Bambusa plan IPOs",
+      "summary": "Parkinson’s disease cell therapy-focused Aspen Neuroscience and bispecific biotech Bambusa Therapeutics are the latest drug developers to eye up a public listing.",
+      "url": "https://www.fiercebiotech.com/biotech/parkinsons-focused-aspen-and-bispecific-biotech-aspen-plan-ipos",
       "source": "FierceBiotech",
       "source_id": "fiercebiotech",
-      "published_at": "2026-10-06T08:10:00Z",
-      "epoch": 1791274200,
-      "sentiment": 0.33,
+      "published_at": "2026-10-10T11:09:00Z",
+      "epoch": 1791630540,
+      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
-      "catalyst": true,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Arcutis' Zoryve sticks the landing with gymnast Simone Biles in new awareness campaign",
+      "summary": "World Champion gymnast Simone Biles is a Zoryve user herself, advocating for long-term treatment for conditions such as seborrheic dermatitis and atopic dermatitis.",
+      "url": "https://www.fiercepharma.com/pharma/arcutis-zoryve-sticks-landing-gymnast-simone-biles-joining-new-awareness-campaign",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-10-09T19:07:00Z",
+      "epoch": 1791572820,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
       "small_cap_risk": false
     },
     {
@@ -2877,20 +2915,6 @@
       "published_at": "2026-10-07T08:50:00Z",
       "epoch": 1791363000,
       "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Catalent wins access to Iro and launches next-gen development platform",
-      "summary": "Catalent will gain access to Ori's Iro platform, a proprietary automated cell and gene therapy manufacturing system that speeds up development and reduces costs.",
-      "url": "https://www.fiercepharma.com/pharma/catalent-wins-access-iro-and-launches-next-gen-development-platform",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-10-07T08:42:00Z",
-      "epoch": 1791362520,
-      "sentiment": 1.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
