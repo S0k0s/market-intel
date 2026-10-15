@@ -1766,9 +1766,9 @@
     },
     {
       "date": "2026-10-15",
-      "score": 56.0,
+      "score": 52.0,
       "avg_sentiment": 0.0,
-      "article_count": 3
+      "article_count": 1
     }
   ],
   "WMT": [
@@ -2124,9 +2124,9 @@
     },
     {
       "date": "2026-10-15",
-      "score": 56.0,
+      "score": 52.0,
       "avg_sentiment": 0.0,
-      "article_count": 3
+      "article_count": 1
     }
   ],
   "NDAQ": [
@@ -2204,6 +2204,12 @@
     },
     {
       "date": "2026-09-22",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-15",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -4208,9 +4214,9 @@
     },
     {
       "date": "2026-10-15",
-      "score": 37.3,
-      "avg_sentiment": -0.52,
-      "article_count": 4
+      "score": 28.6,
+      "avg_sentiment": -0.69,
+      "article_count": 3
     }
   ],
   "0267.HK": [
@@ -4894,6 +4900,12 @@
     },
     {
       "date": "2026-10-14",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-15",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -6328,8 +6340,8 @@
     },
     {
       "date": "2026-10-15",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
+      "score": 25.2,
+      "avg_sentiment": -0.67,
       "article_count": 1
     }
   ],
@@ -9698,9 +9710,9 @@
     },
     {
       "date": "2026-10-15",
-      "score": 56.0,
+      "score": 52.0,
       "avg_sentiment": 0.0,
-      "article_count": 3
+      "article_count": 1
     }
   ],
   "VRSK": [
@@ -12239,6 +12251,12 @@
       "score": 25.2,
       "avg_sentiment": -0.67,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "score": 25.2,
+      "avg_sentiment": -0.67,
+      "article_count": 1
     }
   ],
   "BRK.B": [
@@ -12784,6 +12802,12 @@
       "date": "2026-10-12",
       "score": 52.0,
       "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "score": 25.2,
+      "avg_sentiment": -0.67,
       "article_count": 1
     }
   ],
@@ -20943,6 +20967,12 @@
       "score": 38.8,
       "avg_sentiment": -0.33,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "score": 78.8,
+      "avg_sentiment": 0.67,
+      "article_count": 1
     }
   ],
   "0981.HK": [
@@ -21426,9 +21456,9 @@
     },
     {
       "date": "2026-10-15",
-      "score": 60.5,
-      "avg_sentiment": 0.16,
-      "article_count": 2
+      "score": 65.2,
+      "avg_sentiment": 0.33,
+      "article_count": 1
     }
   ],
   "PSKY": [
@@ -27198,7 +27228,7 @@
     },
     {
       "date": "2026-10-15",
-      "score": 40.3,
+      "score": 40.4,
       "avg_sentiment": -0.34,
       "article_count": 2
     }
