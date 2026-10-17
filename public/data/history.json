@@ -1496,9 +1496,9 @@
     },
     {
       "date": "2026-10-17",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
-      "article_count": 1
+      "score": 64.9,
+      "avg_sentiment": 0.22,
+      "article_count": 3
     }
   ],
   "IHG.L": [
@@ -1814,9 +1814,9 @@
     },
     {
       "date": "2026-10-17",
-      "score": 56.0,
+      "score": 52.0,
       "avg_sentiment": 0.0,
-      "article_count": 3
+      "article_count": 1
     }
   ],
   "WMT": [
@@ -2992,9 +2992,9 @@
     },
     {
       "date": "2026-10-17",
-      "score": 69.8,
-      "avg_sentiment": 0.39,
-      "article_count": 2
+      "score": 64.3,
+      "avg_sentiment": 0.21,
+      "article_count": 3
     }
   ],
   "9618.HK": [
@@ -7269,6 +7269,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "T": [
@@ -10321,12 +10327,6 @@
   ],
   "AMZN": [
     {
-      "date": "2026-09-08",
-      "score": 57.3,
-      "avg_sentiment": 0.03,
-      "article_count": 3
-    },
-    {
       "date": "2026-09-09",
       "score": 52.0,
       "avg_sentiment": 0.0,
@@ -10496,6 +10496,12 @@
     },
     {
       "date": "2026-10-12",
+      "score": 54.0,
+      "avg_sentiment": 0.0,
+      "article_count": 2
+    },
+    {
+      "date": "2026-10-17",
       "score": 54.0,
       "avg_sentiment": 0.0,
       "article_count": 2
@@ -16213,6 +16219,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "BX": [
@@ -17317,6 +17329,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "score": 25.2,
+      "avg_sentiment": -0.67,
+      "article_count": 1
     }
   ],
   "COHR": [
@@ -18046,9 +18064,9 @@
     },
     {
       "date": "2026-10-17",
-      "score": 26.6,
-      "avg_sentiment": -0.84,
-      "article_count": 6
+      "score": 27.5,
+      "avg_sentiment": -0.81,
+      "article_count": 7
     }
   ],
   "DUK": [
@@ -26856,6 +26874,12 @@
       "date": "2026-09-21",
       "score": 25.2,
       "avg_sentiment": -0.67,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
