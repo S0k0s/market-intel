@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-17T11:43:11Z",
+  "generated_at": "2026-10-17T14:26:36Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 142,
-    "breaking_catalyst_count": 20,
+    "breaking_catalyst_count": 22,
     "pipeline_count": 58,
     "pipeline_catalyst_count": 13,
     "movers_count": 0
@@ -73,6 +73,34 @@
   "movers": [],
   "concentration_warning": null,
   "breaking": [
+    {
+      "title": "Masimo's smartSET™ FDA Clearance Offers Breakthrough Innovation in Pulse Oximetry to Help Improve Critical Patient Outcomes",
+      "summary": "Industry-Leading Pulse Oximetry Platform Now Features First-of-Its-Kind Atrial Fibrillation (AFib) Detection with Previously Cleared AI-Enabled Opioid-Induced Respiratory Depression (OIRD) Detection Designed Together to Deliver Earlier Clinical Insights IRVINE, Calif., Oct. 17, 2",
+      "url": "https://www.prnewswire.com/news-releases/masimos-smartset-fda-clearance-offers-breakthrough-innovation-in-pulse-oximetry-to-help-improve-critical-patient-outcomes-302911711.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-17T13:00:00Z",
+      "epoch": 1792242000,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Vivacta Bio and Grit Bio Announce FDA Orphan Drug Designation for In Vivo CAR-T Therapy GT801 in Autoimmune Hemolytic Anemia",
+      "summary": "SHANGHAI, Oct. 17, 2026 /PRNewswire/ -- Vivacta Biotechnology (Shanghai) Co., Ltd. (\"Vivacta Bio\"), a company spun out of the in vivo CAR-T platform of Beijing Grit Biotherapeutics Co., Ltd. (\"Grit Bio\"), today announced that the U.S. Food and Drug Administration (FDA) has grante",
+      "url": "https://www.prnewswire.com/news-releases/vivacta-bio-and-grit-bio-announce-fda-orphan-drug-designation-for-in-vivo-car-t-therapy-gt801-in-autoimmune-hemolytic-anemia-302911806.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-17T12:00:00Z",
+      "epoch": 1792238400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
     {
       "title": "Viatris Receives U.S. FDA Approval for RYZUMVI® for the Treatment of Presbyopia",
       "summary": "PITTSBURGH, Oct. 16, 2026 /PRNewswire/ -- Viatris Inc. (Nasdaq: VTRS), a global healthcare company, today announced that the U.S. Food and Drug Administration (FDA) has approved RYZUMVI® (phentolamine ophthalmic solution 0.75%) for the treatment of presbyopia in adults. RYZUMVI i",
@@ -355,6 +383,20 @@
       "tickers": [],
       "company_name": "Maze Therapeutics, Inc.",
       "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "HelloNation Outlines Tax Documents Needed by US Citizens Abroad With Insights From Accountant Nils Lenz",
+      "summary": "The article explains how organized tax documents and financial records support accurate IRS reporting for business owners and expatriates. ZEPHYRHILLS, Fla., Oct. 17, 2026 /PRNewswire/ -- What paperwork should US citizens abroad gather to prepare their taxes accurately and remain",
+      "url": "https://www.prnewswire.com/news-releases/hellonation-outlines-tax-documents-needed-by-us-citizens-abroad-with-insights-from-accountant-nils-lenz-302876174.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-17T12:00:00Z",
+      "epoch": 1792238400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
       "small_cap_risk": false
     },
     {
@@ -908,20 +950,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Youngstown Orthopaedic Associates Joins Cleveland Clinic and Dr. James D. Solmen Retires",
-      "summary": "YOUNGSTOWN, Ohio, Oct. 16, 2026 /PRNewswire/ -- For many years, it has been Youngstown Orthopaedic Associates privilege to provide orthopaedic, pain management and podiatric care to you and your family. We are writing to share two important developments about our Practice and you",
-      "url": "https://www.prnewswire.com/news-releases/youngstown-orthopaedic-associates-joins-cleveland-clinic-and-dr-james-d-solmen-retires-302911527.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-16T17:54:00Z",
-      "epoch": 1792173240,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Payment Processing Expert Eric Miltner Explains How eCheck Payments Improve Efficiency for Small Businesses in HelloNation",
       "summary": "The article outlines how eCheck payments enable faster collections, recurring payments, and modern digital payments. MANCHESTER, N.H., Oct. 16, 2026 /PRNewswire/ -- How can eCheck payments help small businesses in New Hampshire reduce delays and improve payment tracking? HelloNat",
       "url": "https://www.prnewswire.com/news-releases/payment-processing-expert-eric-miltner-explains-how-echeck-payments-improve-efficiency-for-small-businesses-in-hellonation-302903914.html",
@@ -930,20 +958,6 @@
       "published_at": "2026-10-16T17:46:00Z",
       "epoch": 1792172760,
       "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Brayton Purcell LLP Welcomes Federal Bill Addressing Artificial Stone Silicosis Epidemic",
-      "summary": "Silicosis Prevention and Treatment Act would expand screening, treatment, education, and patient care as California artificial stone fabrication workers face a growing number of cases NOVATO, Calif., Oct. 16, 2026 /PRNewswire/ -- Brayton Purcell LLP welcomes new federal legislati",
-      "url": "https://www.prnewswire.com/news-releases/brayton-purcell-llp-welcomes-federal-bill-addressing-artificial-stone-silicosis-epidemic-302911521.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-16T17:44:00Z",
-      "epoch": 1792172640,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -1128,22 +1142,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Farmhouse, Inc. /Nv",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Cboe To Hire Catherine Grover as Executive Vice President and Chief Human Resources Officer",
-      "summary": "CHICAGO, Oct. 16, 2026 /PRNewswire/ -- Cboe Global Markets, Inc. (Cboe), a leading global markets operator and pioneer in equity derivatives, today announced that Catherine Grover will join the company as Executive Vice President and Chief Human Resources Officer (CHRO), effectiv",
-      "url": "https://www.prnewswire.com/news-releases/cboe-to-hire-catherine-grover-as-executive-vice-president-and-chief-human-resources-officer-302911437.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-16T17:15:00Z",
-      "epoch": 1792170900,
-      "sentiment": 0.0,
-      "tickers": [
-        "CBOE"
-      ],
-      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
