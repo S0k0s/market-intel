@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-17T07:29:10Z",
+  "generated_at": "2026-10-17T11:43:11Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 141,
-    "breaking_catalyst_count": 21,
+    "breaking_count": 142,
+    "breaking_catalyst_count": 20,
     "pipeline_count": 58,
     "pipeline_catalyst_count": 13,
     "movers_count": 0
@@ -17,12 +17,6 @@
     },
     {
       "ticker": "VTRS",
-      "count": 1,
-      "catalyst_count": 1,
-      "source_count": 1
-    },
-    {
-      "ticker": "ALL",
       "count": 1,
       "catalyst_count": 1,
       "source_count": 1
@@ -68,6 +62,12 @@
       "count": 3,
       "catalyst_count": 0,
       "source_count": 2
+    },
+    {
+      "ticker": "JKS",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
     }
   ],
   "movers": [],
@@ -184,22 +184,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Datameds Ai, Inc.",
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Arity to Acquire INRIX, Advancing a Connected Vision for the Future of Transportation",
-      "summary": "Definitive agreement with INRIX marks an important step toward helping organizations create societal value by better understanding transportation CHICAGO, Oct. 16, 2026 /PRNewswire/ -- Arity, a subsidiary of The Allstate Corporation, announced today that it has entered into an ag",
-      "url": "https://www.prnewswire.com/news-releases/arity-to-acquire-inrix-advancing-a-connected-vision-for-the-future-of-transportation-302911491.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-16T17:14:00Z",
-      "epoch": 1792170840,
-      "sentiment": 0.0,
-      "tickers": [
-        "ALL"
-      ],
-      "company_name": null,
       "catalyst": true,
       "small_cap_risk": false
     },
@@ -374,6 +358,78 @@
       "small_cap_risk": false
     },
     {
+      "title": "JinkoSolar Unveils Tiger Neo 5.0 All-Black Residential Solar Module with 25.52% Efficiency",
+      "summary": "SHANGRAO, China, Oct. 17, 2026 /PRNewswire/ -- JinkoSolar Holding Co., Ltd. (\"JinkoSolar\" or the \"Company\") (NYSE: JKS), today unveiled Tiger Neo 5.0, an all-black residential solar module built on its all-new TAC technology. The first version to reach the market, an all-black 48",
+      "url": "https://www.prnewswire.com/news-releases/jinkosolar-unveils-tiger-neo-5-0-all-black-residential-solar-module-with-25-52-efficiency-302911814.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-17T11:33:00Z",
+      "epoch": 1792236780,
+      "sentiment": 0.33,
+      "tickers": [
+        "JKS"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "AGFUND wins international award for excellence in inclusive banking and social impact",
+      "summary": "Prince Abdulaziz bin Talal credits the founders of AGFUND's microfinance banks for laying the foundations of its development impact BANGKOK, Oct. 17, 2026 /PRNewswire/ -- The Arab Gulf Programme for Development (AGFUND) won the \"Excellence in Inclusive Banking and Social Impact\" ",
+      "url": "https://www.prnewswire.com/news-releases/agfund-wins-international-award-for-excellence-in-inclusive-banking-and-social-impact-302911811.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-17T10:30:00Z",
+      "epoch": 1792233000,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Highland and Bath Counties, Virginia Go Live on a Shared Caliber Hosted CAD Environment",
+      "summary": "Two neighboring rural counties, two dispatch centers, one common platform supporting more than 900 square miles of mountainous terrain NORTH LITTLE ROCK, Ark., Oct. 17, 2026 /PRNewswire/ -- Caliber Public Safety announced that Highland County and Bath County, Virginia went live o",
+      "url": "https://www.prnewswire.com/news-releases/highland-and-bath-counties-virginia-go-live-on-a-shared-caliber-hosted-cad-environment-302911615.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-17T10:00:00Z",
+      "epoch": 1792231200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "GAC Showcases Multiple Models at Canton Fair: Systemic Global Expansion as a Response to High‑Level Opening‑Up",
+      "summary": "GUANGZHOU, China, Oct. 17, 2026 /PRNewswire/ -- On 15 October, the 140th China Import and Export Fair (Canton Fair) kicked off in Guangzhou. Dubbed \"China's No.1 Exhibition\" with a 70‑year history, it serves as a vital window for global merchants to understand China, and one of G",
+      "url": "https://www.prnewswire.com/news-releases/gac-showcases-multiple-models-at-canton-fair-systemic-global-expansion-as-a-response-to-highlevel-openingup-302911807.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-17T09:44:00Z",
+      "epoch": 1792230240,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "ASSA ABLOY sells PKI business unit to Vista Equity Partners",
+      "summary": "ASSA ABLOY has signed an agreement to sell HID's PKI business unit to Vista Equity Partners (\"Vista\"). STOCKHOLM, Oct. 17, 2026 /PRNewswire/ -- The PKI business unit (Public Key Infrastructure) provides digital trust, identity, authentication, encryption, and certificate manageme",
+      "url": "https://www.prnewswire.com/news-releases/assa-abloy-sells-pki-business-unit-to-vista-equity-partners-302911805.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-17T09:04:00Z",
+      "epoch": 1792227840,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "SKYRIZI® (risankizumab) and RINVOQ® (upadacitinib) Data Highlight Long-Term Clinical and Endoscopic Outcomes Across Inflammatory Bowel Disease (IBD) at UEGW 2026",
       "summary": "20 scientific presentations underscore the breadth of AbbVie's leadership in Inflammatory Bowel Disease (IBD) research programs Latest long-term and real-world data with SKYRIZI®(risankizumab) and RINVOQ® (upadacitinib) provide additional insight into clinical and endoscopic outc",
       "url": "https://www.prnewswire.com/news-releases/skyrizi-risankizumab-and-rinvoq-upadacitinib-data-highlight-long-term-clinical-and-endoscopic-outcomes-across-inflammatory-bowel-disease-ibd-at-uegw-2026-302911525.html",
@@ -437,8 +493,8 @@
       "title": "Brightmoor Hospice, LLC Provides Notification of Data Security Incident",
       "summary": "GRIFFIN, Ga., Oct. 16, 2026 /PRNewswire/ -- Brightmoor Hospice, LLC (\"Brightmoor\") is providing notification of a data security incident that may have impacted certain protected health information. On or around March 25, 2026, Brightmoor Hospice, LLC (\"Brightmoor\") discovered sus",
       "url": "https://www.prnewswire.com/news-releases/brightmoor-hospice-llc-provides-notification-of-data-security-incident-302911735.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-17T01:50:00Z",
       "epoch": 1792201800,
       "sentiment": 0.0,
@@ -448,25 +504,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "Luvme Hair Highlights Versatile Wig Looks for Fall 2026",
-      "summary": "The brand explores how different lengths, textures, and silhouettes can bring flexibility to seasonal hair styling. NEW YORK, Oct. 16, 2026 /PRNewswire/ -- Luvme Hair is highlighting versatile wig looks for Fall 2026, focusing on the variety of lengths, textures, and silhouettes ",
-      "url": "https://www.prnewswire.com/news-releases/luvme-hair-highlights-versatile-wig-looks-for-fall-2026-302911428.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-17T01:47:00Z",
-      "epoch": 1792201620,
-      "sentiment": -0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Urteil des Pariser Gerichts zu einer eingestellten Funktion wird nur minimale Auswirkungen auf die Kunden von Angelalign haben",
       "summary": "Angelalign hat in Europa „Torque Ridges\" bereits durch verbesserte „Pressure Points\" ersetzt SAN CLEMENTE, Kalifornien, 17. Oktober 2026 /PRNewswire/ -- Angelalign Technology Inc. (6699.HK) („Angel\") http://www.angelaligner.com, ein Unternehmen, das sich durch Innovationen im Ber",
       "url": "https://www.prnewswire.com/news-releases/urteil-des-pariser-gerichts-zu-einer-eingestellten-funktion-wird-nur-minimale-auswirkungen-auf-die-kunden-von-angelalign-haben-302911731.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-17T01:29:00Z",
       "epoch": 1792200540,
       "sentiment": 0.0,
@@ -476,39 +518,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "National Press Club Statement on attack of Washington Post journalist in the West Bank",
-      "summary": "WASHINGTON, Oct. 16, 2026 /PRNewswire/ -- National Press Club President Mark Schoeff Jr. released the following statement today: \"The National Press Club condemns the attack on Washington Post photographer Heidi Levine. Levine was viciously assaulted while doing exactly what an..",
-      "url": "https://www.prnewswire.com/news-releases/national-press-club-statement-on-attack-of-washington-post-journalist-in-the-west-bank-302911725.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-17T00:52:00Z",
-      "epoch": 1792198320,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Huawei dévoile une solution de réseau intelligent Stellar optimisée pour la région Europe, s'inscrivant dans la philosophie de la « Connectivité sécurisée et intelligente »",
-      "summary": "FLORENCE, Italie, 17 octobre 2026 /PRNewswire/ -- Lors du Huawei Network Summit 2026 Europe, Huawei a dévoilé sa solution de réseau intelligent Stellar optimisée pour la région Europe s'inscrivant dans la philosophie de la « Connectivité sécurisée et intelligente ». Cette initiat",
-      "url": "https://www.prnewswire.com/news-releases/huawei-devoile-une-solution-de-reseau-intelligent-stellar-optimisee-pour-la-region-europe-sinscrivant-dans-la-philosophie-de-la--connectivite-securisee-et-intelligente--302911723.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-17T00:39:00Z",
-      "epoch": 1792197540,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "EVIDENT Expands Its Pramana Digital Pathology Portfolio to Support Small and Medium-Sized Labs",
-      "summary": "The new Pramana™ POD benchtop WSI scanner delivers autonomous imaging to help laboratories create pathologist-ready whole slide images with minimal operator intervention. NEEDHAM, Mass., Oct. 16, 2026 /PRNewswire/ -- Today, Evident announced the Pramana™ POD whole slide imaging (",
-      "url": "https://www.prnewswire.com/news-releases/evident-expands-its-pramana-digital-pathology-portfolio-to-support-small-and-medium-sized-labs-302911714.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "summary": "The new Pramana™ POD benchtop WSI scanner delivers autonomous imaging to help laboratories create pathologist-ready whole slide images with minimal operator intervention. NEEDHAM, Mass., Oct. 17, 2026 /PRNewswire/ -- Today, Evident announced the Pramana™ POD whole slide imaging (",
+      "url": "https://www.prnewswire.com/news-releases/evident-expands-its-pramana-digital-pathology-portfolio-to-support-small-and-medium-sized-labs-302911716.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-17T00:30:00Z",
       "epoch": 1792197000,
       "sentiment": 0.33,
@@ -590,20 +604,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Greenberg Traurig Expands Real Estate Team with Tiana DeLeo Dunn in San Francisco, Shane Griffin in Denver",
-      "summary": "NEW YORK, Oct. 16, 2026 /PRNewswire/ -- Global law firm Greenberg Traurig, LLP continues to expand its Real Estate Practice with the addition of attorneys Tiana DeLeo Dunn in San Francisco and Shane C. Griffin in Denver, further strengthening the firm's commercial real estate and",
-      "url": "https://www.prnewswire.com/news-releases/greenberg-traurig-expands-real-estate-team-with-tiana-deleo-dunn-in-san-francisco-shane-griffin-in-denver-302911557.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-16T21:00:00Z",
-      "epoch": 1792184400,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "BRAEMAR HOTELS &amp; RESORTS DECLARES PREFERRED DIVIDENDS FOR THE FOURTH QUARTER OF 2026",
       "summary": "DALLAS, Oct. 16, 2026 /PRNewswire/ -- Braemar Hotels & Resorts Inc. (NYSE: BHR) (\"Braemar\" or the \"Company\") today announced that its Board of Directors (the \"Board\") declared a quarterly cash dividend for the fourth quarter ending December 31, 2026 for the Company's 5.5% Series ",
       "url": "https://www.prnewswire.com/news-releases/braemar-hotels--resorts-declares-preferred-dividends-for-the-fourth-quarter-of-2026-302911650.html",
@@ -618,6 +618,20 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
+    },
+    {
+      "title": "Greenberg Traurig Expands Real Estate Team with Tiana DeLeo Dunn in San Francisco, Shane Griffin in Denver",
+      "summary": "NEW YORK, Oct. 16, 2026 /PRNewswire/ -- Global law firm Greenberg Traurig, LLP continues to expand its Real Estate Practice with the addition of attorneys Tiana DeLeo Dunn in San Francisco and Shane C. Griffin in Denver, further strengthening the firm's commercial real estate and",
+      "url": "https://www.prnewswire.com/news-releases/greenberg-traurig-expands-real-estate-team-with-tiana-deleo-dunn-in-san-francisco-shane-griffin-in-denver-302911557.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-16T21:00:00Z",
+      "epoch": 1792184400,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
     },
     {
       "title": "Actinium Pharmaceuticals Announces Inducement Grants to New Employees",
