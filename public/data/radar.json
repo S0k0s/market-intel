@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T02:49:14Z",
+  "generated_at": "2026-10-17T07:29:10Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 142,
+    "breaking_count": 141,
     "breaking_catalyst_count": 21,
     "pipeline_count": 58,
     "pipeline_catalyst_count": 13,
@@ -58,14 +58,14 @@
       "source_count": 1
     },
     {
-      "ticker": "ROG",
+      "ticker": "ABBV",
       "count": 3,
       "catalyst_count": 0,
-      "source_count": 2
+      "source_count": 3
     },
     {
-      "ticker": "ABBV",
-      "count": 2,
+      "ticker": "ROG",
+      "count": 3,
       "catalyst_count": 0,
       "source_count": 2
     }
@@ -374,6 +374,36 @@
       "small_cap_risk": false
     },
     {
+      "title": "SKYRIZI® (risankizumab) and RINVOQ® (upadacitinib) Data Highlight Long-Term Clinical and Endoscopic Outcomes Across Inflammatory Bowel Disease (IBD) at UEGW 2026",
+      "summary": "20 scientific presentations underscore the breadth of AbbVie's leadership in Inflammatory Bowel Disease (IBD) research programs Latest long-term and real-world data with SKYRIZI®(risankizumab) and RINVOQ® (upadacitinib) provide additional insight into clinical and endoscopic outc",
+      "url": "https://www.prnewswire.com/news-releases/skyrizi-risankizumab-and-rinvoq-upadacitinib-data-highlight-long-term-clinical-and-endoscopic-outcomes-across-inflammatory-bowel-disease-ibd-at-uegw-2026-302911525.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-17T06:00:00Z",
+      "epoch": 1792216800,
+      "sentiment": 0.0,
+      "tickers": [
+        "ABBV"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "World Winter Sports Expo 2026 Opens, Charting a New Decade for Ice and Snow and Outdoor Industries",
+      "summary": "BEIJING, Oct. 16, 2026 /PRNewswire/ -- The grand event of the global ice and snow industry, the World Winter Sports Expo 2026 (WWSE 2026), was held in Beijing on October 15. As an important legacy of the Beijing 2022 Olympic Winter Games, this Expo aligns with China's \"15th Five‑",
+      "url": "https://www.prnewswire.com/news-releases/world-winter-sports-expo-2026-opens-charting-a-new-decade-for-ice-and-snow-and-outdoor-industries-302911768.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-17T03:43:00Z",
+      "epoch": 1792208580,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "FLORIDA SOUTHERN COLLEGE HONORS DISTINGUISHED ALUMNUS LT. GEN. DONALD L. KERRICK WITH ROTC BUILDING DEDICATION AND STATEWIDE RAIDER COMPETITION",
       "summary": "LAKELAND, Fla., Oct. 16, 2026 /PRNewswire/ -- Florida Southern College honored distinguished alumnus Lt. Gen. Donald L. Kerrick on Friday, Oct. 16, with the dedication of the College's Army ROTC building in his name. The celebration continues Saturday, Oct. 17, with the second an",
       "url": "https://www.prnewswire.com/news-releases/florida-southern-college-honors-distinguished-alumnus-lt-gen-donald-l-kerrick-with-rotc-building-dedication-and-statewide-raider-competition-302911749.html",
@@ -482,34 +512,6 @@
       "published_at": "2026-10-17T00:30:00Z",
       "epoch": 1792197000,
       "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Panzani y Cerealis unen sus fuerzas para crear un importante grupo alimentario europeo",
-      "summary": "La operación reuniría a dos fabricantes europeos de productos alimentarios consolidados, con unos ingresos anuales conjuntos de 1.000 millones de euros, y contaría con el respaldo de las familias fundadoras de Cerealis, así como de Sofina y CVC Capital Partners. OPORTO, Portugal,",
-      "url": "https://www.prnewswire.com/news-releases/panzani-y-cerealis-unen-sus-fuerzas-para-crear-un-importante-grupo-alimentario-europeo-302911710.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-16T23:24:00Z",
-      "epoch": 1792193040,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Fox Factory Holding Investigation Notice: Levi &amp; Korsinsky Notifies Investors of Pending Investigation Into Fox Factory Holding (FOXF)",
-      "summary": "After reaffirming FY2026 guidance in May and raising it in August, Fox Factory cut its full-year revenue guidance by approximately $80 million at the midpoint, citing weaker Marucci performance, PVG supply disruptions, AAG upfit challenges, and softer bike demand. FOXF shareholde",
-      "url": "https://www.prnewswire.com/news-releases/fox-factory-holding-investigation-notice-levi--korsinsky-notifies-investors-of-pending-investigation-into-fox-factory-holding-foxf-302911646.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-16T23:18:00Z",
-      "epoch": 1792192680,
-      "sentiment": -1.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -1142,20 +1144,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Mobix Labs, Inc",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Bobby Garon: New 3.6% Social Security COLA for 2027 Will Feel Smaller Than It Looks for Most Retirees",
-      "summary": "As the Social Security Administration confirms the largest cost of living adjustment since 2023, Naples, Florida-based finance and insurance professional Bobby Garon, says rising Medicare premiums and a higher payroll tax cap mean retirees and workers alike should look past the h",
-      "url": "https://www.prnewswire.com/news-releases/bobby-garon-new-3-6-social-security-cola-for-2027-will-feel-smaller-than-it-looks-for-most-retirees-302911427.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-16T17:12:00Z",
-      "epoch": 1792170720,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
