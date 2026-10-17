@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-17T17:25:55Z",
+  "generated_at": "2026-10-17T19:37:10Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 143,
-    "breaking_catalyst_count": 22,
+    "breaking_count": 147,
+    "breaking_catalyst_count": 21,
     "pipeline_count": 58,
     "pipeline_catalyst_count": 13,
     "movers_count": 0
@@ -64,7 +64,7 @@
       "source_count": 2
     },
     {
-      "ticker": "JKS",
+      "ticker": "CB",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -91,8 +91,8 @@
       "title": "Vivacta Bio and Grit Bio Announce FDA Orphan Drug Designation for In Vivo CAR-T Therapy GT801 in Autoimmune Hemolytic Anemia",
       "summary": "SHANGHAI, Oct. 17, 2026 /PRNewswire/ -- Vivacta Biotechnology (Shanghai) Co., Ltd. (\"Vivacta Bio\"), a company spun out of the in vivo CAR-T platform of Beijing Grit Biotherapeutics Co., Ltd. (\"Grit Bio\"), today announced that the U.S. Food and Drug Administration (FDA) has grante",
       "url": "https://www.prnewswire.com/news-releases/vivacta-bio-and-grit-bio-announce-fda-orphan-drug-designation-for-in-vivo-car-t-therapy-gt801-in-autoimmune-hemolytic-anemia-302911806.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-17T12:00:00Z",
       "epoch": 1792238400,
       "sentiment": 0.0,
@@ -113,20 +113,6 @@
       "tickers": [
         "VTRS"
       ],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "AHN Cancer Center Launches RANDY'S Trial, Funded by Community Support and Inspired by a Firefighter's Legacy",
-      "summary": "Clinical trial funded through The Randy & Stephanie Meyer Spread Goodness Fund seeks to expand surgical options for patients facing appendix and other peritoneal cancers PITTSBURGH, Oct. 16, 2026 /PRNewswire/ -- Allegheny Health Network (AHN) Cancer Center today announced the lau",
-      "url": "https://www.prnewswire.com/news-releases/ahn-cancer-center-launches-randys-trial-funded-by-community-support-and-inspired-by-a-firefighters-legacy-302911433.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-16T18:00:00Z",
-      "epoch": 1792173600,
-      "sentiment": 0.33,
-      "tickers": [],
       "company_name": null,
       "catalyst": true,
       "small_cap_risk": false
@@ -386,6 +372,90 @@
       "small_cap_risk": false
     },
     {
+      "title": "Huawei presenta la soluzione Stellar Intelligent Network aggiornata per l'Europa, basata sulla filosofia della \"connettività sicura e intelligente\"",
+      "summary": "FIRENZE, Italia, 17 ottobre 2026 /PRNewswire/ -- In occasione dello Huawei Network Summit 2026 Europe, Huawei ha presentato la soluzione Stellar Intelligent Network aggiornata per l'Europa, basata sulla filosofia della \"Connettività sicura e intelligente\". Questa iniziativa confe",
+      "url": "https://www.prnewswire.com/news-releases/huawei-presenta-la-soluzione-stellar-intelligent-network-aggiornata-per-leuropa-basata-sulla-filosofia-della-connettivita-sicura-e-intelligente-302911866.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-17T18:55:00Z",
+      "epoch": 1792263300,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Huawei onthult een verbeterde Stellar Intelligent Network-oplossing voor de Europese regio, gebaseerd op de filosofie van \"veilige en intelligente connectiviteit\"",
+      "summary": "FLORENCE, Italië, 17 oktober 2026 /PRNewswire/ -- Op de Huawei Network Summit 2026 Europe onthulde Huawei zijn bijgewerkte Stellar Intelligent Network Solution voor de Europese regio onder de filosofie van \"Veilige en Intelligente Connectiviteit\". Deze stap onderstreept nogmaals ",
+      "url": "https://www.prnewswire.com/news-releases/huawei-onthult-een-verbeterde-stellar-intelligent-network-oplossing-voor-de-europese-regio-gebaseerd-op-de-filosofie-van-veilige-en-intelligente-connectiviteit-302911865.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-17T18:49:00Z",
+      "epoch": 1792262940,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Huawei, \"Güvenli ve Akıllı Bağlantı\" Felsefesi Kapsamında Avrupa Bölgesi İçin Geliştirilmiş Stellar Akıllı Ağ Çözümünü Tanıttı",
+      "summary": "FLORENCE, İtalya, 17 Ekim 2026 /PRNewswire/ -- Huawei, \"Güvenli ve Akıllı Bağlantı\" felsefesi altında, Huawei Network Summit 2026 Europe'da Avrupa bölgesi için geliştirilmiş Stellar Akıllı Ağ Çözümünü tanıttı. Bu adım, Huawei'nin müşteriler ve iş ortaklarıyla birlikte tüm sektörl",
+      "url": "https://www.prnewswire.com/news-releases/huawei-guvenli-ve-akll-balant-felsefesi-kapsamnda-avrupa-bolgesi-cin-gelitirilmi-stellar-akll-a-cozumunu-tantt-302911864.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-17T18:41:00Z",
+      "epoch": 1792262460,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Huawei predstavuje vylepšené inteligentné sieťové riešenie Stellar pre európsky región v rámci filozofie „Bezpečné a inteligentné pripojenie\"",
+      "summary": "FLORENCIA, Taliansko, 17. októbra 2026 /PRNewswire/ – Na podujatí Huawei Network Summit 2026 Europe predstavila spoločnosť Huawei svoje vylepšené riešenie Stellar Intelligent Network Solution pre európsky región v rámci filozofie „Bezpečné a inteligentné pripojenie\". Tento krok p",
+      "url": "https://www.prnewswire.com/news-releases/huawei-predstavuje-vylepene-inteligentne-sieove-rieenie-stellar-pre-europsky-region-v-ramci-filozofie-bezpene-a-inteligentne-pripojenie-302911863.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-17T18:37:00Z",
+      "epoch": 1792262220,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Huawei представляет обновленное решение Stellar Intelligent Network Solution для европейского региона в рамках философии «Безопасное и интеллектуальное подключение»",
+      "summary": "ФЛОРЕНЦИЯ, Италия, 17 октября 2026 г. /PRNewswire/ -- На саммите Huawei Network Summit 2026 Europe компания Huawei представила обновленное интеллектуальное сетевое решение Stellar Intelligent Network Solution для европейского региона в рамках философии «Безопасная и интеллектуаль",
+      "url": "https://www.prnewswire.com/news-releases/huawei----stellar-intelligent-network-solution-----------302911862.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-17T18:32:00Z",
+      "epoch": 1792261920,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Valley Community Healthcare to Host Two Voter Events in October",
+      "summary": "Free, public gatherings in North Hills and North Hollywood will offer voting services, music, refreshments, fresh produce distribution while supplies last, and seasonal Halloween crafts for all ages. LOS ANGELES, Oct. 17, 2026 /PRNewswire/ -- Valley Community Healthcare (VCH) wil",
+      "url": "https://www.prnewswire.com/news-releases/valley-community-healthcare-to-host-two-voter-events-in-october-302911849.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-17T17:45:00Z",
+      "epoch": 1792259100,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "AGFUND erhält internationale Auszeichnung für herausragende Leistungen im Bereich inklusives Bankwesen und soziale Wirkung",
       "summary": "Prinz Abdulaziz bin Talal würdigt die Gründer der Mikrofinanzbanken des AGFUND, die den Grundstein für dessen Entwicklungswirkung gelegt haben. BANGKOK, 17. Oktober 2026 /PRNewswire/ -- Das Arabische Golf-Programm für Entwicklung (AGFUND) gewann den Preis \"Excellence in Inclusive",
       "url": "https://www.prnewswire.com/news-releases/agfund-erhalt-internationale-auszeichnung-fur-herausragende-leistungen-im-bereich-inklusives-bankwesen-und-soziale-wirkung-302911845.html",
@@ -510,22 +580,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "JinkoSolar Unveils Tiger Neo 5.0 All-Black Residential Solar Module with 25.52% Efficiency",
-      "summary": "SHANGRAO, China, Oct. 17, 2026 /PRNewswire/ -- JinkoSolar Holding Co., Ltd. (\"JinkoSolar\" or the \"Company\") (NYSE: JKS), today unveiled Tiger Neo 5.0, an all-black residential solar module built on its all-new TAC technology. The first version to reach the market, an all-black 48",
-      "url": "https://www.prnewswire.com/news-releases/jinkosolar-unveils-tiger-neo-5-0-all-black-residential-solar-module-with-25-52-efficiency-302911814.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-17T11:33:00Z",
-      "epoch": 1792236780,
-      "sentiment": 0.33,
-      "tickers": [
-        "JKS"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
     },
     {
       "title": "AGFUND wins international award for excellence in inclusive banking and social impact",
@@ -672,6 +726,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "Greenberg Traurig Expands Real Estate Team with Tiana DeLeo Dunn in San Francisco, Shane Griffin in Denver",
+      "summary": "NEW YORK, Oct. 16, 2026 /PRNewswire/ -- Global law firm Greenberg Traurig, LLP continues to expand its Real Estate Practice with the addition of attorneys Tiana DeLeo Dunn in San Francisco and Shane C. Griffin in Denver, further strengthening the firm's commercial real estate and",
+      "url": "https://www.prnewswire.com/news-releases/greenberg-traurig-expands-real-estate-team-with-tiana-deleo-dunn-in-san-francisco-shane-griffin-in-denver-302911557.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-16T21:00:00Z",
+      "epoch": 1792184400,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "BRAEMAR HOTELS &amp; RESORTS DECLARES PREFERRED DIVIDENDS FOR THE FOURTH QUARTER OF 2026",
       "summary": "DALLAS, Oct. 16, 2026 /PRNewswire/ -- Braemar Hotels & Resorts Inc. (NYSE: BHR) (\"Braemar\" or the \"Company\") today announced that its Board of Directors (the \"Board\") declared a quarterly cash dividend for the fourth quarter ending December 31, 2026 for the Company's 5.5% Series ",
       "url": "https://www.prnewswire.com/news-releases/braemar-hotels--resorts-declares-preferred-dividends-for-the-fourth-quarter-of-2026-302911650.html",
@@ -686,20 +754,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "Greenberg Traurig Expands Real Estate Team with Tiana DeLeo Dunn in San Francisco, Shane Griffin in Denver",
-      "summary": "NEW YORK, Oct. 16, 2026 /PRNewswire/ -- Global law firm Greenberg Traurig, LLP continues to expand its Real Estate Practice with the addition of attorneys Tiana DeLeo Dunn in San Francisco and Shane C. Griffin in Denver, further strengthening the firm's commercial real estate and",
-      "url": "https://www.prnewswire.com/news-releases/greenberg-traurig-expands-real-estate-team-with-tiana-deleo-dunn-in-san-francisco-shane-griffin-in-denver-302911557.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-16T21:00:00Z",
-      "epoch": 1792184400,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "Actinium Pharmaceuticals Announces Inducement Grants to New Employees",
@@ -732,22 +786,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Bank of America Declares Preferred Stock Dividends Payable in November and December 2026",
-      "summary": "CHARLOTTE, N.C., Oct. 16, 2026 /PRNewswire/ -- Bank of America Corporation today announced the Board of Directors has authorized regular cash dividends on the outstanding shares or depositary shares of the following series of preferred stock: Series of Preferred Stock Dividend pe",
-      "url": "https://www.prnewswire.com/news-releases/bank-of-america-declares-preferred-stock-dividends-payable-in-november-and-december-2026-302911604.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-16T20:15:00Z",
-      "epoch": 1792181700,
-      "sentiment": 0.33,
-      "tickers": [
-        "BAC"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "The NXG Cushing® Midstream Energy Fund Announces Fund Name Change",
       "summary": "DALLAS, Oct. 16, 2026 /PRNewswire/ -- The NXG Cushing® Midstream Energy Fund (NYSE: SRV) (the \"Fund\") today announced that the Fund's Board of Trustees (the \"Board\") approved certain changes to the name of the Fund and the Fund's non-fundamental investment policies. Effective Dec",
       "url": "https://www.prnewswire.com/news-releases/the-nxg-cushing-midstream-energy-fund-announces-fund-name-change-302911618.html",
@@ -762,6 +800,22 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
+    },
+    {
+      "title": "Bank of America Declares Preferred Stock Dividends Payable in November and December 2026",
+      "summary": "CHARLOTTE, N.C., Oct. 16, 2026 /PRNewswire/ -- Bank of America Corporation today announced the Board of Directors has authorized regular cash dividends on the outstanding shares or depositary shares of the following series of preferred stock: Series of Preferred Stock Dividend pe",
+      "url": "https://www.prnewswire.com/news-releases/bank-of-america-declares-preferred-stock-dividends-payable-in-november-and-december-2026-302911604.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-16T20:15:00Z",
+      "epoch": 1792181700,
+      "sentiment": 0.33,
+      "tickers": [
+        "BAC"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
     },
     {
       "title": "Akara Partners and Deven Group Close Financing on 305-Bed Class A Student Housing Development at San Diego State University",
