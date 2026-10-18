@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-18T14:49:35Z",
+  "generated_at": "2026-10-18T17:46:05Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 146,
-    "breaking_catalyst_count": 23,
+    "breaking_count": 139,
+    "breaking_catalyst_count": 21,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 13,
     "movers_count": 0
@@ -46,12 +46,6 @@
       "source_count": 1
     },
     {
-      "ticker": "ABBV",
-      "count": 3,
-      "catalyst_count": 0,
-      "source_count": 3
-    },
-    {
       "ticker": "ROG",
       "count": 3,
       "catalyst_count": 0,
@@ -59,6 +53,12 @@
     },
     {
       "ticker": "GSK.L",
+      "count": 2,
+      "catalyst_count": 0,
+      "source_count": 2
+    },
+    {
+      "ticker": "ABBV",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
@@ -90,7 +90,7 @@
     {
       "title": "Advanced Manufacturing in Focus: Smart Life and Robotics Take the Spotlight at 140th Canton Fair",
       "summary": "GUANGZHOU, China, Oct. 18, 2026 /PRNewswire/ -- Phase 1 of the 140th Canton Fair, themed \"Advanced Manufacturing,\" opened on October 15 and will run through October 19. As one of the event's most closely watched sections, the Consumer Electronics and Information Products zone onc",
-      "url": "https://www.prnewswire.com/news-releases/advanced-manufacturing-in-focus-smart-life-and-robotics-take-the-spotlight-at-140th-canton-fair-302911959.html",
+      "url": "https://www.prnewswire.com/news-releases/advanced-manufacturing-in-focus-smart-life-and-robotics-take-the-spotlight-at-140th-canton-fair-302911955.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
       "published_at": "2026-10-18T11:00:00Z",
@@ -109,34 +109,6 @@
       "source_id": "prnewswire-health",
       "published_at": "2026-10-18T04:27:00Z",
       "epoch": 1792297620,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Masimo's smartSET™ FDA Clearance Offers Breakthrough Innovation in Pulse Oximetry to Help Improve Critical Patient Outcomes",
-      "summary": "Industry-Leading Pulse Oximetry Platform Now Features First-of-Its-Kind Atrial Fibrillation (AFib) Detection with Previously Cleared AI-Enabled Opioid-Induced Respiratory Depression (OIRD) Detection Designed Together to Deliver Earlier Clinical Insights IRVINE, Calif., Oct. 17, 2",
-      "url": "https://www.prnewswire.com/news-releases/masimos-smartset-fda-clearance-offers-breakthrough-innovation-in-pulse-oximetry-to-help-improve-critical-patient-outcomes-302911711.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-17T13:00:00Z",
-      "epoch": 1792242000,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Vivacta Bio and Grit Bio Announce FDA Orphan Drug Designation for In Vivo CAR-T Therapy GT801 in Autoimmune Hemolytic Anemia",
-      "summary": "SHANGHAI, Oct. 17, 2026 /PRNewswire/ -- Vivacta Biotechnology (Shanghai) Co., Ltd. (\"Vivacta Bio\"), a company spun out of the in vivo CAR-T platform of Beijing Grit Biotherapeutics Co., Ltd. (\"Grit Bio\"), today announced that the U.S. Food and Drug Administration (FDA) has grante",
-      "url": "https://www.prnewswire.com/news-releases/vivacta-bio-and-grit-bio-announce-fda-orphan-drug-designation-for-in-vivo-car-t-therapy-gt801-in-autoimmune-hemolytic-anemia-302911806.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-17T12:00:00Z",
-      "epoch": 1792238400,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -398,6 +370,62 @@
       "small_cap_risk": false
     },
     {
+      "title": "Lancement de l'Alliance des acheteurs de la Foire de Canton à l'occasion de l'ouverture de la 140ᵉ édition.",
+      "summary": "GUANGZHOU, Chine, 18 octobre 2026 /PRNewswire/ -- Le 15 octobre, l'Alliance des acheteurs de la Foire de Canton a été officiellement lancée au complexe de la Foire de Canton, marquant une étape importante alors que la foire célèbre le 70ᵉ anniversaire de sa fondation. Plus de 140",
+      "url": "https://www.prnewswire.com/news-releases/lancement-de-lalliance-des-acheteurs-de-la-foire-de-canton-a-loccasion-de-louverture-de-la-140-edition-302912000.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-18T17:43:00Z",
+      "epoch": 1792345380,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Changes to the Board of Directors of H. Lundbeck A/S",
+      "summary": "Dorothea Wenzel, Chair of the Board, has informed the Board that she will step down in connection with the Annual General Meeting in 2027. Following the AGM, Lundbeck's Board intends to appoint Lars Fruergaard Jørgensen as the new Chair. Effective 10 November 2026, Lars Fruergaar",
+      "url": "https://www.prnewswire.com/news-releases/changes-to-the-board-of-directors-of-h-lundbeck-as-302911999.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-18T17:42:00Z",
+      "epoch": 1792345320,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Antheia Secures $80 Million Conditional Funding Commitment from Department of War's Office of Strategic Capital",
+      "summary": "Financing supports Antheia's domestic manufacturing strategy to onshore critical medicine supply chains MENLO PARK, Calif., Oct. 18, 2026 /PRNewswire/ -- Antheia, the advanced biosynthesis company delivering 21st-century pharmaceutical manufacturing and innovation, today announce",
+      "url": "https://www.prnewswire.com/news-releases/antheia-secures-80-million-conditional-funding-commitment-from-department-of-wars-office-of-strategic-capital-302911991.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-18T16:34:00Z",
+      "epoch": 1792341240,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "The Magic of Tomorrowland Lands In Shanghai For A Two-Day Sold Out Spectacle",
+      "summary": "SHANGHAI, Oct. 18, 2026 /PRNewswire/ -- Tomorrowland brought its signature festival experience to Shanghai for the second edition of The Magic of Tomorrowland in China. In partnership with Hero Esports, INS LAND and Budweiser, the festival transformed Hero Dome into a two-day cel",
+      "url": "https://www.prnewswire.com/news-releases/the-magic-of-tomorrowland-lands-in-shanghai-for-a-two-day-sold-out-spectacle-302911987.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-18T14:58:00Z",
+      "epoch": 1792335480,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "AGFUND remporte un prix international pour son excellence en banque inclusive et impact social",
       "summary": "Le prince Abdulaziz bin Talal attribue aux fondateurs des banques de microfinance d'AGFUND le mérite d'avoir jeté les bases de son impact sur le développement BANGKOK, 18 octobre 2026 /PRNewswire/ -- Le Programme du Golfe arabe pour le développement (AGFUND) a remporté le prix «.",
       "url": "https://www.prnewswire.com/news-releases/agfund-remporte-un-prix-international-pour-son-excellence-en-banque-inclusive-et-impact-social-302911978.html",
@@ -426,20 +454,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "UEG launches new Patient Representatives Advisory Board to strengthen patient voice in digestive health",
-      "summary": "United European Gastroenterology (UEG) has today launched its new Patient Representatives Advisory Board (PRAB), creating a dedicated platform to embed patient perspectives within its public affairs activities and wider efforts to improve digestive health across Europe. BARCELONA",
-      "url": "https://www.prnewswire.com/news-releases/ueg-launches-new-patient-representatives-advisory-board-to-strengthen-patient-voice-in-digestive-health-302908773.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-18T12:00:00Z",
-      "epoch": 1792324800,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "La UEG pone en marcha un nuevo Consejo Asesor de Representantes de Pacientes",
       "summary": "- La UEG pone en marcha un nuevo Consejo Asesor de Representantes de Pacientes para reforzar la voz de los pacientes en el ámbito de la salud digestiva United European Gastroenterology (UEG) ha puesto en marcha hoy su nuevo Consejo Asesor de Representantes de Pacientes (PRAB, por",
       "url": "https://www.prnewswire.com/news-releases/la-ueg-pone-en-marcha-un-nuevo-consejo-asesor-de-representantes-de-pacientes-302909512.html",
@@ -462,6 +476,20 @@
       "published_at": "2026-10-18T12:00:00Z",
       "epoch": 1792324800,
       "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "UEG launches new Patient Representatives Advisory Board to strengthen patient voice in digestive health",
+      "summary": "United European Gastroenterology (UEG) has today launched its new Patient Representatives Advisory Board (PRAB), creating a dedicated platform to embed patient perspectives within its public affairs activities and wider efforts to improve digestive health across Europe. BARCELONA",
+      "url": "https://www.prnewswire.com/news-releases/ueg-launches-new-patient-representatives-advisory-board-to-strengthen-patient-voice-in-digestive-health-302908773.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-18T12:00:00Z",
+      "epoch": 1792324800,
+      "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -503,104 +531,6 @@
       "source_id": "prnewswire-public-co",
       "published_at": "2026-10-18T11:00:00Z",
       "epoch": 1792321200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "GAC präsentiert mehrere Modelle auf der Canton Fair: Systematische globale Expansion als Reaktion auf die Öffnung auf hohem Niveau",
-      "summary": "GUANGZHOU, China, 18. Oktober 2026 /PRNewswire/ -- Am 15. Oktober wurde in Guangzhou die 140. China Import and Export Fair (Canton Fair) eröffnet. Die Canton Fair, die auf eine 70‑jährige Geschichte zurückblickt und als „Chinas Messe Nummer eins\" gilt, bietet Händlern aus aller W",
-      "url": "https://www.prnewswire.com/news-releases/gac-prasentiert-mehrere-modelle-auf-der-canton-fair-systematische-globale-expansion-als-reaktion-auf-die-offnung-auf-hohem-niveau-302911966.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-18T10:56:00Z",
-      "epoch": 1792320960,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "GAC présente plusieurs modèles à la Foire de Canton : une expansion mondiale systémique en réponse à l'ouverture de haut niveau",
-      "summary": "GUANGZHOU, Chine, 18 octobre 2026 /PRNewswire/ -- Le 15 octobre, la 140ᵉ Foire d'importation et d'exportation de la Chine (Foire de Canton) a donné le coup d'envoi à Guangzhou. Surnommée « l'expo n°1 de la Chine » avec ses 70 ans d'existence, elle constitue une fenêtre vitale pou",
-      "url": "https://www.prnewswire.com/news-releases/gac-presente-plusieurs-modeles-a-la-foire-de-canton--une-expansion-mondiale-systemique-en-reponse-a-louverture-de-haut-niveau-302911964.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-18T10:44:00Z",
-      "epoch": 1792320240,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Global Times: Why does this mega-project on Yarlung Zangbo River make way for fish?",
-      "summary": "BEIJING, Oct. 18, 2026 /PRNewswire/ -- \"Building an ecological civilization concerns the well-being of the people and the future of the nation.\" Chinese President Xi Jinping, also general secretary of the Communist Party of China (CPC) Central Committee and chairman of the Centra",
-      "url": "https://www.prnewswire.com/news-releases/global-times-why-does-this-mega-project-on-yarlung-zangbo-river-make-way-for-fish-302911962.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-18T10:09:00Z",
-      "epoch": 1792318140,
-      "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Die Canton Fair Buyers Alliance wurde zur Eröffnung der 140. Ausgabe ins Leben gerufen.",
-      "summary": "GUANGZHOU, China, 18. Oktober 2026 /PRNewswire/ -- Am 15. Oktober wurde die Canton Fair Buyers Alliance im Canton Fair Complex offiziell gegründet. Dies markiert einen bedeutenden Meilenstein, da die Messe ihr 70-jähriges Bestehen feiert. Mehr als 140 ausländische Einkäufer nahme",
-      "url": "https://www.prnewswire.com/news-releases/die-canton-fair-buyers-alliance-wurde-zur-eroffnung-der-140-ausgabe-ins-leben-gerufen-302911951.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-18T08:22:00Z",
-      "epoch": 1792311720,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Panzani a Cerealis spoja sily a vytvoria významnú európsku potravinársku skupinu",
-      "summary": "Transakcia má spojiť dvoch etablovaných európskych výrobcov potravín s ročnými tržbami vo výške 1 miliardy EUR za podpory zakladajúcich rodín spoločnosti Cerealis, investičných skupín Sofina a CVC Capital Partners. PORTO, Portugalsko, 18. októbra 2026 /PRNewswire/ -- Akcionári sp",
-      "url": "https://www.prnewswire.com/news-releases/panzani-a-cerealis-spoja-sily-a-vytvoria-vyznamnu-europsku-potravinarsku-skupinu-302911937.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-18T06:13:00Z",
-      "epoch": 1792303980,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Panzani и Cerealis объединяют усилия для создания крупной европейской продовольственной группы",
-      "summary": "Сделка объединит двух известных европейских производителей продуктов питания, совокупный годовой доход которых может составить €1 млрд, при поддержке семей-основателей Cerealis, Sofina и CVC Capital Partners. ПОРТУ, Португалия, 18 октября 2026 г. /PRNewswire/ -- Акционеры Panzani",
-      "url": "https://www.prnewswire.com/news-releases/panzani--cerealis---------302911936.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-18T06:10:00Z",
-      "epoch": 1792303800,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Panzani und Cerealis bündeln ihre Kräfte zur Schaffung eines großen europäischen Lebensmittelkonzerns",
-      "summary": "Durch die Transaktion würden zwei etablierte europäische Lebensmittelhersteller mit einem gemeinsamen Jahresumsatz von 1 Milliarde Euro zusammengeführt, unterstützt von den Gründerfamilien von Cerealis, Sofina und CVC Capital Partners. PORTO, Portugal, 18. Oktober 2026 /PRNewswir",
-      "url": "https://www.prnewswire.com/news-releases/panzani-und-cerealis-bundeln-ihre-krafte-zur-schaffung-eines-groWen-europaischen-lebensmittelkonzerns-302911934.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-18T06:07:00Z",
-      "epoch": 1792303620,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -832,22 +762,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "SKYRIZI® (risankizumab) and RINVOQ® (upadacitinib) Data Highlight Long-Term Clinical and Endoscopic Outcomes Across Inflammatory Bowel Disease (IBD) at UEGW 2026",
-      "summary": "20 scientific presentations underscore the breadth of AbbVie's leadership in Inflammatory Bowel Disease (IBD) research programs Latest long-term and real-world data with SKYRIZI®(risankizumab) and RINVOQ® (upadacitinib) provide additional insight into clinical and endoscopic outc",
-      "url": "https://www.prnewswire.com/news-releases/skyrizi-risankizumab-and-rinvoq-upadacitinib-data-highlight-long-term-clinical-and-endoscopic-outcomes-across-inflammatory-bowel-disease-ibd-at-uegw-2026-302911525.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-17T06:00:00Z",
-      "epoch": 1792216800,
-      "sentiment": 0.0,
-      "tickers": [
-        "ABBV"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Corgi Insurance hires former Chubb Underwriting AVP James Kullman",
       "summary": "SAN FRANCISCO, Oct. 16, 2026 /PRNewswire/ -- Corgi Insurance today announced the appointment of James Kullman as Head of Underwriting, North America. Kullman brings nearly 15 years of experience in commercial insurance underwriting and management, with expertise spanning risk ass",
       "url": "https://www.prnewswire.com/news-releases/corgi-insurance-hires-former-chubb-underwriting-avp-james-kullman-302911690.html",
@@ -996,20 +910,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "Credit Union of Southern California (CU SoCal) Launches 7% APY, 7-Month Share Certificate",
-      "summary": "ANAHEIM HILLS, Calif., Oct. 16, 2026 /PRNewswire/ -- Credit Union of Southern California (CU SoCal) has announced a limited-time Share Certificate offering 7% APY for a 7-month term. Available through December 31, 2026, the market-leading offer helps Members earn more on deposits",
-      "url": "https://www.prnewswire.com/news-releases/credit-union-of-southern-california-cu-socal-launches-7-apy-7-month-share-certificate-302911619.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-16T20:03:00Z",
-      "epoch": 1792180980,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "8-K - NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORP /DC/ (0000070502) (Filer)",
