@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-18T11:31:55Z",
+  "generated_at": "2026-10-18T14:49:35Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 144,
+    "breaking_count": 146,
     "breaking_catalyst_count": 23,
-    "pipeline_count": 58,
+    "pipeline_count": 59,
     "pipeline_catalyst_count": 13,
     "movers_count": 0
   },
@@ -58,13 +58,13 @@
       "source_count": 2
     },
     {
-      "ticker": "CB",
-      "count": 1,
+      "ticker": "GSK.L",
+      "count": 2,
       "catalyst_count": 0,
-      "source_count": 1
+      "source_count": 2
     },
     {
-      "ticker": "BHR",
+      "ticker": "CB",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -105,8 +105,8 @@
       "title": "New Progress -- XellSmart Unveiled Phase I Results of Off-the-Shelf Parkinson's Disease Cell Therapy at MDS &amp; Completed Blinded Phase II Enrollment",
       "summary": "SEOUL, South Korea and SHANGHAI, Oct. 18, 2026 /PRNewswire/ -- New clinical data for XellSmart's off-the-shelf cell therapy for Parkinson's Disease was presented at the International Congress of Parkinson's Disease and Movement Disorders (MDS), one of the world's most prestigious",
       "url": "https://www.prnewswire.com/news-releases/new-progress--xellsmart-unveiled-phase-i-results-of-off-the-shelf-parkinsons-disease-cell-therapy-at-mds--completed-blinded-phase-ii-enrollment-302911915.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-18T04:27:00Z",
       "epoch": 1792297620,
       "sentiment": 0.0,
@@ -398,6 +398,104 @@
       "small_cap_risk": false
     },
     {
+      "title": "AGFUND remporte un prix international pour son excellence en banque inclusive et impact social",
+      "summary": "Le prince Abdulaziz bin Talal attribue aux fondateurs des banques de microfinance d'AGFUND le mérite d'avoir jeté les bases de son impact sur le développement BANGKOK, 18 octobre 2026 /PRNewswire/ -- Le Programme du Golfe arabe pour le développement (AGFUND) a remporté le prix «.",
+      "url": "https://www.prnewswire.com/news-releases/agfund-remporte-un-prix-international-pour-son-excellence-en-banque-inclusive-et-impact-social-302911978.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-18T12:27:00Z",
+      "epoch": 1792326420,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Faith: The Spark Born by the Yudu Riverside",
+      "summary": "BEIJING, Oct. 18, 2026 /PRNewswire/ -- An interview from China.org.cn with Wang Xiaohui and David Ferguson on the Long March: David Ferguson: This is the Yudu River. One dusk in October, 1934, more than 86,000 soldiers of the Red Army crossed this river and embarked on the Long M",
+      "url": "https://www.prnewswire.com/news-releases/faith-the-spark-born-by-the-yudu-riverside-302911977.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-18T12:26:00Z",
+      "epoch": 1792326360,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "UEG launches new Patient Representatives Advisory Board to strengthen patient voice in digestive health",
+      "summary": "United European Gastroenterology (UEG) has today launched its new Patient Representatives Advisory Board (PRAB), creating a dedicated platform to embed patient perspectives within its public affairs activities and wider efforts to improve digestive health across Europe. BARCELONA",
+      "url": "https://www.prnewswire.com/news-releases/ueg-launches-new-patient-representatives-advisory-board-to-strengthen-patient-voice-in-digestive-health-302908773.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-18T12:00:00Z",
+      "epoch": 1792324800,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "La UEG pone en marcha un nuevo Consejo Asesor de Representantes de Pacientes",
+      "summary": "- La UEG pone en marcha un nuevo Consejo Asesor de Representantes de Pacientes para reforzar la voz de los pacientes en el ámbito de la salud digestiva United European Gastroenterology (UEG) ha puesto en marcha hoy su nuevo Consejo Asesor de Representantes de Pacientes (PRAB, por",
+      "url": "https://www.prnewswire.com/news-releases/la-ueg-pone-en-marcha-un-nuevo-consejo-asesor-de-representantes-de-pacientes-302909512.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-18T12:00:00Z",
+      "epoch": 1792324800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "L'UEG lance un nouveau conseil consultatif de représentants des patients pour renforcer la voix des patients en matière de santé digestive",
+      "summary": "L'United European Gastroenterology (UEG) a lancé aujourd'hui son nouveau Conseil consultatif des représentants des patients (PRAB), créant une plateforme dédiée pour intégrer les perspectives des patients dans ses activités de relations publiques et ses efforts plus larges pour a",
+      "url": "https://www.prnewswire.com/news-releases/lueg-lance-un-nouveau-conseil-consultatif-de-representants-des-patients-pour-renforcer-la-voix-des-patients-en-matiere-de-sante-digestive-302908936.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-18T12:00:00Z",
+      "epoch": 1792324800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "UEG gründet neuen Patientenvertreterbeirat, um die Stimme der Patienten im Bereich der Verdauungsgesundheit zu stärken",
+      "summary": "United European Gastroenterology (UEG) hat heute ihren neuen Patient Representatives Advisory Board (PRAB) ins Leben gerufen und damit eine eigene Plattform geschaffen, um die Perspektiven der Patienten in ihre Aktivitäten im Bereich der Öffentlichkeitsarbeit und ihre umfassender",
+      "url": "https://www.prnewswire.com/news-releases/ueg-grundet-neuen-patientenvertreterbeirat-um-die-stimme-der-patienten-im-bereich-der-verdauungsgesundheit-zu-starken-302908984.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-18T12:00:00Z",
+      "epoch": 1792324800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Linktel Technologies Highlights Breakthrough 1.6T LPO Performance &amp; Strong Market Pull at OCP 2026",
+      "summary": "SAN JOSE, Calif., Oct. 18, 2026 /PRNewswire/ -- At the recent 2026 OCP Global Summit, Linktel Technologies showcased its cutting-edge optical interconnect portfolios engineered specifically for next-generation AI computing networks. Among the heavy lineup, Linktel's 1.6T Linear P",
+      "url": "https://www.prnewswire.com/news-releases/linktel-technologies-highlights-breakthrough-1-6t-lpo-performance--strong-market-pull-at-ocp-2026--302911973.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-18T11:53:00Z",
+      "epoch": 1792324380,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Fortschrittliche Fertigung im Fokus: Intelligentes Leben und Robotik im Rampenlicht der 140. Canton Fair",
       "summary": "GUANGZHOU, China, 18. Oktober 2026 /PRNewswire/ -- Die erste Phase der 140. Canton Fair mit dem Thema „Fortschrittliche Fertigung\" wurde am 15. Oktober eröffnet und läuft bis zum 19. Oktober. Als einer der am meisten beachteten Bereiche der Veranstaltung dient die Zone für...",
       "url": "https://www.prnewswire.com/news-releases/fortschrittliche-fertigung-im-fokus-intelligentes-leben-und-robotik-im-rampenlicht-der-140-canton-fair-302911965.html",
@@ -510,25 +608,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "Vale Base Metals schließt Transaktion zur Neuregelung der Eigentumsverhältnisse am Thompson-Minenkomplex ab",
-      "summary": "Die Transaktion läutet ein neues Kapitel für Thompson ein, gestützt durch neue Investitionen in Höhe von 200 Millionen US-Dollar (ca. 280 Millionen CAD) VBM behält eine Minderheitsbeteiligung von 18,9 % sowie einen mehrjährigen Abnahmevertrag, während Exiro Nickel den Betrieb des",
-      "url": "https://www.prnewswire.com/news-releases/vale-base-metals-schlieWt-transaktion-zur-neuregelung-der-eigentumsverhaltnisse-am-thompson-minenkomplex-ab-302911931.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-18T05:49:00Z",
-      "epoch": 1792302540,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Brayton Purcell LLP celebra el proyecto de ley federal que aborda la epidemia de silicosis por piedras artificiales",
       "summary": "La \"Silicosis Prevention and Treatment Act\" (Ley de Prevención y Tratamiento de la Silicosis) ampliaría la detección, el tratamiento, la educación y la atención al paciente, ya que los trabajadores de la fabricación de piedra artificial en California se enfrentan a un número crec",
       "url": "https://www.prnewswire.com/news-releases/brayton-purcell-llp-celebra-el-proyecto-de-ley-federal-que-aborda-la-epidemia-de-silicosis-por-piedras-artificiales-812337576.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-18T05:39:00Z",
       "epoch": 1792301940,
       "sentiment": 0.0,
@@ -541,8 +625,8 @@
       "title": "Rozhodnutie parížskeho súdu o zrušenej funkcii bude mať na zákazníkov Angelalign minimálny dopad",
       "summary": "Spoločnosť Angelalign už v Európe nahradila prvky „Torque Ridges\" vylepšenými tlakovými bodmi „Pressure Points\" SAN CLEMENTE, Kalifornia, 18. októbra 2026 /PRNewswire/ -- Spoločnosť Angelalign Technology Inc. (6699.HK) („Angel\") http://www.angelagner.com, ktorá sa zameriava na in",
       "url": "https://www.prnewswire.com/news-releases/rozhodnutie-pariskeho-sudu-o-zruenej-funkcii-bude-ma-na-zakaznikov-angelalign-minimalny-dopad-302911923.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-18T05:01:00Z",
       "epoch": 1792299660,
       "sentiment": 0.0,
@@ -555,8 +639,8 @@
       "title": "Решение парижского суда в отношении больше не используемого элемента конструкции окажет минимальное влияние на клиентов Angelalign",
       "summary": "Angelalign уже заменила Torque Ridges модернизированной системой Pressure Points в Европе САН-КЛЕМЕНТЕ, Калифорния, 18 октября 2026 г. /PRNewswire/ -- Angelalign Technology Inc. (6699.HK) («Angel») http://www.angelaligner.com, компания, занимающаяся инновациями в технологии...",
       "url": "https://www.prnewswire.com/news-releases/---------------angelalign-302911922.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-18T04:57:00Z",
       "epoch": 1792299420,
       "sentiment": 0.0,
@@ -569,8 +653,8 @@
       "title": "La sentencia de un tribunal de París tendrá un impacto mínimo en los clientes de Angelalign",
       "summary": "- La sentencia de un tribunal de París sobre una funcionalidad retirada tendrá un impacto mínimo en los clientes de Angelalign Angelalign ya ha sustituido los Torque Ridges por 'puntos de presión' mejorados en Europa. SAN CLEMENTE, Calif., 18 de octubre de 2026 /PRNewswire/ -- An",
       "url": "https://www.prnewswire.com/news-releases/la-sentencia-de-un-tribunal-de-paris-tendra-un-impacto-minimo-en-los-clientes-de-angelalign-302911921.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-18T04:53:00Z",
       "epoch": 1792299180,
       "sentiment": 0.0,
@@ -583,8 +667,8 @@
       "title": "La décision du tribunal de Paris concernant la suppression d'une fonctionnalité aura un impact minimal sur les clients d'Angelaign",
       "summary": "Angelalign a déjà remplacé les Torque Ridges par des points de pressions » perfectionnés en Europe SAN CLEMENTE, Californie, 18 octobre 2026 /PRNewswire/ -- Angelalign Technology Inc. (6699.HK) (« Angel ») http://www.angelaligner.com, une entreprise axée sur l'innovation dans la.",
       "url": "https://www.prnewswire.com/news-releases/la-decision-du-tribunal-de-paris-concernant-la-suppression-dune-fonctionnalite-aura-un-impact-minimal-sur-les-clients-dangelaign-302911920.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-18T04:50:00Z",
       "epoch": 1792299000,
       "sentiment": 0.0,
@@ -764,48 +848,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Brightmoor Hospice, LLC Provides Notification of Data Security Incident",
-      "summary": "GRIFFIN, Ga., Oct. 16, 2026 /PRNewswire/ -- Brightmoor Hospice, LLC (\"Brightmoor\") is providing notification of a data security incident that may have impacted certain protected health information. On or around March 25, 2026, Brightmoor Hospice, LLC (\"Brightmoor\") discovered sus",
-      "url": "https://www.prnewswire.com/news-releases/brightmoor-hospice-llc-provides-notification-of-data-security-incident-302911735.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-17T01:50:00Z",
-      "epoch": 1792201800,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Urteil des Pariser Gerichts zu einer eingestellten Funktion wird nur minimale Auswirkungen auf die Kunden von Angelalign haben",
-      "summary": "Angelalign hat in Europa „Torque Ridges\" bereits durch verbesserte „Pressure Points\" ersetzt SAN CLEMENTE, Kalifornien, 17. Oktober 2026 /PRNewswire/ -- Angelalign Technology Inc. (6699.HK) („Angel\") http://www.angelaligner.com, ein Unternehmen, das sich durch Innovationen im Ber",
-      "url": "https://www.prnewswire.com/news-releases/urteil-des-pariser-gerichts-zu-einer-eingestellten-funktion-wird-nur-minimale-auswirkungen-auf-die-kunden-von-angelalign-haben-302911731.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-17T01:29:00Z",
-      "epoch": 1792200540,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "EVIDENT Expands Its Pramana Digital Pathology Portfolio to Support Small and Medium-Sized Labs",
-      "summary": "The new Pramana™ POD benchtop WSI scanner delivers autonomous imaging to help laboratories create pathologist-ready whole slide images with minimal operator intervention. NEEDHAM, Mass., Oct. 16, 2026 /PRNewswire/ -- Today, Evident announced the Pramana™ POD whole slide imaging (",
-      "url": "https://www.prnewswire.com/news-releases/evident-expands-its-pramana-digital-pathology-portfolio-to-support-small-and-medium-sized-labs-302911714.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-17T00:30:00Z",
-      "epoch": 1792197000,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Corgi Insurance hires former Chubb Underwriting AVP James Kullman",
       "summary": "SAN FRANCISCO, Oct. 16, 2026 /PRNewswire/ -- Corgi Insurance today announced the appointment of James Kullman as Head of Underwriting, North America. Kullman brings nearly 15 years of experience in commercial insurance underwriting and management, with expertise spanning risk ass",
       "url": "https://www.prnewswire.com/news-releases/corgi-insurance-hires-former-chubb-underwriting-avp-james-kullman-302911690.html",
@@ -894,22 +936,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "The NXG Cushing® Midstream Energy Fund Announces Fund Name Change",
-      "summary": "DALLAS, Oct. 16, 2026 /PRNewswire/ -- The NXG Cushing® Midstream Energy Fund (NYSE: SRV) (the \"Fund\") today announced that the Fund's Board of Trustees (the \"Board\") approved certain changes to the name of the Fund and the Fund's non-fundamental investment policies. Effective Dec",
-      "url": "https://www.prnewswire.com/news-releases/the-nxg-cushing-midstream-energy-fund-announces-fund-name-change-302911618.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-16T20:15:00Z",
-      "epoch": 1792181700,
-      "sentiment": 0.0,
-      "tickers": [
-        "SRV"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "Bank of America Declares Preferred Stock Dividends Payable in November and December 2026",
       "summary": "CHARLOTTE, N.C., Oct. 16, 2026 /PRNewswire/ -- Bank of America Corporation today announced the Board of Directors has authorized regular cash dividends on the outstanding shares or depositary shares of the following series of preferred stock: Series of Preferred Stock Dividend pe",
       "url": "https://www.prnewswire.com/news-releases/bank-of-america-declares-preferred-stock-dividends-payable-in-november-and-december-2026-302911604.html",
@@ -924,6 +950,22 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
+    },
+    {
+      "title": "The NXG Cushing® Midstream Energy Fund Announces Fund Name Change",
+      "summary": "DALLAS, Oct. 16, 2026 /PRNewswire/ -- The NXG Cushing® Midstream Energy Fund (NYSE: SRV) (the \"Fund\") today announced that the Fund's Board of Trustees (the \"Board\") approved certain changes to the name of the Fund and the Fund's non-fundamental investment policies. Effective Dec",
+      "url": "https://www.prnewswire.com/news-releases/the-nxg-cushing-midstream-energy-fund-announces-fund-name-change-302911618.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-16T20:15:00Z",
+      "epoch": 1792181700,
+      "sentiment": 0.0,
+      "tickers": [
+        "SRV"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
     },
     {
       "title": "Akara Partners and Deven Group Close Financing on 305-Bed Class A Student Housing Development at San Diego State University",
@@ -964,20 +1006,6 @@
       "published_at": "2026-10-16T20:03:00Z",
       "epoch": 1792180980,
       "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Property Management Expert Amy Reynolds Explains Rental Income Strategies in HelloNation",
-      "summary": "The Article Explains How Investors Can Evaluate Rental Income, Property Expenses, and Potential Profits Before Purchasing an Investment Property. FAYETTEVILLE, N.C., Oct. 16, 2026 /PRNewswire/ -- What should investors evaluate before purchasing an investment property? HelloNation",
-      "url": "https://www.prnewswire.com/news-releases/property-management-expert-amy-reynolds-explains-rental-income-strategies-in-hellonation-302908517.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-16T19:29:00Z",
-      "epoch": 1792178940,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -2306,6 +2334,22 @@
       "tickers": [],
       "company_name": null,
       "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "GSK taps actress Viola Davis for shingles-focused campaign",
+      "summary": "The \"How to Get Away With Murder\" star is the face of GSK's \"Shingles, actually\" campaign, which positions an increased shingles risk as an untold reality of aging.",
+      "url": "https://www.fiercepharma.com/marketing/gsk-taps-actress-viola-davis-teach-adults-over-50-how-get-away-shingles-new-education",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-10-16T18:06:00Z",
+      "epoch": 1792173960,
+      "sentiment": -0.33,
+      "tickers": [
+        "GSK.L"
+      ],
+      "company_name": null,
+      "catalyst": false,
       "small_cap_risk": false
     },
     {
