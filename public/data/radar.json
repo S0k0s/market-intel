@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T22:24:43Z",
+  "generated_at": "2026-10-19T00:20:39Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 138,
+    "breaking_count": 142,
     "breaking_catalyst_count": 21,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 13,
@@ -64,7 +64,7 @@
       "source_count": 2
     },
     {
-      "ticker": "CB",
+      "ticker": "AXQ",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -370,6 +370,78 @@
       "small_cap_risk": false
     },
     {
+      "title": "FF EAI Robotics Ecosystem Inc. (FFR) Highlights Faraday Future Founder and Global CEO YT Jia's Weekly Investor Update: Three New Product Offerings Launched; More Details on FFR's Acquisition of FFAI's Robotics Business and Independent Public Listing",
+      "summary": "On October 26, FFR will hold its listing ceremony and first Investor Day at the Nasdaq Tower in New York, where management will share more about FFR's strategy and business plans, with more details to follow soon. Two new EAI Devices launched including FF Nova—America's first ent",
+      "url": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-inc-ffr-highlights-faraday-future-founder-and-global-ceo-yt-jias-weekly-investor-update-three-new-product-offerings-launched-more-details-on-ffrs-acquisition-of-ffais-robotics-business-and-indepen-302912061.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-19T00:10:00Z",
+      "epoch": 1792368600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "140th Canton Fair Amplifies Visibility for Hundreds of Product Debuts, Connecting Innovation with Global Demand",
+      "summary": "GUANGZHOU, China, Oct. 19, 2026 /PRNewswire/ -- The 140th Canton Fair opened on October 15 and will be held in three phases. Over 700 New Collection events will take place, representing a 15% increase from the previous session. To share these innovations with a broader audience, ",
+      "url": "https://www.prnewswire.com/news-releases/140th-canton-fair-amplifies-visibility-for-hundreds-of-product-debuts-connecting-innovation-with-global-demand-302911961.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-19T00:00:00Z",
+      "epoch": 1792368000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Die 140. Canton Fair steigert die Sichtbarkeit hunderter Produktneuheiten und verbindet Innovation mit globaler Nachfrage.",
+      "summary": "GUANGZHOU, China, 19. Oktober 2026 /PRNewswire/ -- Die 140. Canton Fair wurde am 15. Oktober eröffnet und findet in drei Phasen statt. Es werden über 700 Veranstaltungen zur neuen Kollektion stattfinden, was einem Anstieg von 15 % gegenüber der vorherigen Saison entspricht. Um di",
+      "url": "https://www.prnewswire.com/news-releases/die-140-canton-fair-steigert-die-sichtbarkeit-hunderter-produktneuheiten-und-verbindet-innovation-mit-globaler-nachfrage-302911967.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-19T00:00:00Z",
+      "epoch": 1792368000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "La 140ᵉ Foire de Canton accroît la visibilité de centaines de nouveaux produits, connectant l'innovation à la demande mondiale",
+      "summary": "GUANGZHOU, Chine, 19 octobre 2026 /PRNewswire/ -- La 140ᵉ Foire de Canton a ouvert ses portes le 15 octobre et se déroulera en trois phases. Plus de 700 événements « Nouvelle collection » auront lieu, soit une hausse de 15 % par rapport à la session précédente. Pour partager ces.",
+      "url": "https://www.prnewswire.com/news-releases/la-140-foire-de-canton-accroit-la-visibilite-de-centaines-de-nouveaux-produits-connectant-linnovation-a-la-demande-mondiale-302912004.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-19T00:00:00Z",
+      "epoch": 1792368000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Aura Q3 2026 Earnings Call and Quarterly Results",
+      "summary": "BOSTON, Oct. 18, 2026 /PRNewswire/ -- Aura (ASX: AXQ), a global leader in online safety and wellbeing, will release its Q3 2026 financial results on Thursday, 12th November 2026 prior to the ASX market opening. In addition, Aura will also release its Appendix 4C and Quarterly Act",
+      "url": "https://www.prnewswire.com/news-releases/aura-q3-2026-earnings-call-and-quarterly-results-302912050.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-18T23:03:00Z",
+      "epoch": 1792364580,
+      "sentiment": 0.0,
+      "tickers": [
+        "AXQ"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
       "title": "United in Faith, United Against Hate: \"Stand Up Sunday\" Mobilizes 2+ Million Americans in Historic Stand Against Hate",
       "summary": "National Coalition of Religious Leaders and Houses of Worship Led by Blue Square Alliance Against Hate and Appeal of Conscience Foundation Stood Together Against Antisemitism and All Faith-Based Hate FOXBOROUGH, Mass. and NEW YORK, Oct. 18, 2026 /PRNewswire/ -- As antisemitic hat",
       "url": "https://www.prnewswire.com/news-releases/united-in-faith-united-against-hate-stand-up-sunday-mobilizes-2-million-americans-in-historic-stand-against-hate-302912046.html",
@@ -512,25 +584,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "Lancement de l'Alliance des acheteurs de la Foire de Canton à l'occasion de l'ouverture de la 140ᵉ édition.",
-      "summary": "GUANGZHOU, Chine, 18 octobre 2026 /PRNewswire/ -- Le 15 octobre, l'Alliance des acheteurs de la Foire de Canton a été officiellement lancée au complexe de la Foire de Canton, marquant une étape importante alors que la foire célèbre le 70ᵉ anniversaire de sa fondation. Plus de 140",
-      "url": "https://www.prnewswire.com/news-releases/lancement-de-lalliance-des-acheteurs-de-la-foire-de-canton-a-loccasion-de-louverture-de-la-140-edition-302912000.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-18T17:43:00Z",
-      "epoch": 1792345380,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Changes to the Board of Directors of H. Lundbeck A/S",
       "summary": "Dorothea Wenzel, Chair of the Board, has informed the Board that she will step down in connection with the Annual General Meeting in 2027. Following the AGM, Lundbeck's Board intends to appoint Lars Fruergaard Jørgensen as the new Chair. Effective 10 November 2026, Lars Fruergaar",
       "url": "https://www.prnewswire.com/news-releases/changes-to-the-board-of-directors-of-h-lundbeck-as-302911999.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-18T17:42:00Z",
       "epoch": 1792345320,
       "sentiment": 0.0,
@@ -838,22 +896,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "Bank of America Declares Preferred Stock Dividends Payable in November and December 2026",
-      "summary": "CHARLOTTE, N.C., Oct. 16, 2026 /PRNewswire/ -- Bank of America Corporation today announced the Board of Directors has authorized regular cash dividends on the outstanding shares or depositary shares of the following series of preferred stock: Series of Preferred Stock Dividend pe",
-      "url": "https://www.prnewswire.com/news-releases/bank-of-america-declares-preferred-stock-dividends-payable-in-november-and-december-2026-302911604.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-16T20:15:00Z",
-      "epoch": 1792181700,
-      "sentiment": 0.33,
-      "tickers": [
-        "BAC"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "The NXG Cushing® Midstream Energy Fund Announces Fund Name Change",
       "summary": "DALLAS, Oct. 16, 2026 /PRNewswire/ -- The NXG Cushing® Midstream Energy Fund (NYSE: SRV) (the \"Fund\") today announced that the Fund's Board of Trustees (the \"Board\") approved certain changes to the name of the Fund and the Fund's non-fundamental investment policies. Effective Dec",
       "url": "https://www.prnewswire.com/news-releases/the-nxg-cushing-midstream-energy-fund-announces-fund-name-change-302911618.html",
@@ -868,6 +910,22 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
+    },
+    {
+      "title": "Bank of America Declares Preferred Stock Dividends Payable in November and December 2026",
+      "summary": "CHARLOTTE, N.C., Oct. 16, 2026 /PRNewswire/ -- Bank of America Corporation today announced the Board of Directors has authorized regular cash dividends on the outstanding shares or depositary shares of the following series of preferred stock: Series of Preferred Stock Dividend pe",
+      "url": "https://www.prnewswire.com/news-releases/bank-of-america-declares-preferred-stock-dividends-payable-in-november-and-december-2026-302911604.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-16T20:15:00Z",
+      "epoch": 1792181700,
+      "sentiment": 0.33,
+      "tickers": [
+        "BAC"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
     },
     {
       "title": "Akara Partners and Deven Group Close Financing on 305-Bed Class A Student Housing Development at San Diego State University",
