@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:31:43Z",
+  "generated_at": "2026-10-20T00:39:34Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 150,
@@ -46,25 +46,25 @@
       "source_count": 3
     },
     {
-      "ticker": "MMM",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 2
-    },
-    {
-      "ticker": "CNC",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 2
-    },
-    {
       "ticker": "STLD",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
     },
     {
+      "ticker": "2359.HK",
+      "count": 2,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
       "ticker": "HBCP",
+      "count": 2,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "LH",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 1
@@ -426,145 +426,191 @@
       "small_cap_risk": false
     },
     {
-      "title": "3M announces collaboration with GSEO to advance Expanded Beam Optical manufacturing and development",
-      "summary": "ST. PAUL, Minn., Oct. 19, 2026 /PRNewswire/ -- 3M (NYSE: MMM) today announced a collaboration with Genius Electronic Optical Co., Ltd. (GSEO, Taiwan: 3406), an optical technology company, to advance technology development and manufacturing for 3M's Expanded Beam Optical (EBO) sol",
-      "url": "https://www.prnewswire.com/news-releases/3m-announces-collaboration-with-gseo-to-advance-expanded-beam-optical-manufacturing-and-development-302913170.html",
+      "title": "Keyser's Award-Winning Culture Spotlighted Through Leadership Profile of Partner Olivia Barajas",
+      "summary": "Named Top 10 Directors of Marketing by managemarketing.com, Barajas's success highlights how Keyser's culture of selfless service, leadership development and innovation translates into growth from within. SCOTTSDALE, Ariz., Oct. 19, 2026 /PRNewswire/ -- Keyser Commercial Real Est",
+      "url": "https://www.prnewswire.com/news-releases/keysers-award-winning-culture-spotlighted-through-leadership-profile-of-partner-olivia-barajas-302913319.html",
       "source": "PR Newswire — Clinical Trials/FDA",
       "source_id": "prnewswire-trials-fda",
-      "published_at": "2026-10-19T21:31:00Z",
-      "epoch": 1792445460,
-      "sentiment": 0.0,
-      "tickers": [
-        "MMM"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "College Student Mental Health: New AllOne Health Research Reveals Who Seeks Counseling and How They Access Care",
-      "summary": "Peer-reviewed research examines 2,800 counseling cases across 36 higher education institutions, revealing how students access support for mental health, relationship concerns, and everyday stress. WILKES-BARRE, Pa., Oct. 19, 2026 /PRNewswire/ -- Anxiety, depression, and grief wer",
-      "url": "https://www.prnewswire.com/news-releases/college-student-mental-health-new-allone-health-research-reveals-who-seeks-counseling-and-how-they-access-care-302913168.html",
-      "source": "PR Newswire — Clinical Trials/FDA",
-      "source_id": "prnewswire-trials-fda",
-      "published_at": "2026-10-19T21:30:00Z",
-      "epoch": 1792445400,
-      "sentiment": -0.33,
+      "published_at": "2026-10-20T00:25:00Z",
+      "epoch": 1792455900,
+      "sentiment": 1.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
     {
-      "title": "CENTENE CORPORATION TO HOST 2026 THIRD QUARTER FINANCIAL RESULTS EARNINGS CALL",
-      "summary": "ST. LOUIS, Oct. 19, 2026 /PRNewswire/ -- Centene Corporation (NYSE: CNC), a leading healthcare enterprise committed to helping people live healthier lives, shared today that it will release its 2026 third quarter financial results at approximately 6:00 a.m. ET on Tuesday, October",
-      "url": "https://www.prnewswire.com/news-releases/centene-corporation-to-host-2026-third-quarter-financial-results-earnings-call-302913169.html",
+      "title": "Beauty Was Amazon's Most-Purchased Category During Prime Big Deal Days 2026, Market Defense Report Finds",
+      "summary": "Beauty shoppers searched almost as much in two days as in four, bought with intent at close to full price, and started their holiday shopping in beauty SEATTLE, Oct. 19, 2026 /PRNewswire/ -- Beauty & Cosmetics was the most-purchased category on Amazon during Prime Big Deal Days 2",
+      "url": "https://www.prnewswire.com/news-releases/beauty-was-amazons-most-purchased-category-during-prime-big-deal-days-2026-market-defense-report-finds-302913313.html",
       "source": "PR Newswire — Clinical Trials/FDA",
       "source_id": "prnewswire-trials-fda",
-      "published_at": "2026-10-19T21:30:00Z",
-      "epoch": 1792445400,
-      "sentiment": 0.0,
-      "tickers": [
-        "CNC"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Sunlight AI Launches with $17.4M to Help Physicians Thrive Independently",
-      "summary": "Sunlight is building the unified operating layer for independent practices, announcing $17.4 million in seed funding and the acquisition of Bradford Medical Associates. NEW YORK, Oct. 19, 2026 /PRNewswire/ -- Sunlight AI today announced its launch, $17.4 million in seed funding t",
-      "url": "https://www.prnewswire.com/news-releases/sunlight-ai-launches-with-17-4m-to-help-physicians-thrive-independently-302913153.html",
-      "source": "PR Newswire — Clinical Trials/FDA",
-      "source_id": "prnewswire-trials-fda",
-      "published_at": "2026-10-19T21:16:00Z",
-      "epoch": 1792444560,
+      "published_at": "2026-10-20T00:15:00Z",
+      "epoch": 1792455300,
       "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "In HelloNation, Expert Home Builder John McKnight Examines What Features Add the Most Value to New Homes in Odessa, TX",
-      "summary": "The article explains how design, efficiency, and adaptability influence homeowner satisfaction and long-term value. ODESSA, Texas, Oct. 19, 2026 /PRNewswire/ -- What features make the biggest difference when evaluating new homes in Odessa, TX? HelloNation has published an article",
-      "url": "https://www.prnewswire.com/news-releases/in-hellonation-expert-home-builder-john-mcknight-examines-what-features-add-the-most-value-to-new-homes-in-odessa-tx-302840039.html",
-      "source": "PR Newswire — Clinical Trials/FDA",
-      "source_id": "prnewswire-trials-fda",
-      "published_at": "2026-10-19T21:10:00Z",
-      "epoch": 1792444200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "AtkinsRéalis, the State of Indiana and Hoosier Energy Partner to Advance U.S. Energy Goals with Evaluation of CANDU® Nuclear Technology Deployment",
-      "summary": "INDIANAPOLIS, Oct. 19, 2026 /PRNewswire/ -- AtkinsRéalis Group Inc., a world-class engineering services and nuclear company with offices around the world, today announced that AtkinsRéalis, the State of Indiana and Hoosier Energy Rural Electric Cooperative have signed a Memorandu",
-      "url": "https://www.prnewswire.com/news-releases/atkinsrealis-the-state-of-indiana-and-hoosier-energy-partner-to-advance-us-energy-goals-with-evaluation-of-candu-nuclear-technology-deployment-302913145.html",
-      "source": "PR Newswire — Clinical Trials/FDA",
-      "source_id": "prnewswire-trials-fda",
-      "published_at": "2026-10-19T21:08:00Z",
-      "epoch": 1792444080,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "STANDEX ANNOUNCES APPOINTMENT OF SAMANTHA STODDARD AS CHIEF FINANCIAL OFFICER",
-      "summary": "SALEM, N.H., Oct. 19, 2026 /PRNewswire/ -- Standex International Corporation (NYSE: SXI), a leading manufacturer of highly engineered components and systems, today announced the appointment of Samantha L. Stoddard as Vice President, Chief Financial Officer and Treasurer, effectiv",
-      "url": "https://www.prnewswire.com/news-releases/standex-announces-appointment-of-samantha-stoddard-as-chief-financial-officer-302913142.html",
-      "source": "PR Newswire — Clinical Trials/FDA",
-      "source_id": "prnewswire-trials-fda",
-      "published_at": "2026-10-19T21:05:00Z",
-      "epoch": 1792443900,
-      "sentiment": 0.0,
       "tickers": [
-        "SXI"
+        "AMZN"
       ],
       "company_name": null,
       "catalyst": false,
-      "small_cap_risk": true
+      "small_cap_risk": false
     },
     {
-      "title": "AFTER HEMI-SHOULDER REPLACEMENT, VEGAN STRONG PLANTBUILT POWERLIFTER RYAN STILLS CLAIMS SIXTH WORLD TITLE",
-      "summary": "Portland's vegan athlete earns three gold medals at IPF World Masters Championships following a potentially career-ending setback PORTLAND, Ore., Oct. 19, 2026 /PRNewswire/ -- Two years after a shoulder replacement threatened to end his competitive lifting career, Vegan Strong Pl",
-      "url": "https://www.prnewswire.com/news-releases/after-hemi-shoulder-replacement-vegan-strong-plantbuilt-powerlifter-ryan-stills-claims-sixth-world-title-302913137.html",
+      "title": "MAHA Action backs Ken Paxton's Senate Push With $1.3 Million",
+      "summary": "A $1.3 million donation in Texas marks MAHA Action's closing-stretch commitments in a key midterm race WASHINGTON, Oct. 19, 2026 /PRNewswire/ -- MAHA Action today announced an additional final-stretch commitment in a key race where the Make America Healthy Again agenda is on the ",
+      "url": "https://www.prnewswire.com/news-releases/maha-action-backs-ken-paxtons-senate-push-with-1-3-million-302913308.html",
       "source": "PR Newswire — Clinical Trials/FDA",
       "source_id": "prnewswire-trials-fda",
-      "published_at": "2026-10-19T21:02:00Z",
-      "epoch": 1792443720,
+      "published_at": "2026-10-20T00:10:00Z",
+      "epoch": 1792455000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Ascletis Announces Positive Preclinical Data for the Most Comprehensive Once-Weekly Oral Peptide Pipeline for the Treatment of Obesity",
+      "summary": "- Ascletis' industry-leading once-weekly oral peptide pipeline covers all four validated targets, with multiple first-in-class fixed-dose combinations. - ASC36o, a once-weekly oral amylin receptor peptide agonist, is the most advanced drug candidate of Ascletis' once-weekly oral ",
+      "url": "https://www.prnewswire.com/news-releases/ascletis-announces-positive-preclinical-data-for-the-most-comprehensive-once-weekly-oral-peptide-pipeline-for-the-treatment-of-obesity-302912813.html",
+      "source": "PR Newswire — Clinical Trials/FDA",
+      "source_id": "prnewswire-trials-fda",
+      "published_at": "2026-10-20T00:10:00Z",
+      "epoch": 1792455000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Greenberg Traurig's Pallav Raghuvanshi Named Tax Club of New York President",
+      "summary": "NEW YORK, Oct. 19, 2026 /PRNewswire/ -- Global law firm Greenberg Traurig, LLP Tax Practice Shareholder Pallav Raghuvanshi was recently named president of the Tax Club of New York for the 2026-2027 term. Founded in 1967, the Tax Club of New York is a 501(c)(3) organization compri",
+      "url": "https://www.prnewswire.com/news-releases/greenberg-traurigs-pallav-raghuvanshi-named-tax-club-of-new-york-president-302913180.html",
+      "source": "PR Newswire — Clinical Trials/FDA",
+      "source_id": "prnewswire-trials-fda",
+      "published_at": "2026-10-20T00:05:00Z",
+      "epoch": 1792454700,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "WuXi AppTec Receives Frost &amp; Sullivan's Global Company of the Year Recognition in CRDMO for Tenth Consecutive Year",
+      "summary": "SHANGHAI, Oct. 19, 2026 /PRNewswire/ -- WuXi AppTec, a leading global pharmaceutical CRDMO (Contract Research, Development, and Manufacturing Organization), has received Frost & Sullivan's 2026 Global Company of the Year Recognition in the CRDMO industry for the tenth consecutive",
+      "url": "https://www.prnewswire.com/news-releases/wuxi-apptec-receives-frost--sullivans-global-company-of-the-year-recognition-in-crdmo-for-tenth-consecutive-year-302912427.html",
+      "source": "PR Newswire — Clinical Trials/FDA",
+      "source_id": "prnewswire-trials-fda",
+      "published_at": "2026-10-20T00:00:00Z",
+      "epoch": 1792454400,
+      "sentiment": 0.0,
+      "tickers": [
+        "2359.HK"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "140th Canton Fair: Green Innovation Drives China's Contribution to a Low-Carbon Future",
+      "summary": "GUANGZHOU, China, Oct. 19, 2026 /PRNewswire/ -- As climate change and sustainable development continue to shape the global agenda, China is reinforcing its commitment through both policy support and technological innovation. Exports of major green products, including electric veh",
+      "url": "https://www.prnewswire.com/news-releases/140th-canton-fair-green-innovation-drives-chinas-contribution-to-a-low-carbon-future-302912460.html",
+      "source": "PR Newswire — Clinical Trials/FDA",
+      "source_id": "prnewswire-trials-fda",
+      "published_at": "2026-10-20T00:00:00Z",
+      "epoch": 1792454400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Frost &amp; Sullivan awards WuXi AppTec with 2026 Global Company of the Year Recognition for CRDMO Leadership",
+      "summary": "Integrated capabilities, global capacity, and customer-centric innovation strengthen WuXi AppTec's position in the evolving contract research, development, and manufacturing (CRDMO) landscape. SAN ANTONIO, Oct. 19, 2026 /PRNewswire/ -- Frost & Sullivan has awarded WuXi AppTec the",
+      "url": "https://www.prnewswire.com/news-releases/frost--sullivan-awards-wuxi-apptec-with-2026-global-company-of-the-year-recognition-for-crdmo-leadership-302911376.html",
+      "source": "PR Newswire — Clinical Trials/FDA",
+      "source_id": "prnewswire-trials-fda",
+      "published_at": "2026-10-20T00:00:00Z",
+      "epoch": 1792454400,
+      "sentiment": 0.0,
+      "tickers": [
+        "2359.HK"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Honeywell Aerospace forecast shows business aviation growth, expanding fleets and strong utilization continuing through 2035",
+      "summary": "35th annual Global Business Aviation Outlook projects 9,950 new business jet deliveries over the next decade, up 4.4% from last year Global business aviation fleet is projected to expand by approximately 29% in next decade Aircraft utilization continues to grow as operators adapt",
+      "url": "https://www.prnewswire.com/news-releases/honeywell-aerospace-forecast-shows-business-aviation-growth-expanding-fleets-and-strong-utilization-continuing-through-2035-302912754.html",
+      "source": "PR Newswire — Clinical Trials/FDA",
+      "source_id": "prnewswire-trials-fda",
+      "published_at": "2026-10-20T00:00:00Z",
+      "epoch": 1792454400,
       "sentiment": 0.67,
+      "tickers": [
+        "HONA"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Colossal to Repatriate Rare Moa Egg to Aotearoa (New Zealand)",
+      "summary": "Colossal secured one of the world's few surviving moa eggs and will entrust it to New Zealand-based moa de-extinction program partners, to ensure the egg returns to its rightful land and people. CHRISTCHURCH, New Zealand and DALLAS, Oct. 19, 2026 /PRNewswire/ -- Colossal Bioscien",
+      "url": "https://www.prnewswire.com/news-releases/colossal-to-repatriate-rare-moa-egg-to-aotearoa-new-zealand-302913296.html",
+      "source": "PR Newswire — Clinical Trials/FDA",
+      "source_id": "prnewswire-trials-fda",
+      "published_at": "2026-10-19T23:58:00Z",
+      "epoch": 1792454280,
+      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
     {
-      "title": "How to Choose Paper for Fine Art Prints Explained in HelloNation Article Featuring Art Print Expert Henry McCoy",
-      "summary": "The article outlines how paper choices affect color, texture, and longevity in reproductions of artwork. RUSTON, La., Oct. 19, 2026 /PRNewswire/ -- What factors matter most when selecting materials for high-quality art reproduction? HelloNation has published the piece and provide",
-      "url": "https://www.prnewswire.com/news-releases/how-to-choose-paper-for-fine-art-prints-explained-in-hellonation-article-featuring-art-print-expert-henry-mccoy-302843847.html",
+      "title": "Whirlpool Corporation Welcomes Karin Risi to Board of Directors",
+      "summary": "BENTON HARBOR, Mich., Oct. 19, 2026 /PRNewswire/ -- The Whirlpool Corp. board of directors has appointed Karin Risi, a former Vanguard senior executive with more than 30 years of experience in asset and wealth management, effective immediately. Risi will serve on the Finance and ",
+      "url": "https://www.prnewswire.com/news-releases/whirlpool-corporation-welcomes-karin-risi-to-board-of-directors-302913287.html",
       "source": "PR Newswire — Clinical Trials/FDA",
       "source_id": "prnewswire-trials-fda",
-      "published_at": "2026-10-19T21:01:00Z",
-      "epoch": 1792443660,
-      "sentiment": -0.33,
+      "published_at": "2026-10-19T23:44:00Z",
+      "epoch": 1792453440,
+      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
     {
-      "title": "Tumor Ablation Market Set to Surge to US$ 1.8 Billion by 2031, Growing at 11.6% CAGR: Wissen Research",
-      "summary": "SHERIDAN, Wyo., Oct. 19, 2026 /PRNewswire/ -- The global tumor ablation market is valued at USD 1.04 billion in 2026 and is projected to reach USD 1.8 billion by 2031, growing at a CAGR of 11.6% over the forecast period (2026–2031), according to a new study by Wissen Research. Tu",
-      "url": "https://www.prnewswire.com/news-releases/tumor-ablation-market-set-to-surge-to-us-1-8-billion-by-2031--growing-at-11-6-cagr-wissen-research-302913085.html",
+      "title": "Former BlackRock Executive Violet Osterberg Named Chair of ACERO CAPITAL Advisory Board",
+      "summary": "Appointment strengthens ACERO's drive to channel institutional capital into Caribbean and Latin American growth NEW YORK, Oct. 19, 2026 /PRNewswire/ -- ACERO CAPITAL Inc. (\"ACERO\"), the Barbados-based investment and financial advisory firm, today announced the appointment of Viol",
+      "url": "https://www.prnewswire.com/news-releases/former-blackrock-executive-violet-osterberg-named-chair-of-acero-capital-advisory-board-302913285.html",
       "source": "PR Newswire — Clinical Trials/FDA",
       "source_id": "prnewswire-trials-fda",
-      "published_at": "2026-10-19T21:01:00Z",
-      "epoch": 1792443660,
+      "published_at": "2026-10-19T23:40:00Z",
+      "epoch": 1792453200,
+      "sentiment": 0.33,
+      "tickers": [
+        "BLK"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "POLLO CAMPERO NAMES JULIO SÁNCHEZ CEO OF ITS U.S. BUSINESS",
+      "summary": "Industry leader with 25-plus years of experience to guide the Guatemalan-born brand's next chapter of U.S. growth DALLAS, Oct. 19, 2026 /PRNewswire/ -- Pollo Campero, the Guatemalan-born quick-service restaurant known for its fried and roasted chicken, has named industry veteran ",
+      "url": "https://www.prnewswire.com/news-releases/pollo-campero-names-julio-sanchez-ceo-of-its-us-business-302913199.html",
+      "source": "PR Newswire — Clinical Trials/FDA",
+      "source_id": "prnewswire-trials-fda",
+      "published_at": "2026-10-19T23:26:00Z",
+      "epoch": 1792452360,
       "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
@@ -572,41 +618,13 @@
       "small_cap_risk": false
     },
     {
-      "title": "Firmable launches Tech Intelligence, showing B2B sales teams what their prospects actually run and who to call about it",
-      "summary": "Firmable now detects 75,317 technologies across 19 million businesses, including the back-office infrastructure that website-based technographics miss. Every detection provides critical business context and comes with verified decision-maker contacts. SAN FRANCISCO and MELBOURNE,",
-      "url": "https://www.prnewswire.com/news-releases/firmable-launches-tech-intelligence-showing-b2b-sales-teams-what-their-prospects-actually-run-and-who-to-call-about-it-302913055.html",
+      "title": "Owners In Honor® Awarded SBA Grant to Expand National Business Acquisition Training for Veterans",
+      "summary": "Funding from the SBA Office of Veterans Business Development will scale Buyers Basecamp through the VBOC network HOUSTON, Oct. 19, 2026 /PRNewswire/ -- Owners In Honor® (OIH), a national nonprofit dedicated to Entrepreneurship Through Acquisition (ETA) for Veterans, Service Membe",
+      "url": "https://www.prnewswire.com/news-releases/owners-in-honor-awarded-sba-grant-to-expand-national-business-acquisition-training-for-veterans-302913275.html",
       "source": "PR Newswire — Clinical Trials/FDA",
       "source_id": "prnewswire-trials-fda",
-      "published_at": "2026-10-19T21:00:00Z",
-      "epoch": 1792443600,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "D2L Signs First Strategic Vietnam Customer as Van Lang Education Group Adopts D2L Brightspace",
-      "summary": "Five-year agreement will underpin campus, online and lifelong learning across the Van Lang ecosystem TORONTO, Oct. 19, 2026 /PRNewswire/ -- D2L, a global leader in learning innovation, today announced that Van Lang Investment and Education Management Group Corporation (Van Lang E",
-      "url": "https://www.prnewswire.com/news-releases/d2l-signs-first-strategic-vietnam-customer-as-van-lang-education-group-adopts-d2l-brightspace-302912780.html",
-      "source": "PR Newswire — Clinical Trials/FDA",
-      "source_id": "prnewswire-trials-fda",
-      "published_at": "2026-10-19T21:00:00Z",
-      "epoch": 1792443600,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "HelloNation Article Explains Roof Inspection Importance With Insights From Roofing Expert Seth Brown",
-      "summary": "The article outlines how annual inspections help prevent damage and extend the life of a residential roof in the Greater Richmond area. ASHLAND, Va., Oct. 19, 2026 /PRNewswire/ -- What role does a roof inspection play in protecting a home from long-term damage? HelloNation has pu",
-      "url": "https://www.prnewswire.com/news-releases/hellonation-article-explains-roof-inspection-importance-with-insights-from-roofing-expert-seth-brown-302912555.html",
-      "source": "PR Newswire — Clinical Trials/FDA",
-      "source_id": "prnewswire-trials-fda",
-      "published_at": "2026-10-19T20:58:00Z",
-      "epoch": 1792443480,
+      "published_at": "2026-10-19T23:24:00Z",
+      "epoch": 1792452240,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -862,20 +880,6 @@
       "published_at": "2026-10-19T20:19:00Z",
       "epoch": 1792441140,
       "sentiment": 1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Crawl Space Mold Explained In HelloNation Article Featuring Waterproofing Expert Brian Lepore",
-      "summary": "The article outlines how moisture control and mold inspection help protect indoor air quality in New Jersey homes. MEDFORD, NJ., Oct. 19, 2026 /PRNewswire/ -- What makes crawl space mold a concern for homeowners in New Jersey homes? HelloNation has published an article that provi",
-      "url": "https://www.prnewswire.com/news-releases/crawl-space-mold-explained-in-hellonation-article-featuring-waterproofing-expert-brian-lepore-302886176.html",
-      "source": "PR Newswire — Biotechnology",
-      "source_id": "prnewswire-biotech",
-      "published_at": "2026-10-19T20:19:00Z",
-      "epoch": 1792441140,
-      "sentiment": -0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -1228,20 +1232,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Newmark Launches Industrial Outdoor Storage Practice, Expanding Capabilities Across North America",
-      "summary": "Specialized advisors will serve owners and occupiers of industrial outdoor storage (IOS) assets, a property type whose rents have risen 123% since 2020, more than double the growth of bulk warehouse. NEW YORK, Oct. 19, 2026 /PRNewswire/ -- Newmark announces the launch of its dedi",
-      "url": "https://www.prnewswire.com/news-releases/newmark-launches-industrial-outdoor-storage-practice-expanding-capabilities-across-north-america-302912896.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-19T19:00:00Z",
-      "epoch": 1792436400,
-      "sentiment": 1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "GLENBROOK CROSSES 30% OWNERSHIP OF SENESTECH",
       "summary": "Glenbrook Believes Better Market Strategy and Sharpened Capitalization Focus Would Create Significant Upside MINDEN, Nev., Oct. 19, 2026 /PRNewswire/ -- Glenbrook Capital Management (\"Glenbrook\"), a long-time shareholder of SenesTech, Inc. (NASDAQ: SNES) (the \"Company\") and owner",
       "url": "https://www.prnewswire.com/news-releases/glenbrook-crosses-30-ownership-of-senestech-302912974.html",
@@ -1256,6 +1246,20 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
+    },
+    {
+      "title": "Newmark Launches Industrial Outdoor Storage Practice, Expanding Capabilities Across North America",
+      "summary": "Specialized advisors will serve owners and occupiers of industrial outdoor storage (IOS) assets, a property type whose rents have risen 123% since 2020, more than double the growth of bulk warehouse. NEW YORK, Oct. 19, 2026 /PRNewswire/ -- Newmark announces the launch of its dedi",
+      "url": "https://www.prnewswire.com/news-releases/newmark-launches-industrial-outdoor-storage-practice-expanding-capabilities-across-north-america-302912896.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-19T19:00:00Z",
+      "epoch": 1792436400,
+      "sentiment": 1.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
     },
     {
       "title": "Nest Health, Creator of Whole-Family In-Home Care for Medicaid, Names Peter Morrison First Chief Growth Officer to Lead Multistate Expansion",
@@ -1288,20 +1292,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Human-Animal Bond Reaches New High as the Science on the Health Benefits of Pets Goes Mainstream",
-      "summary": "HABRI's 2026 Human-Animal Bond Benchmark Survey finds rise in pet ownership connected to research-backed health benefits WASHINGTON, Oct. 19, 2026 /PRNewswire/ -- The Human Animal Bond Research Institute (HABRI) today announced the results of its new benchmark survey of Americans",
-      "url": "https://www.prnewswire.com/news-releases/human-animal-bond-reaches-new-high-as-the-science-on-the-health-benefits-of-pets-goes-mainstream-302912943.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-19T18:05:00Z",
-      "epoch": 1792433100,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Amedea Pharma Presents 2026 Medical Innovation Olympics Winners -- Finalists Earn San Francisco Presentations During J.P. Morgan 2027",
       "summary": "DIAPIN Therapeutics and Adelle Diagnostics win Gold at Rockefeller Center NEW YORK, Oct. 19, 2026 /PRNewswire/ -- Jessica Reed, CEO, DIAPIN Therapeutics, and Maria Grazia Ruocco, CEO/Co-Founder, Adelle Diagnostics, won PRODUCT and CONCEPT Gold at the fifth annual Medical Innovati",
       "url": "https://www.prnewswire.com/news-releases/amedea-pharma-presents-2026-medical-innovation-olympics-winners--finalists-earn-san-francisco-presentations-during-jp-morgan-2027-302912941.html",
@@ -1310,6 +1300,20 @@
       "published_at": "2026-10-19T18:05:00Z",
       "epoch": 1792433100,
       "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Human-Animal Bond Reaches New High as the Science on the Health Benefits of Pets Goes Mainstream",
+      "summary": "HABRI's 2026 Human-Animal Bond Benchmark Survey finds rise in pet ownership connected to research-backed health benefits WASHINGTON, Oct. 19, 2026 /PRNewswire/ -- The Human Animal Bond Research Institute (HABRI) today announced the results of its new benchmark survey of Americans",
+      "url": "https://www.prnewswire.com/news-releases/human-animal-bond-reaches-new-high-as-the-science-on-the-health-benefits-of-pets-goes-mainstream-302912943.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-10-19T18:05:00Z",
+      "epoch": 1792433100,
+      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -1340,6 +1344,20 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Phunware, Inc.",
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Tigerlily Foundation Brings Patients, Advocates and Healthcare Leaders to Washington, DC for 20th Anniversary Events Advancing Health",
+      "summary": "WASHINGTON, Oct. 19, 2026 /PRNewswire/ -- Tigerlily Foundation will mark a milestone 20 years of impact on Saturday, October 24, 2026, with two signature events at the Grand Hyatt Washington: the 4th Annual BEACON Symposium and the 20th Anniversary EmPOWER Ball. Together, the eve",
+      "url": "https://www.prnewswire.com/news-releases/tigerlily-foundation-brings-patients-advocates-and-healthcare-leaders-to-washington-dc-for-20th-anniversary-events-advancing-health-302912915.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-10-19T17:26:00Z",
+      "epoch": 1792430760,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
@@ -2220,20 +2238,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Cco Holdings Capital Corp",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - CCO HOLDINGS LLC (0001271833) (Filer)",
-      "summary": "Filed:  2026-10-19  AccNo:  0001091667-26-000060  Size:  648 KB\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1271833/000109166726000060/0001091667-26-000060-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-10-19T16:07:05Z",
-      "epoch": 1792426025,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Cco Holdings Llc",
       "catalyst": false,
       "small_cap_risk": false
     }
