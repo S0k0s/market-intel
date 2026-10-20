@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T00:39:34Z",
+  "generated_at": "2026-10-20T05:18:38Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 150,
@@ -1010,22 +1010,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "Eloxx Pharmaceuticals Appoints Biopharmaceutical Industry Veteran Geno Germano to its Board of Directors",
-      "summary": "Mr. Germano brings more than 35 years of biopharmaceutical leadership experience, including as Group President of Pfizer's Global Innovative Pharmaceutical business Extensive public company board experience, including current service as Chairman of Entera Bio and as a director of",
-      "url": "https://www.prnewswire.com/news-releases/eloxx-pharmaceuticals-appoints-biopharmaceutical-industry-veteran-geno-germano-to-its-board-of-directors-302913021.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-19T20:05:00Z",
-      "epoch": 1792440300,
-      "sentiment": 0.0,
-      "tickers": [
-        "PFE"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Solventum Announces FDA 510(k) Clearance for Combined Use of Restrata™ Matrix and Solventum™ V.A.C.® Therapy*",
       "summary": "First-of-its-kind clearance combines two advanced wound care technologies into one path for active healing to help streamline care and improve patient outcomes Clearance pairs innovative synthetic electrospun fiber matrix technology with an industry-leading negative pressure woun",
       "url": "https://www.prnewswire.com/news-releases/solventum-announces-fda-510k-clearance-for-combined-use-of-restrata-matrix-and-solventum-vac-therapy-302913027.html",
@@ -1036,6 +1020,22 @@
       "sentiment": 0.0,
       "tickers": [
         "SOLV"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Eloxx Pharmaceuticals Appoints Biopharmaceutical Industry Veteran Geno Germano to its Board of Directors",
+      "summary": "Mr. Germano brings more than 35 years of biopharmaceutical leadership experience, including as Group President of Pfizer's Global Innovative Pharmaceutical business Extensive public company board experience, including current service as Chairman of Entera Bio and as a director of",
+      "url": "https://www.prnewswire.com/news-releases/eloxx-pharmaceuticals-appoints-biopharmaceutical-industry-veteran-geno-germano-to-its-board-of-directors-302913021.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-10-19T20:05:00Z",
+      "epoch": 1792440300,
+      "sentiment": 0.0,
+      "tickers": [
+        "PFE"
       ],
       "company_name": null,
       "catalyst": false,
@@ -1344,20 +1344,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Phunware, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Tigerlily Foundation Brings Patients, Advocates and Healthcare Leaders to Washington, DC for 20th Anniversary Events Advancing Health",
-      "summary": "WASHINGTON, Oct. 19, 2026 /PRNewswire/ -- Tigerlily Foundation will mark a milestone 20 years of impact on Saturday, October 24, 2026, with two signature events at the Grand Hyatt Washington: the 4th Annual BEACON Symposium and the 20th Anniversary EmPOWER Ball. Together, the eve",
-      "url": "https://www.prnewswire.com/news-releases/tigerlily-foundation-brings-patients-advocates-and-healthcare-leaders-to-washington-dc-for-20th-anniversary-events-advancing-health-302912915.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-19T17:26:00Z",
-      "epoch": 1792430760,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
@@ -2238,6 +2224,20 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Cco Holdings Capital Corp",
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - CCO HOLDINGS LLC (0001271833) (Filer)",
+      "summary": "Filed:  2026-10-19  AccNo:  0001091667-26-000060  Size:  648 KB\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1271833/000109166726000060/0001091667-26-000060-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-10-19T16:07:05Z",
+      "epoch": 1792426025,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Cco Holdings Llc",
       "catalyst": false,
       "small_cap_risk": false
     }
