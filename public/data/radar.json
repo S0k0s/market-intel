@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T05:18:38Z",
+  "generated_at": "2026-10-20T10:16:00Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 150,
-    "breaking_catalyst_count": 25,
+    "breaking_catalyst_count": 26,
     "pipeline_count": 59,
-    "pipeline_catalyst_count": 15,
+    "pipeline_catalyst_count": 16,
     "movers_count": 0
   },
   "trending_tickers": [
@@ -13,6 +13,12 @@
       "ticker": "MRK.DE",
       "count": 2,
       "catalyst_count": 2,
+      "source_count": 2
+    },
+    {
+      "ticker": "PFE",
+      "count": 3,
+      "catalyst_count": 1,
       "source_count": 2
     },
     {
@@ -34,6 +40,18 @@
       "source_count": 1
     },
     {
+      "ticker": "AZN.L",
+      "count": 1,
+      "catalyst_count": 1,
+      "source_count": 1
+    },
+    {
+      "ticker": "ORCL",
+      "count": 1,
+      "catalyst_count": 1,
+      "source_count": 1
+    },
+    {
       "ticker": "NVDA",
       "count": 1,
       "catalyst_count": 1,
@@ -50,29 +68,25 @@
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
-    },
-    {
-      "ticker": "2359.HK",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "HBCP",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "LH",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 1
     }
   ],
   "movers": [],
   "concentration_warning": null,
   "breaking": [
+    {
+      "title": "8-K - BioAtla, Inc. (0001826892) (Filer)",
+      "summary": "Filed:  2026-10-20  AccNo:  0001193125-26-425553  Size:  898 KB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 1.02: Termination of a Material Definitive Agreement\n Item 3.02: Unregistered Sales of Equity Securities\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1826892/000119312526425553/0001193125-26-425553-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-10-19T21:33:33Z",
+      "epoch": 1792445613,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Bioatla, Inc.",
+      "catalyst": true,
+      "small_cap_risk": false
+    },
     {
       "title": "Harnessing a Virus to Fight Brain Cancer: $2.5 Million NIH Award Advances Experimental Glioblastoma Therapy",
       "summary": "At Rosalind Franklin University's Helix 51 biomedical incubator, an experimental Zika virus-based therapy for glioblastoma is moving closer to potential human clinical trials. NORTH CHICAGO, Ill., Oct. 19, 2026 /PRNewswire/ -- A virus known for causing serious neurological compli",
@@ -114,6 +128,48 @@
       "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - SILGAN HOLDINGS INC (0000849869) (Filer)",
+      "summary": "Filed:  2026-10-20  AccNo:  0001193125-26-425515  Size:  3 MB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item",
+      "url": "https://www.sec.gov/Archives/edgar/data/849869/000119312526425515/0001193125-26-425515-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-10-19T20:08:40Z",
+      "epoch": 1792440520,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Silgan Holdings Inc",
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Clene Inc. (0001822791) (Filer)",
+      "summary": "Filed:  2026-10-20  AccNo:  0001437749-26-032960  Size:  221 KB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1822791/000143774926032960/0001437749-26-032960-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-10-19T19:37:08Z",
+      "epoch": 1792438628,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Clene Inc.",
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Texas Ventures Acquisition III Corp (0002033991) (Filer)",
+      "summary": "Filed:  2026-10-20  AccNo:  0001104659-26-116990  Size:  299 KB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year\n Item 5.07: Submission of Matters to a Vote of Security Holders\n Item 7.01: ",
+      "url": "https://www.sec.gov/Archives/edgar/data/2033991/000110465926116990/0001104659-26-116990-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-10-19T19:18:35Z",
+      "epoch": 1792437515,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Texas Ventures Acquisition Iii Corp",
       "catalyst": true,
       "small_cap_risk": false
     },
@@ -384,45 +440,91 @@
       "small_cap_risk": false
     },
     {
-      "title": "8-K - ENERPAC TOOL GROUP CORP (0000006955) (Filer)",
-      "summary": "Filed:  2026-10-19  AccNo:  0001140361-26-040100  Size:  2 MB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant\n Item 9.01: Financial Statements and ",
-      "url": "https://www.sec.gov/Archives/edgar/data/6955/000114036126040100/0001140361-26-040100-index.htm",
+      "title": "8-K - PEOPLES BANCORP INC (0000318300) (Filer)",
+      "summary": "Filed:  2026-10-20  AccNo:  0000318300-26-000231  Size:  5 MB\n Item 2.02: Results of Operations and Financial Condition\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/318300/000031830026000231/0000318300-26-000231-index.htm",
       "source": "SEC EDGAR (8-K filings)",
       "source_id": "sec-edgar-8k",
-      "published_at": "2026-10-19T16:05:26Z",
-      "epoch": 1792425926,
+      "published_at": "2026-10-20T06:09:10Z",
+      "epoch": 1792476550,
       "sentiment": 0.0,
       "tickers": [],
-      "company_name": "Enerpac Tool Group Corp",
-      "catalyst": true,
+      "company_name": "Peoples Bancorp Inc",
+      "catalyst": false,
       "small_cap_risk": false
     },
     {
-      "title": "8-K - Glucotrack, Inc. (0001506983) (Filer)",
-      "summary": "Filed:  2026-10-19  AccNo:  0001493152-26-047582  Size:  418 KB\n Item 1.01: Entry into a Material Definitive Agreement\n Item 3.02: Unregistered Sales of Equity Securities\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1506983/000149315226047582/0001493152-26-047582-index.htm",
+      "title": "8-K - Rapport Therapeutics, Inc. (0002012593) (Filer)",
+      "summary": "Filed:  2026-10-20  AccNo:  0001193125-26-425647  Size:  11 MB\n Item 7.01: Regulation FD Disclosure\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/2012593/000119312526425647/0001193125-26-425647-index.htm",
       "source": "SEC EDGAR (8-K filings)",
       "source_id": "sec-edgar-8k",
-      "published_at": "2026-10-19T16:05:22Z",
-      "epoch": 1792425922,
+      "published_at": "2026-10-20T06:05:17Z",
+      "epoch": 1792476317,
       "sentiment": 0.0,
       "tickers": [],
-      "company_name": "Glucotrack, Inc.",
-      "catalyst": true,
+      "company_name": "Rapport Therapeutics, Inc.",
+      "catalyst": false,
       "small_cap_risk": false
     },
     {
-      "title": "8-K - COLLEGIUM PHARMACEUTICAL, INC (0001267565) (Filer)",
-      "summary": "Filed:  2026-10-19  AccNo:  0001104659-26-116876  Size:  190 KB\n Item 1.02: Termination of a Material Definitive Agreement",
-      "url": "https://www.sec.gov/Archives/edgar/data/1267565/000110465926116876/0001104659-26-116876-index.htm",
+      "title": "8-K - KIMBERLY CLARK CORP (0000055785) (Filer)",
+      "summary": "Filed:  2026-10-20  AccNo:  0001104659-26-117036  Size:  216 KB\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/55785/000110465926117036/0001104659-26-117036-index.htm",
       "source": "SEC EDGAR (8-K filings)",
       "source_id": "sec-edgar-8k",
-      "published_at": "2026-10-19T16:05:20Z",
-      "epoch": 1792425920,
+      "published_at": "2026-10-20T06:04:28Z",
+      "epoch": 1792476268,
       "sentiment": 0.0,
       "tickers": [],
-      "company_name": "Collegium Pharmaceutical, Inc",
-      "catalyst": true,
+      "company_name": "Kimberly Clark Corp",
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Synchrony Financial (0001601712) (Filer)",
+      "summary": "Filed:  2026-10-20  AccNo:  0001601712-26-000041  Size:  294 KB\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171226000041/0001601712-26-000041-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-10-20T06:03:07Z",
+      "epoch": 1792476187,
+      "sentiment": 0.0,
+      "tickers": [
+        "SYF"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
+      "summary": "Filed:  2026-10-20  AccNo:  0001062993-26-005411  Size:  415 KB\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326005411/0001062993-26-005411-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-10-20T06:02:44Z",
+      "epoch": 1792476164,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Artificial Intelligence Technology Solutions Inc.",
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - NORTHROP GRUMMAN CORP /DE/ (0001133421) (Filer)",
+      "summary": "Filed:  2026-10-20  AccNo:  0001133421-26-000037  Size:  902 KB\n Item 2.02: Results of Operations and Financial Condition\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1133421/000113342126000037/0001133421-26-000037-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-10-20T06:00:28Z",
+      "epoch": 1792476028,
+      "sentiment": 0.0,
+      "tickers": [
+        "NOC"
+      ],
+      "company_name": null,
+      "catalyst": false,
       "small_cap_risk": false
     },
     {
@@ -1106,6 +1208,20 @@
       "small_cap_risk": true
     },
     {
+      "title": "8-K - Fox Corp (0001754301) (Filer)",
+      "summary": "Filed:  2026-10-20  AccNo:  0001628280-26-066365  Size:  449 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1754301/000162828026066365/0001628280-26-066365-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-10-19T19:53:38Z",
+      "epoch": 1792439618,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Fox Corp",
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Now Peer-Reviewed: Journal of Cosmetic Dermatology Publishes Study Validating Senté's Heparan Sulfate + Vitamin C Pairing, Including a 44% Drop in a Key Oxidative Stress Marker in 24 Hours",
       "summary": "Peer-reviewed research in the Journal of Cosmetic Dermatology validates Senté Labs' \"bioactive stacking\" approach, showing that Defense C Serum's combination of heparan sulfate analog (HSA) and tetrahexyldecyl (THD) ascorbate outperforms either ingredient alone, cutting oxidative",
       "url": "https://www.prnewswire.com/news-releases/now-peer-reviewed-journal-of-cosmetic-dermatology-publishes-study-validating-sentes-heparan-sulfate--vitamin-c-pairing-including-a-44-drop-in-a-key-oxidative-stress-marker-in-24-hours-302913043.html",
@@ -1130,6 +1246,34 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Annovis Bio, Inc. (0001477845) (Filer)",
+      "summary": "Filed:  2026-10-20  AccNo:  0001104659-26-116995  Size:  193 KB\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1477845/000110465926116995/0001104659-26-116995-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-10-19T19:49:30Z",
+      "epoch": 1792439370,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Annovis Bio, Inc.",
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - NEWS CORP (0001564708) (Filer)",
+      "summary": "Filed:  2026-10-20  AccNo:  0001564708-26-000232  Size:  396 KB\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000232/0001564708-26-000232-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-10-19T19:47:05Z",
+      "epoch": 1792439225,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "News Corp",
       "catalyst": false,
       "small_cap_risk": false
     },
@@ -1262,6 +1406,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "8-K - GBank Financial Holdings Inc. (0001791145) (Filer)",
+      "summary": "Filed:  2026-10-20  AccNo:  0001193125-26-425465  Size:  238 KB\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/1791145/000119312526425465/0001193125-26-425465-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-10-19T18:30:13Z",
+      "epoch": 1792434613,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Gbank Financial Holdings Inc.",
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Nest Health, Creator of Whole-Family In-Home Care for Medicaid, Names Peter Morrison First Chief Growth Officer to Lead Multistate Expansion",
       "summary": "Former UnitedHealthcare, Centene and Pair Team leader joins as Nest strengthens its leadership bench for scale NEW ORLEANS, Oct. 19, 2026 /PRNewswire/ -- Nest Health, the creator of whole-family, in-home primary care for families on Medicaid, today named Peter Morrison its first ",
       "url": "https://www.prnewswire.com/news-releases/nest-health-creator-of-whole-family-in-home-care-for-medicaid-names-peter-morrison-first-chief-growth-officer-to-lead-multistate-expansion-302912964.html",
@@ -1316,6 +1474,20 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "8-K - Innventure, Inc. (0002001557) (Filer)",
+      "summary": "Filed:  2026-10-20  AccNo:  0002001557-26-000196  Size:  212 KB\n Item 5.01: Changes in Control of Registrant\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
+      "url": "https://www.sec.gov/Archives/edgar/data/2001557/000200155726000196/0002001557-26-000196-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-10-19T17:31:44Z",
+      "epoch": 1792431104,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Innventure, Inc.",
       "catalyst": false,
       "small_cap_risk": false
     },
@@ -2072,177 +2244,42 @@
       "company_name": "Construction Partners, Inc.",
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "8-K - iBio, Inc. (0001420720) (Filer)",
-      "summary": "Filed:  2026-10-19  AccNo:  0001420720-26-000032  Size:  219 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item 5.03: Amendments to Articles of Incorporation or Byl",
-      "url": "https://www.sec.gov/Archives/edgar/data/1420720/000142072026000032/0001420720-26-000032-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-10-19T16:16:14Z",
-      "epoch": 1792426574,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Ibio, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - ACADIA REALTY TRUST (0000899629) (Filer)",
-      "summary": "Filed:  2026-10-19  AccNo:  0001193125-26-425260  Size:  251 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial",
-      "url": "https://www.sec.gov/Archives/edgar/data/899629/000119312526425260/0001193125-26-425260-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-10-19T16:16:13Z",
-      "epoch": 1792426573,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Acadia Realty Trust",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - Once Upon a Farm, PBC (0001696556) (Filer)",
-      "summary": "Filed:  2026-10-19  AccNo:  0001193125-26-425255  Size:  244 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial",
-      "url": "https://www.sec.gov/Archives/edgar/data/1696556/000119312526425255/0001193125-26-425255-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-10-19T16:15:13Z",
-      "epoch": 1792426513,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Once Upon A Farm, Pbc",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - OLD SECOND BANCORP INC (0000357173) (Filer)",
-      "summary": "Filed:  2026-10-19  AccNo:  0000357173-26-000052  Size:  331 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-      "url": "https://www.sec.gov/Archives/edgar/data/357173/000035717326000052/0000357173-26-000052-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-10-19T16:15:10Z",
-      "epoch": 1792426510,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Old Second Bancorp Inc",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - CARMAX INC (0001170010) (Filer)",
-      "summary": "Filed:  2026-10-19  AccNo:  0001170010-26-000109  Size:  181 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-      "url": "https://www.sec.gov/Archives/edgar/data/1170010/000117001026000109/0001170010-26-000109-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-10-19T16:14:56Z",
-      "epoch": 1792426496,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Carmax Inc",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - BERKLEY W R CORP (0000011544) (Filer)",
-      "summary": "Filed:  2026-10-19  AccNo:  0000011544-26-000046  Size:  561 KB\n Item 2.02: Results of Operations and Financial Condition\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/11544/000001154426000046/0000011544-26-000046-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-10-19T16:12:46Z",
-      "epoch": 1792426366,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Berkley W R Corp",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - WASHINGTON TRUST BANCORP INC (0000737468) (Filer)",
-      "summary": "Filed:  2026-10-19  AccNo:  0000737468-26-000120  Size:  1 MB\n Item 2.02: Results of Operations and Financial Condition\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/737468/000073746826000120/0000737468-26-000120-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-10-19T16:12:20Z",
-      "epoch": 1792426340,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Washington Trust Bancorp Inc",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - CRISPR Therapeutics AG (0001674416) (Filer)",
-      "summary": "Filed:  2026-10-19  AccNo:  0001193125-26-425243  Size:  355 KB\n Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526425243/0001193125-26-425243-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-10-19T16:11:18Z",
-      "epoch": 1792426278,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Crispr Therapeutics Ag",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - SpyGlass Pharma, Inc. (0001778922) (Filer)",
-      "summary": "Filed:  2026-10-19  AccNo:  0001778922-26-000052  Size:  213 KB\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1778922/000177892226000052/0001778922-26-000052-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-10-19T16:10:28Z",
-      "epoch": 1792426228,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Spyglass Pharma, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - CROWN HOLDINGS, INC. (0001219601) (Filer)",
-      "summary": "Filed:  2026-10-19  AccNo:  0001628280-26-066281  Size:  529 KB\n Item 2.02: Results of Operations and Financial Condition\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1219601/000162828026066281/0001628280-26-066281-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-10-19T16:08:30Z",
-      "epoch": 1792426110,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Crown Holdings, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - CCO HOLDINGS CAPITAL CORP (0001271834) (Filer)",
-      "summary": "Filed:  2026-10-19  AccNo:  0001091667-26-000060  Size:  648 KB\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1271834/000109166726000060/0001091667-26-000060-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-10-19T16:07:05Z",
-      "epoch": 1792426025,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Cco Holdings Capital Corp",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "8-K - CCO HOLDINGS LLC (0001271833) (Filer)",
-      "summary": "Filed:  2026-10-19  AccNo:  0001091667-26-000060  Size:  648 KB\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
-      "url": "https://www.sec.gov/Archives/edgar/data/1271833/000109166726000060/0001091667-26-000060-index.htm",
-      "source": "SEC EDGAR (8-K filings)",
-      "source_id": "sec-edgar-8k",
-      "published_at": "2026-10-19T16:07:05Z",
-      "epoch": 1792426025,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": "Cco Holdings Llc",
-      "catalyst": false,
-      "small_cap_risk": false
     }
   ],
   "pipeline": [
+    {
+      "title": "Pfizer makes ‘business decision’ to end phase 2 trial of autoimmune drug as program’s future uncertain",
+      "summary": "Pfizer has called time on a phase 2 trial of its CXCR5 antibody in an autoimmune blood disorder, with the company tight-lipped on whether this is marks end of the road for the asset.",
+      "url": "https://www.fiercebiotech.com/biotech/pfizer-makes-business-decision-end-phase-2-trial-autoimmune-drug-while-programs-future",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-10-20T04:03:00Z",
+      "epoch": 1792468980,
+      "sentiment": 0.0,
+      "tickers": [
+        "PFE"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "AstraZeneca taps Oracle to help improve recruitment for clinical trials",
+      "summary": "AstraZeneca has turned to data giant Oracle as the U.K.-based Big Pharma works on one of the eternal problems of drug development—improving patient recruitment.",
+      "url": "https://www.fiercebiotech.com/biotech/astrazeneca-taps-oracle-help-improve-recruitment-clinical-trials",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-10-20T02:37:00Z",
+      "epoch": 1792463820,
+      "sentiment": 0.0,
+      "tickers": [
+        "AZN.L",
+        "ORCL"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
     {
       "title": "Disc’s once-spurned rare disease drug to get a second chance at approval",
       "summary": "Months after the FDA rejected its treatment for a rare light-sensitivity disease, the biotech claimed success in a Phase 3 trial and now plans to re-engage regulators.",
@@ -2414,20 +2451,6 @@
       "published_at": "2026-10-15T12:32:00Z",
       "epoch": 1792067520,
       "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Estuary flows out of stealth with $103M to propel kidney disease gene therapies into clinic",
-      "summary": "Estuary Biotherapeutics has swum out of stealth with $103 million in funding to power a pair of gene therapies into clinical trials for an inherited kidney disorder.",
-      "url": "https://www.fiercebiotech.com/biotech/estuary-emerges-stealth-103m-its-gene-therapies-kidney-disease",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-10-15T08:26:00Z",
-      "epoch": 1792052760,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": true,
@@ -2732,6 +2755,22 @@
       "small_cap_risk": false
     },
     {
+      "title": "Ambrose Healthcare inks $181M deal for former Pfizer target AM-Pharma",
+      "summary": "Ambrose Healthcare has bought AM-Pharma for up to 161 million euros, inking a cut-price deal for a biotech once courted by Pfizer.",
+      "url": "https://www.fiercebiotech.com/biotech/ambrose-healthcare-inks-181m-deal-former-pfizer-target-am-pharma",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-10-16T10:11:00Z",
+      "epoch": 1792145460,
+      "sentiment": 0.33,
+      "tickers": [
+        "PFE"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Inside Teva's Weltruza launch and Novo's GLP-1 strategy",
       "summary": "This week on \"The Top Line,\" we catch up with leaders from Teva and Novo to discuss new drug launches, growth opportunities and what's ahead for both companies.",
       "url": "https://www.fiercepharma.com/pharma/inside-tevas-weltruza-launch-and-novos-glp-1-strategy",
@@ -2820,22 +2859,6 @@
       "sentiment": 0.33,
       "tickers": [
         "LH"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "City goes public with $200M IPO, while Frazier Life Sciences takes biotech-focused SPAC to Nasdaq",
-      "summary": "City Therapeutics has gone public with an upsized $200 million IPO, on the same day that Frazier Life Sciences listed its second biotech-focused shell company.",
-      "url": "https://www.fiercebiotech.com/biotech/city-goes-public-200m-ipo-while-frazier-takes-biotech-focused-spac-nasdaq",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-10-16T02:49:00Z",
-      "epoch": 1792118940,
-      "sentiment": 0.0,
-      "tickers": [
-        "SHEL.L"
       ],
       "company_name": null,
       "catalyst": false,
@@ -3096,20 +3119,6 @@
       "published_at": "2025-12-23T10:11:00Z",
       "epoch": 1766484660,
       "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Fierce Biotech Fundraising Tracker '26: Nouscom nabs $135M series D; Estuary channels $93M series A",
-      "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
-      "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2025-12-22T15:30:00Z",
-      "epoch": 1766417400,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
