@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T23:01:13Z",
+  "generated_at": "2026-10-22T01:29:56Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 150,
+    "breaking_count": 141,
     "breaking_catalyst_count": 16,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 19,
@@ -65,7 +65,7 @@
     },
     {
       "ticker": "BAC",
-      "count": 3,
+      "count": 2,
       "catalyst_count": 0,
       "source_count": 2
     }
@@ -77,8 +77,8 @@
       "title": "Fresenius Medical Care Brings Kidney Care Innovation to Critical Care Patients with U.S. Launch of multiFiltratePRO™",
       "summary": "Expands access to Fresenius Medical Care's globally established portfolio of advanced kidney replacement therapies in the U.S. FDA clearance of multiFiltratePRO and approval of dedicated solutions expand continuous kidney replacement therapy options for U.S. patients requiring tr",
       "url": "https://www.prnewswire.com/news-releases/fresenius-medical-care-brings-kidney-care-innovation-to-critical-care-patients-with-us-launch-of-multifiltratepro-302916083.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-21T22:10:00Z",
       "epoch": 1792620600,
       "sentiment": 1.0,
@@ -301,88 +301,229 @@
       "small_cap_risk": false
     },
     {
-      "title": "Driven Tech Recognized On The CRN® AI Innovators List For 2026",
-      "summary": "NEW YORK, Oct. 21, 2026 /PRNewswire/ -- Driven Tech, Inc., an AI and Cloud Native Platform systems integrator, announced today that it has been named to the 2026 AI Innovators list by CRN®, a brand of The Channel Company. CRN's inaugural AI Innovators list celebrates North Americ",
-      "url": "https://www.prnewswire.com/news-releases/driven-tech-recognized-on-the-crn-ai-innovators-list-for-2026-302916104.html",
-      "source": "PR Newswire — Biotechnology",
-      "source_id": "prnewswire-biotech",
-      "published_at": "2026-10-21T23:00:00Z",
-      "epoch": 1792623600,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "TrackVia Research Reveals 7 Ways Field Teams Are Using Automation and Mobile Tools to Cut Friction",
-      "summary": "Analysis of 250+ TrackVia customers shows where field teams automate first and how they expand from inspections and work orders into inventory, safety, and other mission critical operations. DENVER, Oct. 21, 2026 /PRNewswire/ -- TrackVia, the Field Operations Intelligence Platfor",
-      "url": "https://www.prnewswire.com/news-releases/trackvia-research-reveals-7-ways-field-teams-are-using-automation-and-mobile-tools-to-cut-friction-302916047.html",
-      "source": "PR Newswire — Biotechnology",
-      "source_id": "prnewswire-biotech",
-      "published_at": "2026-10-21T23:00:00Z",
-      "epoch": 1792623600,
-      "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Black Leg Ranch Named 2026 Noble Land Stewardship Award Recipient",
-      "summary": "Multigenerational North Dakota ranch honored for regenerative management that improved water quality and wildlife habitat ARDMORE, Okla., Oct. 21, 2026 /PRNewswire/ -- Noble Research Institute, a trusted educational resource for farmers and ranchers since 1945, will present the 2",
-      "url": "https://www.prnewswire.com/news-releases/black-leg-ranch-named-2026-noble-land-stewardship-award-recipient-302916085.html",
-      "source": "PR Newswire — Biotechnology",
-      "source_id": "prnewswire-biotech",
-      "published_at": "2026-10-21T23:00:00Z",
-      "epoch": 1792623600,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "QIAGEN and EQT Private Equity announce agreement on a recommended voluntary all-cash public takeover offer",
-      "summary": "Click here for more information. STOCKHOLM, Oct. 21, 2026 /PRNewswire/ -- With this investment, EQT XI (target fund size of EUR 23 billion and hard cap of EUR 24 billion) will be 10-15 percent invested based on its target fund size. EQT XI has been activated and started charging.",
-      "url": "https://www.prnewswire.com/news-releases/qiagen-and-eqt-private-equity-announce-agreement-on-a-recommended-voluntary-all-cash-public-takeover-offer-302916100.html",
+      "title": "NUH WINS GOLD AT IHF AWARDS 2026 FOR GREEN OPERATING THEATRE PROGRAMME",
+      "summary": "NUH won Gold and received an Honourable Mention for its sustainability efforts at the International Hospital Federation Awards 2026, alongside presentations of its green surgical initiatives, digital health and organisational improvement initiatives at the World Hospital Congress",
+      "url": "https://www.prnewswire.com/news-releases/nuh-wins-gold-at-ihf-awards-2026-for-green-operating-theatre-programme-302916198.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-21T22:46:00Z",
-      "epoch": 1792622760,
+      "published_at": "2026-10-22T01:27:00Z",
+      "epoch": 1792632420,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Employment Law Attorneys, at Blumenthal Nordrehaug Bhowmik De Blouw LLP, Filed a Lawsuit Against Ecology Auto Parts, Inc., for Alleged Failure to Provide Required Meal Periods and Rest Periods",
+      "summary": "Ecology Auto Parts, Inc., a provider of auto-wrecking and logistics services, allegedly failed to provide employees with accurate wages due to missed meals and break breaks. This allegedly resulted in violations of various California Labor Codes. **THIS IS AN ATTORNEY ADVERTISEME",
+      "url": "https://www.prnewswire.com/news-releases/employment-law-attorneys-at-blumenthal-nordrehaug-bhowmik-de-blouw-llp-filed-a-lawsuit-against-ecology-auto-parts-inc-for-alleged-failure-to-provide-required-meal-periods-and-rest-periods-302916124.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T01:00:00Z",
+      "epoch": 1792630800,
+      "sentiment": -0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Casio to Release Analog G-SHOCK Watches Inheriting the Functional Beauty of the Original Digital Model",
+      "summary": "Featuring Multi-Mission Date with Multiple Functions TOKYO, Oct. 21, 2026 /PRNewswire/ -- Casio Computer Co., Ltd. announced today the release of the latest additions to the family of G-SHOCK shock-resistant watches. The new GMC-2500 and GAC-2500 bring the functional beauty of th",
+      "url": "https://www.prnewswire.com/news-releases/casio-to-release-analog-g-shock-watches-inheriting-the-functional-beauty-of-the-original-digital-model-302910687.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T01:00:00Z",
+      "epoch": 1792630800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Casio est sur le point de lancer des montres G-SHOCK analogiques ayant hérité de l'esthétique fonctionnelle du modèle numérique original",
+      "summary": "Fonction Multi-Mission Date multifonctionnelle TOKYO, 22 octobre 2026 /PRNewswire/ -- Casio Computer Co., Ltd. a annoncé aujourd'hui la sortie des dernières nouveautés de la famille des montres résistantes aux chocs G-SHOCK. Les nouvelles GMC-2500 et GAC-2500 transposent l'esthét",
+      "url": "https://www.prnewswire.com/news-releases/casio-est-sur-le-point-de-lancer-des-montres-g-shock-analogiques-ayant-herite-de-lesthetique-fonctionnelle-du-modele-numerique-original-302911474.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T01:00:00Z",
+      "epoch": 1792630800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Side Acquires Boutique Art Studio Roboto Entertainment in Creative Services Push",
+      "summary": "Founder Andrea Cordella appointed Global Head of Art as Side establishes new Chengdu studio CHENGDU, China, Oct. 21, 2026 /PRNewswire/ -- Leading games services provider, Side, today acquired the boutique games art studio, Roboto Entertainment, strengthening its global art capabi",
+      "url": "https://www.prnewswire.com/news-releases/side-acquires-boutique-art-studio-roboto-entertainment-in-creative-services-push-302915576.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T01:00:00Z",
+      "epoch": 1792630800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "LogiSense Ranks Among Top Five for Billing Solution Strength and Volume in MGI Research's 2026 Buyer's Guide",
+      "summary": "A grade and Positive Analyst Outlook underscore LogiSense's capabilities in complex, high‑volume usage and hybrid monetization KITCHENER, ON, Oct. 6, 2026 /PRNewswire/ -- LogiSense, a provider of enterprise billing and monetization software, today announced that MGI Research's 20",
+      "url": "https://www.prnewswire.com/news-releases/logisense-ranks-among-top-five-for-billing-solution-strength-and-volume-in-mgi-researchs-2026-buyers-guide-302916178.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T00:51:00Z",
+      "epoch": 1792630260,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Nuix Launches Agentic AI in Nuix Neo with Audit Trail Built In",
+      "summary": "SYDNEY, Oct. 22, 2026 /PRNewswire/ -- Nuix (ASX: NXL), a provider of investigative analytics and intelligence software, today launched the Nuix Neo AI Agent. Nuix software analyses large volumes of unstructured data, such as emails and chats, for high-stakes legal, regulatory and",
+      "url": "https://www.prnewswire.com/news-releases/nuix-launches-agentic-ai-in-nuix-neo-with-audit-trail-built-in-302916175.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T00:45:00Z",
+      "epoch": 1792629900,
+      "sentiment": 0.33,
+      "tickers": [
+        "NXL"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "GALY Launches US Commercial Cocoa Operations and Advances UAE Expansion",
+      "summary": "Purchase orders from Boston's restaurants and Dubai chocolatiers mark concrete steps from cultured cocoa technology to chocolate in professional kitchens BOSTON, Oct. 21, 2026 /PRNewswire/ -- GALY has begun commercial cocoa operations in the United States and is advancing its ent",
+      "url": "https://www.prnewswire.com/news-releases/galy-launches-us-commercial-cocoa-operations-and-advances-uae-expansion-302916170.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T00:39:00Z",
+      "epoch": 1792629540,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Greenberg Traurig's Cesar Alvarez Receives Greater Miami Chamber of Commerce 2026 Sand in My Shoes® Award",
+      "summary": "Global Firm's Senior Chairman Honored for Leadership and Service that Strengthens Miami Communities MIAMI, Oct. 21, 2026 /PRNewswire/ -- Cesar L. Alvarez, Senior Chairman of global law firm Greenberg Traurig, P.A., received the Greater Miami Chamber of Commerce 2026 Sand in My Sh",
+      "url": "https://www.prnewswire.com/news-releases/greenberg-traurigs-cesar-alvarez-receives-greater-miami-chamber-of-commerce-2026-sand-in-my-shoes-award-302916091.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-22T00:35:00Z",
+      "epoch": 1792629300,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Jury Has Reached a $9 Million Verdict in the Trial of Former OB/GYN Arthur Park, Says Consumer Watchdog",
+      "summary": "BAKERSFIELD, Calif., Oct. 21, 2026 /PRNewswire/ -- The jury reached a verdict this afternoon in the trial for the deaths of Demi Dominguez and baby Malakhi De Leon. The jury voted that Arthur Park was negligent in the care of Demi Dominguez, that Tracy Dominguez should receive...",
+      "url": "https://www.prnewswire.com/news-releases/jury-has-reached-a-9-million-verdict-in-the-trial-of-former-obgyn-arthur-park-says-consumer-watchdog-302916163.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T00:32:00Z",
+      "epoch": 1792629120,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "In HelloNation, Real Estate Expert \"Mr. Cape Girardeau\" John Spear Explains What to Fix Before Selling a Home",
+      "summary": "CAPE GIRARDEAU, Mo., Oct. 21, 2026 /PRNewswire/ -- What should homeowners fix before selling a home in Cape Girardeau, and which projects are better left alone? A new HelloNation article explores that common question by offering practical insights tailored to the local real estat",
+      "url": "https://www.prnewswire.com/news-releases/in-hellonation-real-estate-expert-mr-cape-girardeau-john-spear-explains-what-to-fix-before-selling-a-home-302915409.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-22T00:25:00Z",
+      "epoch": 1792628700,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Stones from Other Mountains Serving to Polish the Jade: Events for Centennial Commemoration of James Cahill Held at China Academy of Art",
+      "summary": "HANGZHOU, China, Oct. 21, 2026 /PRNewswire/ -- An international symposium, \"James Cahill's Legacy and Global Art History,\" together with its affiliated academic events commemorating the centenary of James Cahill, was hosted by China Academy of Art (CAA) at the Xiangshan Campus in",
+      "url": "https://www.prnewswire.com/news-releases/stones-from-other-mountains-serving-to-polish-the-jade-events-for-centennial-commemoration-of-james-cahill-held-at-china-academy-of-art-302916146.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T00:16:00Z",
+      "epoch": 1792628160,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Genomma Lab Internacional Announces Results for the Third Quarter 2026",
+      "summary": "MEXICO CITY, Oct. 21, 2026 /PRNewswire/ -- Genomma Lab Internacional, S.A.B. de C.V. (BMV: LAB B) (\"Genomma\" or \"the Company\"), today announced its results for the third quarter 2026. All figures included herein are stated in nominal Mexican pesos and have been prepared in accord",
+      "url": "https://www.prnewswire.com/news-releases/genomma-lab-internacional-announces-results-for-the-third-quarter-2026-302916128.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-21T23:59:00Z",
+      "epoch": 1792627140,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "FIBRA Prologis Declara Distribución del Trimestre",
+      "summary": "CIUDAD DE MÉXICO, 21 de octubre de 2026 /PRNewswire-HISPANIC PR WIRE/ -- FIBRA Prologis (BMV: FIBRAPL 14) uno de los fideicomisos de inversión en bienes raíces líder en inversión y administración de inmuebles logísticos clase A en México, declaró hoy, una distribución en efectivo",
+      "url": "https://www.prnewswire.com/news-releases/fibra-prologis-declara-distribucion-del-trimestre-873698633.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-21T23:44:00Z",
+      "epoch": 1792626240,
       "sentiment": 0.0,
       "tickers": [
-        "EQT",
-        "QIA.DE"
+        "PLD"
       ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
     {
-      "title": "Amcor to report September 2026 results",
-      "summary": "ZURICH, Oct. 21, 2026 /PRNewswire/ -- Amcor plc (NYSE: AMCR; ASX: AMC) will announce its September 2026 results for the three month period ended September 30, 2026, after the US market closes on Wednesday November 4, 2026. A conference call and webcast to discuss the results will",
-      "url": "https://www.prnewswire.com/news-releases/amcor-to-report-september-2026-results-302916097.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-21T22:42:00Z",
-      "epoch": 1792622520,
+      "title": "FIBRA Prologis Anuncia sus Resultados Financieros del Tercer Trimestre de 2026",
+      "summary": "CIUDAD DE MÉXICO, 21 de octubre de 2026 /PRNewswire-HISPANIC PR WIRE/ -- FIBRA Prologis (BMV:FIBRAPL 14), un fideicomiso de inversión en bienes raíces líder en inversión y administración de inmuebles industriales clase-A en México, anunció hoy sus resultados del tercer trimestre ",
+      "url": "https://www.prnewswire.com/news-releases/fibra-prologis-anuncia-sus-resultados-financieros-del-tercer-trimestre-de-2026-821098378.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-21T23:25:00Z",
+      "epoch": 1792625100,
       "sentiment": 0.0,
       "tickers": [
-        "AMCR"
+        "PLD"
       ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
     {
-      "title": "University of Phoenix highlights ways students can reduce college costs during National Transfer Student Week",
-      "summary": "Scholarships, transfer credits and prior-learning pathways help eligible students identify cost savings and affordability of degree completion PHOENIX, Oct. 21, 2026 /PRNewswire/ -- University of Phoenix is recognizing National Transfer Student Week by highlighting the range of p",
-      "url": "https://www.prnewswire.com/news-releases/university-of-phoenix-highlights-ways-students-can-reduce-college-costs-during-national-transfer-student-week-302916096.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-21T22:39:00Z",
-      "epoch": 1792622340,
+      "title": "Advent abre una oficina en Abu Dabi, ampliando aún más su alcance internacional",
+      "summary": "ABU DHABI, EAU, 22 de octubre de 2026 /PRNewswire/ -- Advent, una firma líder a nivel mundial en inversión de capital privado, ha anunciado hoy la apertura de una nueva oficina en ADGM, el centro financiero internacional de Abu Dabi, capital de los Emiratos Árabes Unidos, amplian",
+      "url": "https://www.prnewswire.com/news-releases/advent-abre-una-oficina-en-abu-dabi-ampliando-aun-mas-su-alcance-internacional-302916110.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-21T23:01:00Z",
+      "epoch": 1792623660,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -390,34 +531,20 @@
       "small_cap_risk": false
     },
     {
-      "title": "Moldavia consigue un título de GUINNESS WORLD RECORDS™",
-      "summary": "- Moldavia consigue un título de GUINNESS WORLD RECORDS™ al formar 493 personas la imagen humana más grande del mundo de una vid CHIȘINĂU, Moldavia, 21 de octubre de 2026 /PRNewswire/ -- La República de Moldavia ha conseguido un nuevo título de GUINNESS WORLD RECORDS™ después de ",
-      "url": "https://www.prnewswire.com/news-releases/moldavia-consigue-un-titulo-de-guinness-world-records-302916094.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-21T22:38:00Z",
-      "epoch": 1792622280,
+      "title": "Direct Digital Holdings Announces Intention to Voluntarily Delist from Nasdaq and Deregister Its Class A Common Stock with the SEC",
+      "summary": "Delisting of Class A Common Stock Expected to Become Effective November 12, 2026 HOUSTON, Oct. 21, 2026 /PRNewswire/ -- Direct Digital Holdings, Inc. (OTC: DRCT) (\"Direct Digital Holdings,\" \"DDH,\" or the \"Company\"), a leading advertising and marketing technology platform operatin",
+      "url": "https://www.prnewswire.com/news-releases/direct-digital-holdings-announces-intention-to-voluntarily-delist-from-nasdaq-and-deregister-its-class-a-common-stock-with-the-sec-302916109.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-21T23:01:00Z",
+      "epoch": 1792623660,
       "sentiment": 0.0,
       "tickers": [
-        "HUM"
+        "DRCT"
       ],
       "company_name": null,
       "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "ISLAND UNDER PRESSURE (EILAND ONDER DRUK): hoe Taiwan druk omzet in een drijvende kracht voor design",
-      "summary": "Het Taiwan Pavilion zet milieu-uitdagingen, industrieel afval en geopolitieke spanningen tijdens Dutch Design Week 2026 om in creatieve mogelijkheden. EINDHOVEN, Nederland, 22 oktober 2026 /PRNewswire/ -- Wat als de druk waarmee een eiland te maken heeft, de grootste bron van cre",
-      "url": "https://www.prnewswire.com/news-releases/island-under-pressure-eiland-onder-druk-hoe-taiwan-druk-omzet-in-een-drijvende-kracht-voor-design-302916088.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-21T22:21:00Z",
-      "epoch": 1792621260,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
+      "small_cap_risk": true
     },
     {
       "title": "FIBRA Prologis Announces Third Quarter 2026 Earnings Results",
@@ -452,25 +579,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "Good Greek Moving &amp; Storage Recruits Decorated U.S. Army Leader Through SkillBridge to Lead Flagship West Palm Beach Operation",
-      "summary": "Sergeant First Class Rex S. Whitzel brings nearly two decades of distinguished military service to Good Greek's largest location, marking the company's first SkillBridge recruitment and expanding its commitment to veteran employment. WEST PALM BEACH, Fla., Oct. 21, 2026 /PRNewswi",
-      "url": "https://www.prnewswire.com/news-releases/good-greek-moving--storage-recruits-decorated-us-army-leader-through-skillbridge-to-lead-flagship-west-palm-beach-operation-302916077.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-21T22:03:00Z",
-      "epoch": 1792620180,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Vanda Pharmaceuticals to Announce Third Quarter 2026 Financial Results on October 28, 2026",
       "summary": "Conference Call and Webcast to Follow WASHINGTON, Oct. 21, 2026 /PRNewswire/ -- Vanda Pharmaceuticals Inc. (Vanda) (Nasdaq: VNDA) today announced it will release results for the third quarter 2026 on Wednesday, October 28, 2026, after the market closes. Vanda will host a conferen",
       "url": "https://www.prnewswire.com/news-releases/vanda-pharmaceuticals-to-announce-third-quarter-2026-financial-results-on-october-28-2026-302916061.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-21T21:40:00Z",
       "epoch": 1792618800,
       "sentiment": 0.0,
@@ -480,34 +593,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "Hard Rock Casino Tejon Breaks Ground On New Hard Rock Hotel As Part Of A $725M Expansion",
-      "summary": "Coming Summer 2028: Major Expansion Will Bring 406-Room Hotel, New Gaming, Dining, Spa and Resort Amenities to Kern County and Create More Than 350 New Jobs Images, B-roll footage from the groundbreaking ceremony, and renderings are available here METTLER, Calif., Oct. 21, 2026..",
-      "url": "https://www.prnewswire.com/news-releases/hard-rock-casino-tejon-breaks-ground-on-new-hard-rock-hotel-as-part-of-a-725m-expansion-302916059.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-21T21:37:00Z",
-      "epoch": 1792618620,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Rotoplas: Third Quarter 2026 Results",
-      "summary": "MEXICO CITY, Oct. 21, 2026 /PRNewswire/ -- Grupo Rotoplas S.A.B. de C.V. (BMV: AGUA*) (\"Rotoplas\", \"the Company\"), the leading provider of water solutions in the Americas, today reports its unaudited financial results for the third quarter of 2026. The information has been prepar",
-      "url": "https://www.prnewswire.com/news-releases/rotoplas-third-quarter-2026-results-302915805.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-21T21:30:00Z",
-      "epoch": 1792618200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "In HelloNation, Home Insurance Expert Glenda Martinez of Silver Spring, MD, Explains Flood Insurance for HelloNation",
@@ -538,20 +623,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Indien bringt über 130 Länder zum Bharat RE Summit &amp; Expo 2026 zusammen, um globale Investitionen und Partnerschaften im Bereich saubere Energie voranzutreiben",
-      "summary": "NEW DELHI, 21. Oktober 2026 /PRNewswire/ -- Vom 2. bis 5. November werden in Neu-Delhi Vetreterinnen und Vertreter aus über 130 Ländern zum Bharat Renewable Energy Summit & Expo 2026 erwartet. Dort treffen sich politische Entscheidungsträger, Investoren und Innovatoren aus aller ",
-      "url": "https://www.prnewswire.com/news-releases/indien-bringt-uber-130-lander-zum-bharat-re-summit--expo-2026-zusammen-um-globale-investitionen-und-partnerschaften-im-bereich-saubere-energie-voranzutreiben-302916044.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-21T21:20:00Z",
-      "epoch": 1792617600,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Sunlife is now part of Rippling's Preferred Carrier Program to simplify benefits administration for small and mid-market employers",
       "summary": "WELLESLEY, Mass., Oct. 21, 2026 /PRNewswire/ -- Sunlife U.S., a leading provider of employee and government benefits, has joined Rippling's Preferred Carrier Program. The move expands access to a more connected benefits experience for small and medium-sized employers and their em",
       "url": "https://www.prnewswire.com/news-releases/sunlife-is-now-part-of-ripplings-preferred-carrier-program-to-simplify-benefits-administration-for-small-and-mid-market-employers-302916041.html",
@@ -560,62 +631,6 @@
       "published_at": "2026-10-21T21:16:00Z",
       "epoch": 1792617360,
       "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Denver Arts Week Returns Nov. 6-15",
-      "summary": "With nearly 300 events, there are endless ways to celebrate arts and culture in every community across the city. DENVER, Oct. 21, 2026 /PRNewswire/ -- The 20th Annual Denver Arts Week, a celebration of Denver's vibrant and diverse arts and culture scene, is returning Nov. 6-15. T",
-      "url": "https://www.prnewswire.com/news-releases/denver-arts-week-returns-nov-6-15-302915891.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-21T21:15:00Z",
-      "epoch": 1792617300,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "ALIVE and Track Rabbit Give Small Automotive and Motorsport Organizations New Ways to Compete for Business",
-      "summary": "Advanced marketing and AI services from $350 per month, plus a registration and membership platform built to bring participants to you. WEST CHESTER, Pa., Oct. 21, 2026 /PRNewswire/ -- ALIVE, the founder of Track Rabbit™ and more, is now offering advanced marketing services desig",
-      "url": "https://www.prnewswire.com/news-releases/alive-and-track-rabbit-give-small-automotive-and-motorsport-organizations-new-ways-to-compete-for-business-302915883.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-21T21:10:00Z",
-      "epoch": 1792617000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "KI: Weniger als 20 % der automatisierten Entscheidungen haben einen identifizierten Verantwortlichen",
-      "summary": "In der neuesten Ausgabe ihres CIO Compass erweitert Sopra Steria Next die Debatte über die Souveränität von KI-Systemen: Es geht nicht nur darum, wo Daten und Modelle gespeichert sind, sondern auch darum, wer die Kontrolle über die daraus resultierenden Entscheidungen hat. PARIS,",
-      "url": "https://www.prnewswire.com/news-releases/ki-weniger-als-20--der-automatisierten-entscheidungen-haben-einen-identifizierten-verantwortlichen-302916038.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-21T21:10:00Z",
-      "epoch": 1792617000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Monkee's of Loudoun Celebrates Grand Opening at One Loudoun",
-      "summary": "Monkee's of One Loudoun hosts a weekend full of style, gifts, and community. ASHBURN, Va., Oct. 21, 2026 /PRNewswire/ -- The curtains have officially been lifted as Monkee's of Loudoun debuts at One Loudoun. Following a four-day grand opening celebration, the boutique is now open",
-      "url": "https://www.prnewswire.com/news-releases/monkees-of-loudoun-celebrates-grand-opening-at-one-loudoun-302916037.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-21T21:10:00Z",
-      "epoch": 1792617000,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -738,22 +753,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Fulton Financial Corporation Announces Third Quarter 2026 Results",
-      "summary": "LANCASTER, Pa., Oct. 21, 2026 /PRNewswire/ -- Fulton Financial Corporation (NASDAQ: FULT) (\"Fulton\" or the \"Corporation\") reported net income available to common shareholders of $114.1 million, or $0.59 per diluted share, for the third quarter of 2026, an increase of $14.2 millio",
-      "url": "https://www.prnewswire.com/news-releases/fulton-financial-corporation-announces-third-quarter-2026-results-302915906.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-21T20:30:00Z",
-      "epoch": 1792614600,
-      "sentiment": 0.0,
-      "tickers": [
-        "FULT"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "UNITED BANCSHARES, INC. ANNOUNCES THIRD QUARTER 2026 RESULTS AND $0.26 DIVIDEND",
       "summary": "COLUMBUS GROVE, Ohio, Oct. 21, 2026 /PRNewswire/ -- United Bancshares, Inc. (OTCQX: UBOH) Quarterly cash dividend of $0.26 per share for shareholders of record on November 30, 2026, payable on December 15, 2026. This represents a 13% increase from the same quarter in 2025. Compan",
       "url": "https://www.prnewswire.com/news-releases/united-bancshares-inc-announces-third-quarter-2026-results-and-0-26-dividend-302915417.html",
@@ -764,6 +763,22 @@
       "sentiment": 1.0,
       "tickers": [
         "UBOH"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Fulton Financial Corporation Announces Third Quarter 2026 Results",
+      "summary": "LANCASTER, Pa., Oct. 21, 2026 /PRNewswire/ -- Fulton Financial Corporation (NASDAQ: FULT) (\"Fulton\" or the \"Corporation\") reported net income available to common shareholders of $114.1 million, or $0.59 per diluted share, for the third quarter of 2026, an increase of $14.2 millio",
+      "url": "https://www.prnewswire.com/news-releases/fulton-financial-corporation-announces-third-quarter-2026-results-302915906.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-21T20:30:00Z",
+      "epoch": 1792614600,
+      "sentiment": 0.0,
+      "tickers": [
+        "FULT"
       ],
       "company_name": null,
       "catalyst": false,
@@ -810,117 +825,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "ACRES Commercial Realty Corp. to Report Results for Third Quarter 2026",
-      "summary": "UNIONDALE, N.Y., Oct. 21, 2026 /PRNewswire/ -- ACRES Commercial Realty Corp. (NYSE: ACR) (the \"Company\" or \"ACRES\") announced today that it will release its results for the third quarter 2026 on Wednesday, November 4, 2026, after the market closes. The Company invites investors a",
-      "url": "https://www.prnewswire.com/news-releases/acres-commercial-realty-corp-to-report-results-for-third-quarter-2026-302915937.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-21T20:15:00Z",
-      "epoch": 1792613700,
-      "sentiment": 0.0,
-      "tickers": [
-        "ACR"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Bank of America Declares Fourth Quarter 2026 Stock Dividends",
-      "summary": "CHARLOTTE, N.C., Oct. 21, 2026 /PRNewswire/ -- Bank of America Corporation today announced the Board of Directors declared a regular quarterly cash dividend on Bank of America common stock of $0.32 per share, payable on December 24, 2026 to shareholders of record as of December 4",
-      "url": "https://www.prnewswire.com/news-releases/bank-of-america-declares-fourth-quarter-2026-stock-dividends-302915305.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-21T20:15:00Z",
-      "epoch": 1792613700,
-      "sentiment": 0.67,
-      "tickers": [
-        "BAC"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "First Horizon Corporation to Participate in the BancAnalysts Association of Boston Conference",
-      "summary": "MEMPHIS, Tenn., Oct. 21, 2026 /PRNewswire/ -- First Horizon Corporation (NYSE: FHN) today announced Chief Financial Officer Hope Dmuchowski will participate in the BancAnalysts Association of Boston Conference on November 5, 2026, at 2:55 pm ET. A live webcast of the event along ",
-      "url": "https://www.prnewswire.com/news-releases/first-horizon-corporation-to-participate-in-the-bancanalysts-association-of-boston-conference-302915321.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-21T20:15:00Z",
-      "epoch": 1792613700,
-      "sentiment": 0.0,
-      "tickers": [
-        "FHN"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Third Coast Bancshares, Inc. Reports 2026 Third Quarter Financial Results",
-      "summary": "Solid 2026 Third Quarter Results While Advancing Long-Term Growth Strategy HOUSTON, Oct. 21, 2026 /PRNewswire/ -- Third Coast Bancshares, Inc. (NYSE and NYSE Texas: TCBX) (the \"Company,\" \"Third Coast,\" \"we,\" \"us,\" or \"our\"), the bank holding company for Third Coast Bank (the \"Ban",
-      "url": "https://www.prnewswire.com/news-releases/third-coast-bancshares-inc-reports-2026-third-quarter-financial-results-302915952.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-21T20:15:00Z",
-      "epoch": 1792613700,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Lazard Declares Quarterly Dividend of $0.50 per Share",
-      "summary": "NEW YORK, Oct. 21, 2026 /PRNewswire/ -- Lazard, Inc. (NYSE: LAZ) today announced that its Board of Directors has voted to declare a quarterly dividend of $0.50 per share on its outstanding common stock. The dividend is payable on November 13, 2026, to stockholders of record on No",
-      "url": "https://www.prnewswire.com/news-releases/lazard-declares-quarterly-dividend-of-0-50-per-share-302915641.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-21T20:15:00Z",
-      "epoch": 1792613700,
-      "sentiment": 1.0,
-      "tickers": [
-        "LAZ"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Invesco Mortgage Capital Inc. To Announce Third Quarter 2026 Results",
-      "summary": "ATLANTA, Oct. 21, 2026 /PRNewswire/ -- Invesco Mortgage Capital Inc. (NYSE: IVR) will announce its third quarter 2026 results Thursday, October 29, 2026, after market close. A conference call and audio webcast to review third quarter 2026 results will be held on Friday, October 3",
-      "url": "https://www.prnewswire.com/news-releases/invesco-mortgage-capital-inc-to-announce-third-quarter-2026-results-302915957.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-21T20:15:00Z",
-      "epoch": 1792613700,
-      "sentiment": 0.0,
-      "tickers": [
-        "IVR",
-        "IVZ"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "WesBanco Announces Third Quarter 2026 Financial Results",
-      "summary": "Marked by strong annualized loan growth, solid efficiency ratio, and accelerating growth in targeted expansion markets WHEELING, W.Va., Oct. 21, 2026 /PRNewswire/ -- WesBanco, Inc. (\"WesBanco\" or \"Company\") (Nasdaq: WSBC), a diversified, multi-state bank holding company, today an",
-      "url": "https://www.prnewswire.com/news-releases/wesbanco-announces-third-quarter-2026-financial-results-302915564.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-21T20:15:00Z",
-      "epoch": 1792613700,
-      "sentiment": 1.0,
-      "tickers": [
-        "WSBC"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
     },
     {
       "title": "eHealth, Inc. to Hold Third Quarter 2026 Earnings Call on November 4 at 5:00 p.m. Eastern Time",
@@ -1047,62 +951,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "Begin BEFORE It's Too Late: Educator Dr. Anke Otto-Wolf Launches the BEFORE Framework™, Teaching Children to Notice the Quiet Moment That Comes First",
-      "summary": "The award-winning author introduces a prevention-first framework, a new parenting book and a full line of interactive tools, all designed to help children notice the first signal of a reaction and choose their response BEFORE. SEDONA, Ariz., Oct. 21, 2026 /PRNewswire/ -- Every Oc",
-      "url": "https://www.prnewswire.com/news-releases/begin-before-its-too-late-educator-dr-anke-otto-wolf-launches-the-before-framework-teaching-children-to-notice-the-quiet-moment-that-comes-first-302915969.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-21T19:53:00Z",
-      "epoch": 1792612380,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "HelloNation Article Features Compounding Pharmacist Expert Laura Temple on How Custom Compounded Medications Solve Real Problems",
-      "summary": "The article explains how personalized prescription formulations help patients when standard medications do not meet specific treatment needs. AZLE, Texas, Oct. 21, 2026 /PRNewswire/ -- What happens when a standard prescription does not fully meet a patient's medical needs? HelloN",
-      "url": "https://www.prnewswire.com/news-releases/hellonation-article-features-compounding-pharmacist-expert-laura-temple-on-how-custom-compounded-medications-solve-real-problems-302832986.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-21T19:51:00Z",
-      "epoch": 1792612260,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "SportsMed Physical Therapy Opens Clinic in Hoboken, Expanding to 57 Clinics Across NJ and CT",
-      "summary": "RIDGEWOOD, N.J., Oct. 21, 2026 /PRNewswire/ -- SportsMed Physical Therapy, a leading name in outpatient rehabilitation and wellness, is pleased to announce the opening of the Hoboken clinic. This addition brings the company's total number of clinics to 57, further expanding acces",
-      "url": "https://www.prnewswire.com/news-releases/sportsmed-physical-therapy-opens-clinic-in-hoboken-expanding-to-57-clinics-across-nj-and-ct-302915953.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-21T19:42:00Z",
-      "epoch": 1792611720,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "In HelloNation, Veterinary Expert Lorrie Riggs Explains When Pet Surgery Becomes the Right Choice",
-      "summary": "The Article Reviews Testing, Anesthesia Safety, Senior Pet Care, and Recovery Planning for Owners Facing a Difficult Decision. DECATUR, Ind., Oct. 21, 2026 /PRNewswire/ -- How do you know if your pet needs surgery? Now published, a HelloNation article provides the answer by expla",
-      "url": "https://www.prnewswire.com/news-releases/in-hellonation-veterinary-expert-lorrie-riggs-explains-when-pet-surgery-becomes-the-right-choice-302915947.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-21T19:39:00Z",
-      "epoch": 1792611540,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "8-K - Liberty Energy Inc. (0001694028) (Filer)",
@@ -2241,6 +2089,20 @@
       "company_name": "First Bancorp, Inc /Me/",
       "catalyst": false,
       "small_cap_risk": false
+    },
+    {
+      "title": "8-K - NVE CORP /NEW/ (0000724910) (Filer)",
+      "summary": "Filed:  2026-10-21  AccNo:  0001376474-26-000663  Size:  264 KB\n Item 2.02: Results of Operations and Financial Condition\n Item 8.01: Other Events",
+      "url": "https://www.sec.gov/Archives/edgar/data/724910/000137647426000663/0001376474-26-000663-index.htm",
+      "source": "SEC EDGAR (8-K filings)",
+      "source_id": "sec-edgar-8k",
+      "published_at": "2026-10-21T16:17:06Z",
+      "epoch": 1792599426,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": "Nve Corp /New/",
+      "catalyst": false,
+      "small_cap_risk": false
     }
   ],
   "pipeline": [
@@ -2550,6 +2412,20 @@
       "source_id": "biopharmadive",
       "published_at": "2026-10-21T11:31:00Z",
       "epoch": 1792582260,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Direct-to-patient pharma programs transform drug access: survey",
+      "summary": "Many direct-to-patient programs have significantly affected access to medicines, a survey of U.S. life sciences leaders found.",
+      "url": "https://www.fiercepharma.com/marketing/direct-patient-pharma-programs-transform-drug-access-survey",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-10-21T10:25:00Z",
+      "epoch": 1792578300,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -2997,20 +2873,6 @@
       "tickers": [
         "GSK.L"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Lilly's obesity pill, RevMed's pancreatic cancer breakthrough among slew of CHMP endorsements in Europe",
-      "summary": "Across the pond, European regulators handed down a pair of pivotal approval recommendations this week, making way for a new front in Novo and Eli Lilly’s oral GLP-1 showdown and endorsing Revolution Medicines’ potential pancreatic cancer game changer.",
-      "url": "https://www.fiercepharma.com/pharma/lillys-obesity-pill-revmeds-pancreatic-cancer-breakthrough-among-slew-chmp-endorsements",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-10-16T11:15:00Z",
-      "epoch": 1792149300,
-      "sentiment": 0.67,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
