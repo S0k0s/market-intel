@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T01:29:56Z",
+  "generated_at": "2026-10-22T06:31:51Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 141,
+    "breaking_count": 146,
     "breaking_catalyst_count": 16,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 19,
@@ -64,10 +64,10 @@
       "source_count": 1
     },
     {
-      "ticker": "BAC",
-      "count": 2,
+      "ticker": "SONY",
+      "count": 5,
       "catalyst_count": 0,
-      "source_count": 2
+      "source_count": 1
     }
   ],
   "movers": [],
@@ -301,13 +301,13 @@
       "small_cap_risk": false
     },
     {
-      "title": "NUH WINS GOLD AT IHF AWARDS 2026 FOR GREEN OPERATING THEATRE PROGRAMME",
-      "summary": "NUH won Gold and received an Honourable Mention for its sustainability efforts at the International Hospital Federation Awards 2026, alongside presentations of its green surgical initiatives, digital health and organisational improvement initiatives at the World Hospital Congress",
-      "url": "https://www.prnewswire.com/news-releases/nuh-wins-gold-at-ihf-awards-2026-for-green-operating-theatre-programme-302916198.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-22T01:27:00Z",
-      "epoch": 1792632420,
+      "title": "BIT Asset Management Receives FINMA Approval for Switzerland's First and Europe's Only Spot Bitcoin ETF",
+      "summary": "The first exchange-traded fund under Swiss law to invest directly in bitcoin, approved for retail investors in Switzerland ZURICH, Oct. 22, 2026 /PRNewswire/ -- BIT Asset Management AG (\"BIT AM\"), the wholly owned Swiss asset management subsidiary of BIT (www.bit.com), announced ",
+      "url": "https://www.prnewswire.com/news-releases/bit-asset-management-receives-finma-approval-for-switzerlands-first-and-europes-only-spot-bitcoin-etf-302916555.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-22T06:25:00Z",
+      "epoch": 1792650300,
       "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
@@ -315,13 +315,113 @@
       "small_cap_risk": false
     },
     {
-      "title": "Employment Law Attorneys, at Blumenthal Nordrehaug Bhowmik De Blouw LLP, Filed a Lawsuit Against Ecology Auto Parts, Inc., for Alleged Failure to Provide Required Meal Periods and Rest Periods",
-      "summary": "Ecology Auto Parts, Inc., a provider of auto-wrecking and logistics services, allegedly failed to provide employees with accurate wages due to missed meals and break breaks. This allegedly resulted in violations of various California Labor Codes. **THIS IS AN ATTORNEY ADVERTISEME",
-      "url": "https://www.prnewswire.com/news-releases/employment-law-attorneys-at-blumenthal-nordrehaug-bhowmik-de-blouw-llp-filed-a-lawsuit-against-ecology-auto-parts-inc-for-alleged-failure-to-provide-required-meal-periods-and-rest-periods-302916124.html",
+      "title": "Essity: Interim Report Quarter 3, 2026",
+      "summary": "STOCKHOLM, Oct. 22, 2026 /PRNewswire/ -- Stable volumes, resilient profitability and strong cash flow Quarter 3, 2026 Net sales increased 4.1% to SEK 36,060m (34,638) Organic sales growth amounted to -0.3%, of which volume accounted for -0.1% and price/mix -0.2%. EBITA amounted t",
+      "url": "https://www.prnewswire.com/news-releases/essity-interim-report-quarter-3-2026-302916538.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-22T01:00:00Z",
-      "epoch": 1792630800,
+      "published_at": "2026-10-22T06:18:00Z",
+      "epoch": 1792649880,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "WEPACK 2027 Returns to Shanghai, Reuniting the Entire Packaging Value Chain",
+      "summary": "SHANGHAI, Oct. 22, 2026 /PRNewswire/ -- WEPACK, the World Expo of Packaging Industry, a flagship global platform backed by more than 25 years of industry expertise, has officially announced that WEPACK 2027 will take place from April 27–29, 2027, at the Shanghai New International",
+      "url": "https://www.prnewswire.com/news-releases/wepack-2027-returns-to-shanghai-reuniting-the-entire-packaging-value-chain-302916533.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T06:16:00Z",
+      "epoch": 1792649760,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "CGTN launches News Pal, an AI-powered news companion",
+      "summary": "BEIJING, Oct. 22, 2026 /PRNewswire/ -- CGTN has launched News Pal, an AI-powered news companion that aggregates and summarizes coverage about China and the world with speed and clarity. The web-based service, which went live on October, turns real-time reporting from a range of m",
+      "url": "https://www.prnewswire.com/news-releases/cgtn-launches-news-pal-an-ai-powered-news-companion-302916534.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T06:16:00Z",
+      "epoch": 1792649760,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Pearson 2026 Nine Month Trading Update (Unaudited)",
+      "summary": "Accelerated growth in Q3 and on track to deliver 2026 guidance. Strategic acquisitions and optimising Pearson's structure further strengthen our growth platform. Highlights Underlying Group revenue increased 5% for the nine-month period, with growth accelerating to 6% in Q3, in l",
+      "url": "https://www.prnewswire.com/news-releases/pearson-2026-nine-month-trading-update-unaudited-302915984.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T06:10:00Z",
+      "epoch": 1792649400,
+      "sentiment": 1.0,
+      "tickers": [
+        "PSON.L"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "SINBON Electronics lleva los vínculos invisibles detrás de la vida cotidiana a electronica y SPS 2026",
+      "summary": "-De la conexión al impacto: SINBON Electronics lleva los vínculos invisibles detrás de la vida cotidiana a electronica y SPS 2026 MÚNICH y NUREMBERG, Alemania, 22 de octubre de 2026 /PRNewswire/ -- Cada día, son millones de personas las que dependen de tecnologías que funcionan d",
+      "url": "https://www.prnewswire.com/news-releases/sinbon-electronics-lleva-los-vinculos-invisibles-detras-de-la-vida-cotidiana-a-electronica-y-sps-2026-302916517.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T06:08:00Z",
+      "epoch": 1792649280,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Von der Verbindung zur Wirkung: SINBON Electronics präsentiert auf der electronica und der SPS 2026 die unsichtbaren Verbindungen hinter unserem Alltag",
+      "summary": "MÜNCHEN und NÜRNBERG, Deutschland, 22. Oktober 2026 /PRNewswire/ -- Jeden Tag verlassen sich Millionen von Menschen auf Technologien, die im Hintergrund nahtlos zusammenarbeiten. Rechenzentren, Ladestationen, Krankenhäuser und Fabrikhallen sind enger miteinander vernetzt denn je,",
+      "url": "https://www.prnewswire.com/news-releases/von-der-verbindung-zur-wirkung-sinbon-electronics-prasentiert-auf-der-electronica-und-der-sps-2026-die-unsichtbaren-verbindungen-hinter-unserem-alltag-302916512.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T06:06:00Z",
+      "epoch": 1792649160,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "De la connexion à l'impact : SINBON Electronics présente les liens invisibles qui sous-tendent notre quotidien aux salons « electronica » et « SPS 2026 »",
+      "summary": "MUNICH et NUREMBERG, Allemagne, 22 octobre 2026 /PRNewswire/ -- Chaque jour, des millions de personnes comptent sur des technologies qui fonctionnent ensemble en toute discrétion. Le centre de données, la station de recharge, l'hôpital et l'usine sont plus étroitement liés que ja",
+      "url": "https://www.prnewswire.com/news-releases/de-la-connexion-a-limpact--sinbon-electronics-presente-les-liens-invisibles-qui-sous-tendent-notre-quotidien-aux-salons--electronica--et--sps-2026--302916501.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T06:01:00Z",
+      "epoch": 1792648860,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Shareholder Proposal Support Nudges Up as Proposal Volume Falls, Broadridge ProxyPulse™ Report Finds",
+      "summary": "2026 proxy season sees a sharp decline in environmental and social proposals, a 10-year high in say-on-pay support and expanded opportunities for investor participation NEW YORK, Oct. 22, 2026 /PRNewswire/ -- Shareholder support for proposals increased in the 2026 proxy season ev",
+      "url": "https://www.prnewswire.com/news-releases/shareholder-proposal-support-nudges-up-as-proposal-volume-falls-broadridge-proxypulse-report-finds-302916293.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-22T06:00:00Z",
+      "epoch": 1792648800,
       "sentiment": -0.67,
       "tickers": [],
       "company_name": null,
@@ -329,86 +429,299 @@
       "small_cap_risk": false
     },
     {
-      "title": "Casio to Release Analog G-SHOCK Watches Inheriting the Functional Beauty of the Original Digital Model",
-      "summary": "Featuring Multi-Mission Date with Multiple Functions TOKYO, Oct. 21, 2026 /PRNewswire/ -- Casio Computer Co., Ltd. announced today the release of the latest additions to the family of G-SHOCK shock-resistant watches. The new GMC-2500 and GAC-2500 bring the functional beauty of th",
-      "url": "https://www.prnewswire.com/news-releases/casio-to-release-analog-g-shock-watches-inheriting-the-functional-beauty-of-the-original-digital-model-302910687.html",
+      "title": "Supermicro Introduces the NVIDIA Vera CPU Rack, a 256 CPU, 100% Liquid-Cooled Rack-Scale Solution, Complementing the NVIDIA Vera Rubin Platform, for Agentic AI at Scale",
+      "summary": "Delivers dedicated 256 NVIDIA Vera CPU capacity for agent sandboxes, complementing NVIDIA Vera Rubin NVL72 with common DCBBS infrastructure with third-generation NVIDIA MGX racks and battery backup units Integrates NVIDIA Vera CPUs and BlueField™-4 DPUs with the NVIDIA Open Agent",
+      "url": "https://www.prnewswire.com/news-releases/supermicro-introduces-the-nvidia-vera-cpu-rack-a-256-cpu-100-liquid-cooled-rack-scale-solution-complementing-the-nvidia-vera-rubin-platform-for-agentic-ai-at-scale-302916308.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-22T01:00:00Z",
-      "epoch": 1792630800,
+      "published_at": "2026-10-22T06:00:00Z",
+      "epoch": 1792648800,
       "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Casio est sur le point de lancer des montres G-SHOCK analogiques ayant hérité de l'esthétique fonctionnelle du modèle numérique original",
-      "summary": "Fonction Multi-Mission Date multifonctionnelle TOKYO, 22 octobre 2026 /PRNewswire/ -- Casio Computer Co., Ltd. a annoncé aujourd'hui la sortie des dernières nouveautés de la famille des montres résistantes aux chocs G-SHOCK. Les nouvelles GMC-2500 et GAC-2500 transposent l'esthét",
-      "url": "https://www.prnewswire.com/news-releases/casio-est-sur-le-point-de-lancer-des-montres-g-shock-analogiques-ayant-herite-de-lesthetique-fonctionnelle-du-modele-numerique-original-302911474.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-22T01:00:00Z",
-      "epoch": 1792630800,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Side Acquires Boutique Art Studio Roboto Entertainment in Creative Services Push",
-      "summary": "Founder Andrea Cordella appointed Global Head of Art as Side establishes new Chengdu studio CHENGDU, China, Oct. 21, 2026 /PRNewswire/ -- Leading games services provider, Side, today acquired the boutique games art studio, Roboto Entertainment, strengthening its global art capabi",
-      "url": "https://www.prnewswire.com/news-releases/side-acquires-boutique-art-studio-roboto-entertainment-in-creative-services-push-302915576.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-22T01:00:00Z",
-      "epoch": 1792630800,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "LogiSense Ranks Among Top Five for Billing Solution Strength and Volume in MGI Research's 2026 Buyer's Guide",
-      "summary": "A grade and Positive Analyst Outlook underscore LogiSense's capabilities in complex, high‑volume usage and hybrid monetization KITCHENER, ON, Oct. 6, 2026 /PRNewswire/ -- LogiSense, a provider of enterprise billing and monetization software, today announced that MGI Research's 20",
-      "url": "https://www.prnewswire.com/news-releases/logisense-ranks-among-top-five-for-billing-solution-strength-and-volume-in-mgi-researchs-2026-buyers-guide-302916178.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-22T00:51:00Z",
-      "epoch": 1792630260,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Nuix Launches Agentic AI in Nuix Neo with Audit Trail Built In",
-      "summary": "SYDNEY, Oct. 22, 2026 /PRNewswire/ -- Nuix (ASX: NXL), a provider of investigative analytics and intelligence software, today launched the Nuix Neo AI Agent. Nuix software analyses large volumes of unstructured data, such as emails and chats, for high-stakes legal, regulatory and",
-      "url": "https://www.prnewswire.com/news-releases/nuix-launches-agentic-ai-in-nuix-neo-with-audit-trail-built-in-302916175.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-22T00:45:00Z",
-      "epoch": 1792629900,
-      "sentiment": 0.33,
       "tickers": [
-        "NXL"
+        "NVDA",
+        "SMCI"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "ICEYE partners with OroraTech to deliver full-lifecycle wildfire intelligence",
+      "summary": "New integrated capability delivers near real-time wildfire detection, fire progression monitoring, and damage assessment in a single platform HELSINKI, Oct. 22, 2026 /PRNewswire/ -- ICEYE, the world leader in sovereign intelligence from space, today announced a partnership with O",
+      "url": "https://www.prnewswire.com/news-releases/iceye-partners-with-ororatech-to-deliver-full-lifecycle-wildfire-intelligence-302916276.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T06:00:00Z",
+      "epoch": 1792648800,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "UMC and AP Memory Collaborate to Enable Advanced Power Delivery Solutions for AI and HPC Systems",
+      "summary": "HSINCHU, Oct. 22, 2026 /PRNewswire/ -- United Microelectronics Corporation (NYSE: UMC; TWSE: 2303) (\"UMC\") and AP Memory (TWSE: 6531) today announced a technology and manufacturing collaboration to advance power delivery solutions for AI and high-performance computing (HPC) syste",
+      "url": "https://www.prnewswire.com/news-releases/umc-and-ap-memory-collaborate-to-enable-advanced-power-delivery-solutions-for-ai-and-hpc-systems-302916408.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T06:00:00Z",
+      "epoch": 1792648800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Inheritance: The Long March of the New Era",
+      "summary": "BEIJING, Oct. 22, 2026 /PRNewswire/ -- An interview from China.org.cn with Wang Xiaohui and David Ferguson on the Long March: Wang Xiaohui: The Long March went on for two years. The Red Army trekked 25,000 li across some of China's harshest terrain, but they kept their heads high",
+      "url": "https://www.prnewswire.com/news-releases/inheritance-the-long-march-of-the-new-era-302916489.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T05:56:00Z",
+      "epoch": 1792648560,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "New research reveals growing consumer preference for natural fibres as Woolmark launches Return to Real",
+      "summary": "SYDNEY, Oct. 22, 2026 /PRNewswire/ -- As consumers become more selective about what they wear, new Ipsos research commissioned by Woolmark across the United States, France, Germany, Italy and China reveals a growing preference for natural fibres. On average across five markets, 8",
+      "url": "https://www.prnewswire.com/news-releases/new-research-reveals-growing-consumer-preference-for-natural-fibres-as-woolmark-launches-return-to-real-302916479.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T05:53:00Z",
+      "epoch": 1792648380,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "iScooter lanza la campaña de Black Friday 2026 para su gama de patinetes eléctricos para adultos y niños",
+      "summary": "BERLIN, 22 de octubre de 2026 /PRNewswire/ -- iScooter, una empresa innovadora dedicada a soluciones de transporte personal, ha anunciado hoy el lanzamiento de su Campaña de Black Friday 2026, que estará vigente del 20 de octubre al 30 de noviembre. La campaña incluye descuentos ",
+      "url": "https://www.prnewswire.com/news-releases/iscooter-lanza-la-campana-de-black-friday-2026-para-su-gama-de-patinetes-electricos-para-adultos-y-ninos-302914017.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T05:30:00Z",
+      "epoch": 1792647000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Indegene Receives Frost &amp; Sullivan's 2026 Global Enabling Technology Leadership Recognition for AI-Powered Pharma Commercialization",
+      "summary": "Indegene is recognized for combining domain-led AI, knowledge orchestration, and integrated execution to transform pharmaceutical commercialization workflows. SAN ANTONIO, Oct. 22, 2026 /PRNewswire/ -- Frost & Sullivan is pleased to announce that Indegene has received the 2026 Gl",
+      "url": "https://www.prnewswire.com/news-releases/indegene-receives-frost--sullivans-2026-global-enabling-technology-leadership-recognition-for-ai-powered-pharma-commercialization-302910803.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T05:30:00Z",
+      "epoch": 1792647000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "iScooter Launches 2026 Black Friday Campaign Across Adult and Kids Electric Scooter Range",
+      "summary": "BERLIN, Oct. 22, 2026 /PRNewswire/ -- iScooter, an innovator dedicated to personal transportation solutions, today announced the launch of its 2026 Black Friday campaign, running from October 20 through November 30. The campaign features discounts across a range of electric scoot",
+      "url": "https://www.prnewswire.com/news-releases/iscooter-launches-2026-black-friday-campaign-across-adult-and-kids-electric-scooter-range-302913998.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-22T05:30:00Z",
+      "epoch": 1792647000,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Rznomics Granted Orphan Medicinal Product Designation for RZ-001 for the Treatment of Glioma by the European Commission",
+      "summary": "SEONGNAM, South Korea, Oct. 22, 2026 /PRNewswire/ -- Rznomics Inc., a biopharmaceutical company specializing in the development of RNA-based gene therapies, announced today that the European Commission (EC) has granted Orphan Medicinal Product Designation to 'taspitimagene advec(",
+      "url": "https://www.prnewswire.com/news-releases/rznomics-granted-orphan-medicinal-product-designation-for-rz-001-for-the-treatment-of-glioma-by-the-european-commission-302916450.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-10-22T05:30:00Z",
+      "epoch": 1792647000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "iScooter lance sa campagne Black Friday 2026 sur toute sa gamme de trottinettes électriques pour adultes et enfants",
+      "summary": "BERLIN, 22 octobre 2026 /PRNewswire/ -- iScooter, une entreprise innovante dédiée aux solutions de transport personnel, a annoncé aujourd'hui le lancement de sa campagne Black Friday 2026, qui se déroulera du 20 octobre au 30 novembre. Cette campagne propose des réductions sur un",
+      "url": "https://www.prnewswire.com/news-releases/iscooter-lance-sa-campagne-black-friday-2026-sur-toute-sa-gamme-de-trottinettes-electriques-pour-adultes-et-enfants-302914006.html",
+      "source": "PR Newswire — Biotechnology",
+      "source_id": "prnewswire-biotech",
+      "published_at": "2026-10-22T05:30:00Z",
+      "epoch": 1792647000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "iScooter startet Black Friday-Kampagne 2026 für das gesamte Sortiment an Elektrorollern für Erwachsene und Kinder",
+      "summary": "BERLIN, 22. Oktober 2026 /PRNewswire/ -- iScooter, ein Innovator im Bereich persönlicher Transportlösungen, gab heute den Start seiner Black Friday-Kampagne 2026 bekannt, die vom 20. Oktober bis zum 30. November läuft. Die Kampagne umfasst Rabatte auf eine breite Palette von...",
+      "url": "https://www.prnewswire.com/news-releases/iscooter-startet-black-friday-kampagne-2026-fur-das-gesamte-sortiment-an-elektrorollern-fur-erwachsene-und-kinder-302914010.html",
+      "source": "PR Newswire — Biotechnology",
+      "source_id": "prnewswire-biotech",
+      "published_at": "2026-10-22T05:30:00Z",
+      "epoch": 1792647000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Innventure, Inc. (NASDAQ: INV) Securities Investigation: Investors Who Held Shares Since November 17, 2025, May Be Eligible to Seek Compensation - Stranch, Jennings &amp; Garvey, PLLC",
+      "summary": "OAKLAND, Calif., Oct. 21, 2026 /PRNewswire/ -- Stranch, Jennings & Garvey, PLLC is investigating potential securities law violations involving Innventure, Inc. (NASDAQ: INV) and allegations concerning the company's disclosures about a data center agreement between its subsidiary,",
+      "url": "https://www.prnewswire.com/news-releases/innventure-inc-nasdaq-inv-securities-investigation-investors-who-held-shares-since-november-17-2025-may-be-eligible-to-seek-compensation---stranch-jennings--garvey-pllc-302916281.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-22T03:09:00Z",
+      "epoch": 1792638540,
+      "sentiment": -0.33,
+      "tickers": [
+        "INV"
       ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
     },
     {
-      "title": "GALY Launches US Commercial Cocoa Operations and Advances UAE Expansion",
-      "summary": "Purchase orders from Boston's restaurants and Dubai chocolatiers mark concrete steps from cultured cocoa technology to chocolate in professional kitchens BOSTON, Oct. 21, 2026 /PRNewswire/ -- GALY has begun commercial cocoa operations in the United States and is advancing its ent",
-      "url": "https://www.prnewswire.com/news-releases/galy-launches-us-commercial-cocoa-operations-and-advances-uae-expansion-302916170.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-22T00:39:00Z",
-      "epoch": 1792629540,
-      "sentiment": 0.67,
+      "title": "Workday Announces Pricing of $2.5 Billion Senior Notes Offering",
+      "summary": "PLEASANTON, Calif., Oct. 21, 2026 /PRNewswire/ -- Workday, Inc. (NASDAQ: WDAY), the trusted agentic platform for HR, finance, and IT, today announced that it has priced its underwritten, registered public offering of $2.5 billion aggregate principal amount of senior notes, consis",
+      "url": "https://www.prnewswire.com/news-releases/workday-announces-pricing-of-2-5-billion-senior-notes-offering-302916278.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-22T03:03:00Z",
+      "epoch": 1792638180,
+      "sentiment": 0.0,
+      "tickers": [
+        "WDAY"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Sony Semiconductor Solutions kündigt 1 mm × 1 mm großen Bildsensor für medizinische Einweg‑Endoskope mit branchenweit erster[*1] digitaler Übertragung über 5 m und hoher Bildqualität an",
+      "summary": "Stabile Übertragung hochauflösender Bilder für dünne Endoskope ATSUGI, Japan, 22. Oktober 2026 /PRNewswire/ -- Die Sony Semiconductor Solutions Corporation (Sony) gab heute die bevorstehende Markteinführung des IMX742 bekannt, eines CMOS-Bildsensors mit ca. 0,51 effektiven Megapi",
+      "url": "https://www.prnewswire.com/news-releases/sony-semiconductor-solutions-kundigt-1-mm-O-1-mm-groWen-bildsensor-fur-medizinische-einwegendoskope-mit-branchenweit-erster1-digitaler-ubertragung-uber-5-m-und-hoher-bildqualitat-an-302900964.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-10-22T03:00:00Z",
+      "epoch": 1792638000,
+      "sentiment": 0.0,
+      "tickers": [
+        "SONY"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Sony Semiconductor Solutions annonce un capteur d'image d'un mm carré pour les endoscopes médicaux à usage unique, avec la première transmission numérique de 5 m de l'industrie [*1] ainsi qu'une qualité d'image élevée",
+      "summary": "Assurer une transmission stable d'images haute définition pour les endoscopes fins ATSUGI, Japon,/PRNewswire/ -- Sony Semiconductor Solutions Corporation (Sony) annonce aujourd'hui la sortie prochaine de l'IMX742, un capteur d'image CMOS d'environ 0,51 mégapixel effectif*2 destin",
+      "url": "https://www.prnewswire.com/news-releases/sony-semiconductor-solutions-annonce-un-capteur-dimage-dun-mm-carre-pour-les-endoscopes-medicaux-a-usage-unique-avec-la-premiere-transmission-numerique-de-5-m-de-lindustrie-1-ainsi-quune-qualite-dimage-elevee-302900968.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-10-22T03:00:00Z",
+      "epoch": 1792638000,
+      "sentiment": 0.0,
+      "tickers": [
+        "SONY"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Sony anuncia un sensor de imagen cuadrado de 1 mm para endoscopios médicos de un solo uso",
+      "summary": "-Sony Semiconductor Solutions anuncia un sensor de imagen cuadrado de 1 mm para endoscopios médicos de un solo uso, que ofrece transmisión digital a 5 metros, la primera de la industria [*1], y una alta calidad de imagen Permite la transmisión estable de imágenes de alta definici",
+      "url": "https://www.prnewswire.com/news-releases/sony-anuncia-un-sensor-de-imagen-cuadrado-de-1-mm-para-endoscopios-medicos-de-un-solo-uso-302900966.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-10-22T03:00:00Z",
+      "epoch": 1792638000,
+      "sentiment": 0.0,
+      "tickers": [
+        "SONY"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Sony Semiconductor Solutions Announces 1 mm Square Image Sensor for Medical Single-Use Endoscopes, Featuring Industry's First [*1] 5 m Digital Transmission and High Image Quality",
+      "summary": "Providing stable transmission of high-definition images for thin endoscopes ATSUGI, Japan, Oct. 22, 2026 /PRNewswire/ -- Sony Semiconductor Solutions Corporation (Sony) today announced the upcoming release of the IMX742, a CMOS image sensor with approximately 0.51 effective megap",
+      "url": "https://www.prnewswire.com/news-releases/sony-semiconductor-solutions-announces-1-mm-square-image-sensor-for-medical-single-use-endoscopes-featuring-industrys-first-1-5-m-digital-transmission-and-high-image-quality-302899093.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-10-22T03:00:00Z",
+      "epoch": 1792638000,
+      "sentiment": 0.0,
+      "tickers": [
+        "SONY"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Healthcare Triangle, Inc. Announces 1-for-20 Reverse Stock Split as Part of Nasdaq Compliance Plan",
+      "summary": "PLEASANTON, Calif., Oct. 21, 2026 /PRNewswire/ -- Healthcare Triangle, Inc. (Nasdaq: HCTI) (\"HCTI\" or the \"Company\"), a leader in digital transformation solutions including managed services, cloud enablement, and data analytics for the healthcare and life sciences industries, tod",
+      "url": "https://www.prnewswire.com/news-releases/healthcare-triangle-inc-announces-1-for-20-reverse-stock-split-as-part-of-nasdaq-compliance-plan-302916160.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-22T02:00:00Z",
+      "epoch": 1792634400,
+      "sentiment": 0.0,
+      "tickers": [
+        "HCTI"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Sony Semiconductor Solutions Announces 1 mm Square Image Sensor for Medical Single-Use Endoscopes, Featuring Industry's First*¹5 m Digital Transmission and High Image Quality",
+      "summary": "Providing stable transmission of high-definition images for thin endoscopes ATSUGI, Japan, Oct. 21, 2026 /PRNewswire/ -- Sony Semiconductor Solutions Corporation (Sony) today announced the upcoming release of the IMX742, a CMOS image sensor with approximately 0.51 effective megap",
+      "url": "https://www.prnewswire.com/news-releases/sony-semiconductor-solutions-announces-1-mm-square-image-sensor-for-medical-single-use-endoscopes-featuring-industrys-first5-m-digital-transmission-and-high-image-quality-302916055.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-10-22T02:00:00Z",
+      "epoch": 1792634400,
+      "sentiment": 0.0,
+      "tickers": [
+        "SONY"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "NUH WINS GOLD AT IHF AWARDS 2026 FOR GREEN OPERATING THEATRE PROGRAMME",
+      "summary": "NUH won Gold and received an Honourable Mention for its sustainability efforts at the International Hospital Federation Awards 2026, alongside presentations of its green surgical initiatives, digital health and organisational improvement initiatives at the World Hospital Congress",
+      "url": "https://www.prnewswire.com/news-releases/nuh-wins-gold-at-ihf-awards-2026-for-green-operating-theatre-programme-302916198.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-10-22T01:27:00Z",
+      "epoch": 1792632420,
+      "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -432,8 +745,8 @@
       "title": "Jury Has Reached a $9 Million Verdict in the Trial of Former OB/GYN Arthur Park, Says Consumer Watchdog",
       "summary": "BAKERSFIELD, Calif., Oct. 21, 2026 /PRNewswire/ -- The jury reached a verdict this afternoon in the trial for the deaths of Demi Dominguez and baby Malakhi De Leon. The jury voted that Arthur Park was negligent in the care of Demi Dominguez, that Tracy Dominguez should receive...",
       "url": "https://www.prnewswire.com/news-releases/jury-has-reached-a-9-million-verdict-in-the-trial-of-former-obgyn-arthur-park-says-consumer-watchdog-302916163.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-22T00:32:00Z",
       "epoch": 1792629120,
       "sentiment": 0.0,
@@ -457,25 +770,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "Stones from Other Mountains Serving to Polish the Jade: Events for Centennial Commemoration of James Cahill Held at China Academy of Art",
-      "summary": "HANGZHOU, China, Oct. 21, 2026 /PRNewswire/ -- An international symposium, \"James Cahill's Legacy and Global Art History,\" together with its affiliated academic events commemorating the centenary of James Cahill, was hosted by China Academy of Art (CAA) at the Xiangshan Campus in",
-      "url": "https://www.prnewswire.com/news-releases/stones-from-other-mountains-serving-to-polish-the-jade-events-for-centennial-commemoration-of-james-cahill-held-at-china-academy-of-art-302916146.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-22T00:16:00Z",
-      "epoch": 1792628160,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Genomma Lab Internacional Announces Results for the Third Quarter 2026",
       "summary": "MEXICO CITY, Oct. 21, 2026 /PRNewswire/ -- Genomma Lab Internacional, S.A.B. de C.V. (BMV: LAB B) (\"Genomma\" or \"the Company\"), today announced its results for the third quarter 2026. All figures included herein are stated in nominal Mexican pesos and have been prepared in accord",
       "url": "https://www.prnewswire.com/news-releases/genomma-lab-internacional-announces-results-for-the-third-quarter-2026-302916128.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-21T23:59:00Z",
       "epoch": 1792627140,
       "sentiment": 0.0,
@@ -709,22 +1008,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Bank of America Names Jim Fitterling and Bill Thomas to Board of Directors",
-      "summary": "CHARLOTTE, N.C., Oct. 21, 2026 /PRNewswire/ -- The Bank of America Corporation Board of Directors today appointed Jim Fitterling and Bill Thomas as directors, effective immediately. \"We are pleased to welcome two seasoned CEOs, who join our Board after leading large, global...",
-      "url": "https://www.prnewswire.com/news-releases/bank-of-america-names-jim-fitterling-and-bill-thomas-to-board-of-directors-302915926.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-21T20:45:00Z",
-      "epoch": 1792615500,
-      "sentiment": 0.0,
-      "tickers": [
-        "BAC"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "CASH Campaign of Maryland Partners with Baltimore City to Shape, Administer Next Major Investment in Families",
       "summary": "CASH to serve as program administrator and help lead the Mayor's Guaranteed Income Advisory Committee, bringing local expertise and community perspectives to program development BALTIMORE, Oct. 21, 2026 /PRNewswire/ -- The CASH Campaign of Maryland (CASH), a leader in financial s",
       "url": "https://www.prnewswire.com/news-releases/cash-campaign-of-maryland-partners-with-baltimore-city-to-shape-administer-next-major-investment-in-families-302915915.html",
@@ -737,220 +1020,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "Protect Yourself and Your Community: Accordia Health Encourages the Public to Get Annual Flu Vaccine",
-      "summary": "MOBILE, Ala., Oct. 21, 2026 /PRNewswire/ -- As flu season gets underway, Accordia Health encourages everyone eligible to get the annual flu vaccine. Influenza, commonly known as the flu, is more than just a seasonal inconvenience. It can cause serious illness, lead to hospitaliza",
-      "url": "https://www.prnewswire.com/news-releases/protect-yourself-and-your-community-accordia-health-encourages-the-public-to-get-annual-flu-vaccine-302915862.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-21T20:32:00Z",
-      "epoch": 1792614720,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "UNITED BANCSHARES, INC. ANNOUNCES THIRD QUARTER 2026 RESULTS AND $0.26 DIVIDEND",
-      "summary": "COLUMBUS GROVE, Ohio, Oct. 21, 2026 /PRNewswire/ -- United Bancshares, Inc. (OTCQX: UBOH) Quarterly cash dividend of $0.26 per share for shareholders of record on November 30, 2026, payable on December 15, 2026. This represents a 13% increase from the same quarter in 2025. Compan",
-      "url": "https://www.prnewswire.com/news-releases/united-bancshares-inc-announces-third-quarter-2026-results-and-0-26-dividend-302915417.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-21T20:30:00Z",
-      "epoch": 1792614600,
-      "sentiment": 1.0,
-      "tickers": [
-        "UBOH"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Fulton Financial Corporation Announces Third Quarter 2026 Results",
-      "summary": "LANCASTER, Pa., Oct. 21, 2026 /PRNewswire/ -- Fulton Financial Corporation (NASDAQ: FULT) (\"Fulton\" or the \"Corporation\") reported net income available to common shareholders of $114.1 million, or $0.59 per diluted share, for the third quarter of 2026, an increase of $14.2 millio",
-      "url": "https://www.prnewswire.com/news-releases/fulton-financial-corporation-announces-third-quarter-2026-results-302915906.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-21T20:30:00Z",
-      "epoch": 1792614600,
-      "sentiment": 0.0,
-      "tickers": [
-        "FULT"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "HYPOTHESIS Launches HyperX Knit Collection with Pilates Event",
-      "summary": "LOS ANGELES, Oct. 21, 2026 /PRNewswire/ -- The HYPOTHESIS recently hosted an intimate activation in Downtown Los Angeles to introduce its new HYPERX knit collection. Partnering with Renew by Rachel, a Pilates experience led by healthcare professional and brand ambassador Rachel N",
-      "url": "https://www.prnewswire.com/news-releases/hypothesis-launches-hyperx-knit-collection-with-pilates-event-302915852.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-21T20:30:00Z",
-      "epoch": 1792614600,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Stewart Reports Third Quarter 2026 Results",
-      "summary": "Total revenues of $900.7 million (GAAP and adjusted basis) compared to $796.9 million ($791.3 million on an adjusted basis) in the prior year quarter Net income of $30.3 million ($41.2 million on an adjusted basis) compared to net income of $44.3 million ($46.7 million on an adju",
-      "url": "https://www.prnewswire.com/news-releases/stewart-reports-third-quarter-2026-results-302915936.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-21T20:20:00Z",
-      "epoch": 1792614000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "First Industrial Realty Trust Reports Third Quarter 2026 Results",
-      "summary": "Cash Rental Rates on New and Renewal Leasing Increased 52% in 3Q26 Cash Same Store NOI Growth of 5.6% in 3Q26 Acquired 100% Leased 764,000 SF Building in Central Pennsylvania for $120 Million in 3Q26 Signed Remaining 32,000 SF at First Park Miami Building 12 in South Florida in 3",
-      "url": "https://www.prnewswire.com/news-releases/first-industrial-realty-trust-reports-third-quarter-2026-results-302915998.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-21T20:19:00Z",
-      "epoch": 1792613940,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "eHealth, Inc. to Hold Third Quarter 2026 Earnings Call on November 4 at 5:00 p.m. Eastern Time",
-      "summary": "INDIANAPOLIS, Oct. 21, 2026 /PRNewswire/ -- eHealth, Inc. (Nasdaq: EHTH), a leading private online health insurance marketplace, today announced that the company plans to release third quarter 2026 financial results on November 4, 2026. The company will hold an earnings conferenc",
-      "url": "https://www.prnewswire.com/news-releases/ehealth-inc-to-hold-third-quarter-2026-earnings-call-on-november-4-at-500-pm-eastern-time-302915951.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-21T20:15:00Z",
-      "epoch": 1792613700,
-      "sentiment": 0.0,
-      "tickers": [
-        "EHTH"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "GLOBE LIFE INC. REPORTS THIRD QUARTER 2026 RESULTS",
-      "summary": "MCKINNEY, Texas, Oct. 21, 2026 /PRNewswire/ -- Globe Life Inc. (NYSE: GL) reported today that for the quarter ended September 30, 2026, net income was $4.62 per diluted common share, compared with $4.73 per diluted common share for the year-ago quarter. Net operating income was $",
-      "url": "https://www.prnewswire.com/news-releases/globe-life-inc-reports-third-quarter-2026-results-302915882.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-21T20:10:00Z",
-      "epoch": 1792613400,
-      "sentiment": 0.0,
-      "tickers": [
-        "GL"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Viking Therapeutics to Report Financial Results for Third Quarter 2026 on October 28, 2026",
-      "summary": "Conference Call Scheduled for Wednesday, October 28, at 4:30 p.m. Eastern Time SAN DIEGO, Oct. 21, 2026 /PRNewswire/ -- Viking Therapeutics, Inc. (\"Viking\") (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and ",
-      "url": "https://www.prnewswire.com/news-releases/viking-therapeutics-to-report-financial-results-for-third-quarter-2026-on-october-28-2026-302914794.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-21T20:05:00Z",
-      "epoch": 1792613100,
-      "sentiment": 0.0,
-      "tickers": [
-        "VKTX"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Nuvation Bio to Report Third Quarter 2026 Financial Results and Provide Business Update on November 4, 2026",
-      "summary": "NEW YORK, Oct. 21, 2026 /PRNewswire/ -- Nuvation Bio Inc. (\"Nuvation Bio\") (NYSE: NUVB), a global oncology company focused on tackling some of the toughest challenges in cancer treatment, today announced it will host a conference call and webcast on Wednesday, November 4, 2026, a",
-      "url": "https://www.prnewswire.com/news-releases/nuvation-bio-to-report-third-quarter-2026-financial-results-and-provide-business-update-on-november-4-2026-302915774.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-21T20:05:00Z",
-      "epoch": 1792613100,
-      "sentiment": 0.0,
-      "tickers": [
-        "NUVB"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Improve Cell Line Stability From Cloning to GMP Manufacturing, Upcoming Webinar Hosted by Xtalks",
-      "summary": "In this free webinar, learn how early cell-development decisions can affect cell line stability from cloning through GMP manufacturing. The featured speakers will discuss culture conditions, clone selection, cellular stress, recloning and genetic integrity monitoring, using iPSC.",
-      "url": "https://www.prnewswire.com/news-releases/improve-cell-line-stability-from-cloning-to-gmp-manufacturing-upcoming-webinar-hosted-by-xtalks-302915898.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-21T20:05:00Z",
-      "epoch": 1792613100,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Accuray to Report First Quarter Fiscal 2027 Financial Results on November 4, 2026",
-      "summary": "MADISON, Wis., Oct. 21, 2026 /PRNewswire/ -- Accuray Incorporated (NASDAQ: ARAY) will report financial results for the first quarter of fiscal year 2027, ended September 30, 2026, during a conference call hosted by company management at 1:30 p.m. PT/4:30 p.m. ET on November 4, 20",
-      "url": "https://www.prnewswire.com/news-releases/accuray-to-report-first-quarter-fiscal-2027-financial-results-on-november-4-2026-302915669.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-21T20:05:00Z",
-      "epoch": 1792613100,
-      "sentiment": 0.0,
-      "tickers": [
-        "ARAY"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "SERA PROGNOSTICS ANNOUNCES CONFERENCE CALL AND WEBCAST OF THIRD QUARTER FISCAL YEAR 2026 FINANCIAL RESULTS ON NOVEMBER 4, 2026",
-      "summary": "SALT LAKE CITY, Oct. 21, 2026 /PRNewswire/ -- Sera Prognostics Inc., The Pregnancy Company® (Nasdaq: SERA), focused on improving maternal and neonatal health by providing innovative pregnancy biomarker information to doctors and patients, today announced it will report its third ",
-      "url": "https://www.prnewswire.com/news-releases/sera-prognostics-announces-conference-call-and-webcast-of-third-quarter-fiscal-year-2026-financial-results-on-november-4-2026-302915767.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-21T20:05:00Z",
-      "epoch": 1792613100,
-      "sentiment": 0.0,
-      "tickers": [
-        "SERA"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "GRAIL to Announce Third Quarter 2026 Financial Results",
-      "summary": "SUNNYVALE, Calif., Oct. 21, 2026 /PRNewswire/ -- GRAIL, Inc. (Nasdaq: GRAL), a healthcare company whose mission is to detect cancer early when it can be cured, announced today that it will issue financial results for the third quarter 2026 following the close of market on Wednesd",
-      "url": "https://www.prnewswire.com/news-releases/grail-to-announce-third-quarter-2026-financial-results-302915806.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-21T20:02:00Z",
-      "epoch": 1792612920,
-      "sentiment": 0.0,
-      "tickers": [
-        "GRAL"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
     },
     {
       "title": "8-K - Liberty Energy Inc. (0001694028) (Filer)",
@@ -2389,6 +2458,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "Otsuka hit with 11 marketing code breaches after event organizer blunder",
+      "summary": "The PMCPA has ruled that Otsuka Europe’s involvement with a sponsored symposium webpage breached 11 clauses of the U.K. marketing code. While the PMCPA found fault with many aspects of the webpage, the watchdog opted against hitting Otsuka with its toughest punishment.",
+      "url": "https://www.fiercepharma.com/marketing/otsuka-hit-11-marketing-code-breaches-after-event-organizer-blunder",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-10-22T02:23:00Z",
+      "epoch": 1792635780,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
       "summary": "Hibsago is viewed as a potential &ldquo;functional cure&rdquo; for chronic infections and an important part of the British drugmaker&rsquo;s goal of reaching &pound;40 billion in annual revenue by 2031.",
       "url": "https://www.biopharmadive.com/news/gsk-ionis-fda-approve-hibsago-chronic-hepatitis-b-bepirovirsen/833541/",
@@ -2948,22 +3031,6 @@
       "sentiment": 0.0,
       "tickers": [
         "VTRS"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "The Oral GLP-1 Tracker: Foundayo, Wegovy pill undergo minor fluctuations",
-      "summary": "Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.",
-      "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-04-21T10:06:00Z",
-      "epoch": 1776765960,
-      "sentiment": -0.33,
-      "tickers": [
-        "IQV"
       ],
       "company_name": null,
       "catalyst": false,
