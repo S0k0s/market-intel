@@ -177,12 +177,6 @@
   ],
   "V": [
     {
-      "date": "2026-08-29",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
-      "article_count": 1
-    },
-    {
       "date": "2026-08-30",
       "score": 52.0,
       "avg_sentiment": 0.0,
@@ -352,6 +346,12 @@
     },
     {
       "date": "2026-10-22",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-23",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -992,9 +992,9 @@
     },
     {
       "date": "2026-10-23",
-      "score": 57.5,
-      "avg_sentiment": -0.01,
-      "article_count": 4
+      "score": 42.9,
+      "avg_sentiment": -0.33,
+      "article_count": 3
     }
   ],
   "MO": [
@@ -2286,9 +2286,9 @@
     },
     {
       "date": "2026-10-23",
-      "score": 29.2,
-      "avg_sentiment": -0.67,
-      "article_count": 3
+      "score": 27.5,
+      "avg_sentiment": -0.76,
+      "article_count": 4
     }
   ],
   "NDAQ": [
@@ -2736,9 +2736,9 @@
     },
     {
       "date": "2026-10-23",
-      "score": 52.0,
+      "score": 54.0,
       "avg_sentiment": 0.0,
-      "article_count": 1
+      "article_count": 2
     }
   ],
   "APP": [
@@ -3448,8 +3448,8 @@
     },
     {
       "date": "2026-10-23",
-      "score": 51.7,
-      "avg_sentiment": -0.21,
+      "score": 52.1,
+      "avg_sentiment": -0.2,
       "article_count": 6
     }
   ],
@@ -4851,6 +4851,12 @@
       "score": 80.8,
       "avg_sentiment": 0.67,
       "article_count": 2
+    },
+    {
+      "date": "2026-10-23",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "BLK": [
@@ -6368,9 +6374,9 @@
     },
     {
       "date": "2026-10-23",
-      "score": 65.2,
-      "avg_sentiment": 0.33,
-      "article_count": 1
+      "score": 60.7,
+      "avg_sentiment": 0.17,
+      "article_count": 2
     }
   ],
   "MC.PA": [
@@ -7995,6 +8001,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "MSFT": [
@@ -8866,8 +8878,8 @@
     },
     {
       "date": "2026-10-23",
-      "score": 58.7,
-      "avg_sentiment": -0.03,
+      "score": 51.3,
+      "avg_sentiment": -0.22,
       "article_count": 13
     }
   ],
@@ -10679,6 +10691,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "JPM": [
@@ -12143,12 +12161,6 @@
   ],
   "CRM": [
     {
-      "date": "2026-09-20",
-      "score": 56.2,
-      "avg_sentiment": 0.01,
-      "article_count": 3
-    },
-    {
       "date": "2026-09-21",
       "score": 56.2,
       "avg_sentiment": 0.01,
@@ -12321,6 +12333,12 @@
       "score": 78.8,
       "avg_sentiment": 0.67,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "GRMN": [
@@ -12450,6 +12468,12 @@
     },
     {
       "date": "2026-10-22",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-23",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -12654,6 +12678,12 @@
     },
     {
       "date": "2026-10-12",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-23",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -12984,6 +13014,12 @@
     },
     {
       "date": "2026-09-28",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-23",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -13862,6 +13898,12 @@
       "date": "2026-10-21",
       "score": 78.8,
       "avg_sentiment": 0.67,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -14899,6 +14941,12 @@
       "score": 78.8,
       "avg_sentiment": 0.67,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "NFLX": [
@@ -15078,9 +15126,9 @@
     },
     {
       "date": "2026-10-23",
-      "score": 45.2,
-      "avg_sentiment": -0.27,
-      "article_count": 3
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "MRVL": [
@@ -15998,6 +16046,12 @@
       "date": "2026-10-14",
       "score": 65.2,
       "avg_sentiment": 0.33,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -21114,8 +21168,8 @@
     },
     {
       "date": "2026-10-23",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
+      "score": 25.2,
+      "avg_sentiment": -0.67,
       "article_count": 1
     }
   ],
@@ -23358,9 +23412,9 @@
     },
     {
       "date": "2026-10-23",
-      "score": 55.5,
-      "avg_sentiment": 0.04,
-      "article_count": 2
+      "score": 65.2,
+      "avg_sentiment": 0.33,
+      "article_count": 1
     }
   ],
   "PSKY": [
@@ -24724,8 +24778,8 @@
     },
     {
       "date": "2026-10-23",
-      "score": 25.2,
-      "avg_sentiment": -0.67,
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -24936,6 +24990,12 @@
       "date": "2026-10-16",
       "score": 25.2,
       "avg_sentiment": -0.67,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -27813,6 +27873,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "score": 25.2,
+      "avg_sentiment": -0.67,
+      "article_count": 1
     }
   ],
   "CBK.DE": [
@@ -29958,6 +30024,12 @@
       "date": "2026-10-17",
       "score": 25.2,
       "avg_sentiment": -0.67,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-23",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
