@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-24T21:02:43Z",
+  "generated_at": "2026-10-24T23:12:12Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 145,
+    "breaking_count": 146,
     "breaking_catalyst_count": 23,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 13,
@@ -40,14 +40,14 @@
       "source_count": 2
     },
     {
-      "ticker": "DRI",
-      "count": 2,
-      "catalyst_count": 1,
-      "source_count": 2
-    },
-    {
       "ticker": "MRK",
       "count": 2,
+      "catalyst_count": 1,
+      "source_count": 1
+    },
+    {
+      "ticker": "DRI",
+      "count": 1,
       "catalyst_count": 1,
       "source_count": 1
     },
@@ -400,6 +400,62 @@
       "small_cap_risk": false
     },
     {
+      "title": "CARNE Brings a Nightmare Before Christmas to Oxnard with Limited-Time Halloween Pop-Up",
+      "summary": "The Oxnard restaurant transforms into a hauntingly festive destination with themed cocktails, spooky culinary creations, and immersive Halloween décor through November 1. OXNARD, Calif., Oct. 24, 2026 /PRNewswire/ -- CARNE in Oxnard invites guests into a world where spooky meets ",
+      "url": "https://www.prnewswire.com/news-releases/carne-brings-a-nightmare-before-christmas-to-oxnard-with-limited-time-halloween-pop-up-302918705.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T22:51:00Z",
+      "epoch": 1792882260,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Katarská iniciatíva Years of Culture oznamuje partnerské krajiny do roku 2030",
+      "summary": "Za budúcich partnerov Years of Culture boli menované Taliansko, Holandsko, Švajčiarsko, Portugalsko a Španielsko DOHA, Katar, 25. októbra 2026 /PRNewswire/ -- Iniciatíva Years of Culture (Roky kultúry) dnes oznámila kultúrnych partnerov Kataru do roku 2030. V nadväznosti na predc",
+      "url": "https://www.prnewswire.com/news-releases/katarska-iniciativa-years-of-culture-oznamuje-partnerske-krajiny-do-roku-2030-302918703.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T22:24:00Z",
+      "epoch": 1792880640,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "L'initiative Years of Culture du Qatar annonce ses pays partenaires jusqu'en 2030",
+      "summary": "L'Italie, les Pays-Bas, la Suisse, le Portugal et l'Espagne désignés comme futurs partenaires des Years of Culture DOHA, Qatar, 25 octobre 2026 /PRNewswire/ -- L'initiative Years of Culture a annoncé aujourd'hui les partenaires culturels du Qatar jusqu'en 2030. Suite aux partenar",
+      "url": "https://www.prnewswire.com/news-releases/linitiative-years-of-culture-du-qatar-annonce-ses-pays-partenaires-jusquen-2030-302918702.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T22:20:00Z",
+      "epoch": 1792880400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Программа «Years of Culture» Катара объявляет страны-партнеры до 2030 года",
+      "summary": "Италия, Нидерланды, Швейцария, Португалия и Испания названы будущими партнерами инициативы «Years of Culture» ДОХА, Катар, 25 октября 2026 г. /PRNewswire/ -- Инициатива «Years of Culture» сегодня объявила о культурных партнерах Катара до 2030 года. Опираясь на ранее объявленные..",
+      "url": "https://www.prnewswire.com/news-releases/-years-of-culture------2030--302918697.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T21:57:00Z",
+      "epoch": 1792879020,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "DIRECTV Adds NHL's New Carolina Hurricanes, Columbus Blue Jackets, Minnesota Wild, and St. Louis Blues Regional Channels",
       "summary": "EL SEGUNDO, Calif., Oct. 24, 2026 /PRNewswire/ -- DIRECTV today announced a new multi-year distribution agreement with the National Hockey League for Hurricanes Hockey Network, Blue Jackets Hockey Network, Wild+, and Blue Note+ pregame, postgame, and in-game live sports services.",
       "url": "https://www.prnewswire.com/news-releases/directv-adds-nhls-new-carolina-hurricanes-columbus-blue-jackets-minnesota-wild-and-st-louis-blues-regional-channels-302918682.html",
@@ -545,54 +601,10 @@
       "title": "Swanson Vitamins Launches Swanson Vitamins Nexus Pro to Champion Registered Dietitians and Licensed Nutritionists at Every Stage of Their Careers",
       "summary": "New network for health and nutrition professionals offers CPEU-accredited continuing education, profession-wide promotion, practicum support and exam scholarships FARGO, N.D., Oct. 24, 2026 /PRNewswire/ -- Swanson Vitamins today launched Swanson Vitamins Nexus Pro, a network for ",
       "url": "https://www.prnewswire.com/news-releases/swanson-vitamins-launches-swanson-vitamins-nexus-pro-to-champion-registered-dietitians-and-licensed-nutritionists-at-every-stage-of-their-careers-302918428.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-24T13:02:00Z",
       "epoch": 1792846920,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Employment Law Attorneys, at Blumenthal Nordrehaug Bhowmik De Blouw LLP, Filed a Lawsuit Against Darden Restaurants, Inc. for Alleged Failure to Reimburse Employees' Business Expenses",
-      "summary": "Darden Restaurants, Inc., owner and operator of full-service dining chains, allegedly failed to reimburse employees for their business expenses incurred while performing the job as instructed by Defendant. This resulted in inaccurate wage statements amongst other allegations. **T",
-      "url": "https://www.prnewswire.com/news-releases/employment-law-attorneys-at-blumenthal-nordrehaug-bhowmik-de-blouw-llp-filed-a-lawsuit-against-darden-restaurants-inc-for-alleged-failure-to-reimburse-employees-business-expenses-302917695.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T13:01:00Z",
-      "epoch": 1792846860,
-      "sentiment": -0.33,
-      "tickers": [
-        "DRI"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "The Secret to Getting on a New York Wine List? Four Master Sommeliers Come Face to Face with Leading Italian Producers",
-      "summary": "At wine2wine Vinitaly Business Forum New York, America's Master Sommeliers and four leading Italian producers confront the questions nobody asks out loud: why a great wine doesn't get listed, who sets the price, and what it takes to stay on the list.. NEW YORK, Oct. 24, 2026 /PRN",
-      "url": "https://www.prnewswire.com/news-releases/the-secret-to-getting-on-a-new-york-wine-list-four-master-sommeliers-come-face-to-face-with-leading-italian-producers-302918204.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T13:00:00Z",
-      "epoch": 1792846800,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "The Ultimate Send-off to Summer: CSTS Debuts Global Entertainment IP PremierX at New York's Pier 17, Ushering in a New Era of Live Entertainment",
-      "summary": "NEW YORK, Oct. 24, 2026 /PRNewswire/ -- CSTS Enterprises ('CSTS'), a New York-based sports, entertainment, integrated media and travel technology group, today announced the official launch of PremierXTM, its flagship live entertainment brand, with a landmark Halloween Weekend eve",
-      "url": "https://www.prnewswire.com/news-releases/the-ultimate-send-off-to-summer-csts-debuts-global-entertainment-ip-premierx-at-new-yorks-pier-17-ushering-in-a-new-era-of-live-entertainment-302918645.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T13:00:00Z",
-      "epoch": 1792846800,
       "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
@@ -603,8 +615,8 @@
       "title": "Johnson &amp; Johnson announces ERLEADA® (apalutamide) treatment before and after surgery reduces risk of recurrence or death by 62% versus surgery alone in high-risk prostate cancer",
       "summary": "New substudy results showed a 51% lower estimated risk of metastasis or death over time with perioperative apalutamide plus ADT compared with immediate surgery Twice as many patients remained free from subsequent treatment at three years with perioperative apalutamide plus ADT co",
       "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-erleada-apalutamide-treatment-before-and-after-surgery-reduces-risk-of-recurrence-or-death-by-62-versus-surgery-alone-in-high-risk-prostate-cancer-302918654.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-24T12:54:00Z",
       "epoch": 1792846440,
       "sentiment": -1.0,
