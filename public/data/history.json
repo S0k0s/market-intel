@@ -2298,9 +2298,9 @@
     },
     {
       "date": "2026-10-24",
-      "score": 33.6,
-      "avg_sentiment": -0.66,
-      "article_count": 5
+      "score": 24.6,
+      "avg_sentiment": -0.79,
+      "article_count": 3
     }
   ],
   "NDAQ": [
@@ -3925,12 +3925,6 @@
   ],
   "AAPL": [
     {
-      "date": "2026-09-20",
-      "score": 54.0,
-      "avg_sentiment": 0.0,
-      "article_count": 2
-    },
-    {
       "date": "2026-09-21",
       "score": 60.7,
       "avg_sentiment": 0.17,
@@ -4102,6 +4096,12 @@
       "date": "2026-10-23",
       "score": 52.0,
       "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "score": 78.8,
+      "avg_sentiment": 0.67,
       "article_count": 1
     }
   ],
@@ -5684,6 +5684,12 @@
       "date": "2026-10-21",
       "score": 78.8,
       "avg_sentiment": 0.67,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -8416,9 +8422,9 @@
     },
     {
       "date": "2026-10-24",
-      "score": 54.0,
+      "score": 52.0,
       "avg_sentiment": 0.0,
-      "article_count": 2
+      "article_count": 1
     }
   ],
   "ACN": [
@@ -10725,6 +10731,12 @@
       "score": 92.0,
       "avg_sentiment": 1.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "score": 92.0,
+      "avg_sentiment": 1.0,
+      "article_count": 1
     }
   ],
   "ANET": [
@@ -11663,12 +11675,6 @@
   ],
   "ORCL": [
     {
-      "date": "2026-09-21",
-      "score": 73.2,
-      "avg_sentiment": 0.48,
-      "article_count": 2
-    },
-    {
       "date": "2026-09-22",
       "score": 73.2,
       "avg_sentiment": 0.48,
@@ -11840,6 +11846,12 @@
       "date": "2026-10-21",
       "score": 52.0,
       "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "score": 25.2,
+      "avg_sentiment": -0.67,
       "article_count": 1
     }
   ],
@@ -14369,6 +14381,12 @@
       "score": 78.8,
       "avg_sentiment": 0.67,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "score": 92.0,
+      "avg_sentiment": 1.0,
+      "article_count": 1
     }
   ],
   "C": [
@@ -15210,9 +15228,9 @@
     },
     {
       "date": "2026-10-24",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
-      "article_count": 1
+      "score": 35.5,
+      "avg_sentiment": -0.46,
+      "article_count": 2
     }
   ],
   "MRVL": [
@@ -17607,6 +17625,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "TRGP": [
@@ -17912,6 +17936,12 @@
       "date": "2026-10-20",
       "score": 78.8,
       "avg_sentiment": 0.67,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -18456,6 +18486,12 @@
       "date": "2026-10-17",
       "score": 25.2,
       "avg_sentiment": -0.67,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -22038,9 +22074,9 @@
     },
     {
       "date": "2026-10-24",
-      "score": 81.2,
-      "avg_sentiment": 0.58,
-      "article_count": 4
+      "score": 76.1,
+      "avg_sentiment": 0.5,
+      "article_count": 3
     }
   ],
   "RCL": [
@@ -24815,6 +24851,12 @@
       "score": 78.8,
       "avg_sentiment": 0.67,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "NDSN": [
@@ -25010,6 +25052,12 @@
     },
     {
       "date": "2026-09-24",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-24",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -25400,6 +25448,12 @@
     },
     {
       "date": "2026-10-22",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-24",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -26657,6 +26711,12 @@
       "score": 78.8,
       "avg_sentiment": 0.67,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "ATD.TO": [
@@ -26914,6 +26974,12 @@
     },
     {
       "date": "2026-10-22",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-24",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -29441,6 +29507,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "LDOS": [
@@ -29997,6 +30069,12 @@
       "score": 25.2,
       "avg_sentiment": -0.67,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-24",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "OTIS": [
@@ -30518,6 +30596,14 @@
     }
   ],
   "MTD": [
+    {
+      "date": "2026-10-24",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    }
+  ],
+  "CBRE": [
     {
       "date": "2026-10-24",
       "score": 52.0,
