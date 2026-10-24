@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-24T07:04:34Z",
+  "generated_at": "2026-10-24T11:58:59Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 143,
+    "breaking_count": 140,
     "breaking_catalyst_count": 23,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 12,
@@ -29,12 +29,18 @@
     },
     {
       "ticker": "MRNA",
-      "count": 2,
+      "count": 3,
       "catalyst_count": 1,
       "source_count": 2
     },
     {
       "ticker": "AMGN",
+      "count": 2,
+      "catalyst_count": 1,
+      "source_count": 1
+    },
+    {
+      "ticker": "MRK",
       "count": 2,
       "catalyst_count": 1,
       "source_count": 1
@@ -47,12 +53,6 @@
     },
     {
       "ticker": "WDAY",
-      "count": 1,
-      "catalyst_count": 1,
-      "source_count": 1
-    },
-    {
-      "ticker": "MRK",
       "count": 1,
       "catalyst_count": 1,
       "source_count": 1
@@ -402,6 +402,104 @@
       "small_cap_risk": false
     },
     {
+      "title": "Taiwan Brings Herbal Heritage and Modern Innovation to SupplySide Global 2026",
+      "summary": "LAS VEGAS, Oct. 24, 2026 /PRNewswire/ -- With a healthcare system that embraces both modern medicine and Traditional Chinese medicine (TCM), Taiwan brings together herbal knowledge passed down over millennia, scientific evidence and modern pharmaceutical and biotechnology capabil",
+      "url": "https://www.prnewswire.com/news-releases/taiwan-brings-herbal-heritage-and-modern-innovation-to-supplyside-global-2026-302918648.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T11:38:00Z",
+      "epoch": 1792841880,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Likang Life Sciences Showcases Personalized Cancer Immunotherapy and Global Ambitions at Abu Dhabi Future Health Summit 2026",
+      "summary": "BEIJING, Oct. 24, 2026 /PRNewswire/ -- Likang Life Sciences (\"Likang\"), a biotechnology company advancing AI-enabled personalized cancer immunotherapies, sponsored and exhibited at the Abu Dhabi Future Health Summit 2026, held from 20 to 22 October at ADNEC Centre Abu Dhabi. The ",
+      "url": "https://www.prnewswire.com/news-releases/likang-life-sciences-showcases-personalized-cancer-immunotherapy-and-global-ambitions-at-abu-dhabi-future-health-summit-2026-302918646.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T11:27:00Z",
+      "epoch": 1792841220,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Bio-Thera Announces Promising Clinical Data for BAT8008 in Combination with BAT1308 in First-Line Non-Small Cell Lung Cancer at ESMO 2026",
+      "summary": "GUANGZHOU, China, Oct. 24, 2026 /PRNewswire/ -- Bio-Thera Solutions, Ltd. (688177.SH), a commercial-stage biopharmaceutical company developing innovative therapies and biosimilars, today announced the presentation of clinical data for BAT8008, a TROP2-targeted antibody-drug conju",
+      "url": "https://www.prnewswire.com/news-releases/bio-thera-announces-promising-clinical-data-for-bat8008-in-combination-with-bat1308-in-first-line-non-small-cell-lung-cancer-at-esmo-2026-302918492.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T11:00:00Z",
+      "epoch": 1792839600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Best AI Tools for Marketing Content (2026): CapCut Recognized for Faster AI-Powered Video and Image Creation by Better Business Advice",
+      "summary": "NEW YORK, Oct. 24, 2026 /PRNewswire/ -- Better Business Advice has recognized CapCut in its 2026 coverage of the best AI tools for marketing content, highlighting its collection of AI-powered features for creating and editing videos, images, audio, and other campaign assets. The.",
+      "url": "https://www.prnewswire.com/news-releases/best-ai-tools-for-marketing-content-2026-capcut-recognized-for-faster-ai-powered-video-and-image-creation-by-better-business-advice-302918030.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T10:30:00Z",
+      "epoch": 1792837800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "THE POWER OF WILL : UNE SÉRIE DE CONVERSATIONS SUR LA DÉTERMINATION ET L'INDIVIDUALITÉ",
+      "summary": "MIAMI, 24 octobre 2026 /PRNewswire/ -- Armani beauty : The power of WILL (Le pouvoir de la volonté) est une série d'entretiens vidéo animée par l'artiste et conteur numérique Devon Rodriguez. Mêlant portraits et conversations personnelles, les entretiens avec Jonathan Bailey, J. ",
+      "url": "https://www.prnewswire.com/news-releases/the-power-of-will--une-serie-de-conversations-sur-la-determination-et-lindividualite-302918630.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T10:28:00Z",
+      "epoch": 1792837680,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Artprice gratuliert Brognon Rollin zum Gewinn des 2026 Marcel Duchamp Prize",
+      "summary": "Denken und menschliche Erfahrung im Zentrum der Schöpfung PARIS, 24. Oktober 2026 /PRNewswire/ -- Als langjähriger Partner des Marcel Duchamp Prize gratuliert Artprice by Artmarket dem Künstlerduo Brognon Rollin, dessen Auszeichnung am Donnerstag, dem 22. Oktober 2026, von Claude",
+      "url": "https://www.prnewswire.com/news-releases/artprice-gratuliert-brognon-rollin-zum-gewinn-des-2026-marcel-duchamp-prize-302918621.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-24T09:40:00Z",
+      "epoch": 1792834800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Best Magnetic Stand Cases for iPhone 18 Pro &amp; iPhone 18 Pro Max in 2026: TORRAS Recognized as a Top Choice by Expert Consumers",
+      "summary": "NEW YORK, Oct. 24, 2026 /PRNewswire/ -- Expert Consumers has recognized the TORRAS Magnetic Stand Case as a top choice for iPhone 18 Pro and iPhone 18 Pro Max users seeking built-in stand functionality, magnetic accessory support, and everyday convenience. The recognition highlig",
+      "url": "https://www.prnewswire.com/news-releases/best-magnetic-stand-cases-for-iphone-18-pro--iphone-18-pro-max-in-2026-torras-recognized-as-a-top-choice-by-expert-consumers-302918040.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T09:30:00Z",
+      "epoch": 1792834200,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Lilly presents first clinical data in platinum-sensitive ovarian cancer for its investigational, next-generation, FRα-targeting ADC at ESMO 2026",
       "summary": "Sofetabart mipitecan (Sofe-M) in combination with bevacizumab demonstrated a 79% confirmed objective response rate and 100% disease control rate, with similar activity observed across FRα expression levels Clinical activity with Sofe-M was maintained even in patients with prior P",
       "url": "https://www.prnewswire.com/news-releases/lilly-presents-first-clinical-data-in-platinum-sensitive-ovarian-cancer-for-its-investigational-next-generation-fr-targeting-adc-at-esmo-2026-302918153.html",
@@ -444,46 +542,16 @@
       "small_cap_risk": false
     },
     {
-      "title": "Think Together Celebrates 20 Years of ASES During Lights On Afterschool at 450 Schools Across California",
-      "summary": "More than 450 school showcases and a live virtual event brought together school district leaders, elected officials, educators and community partners to celebrate expanded learning. SANTA ANA, Calif., Oct. 23, 2026 /PRNewswire/ -- Think Together, a division of Think Education and",
-      "url": "https://www.prnewswire.com/news-releases/think-together-celebrates-20-years-of-ases-during-lights-on-afterschool-at-450-schools-across-california-302918575.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T01:40:00Z",
-      "epoch": 1792806000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Lunit and Summit Therapeutics Announce Agreement to Apply AI-powered SCOPE IO Platform for Tumor Microenvironment Analysis in Immuno-Oncology Development",
       "summary": "Research Will Use Lunit's AI-powered Pathology Platform to Analyze H&E Whole-Slide Images and Generate Scalable Insights into Tumor Microenvironment Biology SEOUL, South Korea, Oct. 24, 2026 /PRNewswire/ -- Lunit Inc. (KRX: 328130) and Summit Therapeutics Inc. (NASDAQ: SMMT) toda",
       "url": "https://www.prnewswire.com/news-releases/lunit-and-summit-therapeutics-announce-agreement-to-apply-ai-powered-scope-io-platform-for-tumor-microenvironment-analysis-in-immuno-oncology-development-302918571.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-24T01:26:00Z",
       "epoch": 1792805160,
       "sentiment": 0.0,
       "tickers": [
         "SMMT"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "DENARIUS METALS FILES TORAL PROJECT TECHNICAL REPORT ON SEDAR+",
-      "summary": "TORONTO, Oct. 23, 2026 /PRNewswire/ -- Denarius Metals Corp. (Cboe CA: DMET) (OTCQX: DNRSF) (\"Denarius Metals\" or \"the Company\") announced today the filing of a National Instrument 43-101 – Standards of Disclosure for Mineral Projects compliant technical report in support of the ",
-      "url": "https://www.prnewswire.com/news-releases/denarius-metals-files-toral-project-technical-report-on-sedar-302918562.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T00:36:00Z",
-      "epoch": 1792802160,
-      "sentiment": 0.0,
-      "tickers": [
-        "DNRSF"
       ],
       "company_name": null,
       "catalyst": false,
@@ -498,62 +566,6 @@
       "published_at": "2026-10-24T00:23:00Z",
       "epoch": 1792801380,
       "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "LEAP Group Relaunches HumanView, a Growth Intelligence System Built to Explain Why Customers Behave the Way They Do",
-      "summary": "Reimagined from the ground up, HumanView pairs statistical modeling with expert analysts to turn millions of real-world customer signals into business decisions LOUISVILLE, Ky., Oct. 23, 2026 /PRNewswire/ -- LEAP Group today announced the relaunch of HumanView, its growth intelli",
-      "url": "https://www.prnewswire.com/news-releases/leap-group-relaunches-humanview-a-growth-intelligence-system-built-to-explain-why-customers-behave-the-way-they-do-302918557.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T00:01:00Z",
-      "epoch": 1792800060,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Gentex Investigation Notice: Levi &amp; Korsinsky Notifies Investors of Pending Investigation Into Gentex (GNTX)",
-      "summary": "Gentex lowered its 2026 revenue guidance to approximately $2.65 billion, down from a prior range of $2.65 billion to $2.75 billion. Shareholders holding losses may have rights worth reviewing now. NEW YORK, Oct. 23, 2026 /PRNewswire/ -- The high end of Gentex Corporation's (NASDA",
-      "url": "https://www.prnewswire.com/news-releases/gentex-investigation-notice-levi--korsinsky-notifies-investors-of-pending-investigation-into-gentex-gntx-302918502.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-23T23:52:00Z",
-      "epoch": 1792799520,
-      "sentiment": -1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "SLM Corporation Investigation Notice: Levi &amp; Korsinsky Notifies Investors of Pending Investigation Into SLM Corporation (SLM)",
-      "summary": "SLM shares fell after the student lender disclosed it had paused most of its third-party recovery activities as third-quarter net charge-offs reached $90.4 million. Levi & Korsinsky is investigating potential securities law violations on behalf of SLM investors. NEW YORK, Oct. 23",
-      "url": "https://www.prnewswire.com/news-releases/slm-corporation-investigation-notice-levi--korsinsky-notifies-investors-of-pending-investigation-into-slm-corporation-slm-302918503.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-23T23:52:00Z",
-      "epoch": 1792799520,
-      "sentiment": -0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Csquare, Inc. Investigation Notice: Levi &amp; Korsinsky Notifies Investors of Pending Investigation Into Csquare, Inc. (CSQR)",
-      "summary": "Of the $356.0 million in \"available liquidity\" Csquare reported for June 30, 2026, $209.5 million was restricted cash that its own filing described as unavailable for general corporate use. CSQR shareholders now face losses after an October 22 short report. NEW YORK, Oct. 23, 202",
-      "url": "https://www.prnewswire.com/news-releases/csquare-inc-investigation-notice-levi--korsinsky-notifies-investors-of-pending-investigation-into-csquare-inc-csqr-302918496.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-23T23:52:00Z",
-      "epoch": 1792799520,
-      "sentiment": -1.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -955,62 +967,6 @@
       "source_id": "prnewswire-financial",
       "published_at": "2026-10-23T19:00:00Z",
       "epoch": 1792782000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "BioVid Launches Mimetics™, AI Research Audiences Built on How Physicians Reason and Decide",
-      "summary": "Modeling physician response patterns and behavior, showing an 80–90% match with real physicians on content, reasoning, and emotion. BRISTOL, Pa., Oct. 23, 2026 /PRNewswire/ -- BioVid, a life science consultancy, today announced the launch of BioVid Mimetics™, a research platform ",
-      "url": "https://www.prnewswire.com/news-releases/biovid-launches-mimetics-ai-research-audiences-built-on-how-physicians-reason-and-decide-302918401.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-23T18:54:00Z",
-      "epoch": 1792781640,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "THE BIG GREEK CAFÉ SELECTS WESTVIEW PROMENADE FOR SECOND LOCATION IN FREDERICK COUNTY, MARYLAND",
-      "summary": "Quick-service restaurant at 200,000 square foot lifestyle center to join existing site in Urbana FREDERICK, Md., Oct. 23, 2026 /PRNewswire/ -- The Big Greek Café has selected Westview Promenade for the quick-service restaurant's second location in Frederick County, joining an exi",
-      "url": "https://www.prnewswire.com/news-releases/the-big-greek-cafe-selects-westview-promenade-for-second-location-in-frederick-county-maryland-302918285.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-23T18:46:00Z",
-      "epoch": 1792781160,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Kidney Patients Back Bipartisan Bill to Expand Disability Employment",
-      "summary": "U.S. Representatives Hoyer and Sessions Lead AbilityOne Modernization Bill Kidney Disease and Jobs are Focus of National Disability Employment Month WASHINGTON, Oct. 23, 2026 /PRNewswire/ -- The American Association of Kidney Patients (AAKP), the nation's oldest and largest indep",
-      "url": "https://www.prnewswire.com/news-releases/kidney-patients-back-bipartisan-bill-to-expand-disability-employment-302918393.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-23T18:31:00Z",
-      "epoch": 1792780260,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Boots Group Finco L.P. and The Boots Group Luxco S.à r.l. Announce Expiration and Results of the Consent Solicitation for their €650,000,000 5.375% Senior Secured Notes due 2032 and £375,000,000 7.375% Senior Secured Notes due 2032",
-      "summary": "LONDON, Oct. 23, 2026 /PRNewswire/ -- Boots Group Finco L.P. and The Boots Group Luxco S.à r.l. (together, the \"Co-Issuers\") today announced the expiration and results of the previously announced consent solicitation (the \"Consent Solicitation\") from holders (the \"Holders\") of th",
-      "url": "https://www.prnewswire.com/news-releases/boots-group-finco-lp-and-the-boots-group-luxco-sa-rl-announce-expiration-and-results-of-the-consent-solicitation-for-their-650-000-000-5-375-senior-secured-notes-due-2032-and-375-000-000-7-375-senior-secured-notes-due-203--302918390.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-23T18:28:00Z",
-      "epoch": 1792780080,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -2304,6 +2260,23 @@
       "small_cap_risk": false
     },
     {
+      "title": "‘It is what it is’: Merck exec unruffled by ‘unfortunate’ leak of ESMO cancer vaccine data",
+      "summary": "Merck &amp; Co. and Moderna always knew they would be making headlines in Madrid this week—just not in the way it happened.",
+      "url": "https://www.fiercebiotech.com/biotech/it-what-it-merck-exec-sanguine-esmo-leak-significant-cancer-vaccine-data",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-10-24T06:25:00Z",
+      "epoch": 1792823100,
+      "sentiment": 0.0,
+      "tickers": [
+        "MRK",
+        "MRNA"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "This week in charts: a big year for RNAi developers",
       "summary": "The latest installment in BioPharma Dive&rsquo;s data visualization series features a look at the emerging popularity of RNAi developers, and the funding that came with it.",
       "url": "https://www.biopharmadive.com/news/charts-rna-interference-rnai-drug-venture-ipos/833784/",
@@ -2853,20 +2826,6 @@
       "tickers": [
         "GSK.L"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Astellas links up with AI Proteins in $400M computational drug discovery deal",
-      "summary": "Japan's Astellas Pharma has tapped Boston computational discovery company AI Proteins in a drug discovery deal potentially worth $400 million.",
-      "url": "https://www.fiercebiotech.com/biotech/astellas-links-ai-proteins-400m-computational-discovery-deal",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-10-21T09:16:00Z",
-      "epoch": 1792574160,
-      "sentiment": 0.67,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
