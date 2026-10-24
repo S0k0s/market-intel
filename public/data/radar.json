@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T01:58:42Z",
+  "generated_at": "2026-10-24T07:04:34Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 148,
-    "breaking_catalyst_count": 24,
+    "breaking_count": 143,
+    "breaking_catalyst_count": 23,
     "pipeline_count": 59,
-    "pipeline_catalyst_count": 11,
+    "pipeline_catalyst_count": 12,
     "movers_count": 0
   },
   "trending_tickers": [
@@ -16,14 +16,14 @@
       "source_count": 3
     },
     {
-      "ticker": "GSK.L",
-      "count": 7,
-      "catalyst_count": 2,
+      "ticker": "ABBV",
+      "count": 4,
+      "catalyst_count": 3,
       "source_count": 3
     },
     {
-      "ticker": "ABBV",
-      "count": 3,
+      "ticker": "GSK.L",
+      "count": 7,
       "catalyst_count": 2,
       "source_count": 3
     },
@@ -77,8 +77,8 @@
       "title": "Pathalys Pharma Presents Positive Data from Pivotal Phase 3 Studies of Upacicalcet in Featured Oral Presentation at ASN Kidney Week 2026",
       "summary": "~ In PATH-1 and PATH-2 upacicalcet met primary and key secondary endpoints of reducing parathyroid hormone (PTH) in patients with end-stage kidney disease and Secondary Hyperparathyroidism (SHPT) on hemodialysis ~ Upacicalcet also reduced FGF23 and markers of bone turnover in the",
       "url": "https://www.prnewswire.com/news-releases/pathalys-pharma-presents-positive-data-from-pivotal-phase-3-studies-of-upacicalcet-in-featured-oral-presentation-at-asn-kidney-week-2026-302918517.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-23T23:30:00Z",
       "epoch": 1792798200,
       "sentiment": 0.0,
@@ -99,20 +99,6 @@
       "tickers": [
         "ABBV"
       ],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Novo's Awiqli® receives FDA approval as the first and only once-weekly insulin for children 10 years of age and older with type 2 diabetes",
-      "summary": "Awiqli® offers children 10 years and older a once-weekly basal insulin alternative, reducing basal injection frequency from seven times per week to one1 As type 2 diabetes incidence rates among youth continue to rise,² Awiqli® may help reduce administration barriers associated wi",
-      "url": "https://www.prnewswire.com/news-releases/novos-awiqli-receives-fda-approval-as-the-first-and-only-once-weekly-insulin-for-children-10-years-of-age-and-older-with-type-2-diabetes-302918384.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-23T18:21:00Z",
-      "epoch": 1792779660,
-      "sentiment": 0.33,
-      "tickers": [],
       "company_name": null,
       "catalyst": true,
       "small_cap_risk": false
@@ -416,6 +402,48 @@
       "small_cap_risk": false
     },
     {
+      "title": "Lilly presents first clinical data in platinum-sensitive ovarian cancer for its investigational, next-generation, FRα-targeting ADC at ESMO 2026",
+      "summary": "Sofetabart mipitecan (Sofe-M) in combination with bevacizumab demonstrated a 79% confirmed objective response rate and 100% disease control rate, with similar activity observed across FRα expression levels Clinical activity with Sofe-M was maintained even in patients with prior P",
+      "url": "https://www.prnewswire.com/news-releases/lilly-presents-first-clinical-data-in-platinum-sensitive-ovarian-cancer-for-its-investigational-next-generation-fr-targeting-adc-at-esmo-2026-302918153.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T06:30:00Z",
+      "epoch": 1792823400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "/C O R R E C T I O N - DigitalXForce Corporation/",
+      "summary": "In the news release, DigitalXForce Scores Triple Win: IDC MarketScape Leader Recognition, Institutional Investment from Arsenal Equity Group and 514% Growth, issued 21-Oct-2026 by DigitalXForce Corporation over PR Newswire, we are advised by the company that changes have been mad",
+      "url": "https://www.prnewswire.com/news-releases/digitalxforce-scores-triple-win-idc-marketscape-leader-recognition-institutional-investment-from-arsenal-equity-group-and-514-growth-302913144.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T04:36:00Z",
+      "epoch": 1792816560,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "HYXI veranstaltet den European Partner Day 2026 und stellt seine Produktmatrix für sämtliche Anwendungsszenarien vor",
+      "summary": "HANGZHOU, China, 24. Oktober 2026 /PRNewswire/ -- Am 21. Oktober veranstaltete HYXI unter dem Motto „See Where It Begins, Shape the Future\" („Sehen, wo alles beginnt, die Zukunft gestalten\") erfolgreich den European Partner Day 2026 am Unternehmenshauptsitz in Hangzhou. Knapp 60 ",
+      "url": "https://www.prnewswire.com/news-releases/hyxi-veranstaltet-den-european-partner-day-2026-und-stellt-seine-produktmatrix-fur-samtliche-anwendungsszenarien-vor-302918580.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T02:13:00Z",
+      "epoch": 1792807980,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Think Together Celebrates 20 Years of ASES During Lights On Afterschool at 450 Schools Across California",
       "summary": "More than 450 school showcases and a live virtual event brought together school district leaders, elected officials, educators and community partners to celebrate expanded learning. SANTA ANA, Calif., Oct. 23, 2026 /PRNewswire/ -- Think Together, a division of Think Education and",
       "url": "https://www.prnewswire.com/news-releases/think-together-celebrates-20-years-of-ases-during-lights-on-afterschool-at-450-schools-across-california-302918575.html",
@@ -532,71 +560,13 @@
       "small_cap_risk": false
     },
     {
-      "title": "STEPHEN A. SMITH ADDRESSES WHITE HOUSE DINNER ATTENDANCE, REAFFIRMS COMMITMENT TO HBCUs AND PROTECTING CORPORATE INVESTMENT IN BLACK EDUCATION",
-      "summary": "NEW YORK, Oct. 23, 2026 /PRNewswire/ -- Stephen A. Smith, media mogul, New York Times bestselling author, and proud 1991 graduate of Winston-Salem State University, is addressing the public discussion surrounding his decision to attend a White House dinner with President Donald T",
-      "url": "https://www.prnewswire.com/news-releases/stephen-a-smith-addresses-white-house-dinner-attendance-reaffirms-commitment-to-hbcus-and-protecting-corporate-investment-in-black-education-302918547.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-23T23:28:00Z",
-      "epoch": 1792798080,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "THE PATRIOT FUND HONORS VETERANS AND MARKS AMERICA'S 250TH AT 11TH ANNUAL GALA AT THE UNION LEAGUE OF PHILADELPHIA",
-      "summary": "Army and Navy Veterans headline the evening as Union League past president Frank Giordano is named 2026 Greater Philadelphia Area Patriot of the Year PHILADELPHIA, Oct. 23, 2026 /PRNewswire/ -- The Patriot Fund will bring together Veterans, military families, supporters and commu",
-      "url": "https://www.prnewswire.com/news-releases/the-patriot-fund-honors-veterans-and-marks-americas-250th-at-11th-annual-gala-at-the-union-league-of-philadelphia-302918544.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-23T23:16:00Z",
-      "epoch": 1792797360,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Club Offers for Travel Enthusiasts in Canada",
-      "summary": "TORONTO, Oct 23, 2026 /PRNewswire/ -- Travelzoo® (NASDAQ: TZOO), the club for travel enthusiasts, announces three of many new Club Offers for Club Members in Canada. Rigorously vetted and negotiated for us travel enthusiasts: $799—COSTA RICA WEEK WITH FLIGHTS & CAR We think fall ",
-      "url": "https://www.prnewswire.com/news-releases/club-offers-for-travel-enthusiasts-in-canada-302918543.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-23T23:08:00Z",
-      "epoch": 1792796880,
-      "sentiment": -0.33,
-      "tickers": [
-        "TZOO"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "The Inner Circle acknowledges Joshua L. Davenport, RN, as a 3rd Year Pinnacle Member",
       "summary": "LOUISVILLE, K.y., Oct. 23, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Joshua L. Davenport, RN is honored as a 3rd Year Pinnacle Member for his contributions to 25 Years of Dedication to Emergency Nursing and Occupational Health. Joshua L. Davenport, RN, has bu",
       "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-joshua-l-davenport-rn-as-a-3rd-year-pinnacle-member-302918469.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-23T23:01:00Z",
       "epoch": 1792796460,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "The Power of WILL: una serie de conversaciones sobre la determinación y la individualidad",
-      "summary": "MIAMI, 24 de octubre de 2026 /PRNewswire/ -- Armani beauty: The Power of WILL se trata de una serie de entrevistas en vídeo presentada por el artista y narrador digital Devon Rodriguez. Al combinar el retrato con la conversación personal, las entrevistas a Jonathan Bailey, J Balv",
-      "url": "https://www.prnewswire.com/news-releases/the-power-of-will-una-serie-de-conversaciones-sobre-la-determinacion-y-la-individualidad-302918532.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-23T22:32:00Z",
-      "epoch": 1792794720,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -607,24 +577,10 @@
       "title": "The Galien Foundation Presents Senator John Kerry with 2026 Roy Vagelos Pro Bono Humanum Award for Global Health Equity",
       "summary": "Honoring the former U.S. Secretary of State and Special Presidential Envoy for Climate for pioneering efforts to address climate change and public health initiatives Award to be presented on October 29, 2026, at the Prix Galien USA Awards Ceremony in New York City NEW YORK, Oct. ",
       "url": "https://www.prnewswire.com/news-releases/the-galien-foundation-presents-senator-john-kerry-with-2026-roy-vagelos-pro-bono-humanum-award-for-global-health-equity-302918473.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-23T22:30:00Z",
       "epoch": 1792794600,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "DIE MACHT DES WILLENS: EINE GESPRÄCHSREIHE ÜBER ENTSCHLOSSENHEIT UND INDIVIDUALITÄT",
-      "summary": "MIAMI, 23. Oktober 2026 /PRNewswire/ -- Armani Beauty: The Power of WILL ist eine Video-Interview-Reihe, moderiert von der Künstlerin und digitalen Geschichtenerzählerin Devon Rodriguez. Die Interviews mit Jonathan Bailey, J Balvin, Carlos Sainz und Simon Squibb verbinden...",
-      "url": "https://www.prnewswire.com/news-releases/die-macht-des-willens-eine-gesprachsreihe-uber-entschlossenheit-und-individualitat-302918515.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-23T21:51:00Z",
-      "epoch": 1792792260,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -648,34 +604,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "La canadiense Molly Carlson se convierte en la primera mujer en saltar desde un iceberg aislado en Terranova",
-      "summary": "La atleta de Red Bull Molly Carlson (Canadá) realizó un salto hacia atrás desde una altura de aproximadamente 15 metros en Twillingate, Terranova, tras meses de entrenamiento con el escalador en hielo Will Gadd (Canadá). TWILLINGATE, NL, 23 de octubre de 2026 /PRNewswire/ -- La a",
-      "url": "https://www.prnewswire.com/news-releases/la-canadiense-molly-carlson-se-convierte-en-la-primera-mujer-en-saltar-desde-un-iceberg-aislado-en-terranova-302918508.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-23T21:42:00Z",
-      "epoch": 1792791720,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Wisconsin Brats vs. Florida Citrus: Johnsonville and Florida's Natural Put Hometown Flavor on the Line with Big League Bet",
-      "summary": "Johnsonville backs Milwaukee to win the championship, putting more than 400,000 brats on the line. Florida's Natural answers with enough orange juice for 200,000 mimosas. SHEBOYGAN FALLS, Wis., Oct. 23, 2026 /PRNewswire/ -- A friendly baseball wager between Milwaukee and Tampa is",
-      "url": "https://www.prnewswire.com/news-releases/wisconsin-brats-vs-florida-citrus-johnsonville-and-floridas-natural-put-hometown-flavor-on-the-line-with-big-league-bet-302918509.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-23T21:42:00Z",
-      "epoch": 1792791720,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "Family Research Council President Tony Perkins to Speak at Missouri and Kansas Churches This Sunday",
@@ -854,22 +782,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "Hyperliquid Strategies Inc Announces Increase of Stock Repurchase Program to $100 Million",
-      "summary": "NEW YORK, Oct. 23, 2026 /PRNewswire/ -- Hyperliquid Strategies Inc (NASDAQ: PURR) (\"HSI\" or the \"Company\"), the premier digital asset treasury platform focused on the Hyperliquid ecosystem, today announced that its Board of Directors has authorized an increase to its previously a",
-      "url": "https://www.prnewswire.com/news-releases/hyperliquid-strategies-inc-announces-increase-of-stock-repurchase-program-to-100-million-302918312.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-23T20:15:00Z",
-      "epoch": 1792786500,
-      "sentiment": 0.0,
-      "tickers": [
-        "PURR"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "Civista Bancshares, Inc. Appoints Jeremy Normington-Slay to Board of Directors",
       "summary": "SANDUSKY, Ohio, Oct. 23, 2026 /PRNewswire/ -- Civista Bancshares, Inc. (NASDAQ: CIVB) (\"Civista\") today announced the appointment of Jeremy Normington-Slay, DPT, MBA, FACHE, to the Boards of Directors of Civista Bancshares and Civista Bank, effective October 21, 2026. Normington-",
       "url": "https://www.prnewswire.com/news-releases/civista-bancshares-inc-appoints-jeremy-normington-slay-to-board-of-directors-302917585.html",
@@ -880,6 +792,22 @@
       "sentiment": 0.0,
       "tickers": [
         "CIVB"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Hyperliquid Strategies Inc Announces Increase of Stock Repurchase Program to $100 Million",
+      "summary": "NEW YORK, Oct. 23, 2026 /PRNewswire/ -- Hyperliquid Strategies Inc (NASDAQ: PURR) (\"HSI\" or the \"Company\"), the premier digital asset treasury platform focused on the Hyperliquid ecosystem, today announced that its Board of Directors has authorized an increase to its previously a",
+      "url": "https://www.prnewswire.com/news-releases/hyperliquid-strategies-inc-announces-increase-of-stock-repurchase-program-to-100-million-302918312.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-23T20:15:00Z",
+      "epoch": 1792786500,
+      "sentiment": 0.0,
+      "tickers": [
+        "PURR"
       ],
       "company_name": null,
       "catalyst": false,
@@ -2360,6 +2288,22 @@
       "small_cap_risk": false
     },
     {
+      "title": "ESMO: Lilly touts 79% ADC response rate in competitive ovarian cancer space",
+      "summary": "Eli Lilly has shared phase 1 data on an antibody-drug conjugate in platinum-sensitive ovarian cancer, shedding light on the company’s chances of competing for a market targeted by rivals including AbbVie and Genmab.",
+      "url": "https://www.fiercebiotech.com/biotech/esmo-eli-lilly-touts-79-adc-response-rate-competitive-ovarian-cancer-space",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-10-19T04:05:00Z",
+      "epoch": 1792382700,
+      "sentiment": 0.0,
+      "tickers": [
+        "ABBV"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
       "title": "This week in charts: a big year for RNAi developers",
       "summary": "The latest installment in BioPharma Dive&rsquo;s data visualization series features a look at the emerging popularity of RNAi developers, and the funding that came with it.",
       "url": "https://www.biopharmadive.com/news/charts-rna-interference-rnai-drug-venture-ipos/833784/",
@@ -3013,20 +2957,6 @@
       "tickers": [
         "BMY"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "‘We’re getting back to stability’: CBER Director Karim Mikhail shares his strategy with Fierce",
-      "summary": "The FDA's Center for Biologics Evaluation and Research (CBER) is recovering from the most turbulent period in its recent history. The captain tasked with steadying the ship is Karim Mikhail, who was appointed as the center's director on a permanent basis last month.",
-      "url": "https://www.fiercebiotech.com/biotech/cber-director-karim-mikhail-tells-fierce-he-feels-people-deserve-leader-whos-present",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-10-09T14:23:00Z",
-      "epoch": 1791555780,
-      "sentiment": 0.0,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
