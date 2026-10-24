@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T11:58:59Z",
+  "generated_at": "2026-10-24T15:44:21Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 140,
+    "breaking_count": 142,
     "breaking_catalyst_count": 23,
     "pipeline_count": 59,
-    "pipeline_catalyst_count": 12,
+    "pipeline_catalyst_count": 13,
     "movers_count": 0
   },
   "trending_tickers": [
@@ -16,16 +16,22 @@
       "source_count": 3
     },
     {
-      "ticker": "ABBV",
-      "count": 4,
-      "catalyst_count": 3,
-      "source_count": 3
-    },
-    {
       "ticker": "GSK.L",
       "count": 7,
       "catalyst_count": 2,
       "source_count": 3
+    },
+    {
+      "ticker": "ABBV",
+      "count": 3,
+      "catalyst_count": 2,
+      "source_count": 2
+    },
+    {
+      "ticker": "AMGN",
+      "count": 3,
+      "catalyst_count": 1,
+      "source_count": 2
     },
     {
       "ticker": "MRNA",
@@ -34,20 +40,14 @@
       "source_count": 2
     },
     {
-      "ticker": "AMGN",
+      "ticker": "DRI",
       "count": 2,
       "catalyst_count": 1,
-      "source_count": 1
+      "source_count": 2
     },
     {
       "ticker": "MRK",
       "count": 2,
-      "catalyst_count": 1,
-      "source_count": 1
-    },
-    {
-      "ticker": "DRI",
-      "count": 1,
       "catalyst_count": 1,
       "source_count": 1
     },
@@ -58,21 +58,35 @@
       "source_count": 1
     },
     {
-      "ticker": "AZN.L",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 2
+      "ticker": "BAYN.DE",
+      "count": 1,
+      "catalyst_count": 1,
+      "source_count": 1
     },
     {
-      "ticker": "PURR",
-      "count": 2,
+      "ticker": "AZN.L",
+      "count": 3,
       "catalyst_count": 0,
-      "source_count": 1
+      "source_count": 2
     }
   ],
   "movers": [],
   "concentration_warning": null,
   "breaking": [
+    {
+      "title": "IMDELLTRA® IN COMBINATION WITH IMFINZI® REDUCED RISK OF DEATH BY AN UNPRECEDENTED 58% IN FIRST-LINE EXTENSIVE STAGE SMALL CELL LUNG CANCER",
+      "summary": "Nearly 80% of Patients Were Alive at One Year Versus 53% with IMFINZI Alone and Progression-Free Survival More Than Tripled Late-Breaking Phase 3 DeLLphi-305 Results Presented in ESMO Presidential Symposium and Simultaneously Published in The New England Journal of Medicine Longe",
+      "url": "https://www.prnewswire.com/news-releases/imdelltra-in-combination-with-imfinzi-reduced-risk-of-death-by-an-unprecedented-58-in-first-line-extensive-stage-small-cell-lung-cancer-302918652.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T14:30:00Z",
+      "epoch": 1792852200,
+      "sentiment": -0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
     {
       "title": "Pathalys Pharma Presents Positive Data from Pivotal Phase 3 Studies of Upacicalcet in Featured Oral Presentation at ASN Kidney Week 2026",
       "summary": "~ In PATH-1 and PATH-2 upacicalcet met primary and key secondary endpoints of reducing parathyroid hormone (PTH) in patients with end-stage kidney disease and Secondary Hyperparathyroidism (SHPT) on hemodialysis ~ Upacicalcet also reduced FGF23 and markers of bone turnover in the",
@@ -83,22 +97,6 @@
       "epoch": 1792798200,
       "sentiment": 0.0,
       "tickers": [],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "U.S. FDA Approves Subcutaneous Induction Regimen for AbbVie's SKYRIZI® (risankizumab-rzaa) for Adults With Moderately to Severely Active Crohn's Disease",
-      "summary": "Now with a new route of induction administration, subcutaneous SKYRIZI supports early symptomatic and endoscopic control with an on-body injector (OBI) device throughout the course of treatment In the pivotal Phase 3 AFFIRM study, subcutaneous (SC) SKYRIZI® achieved superior clin",
-      "url": "https://www.prnewswire.com/news-releases/us-fda-approves-subcutaneous-induction-regimen-for-abbvies-skyrizi-risankizumab-rzaa-for-adults-with-moderately-to-severely-active-crohns-disease-302918434.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-23T19:33:00Z",
-      "epoch": 1792783980,
-      "sentiment": 0.33,
-      "tickers": [
-        "ABBV"
-      ],
       "company_name": null,
       "catalyst": true,
       "small_cap_risk": false
@@ -402,6 +400,176 @@
       "small_cap_risk": false
     },
     {
+      "title": "In HelloNation, Custom Fabrication Expert Mark Coyle Explains a Common Mistake in Custom Aluminum Design",
+      "summary": "The article explains why smart geometry, not thicker walls, creates stronger, more efficient aluminum components. ROCHESTER, N.Y., Oct. 24, 2026 /PRNewswire/ -- What early design choice causes many custom aluminum projects to become heavier, costlier, or harder to manufacture? Th",
+      "url": "https://www.prnewswire.com/news-releases/in-hellonation-custom-fabrication-expert-mark-coyle-explains-a-common-mistake-in-custom-aluminum-design-302918282.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T15:30:00Z",
+      "epoch": 1792855800,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "In HelloNation, Behavioral Health Experts Cody Luke and David Spencer Explain What to Expect During Your First Therapy Session",
+      "summary": "The article outlines how first sessions build understanding, set goals, and support a comfortable start to therapy. IDAHO FALLS, Idaho, Oct. 24, 2026 /PRNewswire/ -- What should you expect during your first therapy session? HelloNation published an article that answers this quest",
+      "url": "https://www.prnewswire.com/news-releases/in-hellonation-behavioral-health-experts-cody-luke-and-david-spencer-explain-what-to-expect-during-your-first-therapy-session-302918284.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T15:30:00Z",
+      "epoch": 1792855800,
+      "sentiment": -0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "World Young Scientist Summit 2026 Opens in Wenzhou, Zhejiang",
+      "summary": "WENZHOU, China, Oct. 24, 2026 /PRNewswire/ -- This is a report by China Daily: On October 24, the World Young Scientist Summit 2026 opened in Wenzhou, Zhejiang. The event is hosted by the China Association for Science and Technology (CAST), the Zhejiang Provincial People's Govern",
+      "url": "https://www.prnewswire.com/news-releases/world-young-scientist-summit-2026-opens-in-wenzhou-zhejiang-302918664.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T14:37:00Z",
+      "epoch": 1792852620,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Hi3D V1.0 se vuelve de código abierto: el primer modelo 3D de IA de código abierto validado para producción",
+      "summary": "PEKÍN, 24 de octubre de 2026 /PRNewswire/ -- Hi3D ha anunciado hoy el lanzamiento de Hi3D V1.0 (anteriormente Sparc3D) bajo una licencia de código abierto, poniendo su modelo de IA 3D —validado para entornos de producción— a disposición de todos los desarrolladores, investigadore",
+      "url": "https://www.prnewswire.com/news-releases/hi3d-v1-0-se-vuelve-de-codigo-abierto-el-primer-modelo-3d-de-ia-de-codigo-abierto-validado-para-produccion-302918659.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T14:19:00Z",
+      "epoch": 1792851540,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Hi3D V1.0 wird Open Source: Das erste produktionserprobte Open-Source-KI-3D-Modell",
+      "summary": "PEKING, 24. Oktober 2026 /PRNewswire/ -- Hi3D gab heute die Open-Source-Veröffentlichung von Hi3D V1.0 (ehemals Sparc3D) bekannt und stellt damit sein produktionserprobtes KI-3D-Modell allen Entwicklern, Forschern und Unternehmen zur Verfügung. Benutzer können online auf den Quel",
+      "url": "https://www.prnewswire.com/news-releases/hi3d-v1-0-wird-open-source-das-erste-produktionserprobte-open-source-ki-3d-modell-302918658.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T14:17:00Z",
+      "epoch": 1792851420,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Hi3D V1.0 devient open source : le premier modèle IA 3D open source validé en production",
+      "summary": "PÉKIN, 24 octobre 2026 /PRNewswire/ -- Hi3D a annoncé aujourd'hui la publication en open source de Hi3D V1.0 (anciennement Sparc3D), rendant son modèle IA 3D validé en production accessible à tous les développeurs, chercheurs et entreprises. Les utilisateurs peuvent accéder au co",
+      "url": "https://www.prnewswire.com/news-releases/hi3d-v1-0-devient-open-source--le-premier-modele-ia-3d-open-source-valide-en-production-302918656.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T14:16:00Z",
+      "epoch": 1792851360,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "In HelloNation, Insurance Expert Devery Prince Breaks Down Affordable Insurance in Alaska",
+      "summary": "The Article Explains How Choosing the Right Coverage Matters More for Alaska Residents Than Simply Finding the Lowest Premium. ANCHORAGE, Alaska, Oct. 24, 2026 /PRNewswire/ -- What does affordable insurance actually cover for homeowners in Alaska? HelloNation has published a Hell",
+      "url": "https://www.prnewswire.com/news-releases/in-hellonation-insurance-expert-devery-prince-breaks-down-affordable-insurance-in-alaska-302918233.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-24T14:00:00Z",
+      "epoch": 1792850400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Swanson Vitamins Launches Swanson Vitamins Nexus Pro to Champion Registered Dietitians and Licensed Nutritionists at Every Stage of Their Careers",
+      "summary": "New network for health and nutrition professionals offers CPEU-accredited continuing education, profession-wide promotion, practicum support and exam scholarships FARGO, N.D., Oct. 24, 2026 /PRNewswire/ -- Swanson Vitamins today launched Swanson Vitamins Nexus Pro, a network for ",
+      "url": "https://www.prnewswire.com/news-releases/swanson-vitamins-launches-swanson-vitamins-nexus-pro-to-champion-registered-dietitians-and-licensed-nutritionists-at-every-stage-of-their-careers-302918428.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T13:02:00Z",
+      "epoch": 1792846920,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Employment Law Attorneys, at Blumenthal Nordrehaug Bhowmik De Blouw LLP, Filed a Lawsuit Against Darden Restaurants, Inc. for Alleged Failure to Reimburse Employees' Business Expenses",
+      "summary": "Darden Restaurants, Inc., owner and operator of full-service dining chains, allegedly failed to reimburse employees for their business expenses incurred while performing the job as instructed by Defendant. This resulted in inaccurate wage statements amongst other allegations. **T",
+      "url": "https://www.prnewswire.com/news-releases/employment-law-attorneys-at-blumenthal-nordrehaug-bhowmik-de-blouw-llp-filed-a-lawsuit-against-darden-restaurants-inc-for-alleged-failure-to-reimburse-employees-business-expenses-302917695.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T13:01:00Z",
+      "epoch": 1792846860,
+      "sentiment": -0.33,
+      "tickers": [
+        "DRI"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "The Secret to Getting on a New York Wine List? Four Master Sommeliers Come Face to Face with Leading Italian Producers",
+      "summary": "At wine2wine Vinitaly Business Forum New York, America's Master Sommeliers and four leading Italian producers confront the questions nobody asks out loud: why a great wine doesn't get listed, who sets the price, and what it takes to stay on the list.. NEW YORK, Oct. 24, 2026 /PRN",
+      "url": "https://www.prnewswire.com/news-releases/the-secret-to-getting-on-a-new-york-wine-list-four-master-sommeliers-come-face-to-face-with-leading-italian-producers-302918204.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T13:00:00Z",
+      "epoch": 1792846800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "The Ultimate Send-off to Summer: CSTS Debuts Global Entertainment IP PremierX at New York's Pier 17, Ushering in a New Era of Live Entertainment",
+      "summary": "NEW YORK, Oct. 24, 2026 /PRNewswire/ -- CSTS Enterprises ('CSTS'), a New York-based sports, entertainment, integrated media and travel technology group, today announced the official launch of PremierXTM, its flagship live entertainment brand, with a landmark Halloween Weekend eve",
+      "url": "https://www.prnewswire.com/news-releases/the-ultimate-send-off-to-summer-csts-debuts-global-entertainment-ip-premierx-at-new-yorks-pier-17-ushering-in-a-new-era-of-live-entertainment-302918645.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T13:00:00Z",
+      "epoch": 1792846800,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Johnson &amp; Johnson announces ERLEADA® (apalutamide) treatment before and after surgery reduces risk of recurrence or death by 62% versus surgery alone in high-risk prostate cancer",
+      "summary": "New substudy results showed a 51% lower estimated risk of metastasis or death over time with perioperative apalutamide plus ADT compared with immediate surgery Twice as many patients remained free from subsequent treatment at three years with perioperative apalutamide plus ADT co",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-erleada-apalutamide-treatment-before-and-after-surgery-reduces-risk-of-recurrence-or-death-by-62-versus-surgery-alone-in-high-risk-prostate-cancer-302918654.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T12:54:00Z",
+      "epoch": 1792846440,
+      "sentiment": -1.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Taiwan Brings Herbal Heritage and Modern Innovation to SupplySide Global 2026",
       "summary": "LAS VEGAS, Oct. 24, 2026 /PRNewswire/ -- With a healthcare system that embraces both modern medicine and Traditional Chinese medicine (TCM), Taiwan brings together herbal knowledge passed down over millennia, scientific evidence and modern pharmaceutical and biotechnology capabil",
       "url": "https://www.prnewswire.com/news-releases/taiwan-brings-herbal-heritage-and-modern-innovation-to-supplyside-global-2026-302918648.html",
@@ -433,38 +601,10 @@
       "title": "Bio-Thera Announces Promising Clinical Data for BAT8008 in Combination with BAT1308 in First-Line Non-Small Cell Lung Cancer at ESMO 2026",
       "summary": "GUANGZHOU, China, Oct. 24, 2026 /PRNewswire/ -- Bio-Thera Solutions, Ltd. (688177.SH), a commercial-stage biopharmaceutical company developing innovative therapies and biosimilars, today announced the presentation of clinical data for BAT8008, a TROP2-targeted antibody-drug conju",
       "url": "https://www.prnewswire.com/news-releases/bio-thera-announces-promising-clinical-data-for-bat8008-in-combination-with-bat1308-in-first-line-non-small-cell-lung-cancer-at-esmo-2026-302918492.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-24T11:00:00Z",
       "epoch": 1792839600,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Best AI Tools for Marketing Content (2026): CapCut Recognized for Faster AI-Powered Video and Image Creation by Better Business Advice",
-      "summary": "NEW YORK, Oct. 24, 2026 /PRNewswire/ -- Better Business Advice has recognized CapCut in its 2026 coverage of the best AI tools for marketing content, highlighting its collection of AI-powered features for creating and editing videos, images, audio, and other campaign assets. The.",
-      "url": "https://www.prnewswire.com/news-releases/best-ai-tools-for-marketing-content-2026-capcut-recognized-for-faster-ai-powered-video-and-image-creation-by-better-business-advice-302918030.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T10:30:00Z",
-      "epoch": 1792837800,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "THE POWER OF WILL : UNE SÉRIE DE CONVERSATIONS SUR LA DÉTERMINATION ET L'INDIVIDUALITÉ",
-      "summary": "MIAMI, 24 octobre 2026 /PRNewswire/ -- Armani beauty : The power of WILL (Le pouvoir de la volonté) est une série d'entretiens vidéo animée par l'artiste et conteur numérique Devon Rodriguez. Mêlant portraits et conversations personnelles, les entretiens avec Jonathan Bailey, J. ",
-      "url": "https://www.prnewswire.com/news-releases/the-power-of-will--une-serie-de-conversations-sur-la-determination-et-lindividualite-302918630.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T10:28:00Z",
-      "epoch": 1792837680,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -486,55 +626,13 @@
       "small_cap_risk": false
     },
     {
-      "title": "Best Magnetic Stand Cases for iPhone 18 Pro &amp; iPhone 18 Pro Max in 2026: TORRAS Recognized as a Top Choice by Expert Consumers",
-      "summary": "NEW YORK, Oct. 24, 2026 /PRNewswire/ -- Expert Consumers has recognized the TORRAS Magnetic Stand Case as a top choice for iPhone 18 Pro and iPhone 18 Pro Max users seeking built-in stand functionality, magnetic accessory support, and everyday convenience. The recognition highlig",
-      "url": "https://www.prnewswire.com/news-releases/best-magnetic-stand-cases-for-iphone-18-pro--iphone-18-pro-max-in-2026-torras-recognized-as-a-top-choice-by-expert-consumers-302918040.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T09:30:00Z",
-      "epoch": 1792834200,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Lilly presents first clinical data in platinum-sensitive ovarian cancer for its investigational, next-generation, FRα-targeting ADC at ESMO 2026",
       "summary": "Sofetabart mipitecan (Sofe-M) in combination with bevacizumab demonstrated a 79% confirmed objective response rate and 100% disease control rate, with similar activity observed across FRα expression levels Clinical activity with Sofe-M was maintained even in patients with prior P",
       "url": "https://www.prnewswire.com/news-releases/lilly-presents-first-clinical-data-in-platinum-sensitive-ovarian-cancer-for-its-investigational-next-generation-fr-targeting-adc-at-esmo-2026-302918153.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-24T06:30:00Z",
       "epoch": 1792823400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "/C O R R E C T I O N - DigitalXForce Corporation/",
-      "summary": "In the news release, DigitalXForce Scores Triple Win: IDC MarketScape Leader Recognition, Institutional Investment from Arsenal Equity Group and 514% Growth, issued 21-Oct-2026 by DigitalXForce Corporation over PR Newswire, we are advised by the company that changes have been mad",
-      "url": "https://www.prnewswire.com/news-releases/digitalxforce-scores-triple-win-idc-marketscape-leader-recognition-institutional-investment-from-arsenal-equity-group-and-514-growth-302913144.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T04:36:00Z",
-      "epoch": 1792816560,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "HYXI veranstaltet den European Partner Day 2026 und stellt seine Produktmatrix für sämtliche Anwendungsszenarien vor",
-      "summary": "HANGZHOU, China, 24. Oktober 2026 /PRNewswire/ -- Am 21. Oktober veranstaltete HYXI unter dem Motto „See Where It Begins, Shape the Future\" („Sehen, wo alles beginnt, die Zukunft gestalten\") erfolgreich den European Partner Day 2026 am Unternehmenshauptsitz in Hangzhou. Knapp 60 ",
-      "url": "https://www.prnewswire.com/news-releases/hyxi-veranstaltet-den-european-partner-day-2026-und-stellt-seine-produktmatrix-fur-samtliche-anwendungsszenarien-vor-302918580.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T02:13:00Z",
-      "epoch": 1792807980,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -794,22 +892,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "Civista Bancshares, Inc. Appoints Jeremy Normington-Slay to Board of Directors",
-      "summary": "SANDUSKY, Ohio, Oct. 23, 2026 /PRNewswire/ -- Civista Bancshares, Inc. (NASDAQ: CIVB) (\"Civista\") today announced the appointment of Jeremy Normington-Slay, DPT, MBA, FACHE, to the Boards of Directors of Civista Bancshares and Civista Bank, effective October 21, 2026. Normington-",
-      "url": "https://www.prnewswire.com/news-releases/civista-bancshares-inc-appoints-jeremy-normington-slay-to-board-of-directors-302917585.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-23T20:15:00Z",
-      "epoch": 1792786500,
-      "sentiment": 0.0,
-      "tickers": [
-        "CIVB"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "Hyperliquid Strategies Inc Announces Increase of Stock Repurchase Program to $100 Million",
       "summary": "NEW YORK, Oct. 23, 2026 /PRNewswire/ -- Hyperliquid Strategies Inc (NASDAQ: PURR) (\"HSI\" or the \"Company\"), the premier digital asset treasury platform focused on the Hyperliquid ecosystem, today announced that its Board of Directors has authorized an increase to its previously a",
       "url": "https://www.prnewswire.com/news-releases/hyperliquid-strategies-inc-announces-increase-of-stock-repurchase-program-to-100-million-302918312.html",
@@ -826,16 +908,16 @@
       "small_cap_risk": true
     },
     {
-      "title": "Nektar Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-      "summary": "SAN FRANCISCO, Oct. 23, 2026 /PRNewswire/ -- Nektar Therapeutics (NASDAQ: NKTR) today announced that, on October 20, 2026, the Organization and Compensation Committee of Nektar's Board of Directors granted non-qualified stock options to purchase an aggregate of 45,750 shares of i",
-      "url": "https://www.prnewswire.com/news-releases/nektar-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635c4-302918440.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
+      "title": "Civista Bancshares, Inc. Appoints Jeremy Normington-Slay to Board of Directors",
+      "summary": "SANDUSKY, Ohio, Oct. 23, 2026 /PRNewswire/ -- Civista Bancshares, Inc. (NASDAQ: CIVB) (\"Civista\") today announced the appointment of Jeremy Normington-Slay, DPT, MBA, FACHE, to the Boards of Directors of Civista Bancshares and Civista Bank, effective October 21, 2026. Normington-",
+      "url": "https://www.prnewswire.com/news-releases/civista-bancshares-inc-appoints-jeremy-normington-slay-to-board-of-directors-302917585.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
       "published_at": "2026-10-23T20:15:00Z",
       "epoch": 1792786500,
       "sentiment": 0.0,
       "tickers": [
-        "NKTR"
+        "CIVB"
       ],
       "company_name": null,
       "catalyst": false,
@@ -870,22 +952,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Cumberland Pharmaceuticals Announces ASSIST-SSc Trial Top-Line Results",
-      "summary": "Ifetroban was well tolerated in patients with systemic sclerosis NASHVILLE, Tenn., Oct. 23, 2026 /PRNewswire/ -- Cumberland Pharmaceuticals Inc. (NASDAQ: CPIX), an innovation-driven biopharmaceutical company advancing new therapies that address significant unmet medical needs, an",
-      "url": "https://www.prnewswire.com/news-releases/cumberland-pharmaceuticals-announces-assist-ssc-trial-top-line-results-302918449.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-23T20:05:00Z",
-      "epoch": 1792785900,
-      "sentiment": 0.33,
-      "tickers": [
-        "CPIX"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "METROCITY BANKSHARES, INC. REPORTS EARNINGS FOR THIRD QUARTER 2026",
       "summary": "ATLANTA, Oct. 23, 2026 /PRNewswire/ -- MetroCity Bankshares, Inc. (\"MetroCity\" or the \"Company\") (NASDAQ: MCBS), holding company for Metro City Bank (the \"Bank\"), today reported net income of $24.3 million, or $0.84 per diluted share, for the third quarter of 2026, compared to $2",
       "url": "https://www.prnewswire.com/news-releases/metrocity-bankshares-inc-reports-earnings-for-third-quarter-2026-302918089.html",
@@ -914,50 +980,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "Medline hosts fourth annual MedTrans Rodeo in Mundelein, Ill.",
-      "summary": "Drivers representing each region represent Medline's commitment to making healthcare run better NORTHFIELD, Ill., Oct. 23, 2026 /PRNewswire/ -- Medline's private fleet of truck drivers, MedTrans, recently completed its fourth annual National Truck Rodeo, which celebrates the driv",
-      "url": "https://www.prnewswire.com/news-releases/medline-hosts-fourth-annual-medtrans-rodeo-in-mundelein-ill-302918417.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-23T19:14:00Z",
-      "epoch": 1792782840,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "UCB Establishes the Emmanuel Janssen Endowed Chair for the Evaluation of Medicines at Brigham and Women's Hospital",
-      "summary": "Permanent endowment advances pharmacoepidemiology and real-world evidence research Sebastian Schneeweiss, MD, ScD, an internationally recognized pharmacoepidemiologist whose research focuses on improving medication safety, effectiveness, and value through real-world evidence, has",
-      "url": "https://www.prnewswire.com/news-releases/ucb-establishes-the-emmanuel-janssen-endowed-chair-for-the-evaluation-of-medicines-at-brigham-and-womens-hospital-302918406.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-23T19:02:00Z",
-      "epoch": 1792782120,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Hyperliquid Strategies Inc Announces Webcast to Discuss Results for the Quarter Ended September 30, 2026",
-      "summary": "NEW YORK, Oct. 23, 2026 /PRNewswire/ -- Hyperliquid Strategies Inc (NASDAQ: PURR) (\"HSI\" or the \"Company\"), the premier digital asset treasury platform focused on the Hyperliquid ecosystem, today announced that it will host a live webcast on Thursday, November 5, 2026, at 5:15 p.",
-      "url": "https://www.prnewswire.com/news-releases/hyperliquid-strategies-inc-announces-webcast-to-discuss-results-for-the-quarter-ended-september-30-2026-302918354.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-23T19:00:00Z",
-      "epoch": 1792782000,
-      "sentiment": 0.0,
-      "tickers": [
-        "PURR"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
     },
     {
       "title": "Egan-Jones Finds Steady CLO Credit Metrics as Interest Rates Turn Higher",
@@ -2074,6 +2096,22 @@
   ],
   "pipeline": [
     {
+      "title": "Bayer's Nubeqa scores phase 3 win in high-risk prostate cancer",
+      "summary": "Nubeqa, when added to standard-of-care treatment, significantly improved metastasis-free survival in patients with very high-risk localized prostate cancer.",
+      "url": "https://www.fiercepharma.com/pharma/bayers-nubeqa-lands-phase-3-win-very-high-risk-prostate-cancer",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-10-23T12:50:00Z",
+      "epoch": 1792759800,
+      "sentiment": -0.33,
+      "tickers": [
+        "BAYN.DE"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
       "title": "Argenx confirmatory trial update for Vyvgart puts small dent in strong Q3",
       "summary": "Argenx's third quarter report reflected strong sales and pipeline plans, but investors took issue with high operating expenses and a new phase 3 requirement.",
       "url": "https://www.fiercepharma.com/pharma/argenx-pipeline-wobbles-overshadow-strong-vyvgart-sales",
@@ -2443,6 +2481,22 @@
       "small_cap_risk": false
     },
     {
+      "title": "ESMO: Chasing Keytruda, AstraZeneca’s Imfinzi pitches its own Padcev combos in bladder cancer",
+      "summary": "AstraZeneca is rolling out its own Imfinzi-Padcev combination pitch in cisplatin-ineligible muscle-invasive bladder cancer, hoping to differentiate from Keytruda-Padcev with a tweaked dosing regimen, while its effort to add a CTLA-4 component appears to have backfired.",
+      "url": "https://www.fiercepharma.com/pharma/chasing-keytruda-astrazeneca-imfinzi-pitches-its-own-padcev-combos-bladder-cancer",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-10-22T15:27:00Z",
+      "epoch": 1792682820,
+      "sentiment": 0.0,
+      "tickers": [
+        "AZN.L"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results",
       "summary": "A combination of the shot and the immunotherapy Keytruda cut the risk of relapse or death by 42% in a landmark melanoma study that met Wall Street expectations but triggered a &ldquo;sell-the-news reaction,&rdquo; one analyst wrote.",
       "url": "https://www.biopharmadive.com/news/moderna-merck-esmo-intismeran-melanoma-vaccine-results/833765/",
@@ -2711,6 +2765,22 @@
       "small_cap_risk": false
     },
     {
+      "title": "ESMO: Amgen’s Imdelltra drives massive survival benefit in ‘watershed moment’ for small cell lung cancer",
+      "summary": "Amgen’s T-cell engager Imdelltra has posted a massive survival benefit in small cell lung cancer, delivering what Chief Medical Officer Paul Burton called a “watershed moment” for the field while drawing comparison to Rasonque in pancreatic cancer.",
+      "url": "https://www.fiercepharma.com/pharma/amgen-imdelltra-drives-massive-survival-benefit-watershed-moment-small-cell-lung-cancer",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-10-21T21:10:00Z",
+      "epoch": 1792617000,
+      "sentiment": 0.0,
+      "tickers": [
+        "AMGN"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
       "summary": "Hibsago is viewed as a potential &ldquo;functional cure&rdquo; for chronic infections and an important part of the British drugmaker&rsquo;s goal of reaching &pound;40 billion in annual revenue by 2031.",
       "url": "https://www.biopharmadive.com/news/gsk-ionis-fda-approve-hibsago-chronic-hepatitis-b-bepirovirsen/833541/",
@@ -2875,36 +2945,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "CDMO Samsung Bio wins temporary reprieve from strike threat after Seoul court ruling",
-      "summary": "Ahead of a planned strike by its labor union later this month, Samsung Biologics has secured a favorable South Korean court ruling that shields most of its drug substance manufacturing operations from the labor action.",
-      "url": "https://www.fiercepharma.com/pharma/cdmo-samsung-bio-wins-temporary-reprieve-strike-threat-after-seoul-court-ruling",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-10-20T13:44:00Z",
-      "epoch": 1792503840,
-      "sentiment": 0.33,
-      "tickers": [
-        "005930.KS"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Antheia lands $80M conditional loan from Trump administration to onshore drug manufacturing",
-      "summary": "The Department of War is allotting a conditional $80 million loan to next-gen ingredient maker Antheia, a move that will give the U.S. critical access to key starting materials and active pharmaceutical ingredients that are almost exclusively produced overseas.",
-      "url": "https://www.fiercepharma.com/pharma/antheia-secures-80m-dow-onshore-ksm-and-api-manufacturing",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-10-20T11:10:00Z",
-      "epoch": 1792494600,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "BMS leads Pathos AI's $237M series E alongside Alzheimer's link-up",
       "summary": "Pathos AI has closed a $237 million series E round led by pharma giant Bristol Myers Squibb on the same day that the two companies signed a cutting-edge Alzheimer's disease-focused collaboration.",
       "url": "https://www.fiercebiotech.com/biotech/pathos-ai-closes-237m-series-e-heels-bms-alzheimers-link",
@@ -2930,22 +2970,6 @@
       "epoch": 1791473820,
       "sentiment": 0.0,
       "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Regulatory tracker: Viatris' Ryzumvi wins FDA nod in age-related vision loss",
-      "summary": "In this tracker, Fierce Pharma is recording the regulatory progress of in-market products, including expansions into key geographies and new indications. Some of these updates may not meet the bar for standalone stories, but we think they are still worth mentioning.",
-      "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-07-01T13:33:00Z",
-      "epoch": 1782912780,
-      "sentiment": 0.0,
-      "tickers": [
-        "VTRS"
-      ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
