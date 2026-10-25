@@ -1,135 +1,33 @@
 {
-  "generated_at": "2026-10-25T20:21:20Z",
+  "generated_at": "2026-10-25T23:00:16Z",
   "articles": [
     {
-      "title": "Bitcoin steadies near $80,400 after weekend selloff, Fed decision looms",
+      "title": "Culture: Stephen Schwarzman (25)",
       "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035",
-      "source": "Investing.com Europe",
-      "source_id": "investing-europe",
-      "continent": "eu",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "url": "https://asia.nikkei.com/spotlight/my-personal-history/culture-stephen-schwarzman-25",
+      "source": "Nikkei Asia",
+      "source_id": "nikkei-asia",
+      "continent": "as",
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "AI stock falls are sore spot for China's self-reliance strategy",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/trading-asia/ai-stock-falls-are-sore-spot-for-china-s-self-reliance-strategy",
+      "source": "Nikkei Asia",
+      "source_id": "nikkei-asia",
+      "continent": "as",
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": -0.33,
-      "horizon": "swing",
-      "tickers": []
-    },
-    {
-      "title": "Bitcoin tests $80K support in descending triangle: Live levels",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
-      "source": "Investing.com Europe",
-      "source_id": "investing-europe",
-      "continent": "eu",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-84000-as-whale-withdrawals-surge-and-institutional-activity-grows-4970613",
-      "source": "Investing.com Europe",
-      "source_id": "investing-europe",
-      "continent": "eu",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
-      "sentiment": 0.33,
-      "horizon": "swing",
-      "tickers": []
-    },
-    {
-      "title": "Bitcoin flat around $82k as tech rout, rising oil dent risk",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-82k-as-tech-rout-rising-oil-dent-risk-4968158",
-      "source": "Investing.com Europe",
-      "source_id": "investing-europe",
-      "continent": "eu",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
-      "sentiment": -0.33,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Exclusive: Sygnum rolls out MultiSYG bitcoin loans as BTC hits 80% of collateral",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/exclusive-sygnum-rolls-out-multisyg-bitcoin-loans-as-btc-hits-80-of-collateral-4968017",
-      "source": "Investing.com Europe",
-      "source_id": "investing-europe",
-      "continent": "eu",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Bitcoin dives 4%, slides below $82k as AI rout, oil surge slams risk sentiment",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-back-to-82k-as-ai-selldown-rising-oil-batter-risk-4964695",
-      "source": "Investing.com Europe",
-      "source_id": "investing-europe",
-      "continent": "eu",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
-      "sentiment": 0.0,
-      "horizon": "swing",
-      "tickers": []
-    },
-    {
-      "title": "Uniswap v4 Is Now an Aggregator: Uniswap Labs Launches Aggregator Hooks",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/uniswap-v4-is-now-an-aggregator-uniswap-labs-launches-aggregator-hooks-4966916",
-      "source": "Investing.com Europe",
-      "source_id": "investing-europe",
-      "continent": "eu",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
-      "sentiment": 0.33,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Square Tech and GOAT Network Sign MOU to Advance AI Agent-Powered Stablecoin Payments in South Korea",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/square-tech-and-goat-network-sign-mou-to-advance-ai-agentpowered-stablecoin-payments-in-south-korea-4966409",
-      "source": "Investing.com Europe",
-      "source_id": "investing-europe",
-      "continent": "eu",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Travala Introduces AVA Buyback Multiplier, Scaling Buybacks Up to 4x Member Rewards",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/travala-introduces-ava-buyback-multiplier-scaling-buybacks-up-to-4x-member-rewards-4966002",
-      "source": "Investing.com Europe",
-      "source_id": "investing-europe",
-      "continent": "eu",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
-      "sentiment": 0.33,
       "horizon": "long_term",
-      "tickers": []
-    },
-    {
-      "title": "Bybit KZ and Alatau City Authority sign MoC on tokenization, digital asset payments, cross-border remittances",
-      "summary": "",
-      "url": "https://www.investing.com/news/cryptocurrency-news/bybit-kz-and-alatau-city-authority-sign-moc-on-tokenization-digital-asset-payments-crossborder-remittances-4965324",
-      "source": "Investing.com Europe",
-      "source_id": "investing-europe",
-      "continent": "eu",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
+      "tickers": [
+        "RELIANCE.NS"
+      ]
     },
     {
       "title": "From trust to growth: the next chapter in Japan-UK relations",
@@ -138,8 +36,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.33,
       "horizon": null,
       "tickers": []
@@ -151,8 +49,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -164,8 +62,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": "long_term",
       "tickers": []
@@ -177,8 +75,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.33,
       "horizon": null,
       "tickers": []
@@ -190,8 +88,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -203,8 +101,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": -0.33,
       "horizon": null,
       "tickers": []
@@ -216,8 +114,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -229,8 +127,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -242,8 +140,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -255,8 +153,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -268,8 +166,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -281,8 +179,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -294,8 +192,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -307,8 +205,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": "long_term",
       "tickers": []
@@ -320,8 +218,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -333,8 +231,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -346,8 +244,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -359,8 +257,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -372,8 +270,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -385,8 +283,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -398,8 +296,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": -0.33,
       "horizon": null,
       "tickers": []
@@ -411,8 +309,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -424,8 +322,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.33,
       "horizon": null,
       "tickers": []
@@ -437,8 +335,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -450,8 +348,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -463,8 +361,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -476,8 +374,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -489,8 +387,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -502,8 +400,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.33,
       "horizon": null,
       "tickers": []
@@ -515,8 +413,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -528,8 +426,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -541,8 +439,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": [
@@ -557,8 +455,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": -0.33,
       "horizon": "swing",
       "tickers": []
@@ -570,8 +468,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -583,8 +481,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -596,8 +494,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -609,8 +507,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": "long_term",
       "tickers": []
@@ -622,8 +520,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": -0.33,
       "horizon": null,
       "tickers": []
@@ -635,8 +533,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -648,8 +546,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": -0.33,
       "horizon": null,
       "tickers": []
@@ -661,8 +559,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -674,8 +572,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -687,8 +585,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -700,8 +598,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -713,8 +611,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -726,8 +624,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -739,8 +637,8 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -752,35 +650,383 @@
       "source": "Nikkei Asia",
       "source_id": "nikkei-asia",
       "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "published_at": "2026-10-25T23:00:16Z",
+      "epoch": 1792969216,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
     },
     {
-      "title": "Yen on track to gain from US midterm elections and France unrest",
+      "title": "Bitcoin steadies near $80,400 after weekend selloff, Fed decision looms",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/currencies/yen-on-track-to-gain-from-us-midterm-elections-and-france-unrest",
-      "source": "Nikkei Asia",
-      "source_id": "nikkei-asia",
-      "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035",
+      "source": "Investing.com Europe",
+      "source_id": "investing-europe",
+      "continent": "eu",
+      "published_at": "2026-10-25T23:00:15Z",
+      "epoch": 1792969215,
+      "sentiment": -0.33,
+      "horizon": "swing",
+      "tickers": []
+    },
+    {
+      "title": "Bitcoin tests $80K support in descending triangle: Live levels",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
+      "source": "Investing.com Europe",
+      "source_id": "investing-europe",
+      "continent": "eu",
+      "published_at": "2026-10-25T23:00:15Z",
+      "epoch": 1792969215,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-84000-as-whale-withdrawals-surge-and-institutional-activity-grows-4970613",
+      "source": "Investing.com Europe",
+      "source_id": "investing-europe",
+      "continent": "eu",
+      "published_at": "2026-10-25T23:00:15Z",
+      "epoch": 1792969215,
+      "sentiment": 0.33,
+      "horizon": "swing",
+      "tickers": []
+    },
+    {
+      "title": "Bitcoin flat around $82k as tech rout, rising oil dent risk",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-82k-as-tech-rout-rising-oil-dent-risk-4968158",
+      "source": "Investing.com Europe",
+      "source_id": "investing-europe",
+      "continent": "eu",
+      "published_at": "2026-10-25T23:00:15Z",
+      "epoch": 1792969215,
+      "sentiment": -0.33,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Exclusive: Sygnum rolls out MultiSYG bitcoin loans as BTC hits 80% of collateral",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/exclusive-sygnum-rolls-out-multisyg-bitcoin-loans-as-btc-hits-80-of-collateral-4968017",
+      "source": "Investing.com Europe",
+      "source_id": "investing-europe",
+      "continent": "eu",
+      "published_at": "2026-10-25T23:00:15Z",
+      "epoch": 1792969215,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Bitcoin dives 4%, slides below $82k as AI rout, oil surge slams risk sentiment",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-back-to-82k-as-ai-selldown-rising-oil-batter-risk-4964695",
+      "source": "Investing.com Europe",
+      "source_id": "investing-europe",
+      "continent": "eu",
+      "published_at": "2026-10-25T23:00:15Z",
+      "epoch": 1792969215,
+      "sentiment": 0.0,
+      "horizon": "swing",
+      "tickers": []
+    },
+    {
+      "title": "Uniswap v4 Is Now an Aggregator: Uniswap Labs Launches Aggregator Hooks",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/uniswap-v4-is-now-an-aggregator-uniswap-labs-launches-aggregator-hooks-4966916",
+      "source": "Investing.com Europe",
+      "source_id": "investing-europe",
+      "continent": "eu",
+      "published_at": "2026-10-25T23:00:15Z",
+      "epoch": 1792969215,
       "sentiment": 0.33,
       "horizon": null,
       "tickers": []
     },
     {
-      "title": "Japan to promote anime, games overseas through centralized support",
+      "title": "Square Tech and GOAT Network Sign MOU to Advance AI Agent-Powered Stablecoin Payments in South Korea",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/media-entertainment/japan-to-promote-anime-games-overseas-through-centralized-support",
-      "source": "Nikkei Asia",
-      "source_id": "nikkei-asia",
-      "continent": "as",
-      "published_at": "2026-10-25T20:21:19Z",
-      "epoch": 1792959679,
+      "url": "https://www.investing.com/news/cryptocurrency-news/square-tech-and-goat-network-sign-mou-to-advance-ai-agentpowered-stablecoin-payments-in-south-korea-4966409",
+      "source": "Investing.com Europe",
+      "source_id": "investing-europe",
+      "continent": "eu",
+      "published_at": "2026-10-25T23:00:15Z",
+      "epoch": 1792969215,
       "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Travala Introduces AVA Buyback Multiplier, Scaling Buybacks Up to 4x Member Rewards",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/travala-introduces-ava-buyback-multiplier-scaling-buybacks-up-to-4x-member-rewards-4966002",
+      "source": "Investing.com Europe",
+      "source_id": "investing-europe",
+      "continent": "eu",
+      "published_at": "2026-10-25T23:00:15Z",
+      "epoch": 1792969215,
+      "sentiment": 0.33,
+      "horizon": "long_term",
+      "tickers": []
+    },
+    {
+      "title": "Bybit KZ and Alatau City Authority sign MoC on tokenization, digital asset payments, cross-border remittances",
+      "summary": "",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bybit-kz-and-alatau-city-authority-sign-moc-on-tokenization-digital-asset-payments-crossborder-remittances-4965324",
+      "source": "Investing.com Europe",
+      "source_id": "investing-europe",
+      "continent": "eu",
+      "published_at": "2026-10-25T23:00:15Z",
+      "epoch": 1792969215,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Futures Rise; Three Titans Loom - Investor's Business Daily",
+      "summary": "Futures Rise; Three Titans Loom &nbsp;&nbsp; Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnVjTUhHNlhCR3diSDlXVTI4c082YmNhWmRrdGJqWW9yeGxsa0ZKSFBfa1RDUVBRS202amNuT3loOXdtTzdOWUpNTjA3VjlnWVczak1rU3NjYUg0YnF6R1JlcUdVRi1NOEdya0I1ZU4xZlNzUmRKU2U1ZlJkcVRCNF90clE4QjJNRmVOOGJ4Ymp5QzdHVEp3WFgtLXYyS09KbGtvNi1ucWgtZnlJbUpmVXVyaE9fZ0pPeUJUQg?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T22:23:59Z",
+      "epoch": 1792967039,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Stock Futures Are Rising Ahead of Fed Decision - Barron's",
+      "summary": "Stock Futures Are Rising Ahead of Fed Decision &nbsp;&nbsp; Barron's",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FajVzRGplUkV0VVpGamdWM1EyOGNHTlhva0xXeW1kZWlzcUJuNUJkWFN4dVAxczZkaFFpUlA5SkFfQ296S3hia1Q0b3FvdTYyYW9tVDNUM1pqY2hwc1Nsay1aUllCX0l1eVF0Wm90TmtJeUlULUhR?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T22:12:00Z",
+      "epoch": 1792966320,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "US Equity Futures Climb as Crude Oil Price Dips: Markets Wrap - Bloomberg.com",
+      "summary": "US Equity Futures Climb as Crude Oil Price Dips: Markets Wrap &nbsp;&nbsp; Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGVmU0kxdjhvRF9ZU0VaeFFkODlaUTRlN1dQaHNSV1JiOTBwSV9nb1RKejQ2clRzQ0doN3VjVEtHb0RaTlVBNUdhMFI3aUtTRHB1dEE3NWdXZS1ZbktuMVUtYnE0ellyLWlNa29aWThtQkdSQW5FRzFIVUZlb3hEUlg1czdXd3FyV0VwNW0wVEMyTUg4ZEpoTVg0SzIyZ0VmLTAxOUlPTUtLXy1kS0ozbw?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T22:09:07Z",
+      "epoch": 1792966147,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "The Bet Eldorado Gold Holders Made - Yahoo Finance",
+      "summary": "The Bet Eldorado Gold Holders Made &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNREFpcFRtNTlRYllqaVBHUWlaUlhpaExsQ3NtUmNWbU90QUdXb2g2RlZ5VV9CUUJ1UU05dFF2NVZ1U0ZWeHExbldxakx2SjZPcUY1em9pZm5Kc2VsejdOV0ZRcjZnZFozZXdfUWpfT3k1Nk9pUXo0YU94YzEzT2JWc3BrdjNkb0pTTWY4Z2pPc1hBdkdGWHFwbU5CVQ?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T22:08:39Z",
+      "epoch": 1792966119,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Tokyo Tatemono (TSE:8804) Stock Still Looks Cheap Despite Its 136% Run - Yahoo Finance",
+      "summary": "Tokyo Tatemono (TSE:8804) Stock Still Looks Cheap Despite Its 136% Run &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVZHeDUzY1RCVmRHZUJBNVI2cVlvRlRWWlItR2Z5NFpySmVZN3pzaW44aTZ4b2pieVZaWjNlbWpsb3g2R1RycWpQN3R0VmxqLXE1aDk1ZnBLOU1RbHZyOWtueGNncnk0WjRnOGZKYkFWbk9Ld2o0QXlaemxJSDBTUlBrV3R5OTJyZnVPNS1NRFk5Q0NSZGVrVmtn?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T22:07:03Z",
+      "epoch": 1792966023,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Is Danya Cebus (TASE:DNYA) Still Cheap Relative To Earnings? - Yahoo Finance",
+      "summary": "Is Danya Cebus (TASE:DNYA) Still Cheap Relative To Earnings? &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOWtjMnVoUG41Y0dHNUNHbERqSmVwOTRjT2JZd0hYc3g4YWNZN1phN081aFFaVVlvXzFfcGZBM3B0SFYxTzNHcm50M1FGSU9GY3hpNVRkTmdWQlkxMjF0bEJkcDdUY3Y1eUwyUDhlQWs0NzZ1OGhMOUFPQ1I2Zm1mM3AtVXZGQ1RhYjQ4Q0NjdUxmWU9nY3dn?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T22:06:55Z",
+      "epoch": 1792966015,
+      "sentiment": 0.0,
+      "horizon": "swing",
+      "tickers": []
+    },
+    {
+      "title": "Corning Stock Has Lost Half Its Value Since June. Is It a Buy Before Its Next Report? - The Motley Fool",
+      "summary": "Corning Stock Has Lost Half Its Value Since June. Is It a Buy Before Its Next Report? &nbsp;&nbsp; The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb2VuT1UxQUduM0NxVFU1OHpDUlNPTE5UcHY3QkJVSHZkWFNLMFJhUV94RG1xaGQwZ0hDX0RLbEZKRDh4NVQ4REM5anhKMjBFODFGZ3I4OWRLejJIV2Q4d0FHbXF4Y2FmeS05SWQxRldHd01pTHc5UGJBb1huNThuNjFHbldVNWMwWVh2NkFJNkJ4dnEzNU9Ld2xwODNQcGhKZVhNZVdCTXh2b3hZdDFEeTFTdkp2RUx0YTkydVRtcUV4MDRr?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T21:49:05Z",
+      "epoch": 1792964945,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": [
+        "GLW"
+      ]
+    },
+    {
+      "title": "Stock-Split Watch: Is Sandisk Next? - Yahoo Finance",
+      "summary": "Stock-Split Watch: Is Sandisk Next? &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd1RZM2kwMlFYdnluM2paUzFndnE4a3Iwd0xlYnQ3TzRQWWdKLW11bHdleVJGRWVPeHVIWVFtdUZ5TDgwY1hXdDJkVEpZRlBtd09EcW51bHVTbjdjLVFoSnhwdDYxSXVpdGdkZ2JtZTdadzF2VDFfV3lMcnpHTjNkS0tFa1VkMlFUakIzVGgxQlEzMEw1NU50VVRYRQ?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T21:49:00Z",
+      "epoch": 1792964940,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": [
+        "SNDK"
+      ]
+    },
+    {
+      "title": "Stock-Split Watch: Is Sandisk Next? - The Motley Fool",
+      "summary": "Stock-Split Watch: Is Sandisk Next? &nbsp;&nbsp; The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXYxakJhQzRWSmt2dkZERGZKRFZYNUhxX0lpRnluSmhkSXBubndMeEJ5cDdCVUJHbjg4YUlBU2tBbEZBS09JT0hXbXNtVDFpREV3NmFYRkJraE9rZ041NnRXRnZXdnFBeWdHUk9TZGV0cTZSNDc0Rzh4OVlOSkYySkFR?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T21:36:18Z",
+      "epoch": 1792964178,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": [
+        "SNDK"
+      ]
+    },
+    {
+      "title": "Should You Buy Bristol Myers Squibb While It Trades Below 10 Times Forward Earnings? - Yahoo Finance",
+      "summary": "Should You Buy Bristol Myers Squibb While It Trades Below 10 Times Forward Earnings? &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQml3TWwyU0xuTjhaOExLd3RuT3Bmc3BlNGFzS1V1RjlENlhOazZCUGtSWmd2Y0JFc2pwa0M2T2o4dGhfZFNvRjk3eEtRcnF0b1diOTc2UkF2cHVfSGVXZXp2YnpaaE1XUnpVQlp1QTlsUlY4Z0NJa3lubTFOZVRHNlV4RHE0RE5uRWNXRVM3OG9CclFBbDh0dnVHTQ?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T21:35:00Z",
+      "epoch": 1792964100,
+      "sentiment": 0.0,
+      "horizon": "swing",
+      "tickers": [
+        "BMY"
+      ]
+    },
+    {
+      "title": "Why Could the US Stock Market Fall This Week? Inflation and GDP Data Raise New Risks - Stocks Down Under",
+      "summary": "Why Could the US Stock Market Fall This Week? Inflation and GDP Data Raise New Risks &nbsp;&nbsp; Stocks Down Under",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SU1BEYTZ1UGc1VnR3S0lTR2JfMDU0dEVhUXIyOFVtNWxLZ0RwdjJnMFhjR1FGWDFOMEE3Qzd0Q3NzTWVFSm9wU091Z2JfQXBYNlBJVlVTOGRhUXAwdFhfaFFpaWkxSS04ZjZRWTV6cnZndTRQaHpra0tiZU1EQQ?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T21:10:34Z",
+      "epoch": 1792962634,
+      "sentiment": -1.0,
+      "horizon": "swing",
+      "tickers": []
+    },
+    {
+      "title": "3 Brazilian Export Stocks With Overseas Sales Investors Should Watch - Yahoo Finance",
+      "summary": "3 Brazilian Export Stocks With Overseas Sales Investors Should Watch &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQakRyb3FMdlFqa3NYSFFtVzdMRnE5dWVPbXJnNkdGMXpfaDRmbG0xRjh4RUVjdGt5TjJuZ0Izc0VELTZYQ1E1VUxlb1lnS0xSbmxDUERZQnFiZ0laVm9SN0RnOUV0eGpIQ1M0U0hNOU1YMENvQmlmMGV1UlpxaDZ6bXFuUjNPN19pLTdsTG5FSUFfZGh5VTVaUlFJb2lpVXJR?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T21:09:22Z",
+      "epoch": 1792962562,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "House Foods Group (TSE:2810) Stock May Trade At A 28% Discount On Cash Flow - Yahoo Finance",
+      "summary": "House Foods Group (TSE:2810) Stock May Trade At A 28% Discount On Cash Flow &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR1p3anRXQlZmRjBZQTNrNTgyUVJGcU5Rc0x2bUJac28zNnVwMGs5OU45SHpLVk5xcEdvNjdZVi1MWFU4bEltY0h5Q092cnRpN2tVN2tOSGpZRkVjSnBaeTdCMkJGZlRxUnFNZFJVZTlLTzhjWEl0ZjFPQk1xS1Zrc0RleFNwSHA1U2xIdHY1VkhhLWZRR3c?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T21:08:13Z",
+      "epoch": 1792962493,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Australian Stock Market Today: ASX Futures Slip As Fed Path Keeps Volatility Elevated - Yahoo Finance",
+      "summary": "Australian Stock Market Today: ASX Futures Slip As Fed Path Keeps Volatility Elevated &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN0lpSlR0bTVNYTlISzhGeHZNZDhlXzdIN19tbjFyNHhxT1poM2EzaGZvYnRpOTdKTElVdDk5N05LcmdELWVoLUJ4MmpaWjNTLWMwWmxlWVhSSmdOM2tJeTI4SXNzZW9kdDYzNnNROGRQS21HaU1TZTZOMzVpcDYzVm1STFBFeHA0d3Y4UU5wMElaQkZCVWJRWGZwdVBjaTA?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T21:07:51Z",
+      "epoch": 1792962471,
+      "sentiment": 0.0,
+      "horizon": "swing",
+      "tickers": []
+    },
+    {
+      "title": "AI stock falls are sore spot for China's self-reliance strategy - Nikkei Asia",
+      "summary": "AI stock falls are sore spot for China's self-reliance strategy &nbsp;&nbsp; Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMjQxZmE1VnozV0NDUF9HMlVjd3hFTFdzWWdJWGNwM012Ty1TdXhsSlBOTUlpU3drdDRmSGRsRVFMeUtZNDJkRFJNNnlpZDVxZDMtam9vLW82eWNCakNkdkNMLUdoN2xVOU1TR1FoU3FQTk1mR3lmdGtTaUktekwxN3lqVmFDS2V6YnVRaTZnM1RTMGxjLTFpUVB2cGxYXzZUWG1oUTA1N2tlMUhGT2hndG50NUVfSTlV?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T21:01:00Z",
+      "epoch": 1792962060,
+      "sentiment": -0.67,
+      "horizon": "long_term",
+      "tickers": [
+        "RELIANCE.NS"
+      ]
+    },
+    {
+      "title": "5 Insurance Stocks to Buy for a Decade of Rising Dividends - Yahoo Finance",
+      "summary": "5 Insurance Stocks to Buy for a Decade of Rising Dividends &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSnMwcDY3cUk3ekttZ0RWWkhlTV93TTI3d0RKd05sT2k4R2xoVV95bFJZZEJLaHlHWjZPdldySDJfS19KS3R1LXhOVDNXSVpYSnRPZnVpYTdkdnRIbUR5c3c0dURYc21tYVBmQVIxZUUzUDVfbUs0blEyVnQ0NXFIVHhaN1FfSmwtUnY1ZEpXNlJVQXQ1c0lXVkVR?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T20:50:00Z",
+      "epoch": 1792961400,
+      "sentiment": 0.0,
+      "horizon": "long_term",
+      "tickers": []
+    },
+    {
+      "title": "5 Insurance Stocks to Buy for a Decade of Rising Dividends - The Motley Fool",
+      "summary": "5 Insurance Stocks to Buy for a Decade of Rising Dividends &nbsp;&nbsp; The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQWtBY2g1QURxWmRkUWkxNVZjZ0ktZzJMaGU2UTV3UEEwZnJOZG1SeGNIcTRlZ3hzT09mSXppZ2J6akRHTEUzWU91c0toNFUyd2gwa0NwS1NTSGoxcjFGNHc2LVNCdGs2NjFTbGNVN1o1SkRaUGRyZUhuLUVVMjltR3RvRnh5LU1JbGZaeQ?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T20:44:00Z",
+      "epoch": 1792961040,
+      "sentiment": 0.0,
+      "horizon": "long_term",
+      "tickers": []
+    },
+    {
+      "title": "3 Dividend ETFs With Over $10 Billion Each Pay Up to 3.31% and Beat the S&P 500 Over the Past Year - Yahoo Finance",
+      "summary": "3 Dividend ETFs With Over $10 Billion Each Pay Up to 3.31% and Beat the S&P 500 Over the Past Year &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVUdTanVnaFkyZUM0SjVITlNmME54NE1DWlItX1FMejBaN1hnM2RCeHhOZXdBaGtXTzQza1hmNnAwUlZkOFVfVENEaEVCdThqUFBXMVZtWnVrdDhqcl93RlQ2dXpjb3h6ckJUZkJIRmJVNTg4MGhxOF81Q1FsWk5YaFk0QUNnNzRiaC1QTTUwenJkQQ?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T20:33:43Z",
+      "epoch": 1792960423,
+      "sentiment": 1.0,
       "horizon": null,
       "tickers": []
     },
@@ -793,6 +1039,84 @@
       "continent": "na",
       "published_at": "2026-10-25T20:15:00Z",
       "epoch": 1792959300,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Medifast (MED) Q3 earnings report preview: what to look for - Yahoo Finance",
+      "summary": "Medifast (MED) Q3 earnings report preview: what to look for &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGZidFgxQmxPQjBKS3VxdjMtYklGc0x3WWQ3ZDBlRHV3eVkzLWRwVFpMd0ptQjlyS21ZR2p0a2I1YTZsY2VQMzVwS1BrZXpKTFZoSUVPNHJTSlVRTmR5bzNGV1EyZ0tPWmd1RWlOcDFIblFBNVFfdEFjQkFHczg2Y2xCTFF4YW1WakRVekFIRENhaEUzekNvczNyc2Y?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T20:14:48Z",
+      "epoch": 1792959288,
+      "sentiment": 0.0,
+      "horizon": "swing",
+      "tickers": []
+    },
+    {
+      "title": "Luzerner Kantonalbank (SWX:LUKN) Stock May Be 14% Undervalued On Returns - Yahoo Finance",
+      "summary": "Luzerner Kantonalbank (SWX:LUKN) Stock May Be 14% Undervalued On Returns &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSXMxNHFmckk4Z3dUTW5SOEZsYUlTUHNVR1ExLUI3aWpDd2RTeTBUczcyUkFhWDRnNllrdEhteHRsemlwSFZMTVZFdWxVZkh6R1VEekE0OWdoNFVoVnk1b21HeWxibGt2TUhCcWwwMVVLR0l5ZTlyYm1pWVd3SXFWc3M0ajU1RFY3dWZ3b0d0cWFFTHN4TVdzZUI4Wm9PS1dIc0dF?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T20:10:35Z",
+      "epoch": 1792959035,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Is Kikkoman (TSE:2801) Reasonable After A 49% Share Price Run? - Yahoo Finance",
+      "summary": "Is Kikkoman (TSE:2801) Reasonable After A 49% Share Price Run? &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQWJlOUFMdUZpaUM3WXFuUWNId0NidDV3S0pHUXBHeFE2ZVItcll5OW51cWlCdVFEZGtxT1ZGY0pTdzl0Z2YtNDJsRndvRTRyT0VOOV9UMGpVeVdDdmlDQzlnYUxjVGZQNm5UNzVhSHdBeHZUN1hVcU1IOUZ1OTVwMlU1bk1LQ242TWR4YmdqOWkxMk1ick1ibVVRYW4?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T20:10:16Z",
+      "epoch": 1792959016,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "3 AI Stocks To Own In October 2026 - Yahoo Finance",
+      "summary": "3 AI Stocks To Own In October 2026 &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbnhHT0JIand2R3lPNXJmOHFhdU9lSHU3clh0RmMzc0pMVThKb2R3dDktcUU5WmRYdGhKTDlsUU53a01ESHU2YVlJTTNDelJuMzJRMldYZ2Fuc1Y2dHdqaUlaa1NBTUFBUFdyOURFa1BZOE11SVlucmdlb2hCaVFsWkhXTVRqREdSbkVBSDk5UC0?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T20:10:10Z",
+      "epoch": 1792959010,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "3 Canadian Growth Stocks With Earnings Growth Over 20% - Yahoo Finance",
+      "summary": "3 Canadian Growth Stocks With Earnings Growth Over 20% &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVTFvVG5mT05fOXcwdmhCUlRBbXZMeVZhUkxBanF6SHRCSWNPaUhISHMyck14OUJBdW5Nd2s2aDRrbEZCWE1PUVNQVHNVbTltV3V4ekVwX0RyX3N3bVNJc0dfdmF6QzhOMUhGVTR5aDZPNms0cWFNZFJTbE9zVUl2TnZXckdJMVJzSm1XaENRTTdKUDI0M0FERjZSOWI5c0k?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T20:10:02Z",
+      "epoch": 1792959002,
+      "sentiment": 1.0,
+      "horizon": "swing",
+      "tickers": []
+    },
+    {
+      "title": "Canon Marketing Japan (TSE:8060) Stock May Trade At A Small Premium To Cash Flow - Yahoo Finance",
+      "summary": "Canon Marketing Japan (TSE:8060) Stock May Trade At A Small Premium To Cash Flow &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzVwdFhMMkF1NUxaZDNZdGNyWXdfNkxRc085cWFWb3BlenZhOWwzZ2RzRUtTNVZZcTRtQkg0SzFfLV9GbUpjaHV3Y2ZfcUJSMGFNT3VCMU5OVk5Na21ibXRqMTNkSjFOakxzWHlEZzF6RVJqOVAtZ09GVzNLT0RuSHdVZExWcWpPWDFCM3FzMnpWQURRQ1B4YWVlVQ?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T20:09:34Z",
+      "epoch": 1792958974,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -811,19 +1135,6 @@
       "tickers": [
         "AAPL"
       ]
-    },
-    {
-      "title": "Selling $300,000 of GLD Bought Five Years Ago Means a $162,713 Gain Taxed as a Collectible, Not a Stock - Yahoo Finance",
-      "summary": "Selling $300,000 of GLD Bought Five Years Ago Means a $162,713 Gain Taxed as a Collectible, Not a Stock &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeWZydHdWdTExd1B6TUE5cWRvVHZycVJ2UFEwZ1dUVFpaTUNkM0lBRC1Sd2VTV190UjR4UHNMcmlZR0g5Qi1ldVl5R3VDU25IMWRzS2hFYnIzNWg4UDBDRmVaUlBMYnJ6UU9BSjZjclFQVm1HVHZuTGFMOXZ5d1E4U05IR3B0NmpYaEFuYVA1QS1FaFdTUDBFWnh4SU4?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T20:03:31Z",
-      "epoch": 1792958611,
-      "sentiment": 0.67,
-      "horizon": "long_term",
-      "tickers": []
     },
     {
       "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
@@ -875,19 +1186,6 @@
       "continent": "na",
       "published_at": "2026-10-25T19:30:00Z",
       "epoch": 1792956600,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Futures Due; It's A Doom-And-Bloom Market - Investor's Business Daily",
-      "summary": "Futures Due; It's A Doom-And-Bloom Market &nbsp;&nbsp; Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnVjTUhHNlhCR3diSDlXVTI4c082YmNhWmRrdGJqWW9yeGxsa0ZKSFBfa1RDUVBRS202amNuT3loOXdtTzdOWUpNTjA3VjlnWVczak1rU3NjYUg0YnF6R1JlcUdVRi1NOEdya0I1ZU4xZlNzUmRKU2U1ZlJkcVRCNF90clE4QjJNRmVOOGJ4Ymp5QzdHVEp3WFgtLXYyS09KbGtvNi1ucWgtZnlJbUpmVXVyaE9fZ0pPeUJUQg?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T19:17:30Z",
-      "epoch": 1792955850,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -945,6 +1243,21 @@
       "tickers": []
     },
     {
+      "title": "Nvidia (NVDA) Has Lost Its China AI Accelerator Market - Yahoo Finance",
+      "summary": "Nvidia (NVDA) Has Lost Its China AI Accelerator Market &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZXBrdnEtYnZLWk95RmJjZlRTeFR2ZjZDaGM5dDR4VW9KNWdDZjRjTmJidlY0eWExNVJVYUZ2NGJlNlo3NXZYMzFTZkhYeUU4ZC1RSGUzMXhLYkdkRUZXMEt5bVJRY1E0LW52Z0QzaWFYRTE3bDh1SVBMWnRNZUs0dndHVXBXdmZkYjBoRWFsX0p6RG8?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T19:06:26Z",
+      "epoch": 1792955186,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
       "title": "Lahav LR Real Estate (TASE:LAHAV) Stock Still Looks Reasonable On Earnings - Yahoo Finance",
       "summary": "Lahav LR Real Estate (TASE:LAHAV) Stock Still Looks Reasonable On Earnings &nbsp;&nbsp; Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNkJvbEFPc3Q2bGpPZmtkMS1WUG5Cang0b1FNQi1QZElaSHk3Yjk3WjZObG9EeEFGT0xMQWNSTl9aeDlVVXkzRGZmMEVzaUtseWpWbmhUa014ZzRydFVBaXhPUzVTVUhTR3JSdnpaZ3JleFh6YnduOS1GSVNBWHlzWEYxdUFUZW5qLVl6S1dqV3FoVl82?oc=5",
@@ -967,19 +1280,6 @@
       "published_at": "2026-10-25T19:05:44Z",
       "epoch": 1792955144,
       "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "ATCO (TSX:ACO.X) Could Be 11% Undervalued On Its Housing Growth Narrative - Yahoo Finance",
-      "summary": "ATCO (TSX:ACO.X) Could Be 11% Undervalued On Its Housing Growth Narrative &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUnRVZGJfM1dXRFFYcFpYdW5EYmszWmdkcUFRaFl0QnI3ajNmNjA1ZGkzS3N1YlVvT2RSZU1CdHVrSTgtQmxzSlNQSUR6bFZ0UkxwWXIwa3kzazN3eEMtc1NGa0JTZnRIWWJid096ZjNxY3B2R2Y3bEZITWI1cGJnVzFUZzEtdnp3ZnZwd0V3?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T19:05:12Z",
-      "epoch": 1792955112,
-      "sentiment": 0.67,
       "horizon": null,
       "tickers": []
     },
@@ -1025,19 +1325,17 @@
       ]
     },
     {
-      "title": "PepsiCo Pays More, Coca-Cola Looks Stronger. Which Dividend Wins for Retirement? - Yahoo Finance",
-      "summary": "PepsiCo Pays More, Coca-Cola Looks Stronger. Which Dividend Wins for Retirement? &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1UyaXVMR0p2Q0tjemZMc0t6TUpWNFN1Q2ZlSXZXUXZ4aGMtQXkzVUVSc0VxWGwwb240SXljc2RzdHQzMDBRZm53MXVyVVFBU3V2dFd1NktTN1d6Rkl3YVFYb3JHYlpWVWdteTZvMnIzZ3NsWkJFUVU4b1FDVWo4ZzFvY0pyWXpNa3dHZU9nSDBncmlYd2hr?oc=5",
+      "title": "Israel Aerospace Industries wins temporary reprieve in capital market standoff - CTech",
+      "summary": "Israel Aerospace Industries wins temporary reprieve in capital market standoff &nbsp;&nbsp; CTech",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LMkxIOXRNZVZUUWl0SDJPUW5HVUw3ZXdSUDVuUV9kcG9OckpLRW5NS3c5TnFJQkJNeWFVLU52UngyVzBRQWFMN2xtc3VpM3ZQaGI1eTM3VHgxMGZxS2dITmI2NllUWXM?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-10-25T19:00:49Z",
-      "epoch": 1792954849,
-      "sentiment": 1.0,
-      "horizon": "long_term",
-      "tickers": [
-        "PEP"
-      ]
+      "published_at": "2026-10-25T18:59:00Z",
+      "epoch": 1792954740,
+      "sentiment": 0.67,
+      "horizon": null,
+      "tickers": []
     },
     {
       "title": "S&P500: AI Spending, Big Tech Earnings and Fed Risk Test US Stock Market - FXEmpire",
@@ -1061,6 +1359,19 @@
       "continent": "eu",
       "published_at": "2026-10-25T18:43:00Z",
       "epoch": 1792953780,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "How to Buy Trump Media Stock (DJT) - The Motley Fool",
+      "summary": "How to Buy Trump Media Stock (DJT) &nbsp;&nbsp; The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZS1VZmEyc25ZV2NmcVdENE1jNlo5MVFkdWRsTFdFZ1FUWlhvdVVHd05Zd0MtM3Z3SDItRFNtNURyNFhLS2xmcEx3M0hTM0lyS3VVcV9YTWdIWUVfeEVGWktoZUZMQlQ5Mk1hdzYwOUctZEpDWGpmaUpRb1pwZFRQQU11WlZjREtn?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T18:36:00Z",
+      "epoch": 1792953360,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -1095,19 +1406,6 @@
       "tickers": []
     },
     {
-      "title": "Forget Ford's Lucrative Dividend. GM Has a Different and Perhaps Better Way to Reward Investors. - Yahoo Finance",
-      "summary": "Forget Ford's Lucrative Dividend. GM Has a Different and Perhaps Better Way to Reward Investors. &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZzlWcWxfdTZURFpOemJIX0dfUUw1UnlfekN3cEFPeWxGbjl1UDcwZkhkZVFaY3BCeDRqdGJEYTFiX0RqRzZDMjVQd2N5cm5EdE1jRnV1OEpxbENTeDd5ZVdrU3R1bTFRXzNDU0lja0dwaXpzRWp3R3YyTDU0WG50RVI5S3p5UEJUcERONk1fZzAyWE5ia2dHMTQ5OEUtZzJ1?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T18:23:00Z",
-      "epoch": 1792952580,
-      "sentiment": 0.67,
-      "horizon": "long_term",
-      "tickers": []
-    },
-    {
       "title": "SpaceX Could Be a Game Changer for These 2 Dividend Stocks - Yahoo Finance",
       "summary": "SpaceX Could Be a Game Changer for These 2 Dividend Stocks &nbsp;&nbsp; Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHNPZloyQzJmU3pVZGN0cGpVUG9QQXBWclNRakw5RzlHQllIN2tzbEplYVRYM1htOE1nN3RocXNGaW91SFRnUjBYX2pnSjMzNmk0c2hyNmR3S2thT3JJVGtpalUxMHc1NVdLMjlQNjloQ1B1ZGQwRmRVT0RBUDc2OTA0d2ZYNURpcmdFUjZIMmJPZktQVzIw?oc=5",
@@ -1119,21 +1417,6 @@
       "sentiment": 0.67,
       "horizon": "long_term",
       "tickers": []
-    },
-    {
-      "title": "Realty Income Yields More Than Quintuple the S&P 500. Here's What a $10,000 Investment Produces in Yearly Dividends. - The Motley Fool",
-      "summary": "Realty Income Yields More Than Quintuple the S&P 500. Here's What a $10,000 Investment Produces in Yearly Dividends. &nbsp;&nbsp; The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLUJmWHR4d0YtU3JoRGxXXy1QY0lBM3B3NlB0aEhXTWZ2dmNyMnlubU9vVUNrcUVmTjJQVXlFeFpMT3dTVTBEVTR1MU1iaGxJQkZGWFhKRjh1Y2JxRFB0dU14QmcwTF9YV3N0TDA5WF9uaXFUWHdPdWM2NGx1T2hlVjBBVEtEeVVmOVgyVHZBWDRvX0RwQktydQ?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T18:17:12Z",
-      "epoch": 1792952232,
-      "sentiment": 0.0,
-      "horizon": "long_term",
-      "tickers": [
-        "O"
-      ]
     },
     {
       "title": "Open House Group (TSE:3288) Stock May Be 50% Undervalued On Cash Flow - Yahoo Finance",
@@ -1164,32 +1447,6 @@
       ]
     },
     {
-      "title": "3 British AI Stocks To Watch In October 2026 - Yahoo Finance",
-      "summary": "3 British AI Stocks To Watch In October 2026 &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnJkMXJUVGNCcEtHMHl2UVQwbjlZeFBrdV8teVU1V1lwNDVjeFZYZV81SlUwdmVzaXNIV2gwcGJVSnNqVTlndHBPU2xFc0xIQ3BQX092dXNSR3JYTWhEd2RvRTBxc1RVQ0c4WGVWS08tcF9GVjRBenNzUlRrd2FOZUI3YVQ3NUM5X0VFZjJ4ekVobFE?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T18:09:49Z",
-      "epoch": 1792951789,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Is SiteOne Landscape Supply (SITE) Undervalued On Future Cash Flow? - Yahoo Finance",
-      "summary": "Is SiteOne Landscape Supply (SITE) Undervalued On Future Cash Flow? &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRnh5d1hVQ0M2QjJiYWh1X1AwajRfRm0xSmVzbl9TcnptTjhrWGJXZ3QtMk5vdUdDZ05TVDRfZXNTNUVCU1k0aDBfYVFiZTUyNnJseWt0QjAwS0djdjl6QUpaZHVuM2xVS2ZXNlFvR1JqTTM3VHdsb3FDcENXYVNaQjVaLVVwdEhJb0hIeHBpTlBhb3lzcTZkUGJpREFWMUp0VHR6T1VSdTRpTTI4?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T18:09:21Z",
-      "epoch": 1792951761,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
       "title": "3 US Cash Management Stocks Investors May Watch While Rates Stay Higher - Yahoo Finance",
       "summary": "3 US Cash Management Stocks Investors May Watch While Rates Stay Higher &nbsp;&nbsp; Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdS1jcWw2Z2V0M1dVOGNPcnZqWFk3cndSM18tQ1VxTWY2Nnc3c3J4VEI3b3dZTTI4amdaSGdOUTJrLUtkaXA5cmUxeDk1Szd1R0hVZ0ZiZkhHZVFIbnFrMzVDVFFvVzd0QWQxSHRmS2FBTGtpTDNMQ3c1cXRpVVZEd3RUdTUyVWNqdmlYZUxWbTZiakxYVmxV?oc=5",
@@ -1216,19 +1473,6 @@
       "tickers": []
     },
     {
-      "title": "Why MTN Group Rose Even Though Profit Fell - Yahoo Finance",
-      "summary": "Why MTN Group Rose Even Though Profit Fell &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQajBQOXVFbGltaWxaMVNjdTZLSW1GZTFOUEN1UWZ0UEdybWhwSHJqTXZhcFBaeTlMWXlNZHI3SWxEcE4xZVZoRlNKMFBtYU1IeFdtRjFlalVwSV9uVWJyWGQtUGgxYWo0TGJIS2RTT28wdTE4cF9wNWY1SUY5U3hva1hua3B4b1lRb3ZmaGZWQnBtUQ?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T18:08:10Z",
-      "epoch": 1792951690,
-      "sentiment": 0.67,
-      "horizon": null,
-      "tickers": []
-    },
-    {
       "title": "STEF (ENXTPA:STF) Stock May Be 44% Below Fair Value On Cash Flow - Yahoo Finance",
       "summary": "STEF (ENXTPA:STF) Stock May Be 44% Below Fair Value On Cash Flow &nbsp;&nbsp; Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0xNTW1RQUJRbDNRZFpJSEsyQ09IVHJSSW83czRsdUY1S0o4Y0hKaUJteTRCMW5SbXZPLU55czB1MVJSRlVlX1VzLVV2OXRELVU5MmEzNll2STZtYl8zdmhKTjFGbC1tVm0zMzBDbVpVTEJfVGtJRWZIZjl4S3hhZ2xDWUJnRnJaQ1NfQnBGLXBuZTNj?oc=5",
@@ -1242,16 +1486,16 @@
       "tickers": []
     },
     {
-      "title": "Whirlpool’s Dividend Collapse Is a Warning for These 3 High-Yield Stocks - Yahoo Finance",
-      "summary": "Whirlpool’s Dividend Collapse Is a Warning for These 3 High-Yield Stocks &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUDhyeG1ZdjhYQUtta0dtdEZkOGZpN0N3NllTVXFNOEw1V1piMm1QN2NZQU9WSkRYdjFOYmJMeXdqVDdaX0txbXVJMjFqVXZWSjNYSUlYdTlwVEZyMU0weTdKY3NWemhyXzJudWZRM3RDVlJJQkstQkNDcjlncW1RanBNNEVURHZfNWU5Y3dSaUVsUzFLY0g2TGpHQXQ0R2l5aWZiaA?oc=5",
+      "title": "Investors Are Worried About Too Much AI Spending. They're Not Wrong, But It's Paying Off for These 2 Tech Stocks. - Yahoo Finance",
+      "summary": "Investors Are Worried About Too Much AI Spending. They're Not Wrong, But It's Paying Off for These 2 Tech Stocks. &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTDZ4UDRXRHJhT0RiVmhidEgtZjNWZ3oycTZOc3YtWDZHdGJGNHpDN010NUx2Y0xDZnBrVFNyWGNPdUVOMC0tcVRRV0VOMlJ2Y3EwRFBUcldWVndjaTBuankwWFlZTG51MEdsc3N0R3dQWWlKZ3RjYTJVNzI3QVBQSk9UTHBodmFpRXg0RFRzWXg2RG1fLTBLZg?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-10-25T18:00:44Z",
-      "epoch": 1792951244,
+      "published_at": "2026-10-25T18:03:00Z",
+      "epoch": 1792951380,
       "sentiment": 0.0,
-      "horizon": "long_term",
+      "horizon": null,
       "tickers": []
     },
     {
@@ -1276,19 +1520,6 @@
       "continent": "eu",
       "published_at": "2026-10-25T17:09:05Z",
       "epoch": 1792948145,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Zillow Group (ZG) Could Be 28% Undervalued After Claude Rollout - Yahoo Finance",
-      "summary": "Zillow Group (ZG) Could Be 28% Undervalued After Claude Rollout &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdUlmbFJqZVItbjFQSHlEZ1ZLNC1IaGpMTk82SzZnTVBDV2xWellhNjBqcXRSNURtVFBTU3hCUUxpQjBkSUJuRmh2eTZYV1dqV2JYcUZnQk1heWN2WlBaUWtOY1E1bTVybVNiam9kZW5CZWZ0bk9ISDNEYThNZlZqRkZYYlk5dl9BWjVXTG1yYjlEYnc?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T17:08:39Z",
-      "epoch": 1792948119,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -1346,14 +1577,27 @@
       "tickers": []
     },
     {
-      "title": "I Said Palantir Stock Would Top $220 This Year. Here's What It Has to Prove on Nov. 2. - The Motley Fool",
-      "summary": "I Said Palantir Stock Would Top $220 This Year. Here's What It Has to Prove on Nov. 2. &nbsp;&nbsp; The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbjBSaUR2WDd3Wk1DY2pici1uNUQ1c1ZoZ3V4Y1ZpUEVGbW5nQkx4RldHX1FkZjdjYXJ2S3NGM1VJYWFhOTN6X2E3UU5UdlZjTjdWR2pfYkoxUVVPQzk3WmNYSlhvOHV5ZVVOUUswZGx1V3BIbDVBU2lwbEtTR2dZMldldUJhbmVxMWtqWEZBTEg0SVhDcElTMA?oc=5",
+      "title": "SpaceX Could Weather a Recession. But Its Stock Might Not. Here's Why. - The Motley Fool",
+      "summary": "SpaceX Could Weather a Recession. But Its Stock Might Not. Here's Why. &nbsp;&nbsp; The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVGxweWRPb21Xa2NUUU14N1BGUmRpT0VMZE1wbVV3WkpLU2U3UWpTZHdKa2F3eS0wbExOSC1fYmQzZUk0TEoyNUxsRi1Bbmo0RWs3TVc0ZERCTE9RY01kd0hzejBxNC1YN191VG5GQmFGZ1p1WGVUM3FRWjhoUHh4dXA3ZVNvTUo1YV9TcUNocUU3R05qamRSTQ?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-10-25T16:46:59Z",
-      "epoch": 1792946819,
+      "published_at": "2026-10-25T16:45:00Z",
+      "epoch": 1792946700,
+      "sentiment": 0.0,
+      "horizon": null,
+      "tickers": []
+    },
+    {
+      "title": "Jim Cramer sends a strong verdict to retirees on tax rule - Yahoo Finance",
+      "summary": "Jim Cramer sends a strong verdict to retirees on tax rule &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdFVRSDZNUjV4YjEyTG1za19HQkV2M0d1UzZFZEFvajdWNC1MTW9SSDBHazRNbDZFbXJKR2ZKTVNEc0Y2X0pUajRucVpBNzMxZHdOMlIzanl1MFFhcmVlRDVqamMzMXdXajlVNmd3WlJSanFJR1NUbV9xS2hGV3lZaDl3QS1JSERsVzdmWVZ2WFNTTTZEMnFCUE5ZWEw?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T16:26:26Z",
+      "epoch": 1792945586,
       "sentiment": 0.67,
       "horizon": null,
       "tickers": []
@@ -1382,19 +1626,6 @@
       "epoch": 1792945202,
       "sentiment": 0.0,
       "horizon": "long_term",
-      "tickers": []
-    },
-    {
-      "title": "Aena (BME:AENA) Stock Looks Overvalued After Its 119% Run - Yahoo Finance",
-      "summary": "Aena (BME:AENA) Stock Looks Overvalued After Its 119% Run &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcmxRay0tckF6ZlZLdFc0RnFucE5WSzNKR2kzSmNSeU15bmpyMXlNdzhTTDlxU3ZYMS1rd0lmNkZ6T3FocmQ4SmJNdWdlSU5ObTNTVWczcGpvNDRueXFnN1lOOHI5WVZxcFVTZzd4cHMwZEVZLVVDdFZVMDFIa2M2TWJaTTFOV3FvdkZpZEhhZ3BJU0JD?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T16:10:43Z",
-      "epoch": 1792944643,
-      "sentiment": 0.0,
-      "horizon": null,
       "tickers": []
     },
     {
@@ -1467,6 +1698,19 @@
       "tickers": []
     },
     {
+      "title": "This Overlooked Pipeline Stock Could Be a Generational Wealth Builder for Patient Investors - Yahoo Finance",
+      "summary": "This Overlooked Pipeline Stock Could Be a Generational Wealth Builder for Patient Investors &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTlhwN3FsT1hpM3cwWVNSQ1dTTmlVRFB0X0FNd09qNlBGTzBrdmhJcnhZQUdEdk93R0ZTbTlzQTU4RDN5NnpXY2NWQlRPUHlfcTN3UTllcEJwbm80RVZfTUxudWpwY0hqV3ZLbE9jWXFtaUtwSTBIdmh5MFZTaFVOLUZ4Sk5XRi1NWUNHZjN4VmcwZlRkSDJabXFuempCREJpZGtBdDBOWjJBcUhzWVE?oc=5",
+      "source": "Google News — Markets",
+      "source_id": "google-news-markets",
+      "continent": "eu",
+      "published_at": "2026-10-25T16:05:00Z",
+      "epoch": 1792944300,
+      "sentiment": 0.0,
+      "horizon": "long_term",
+      "tickers": []
+    },
+    {
       "title": "Does enough capital exist to finance everyone’s ambitious AI spending plans? - Yahoo Finance",
       "summary": "Does enough capital exist to finance everyone’s ambitious AI spending plans? &nbsp;&nbsp; Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONDJCNmxsUXlncFRuMjBCTTJ1UVFyRWdjSzBYUFdycDNRcXdMcUFLdnZYLS1MS3NwdGhEVi0tMGhXZ1F3X1l6RHdWM1E0bVdob285UWFYWmdRcHYwUjRZOHBSeld1T2w5cUtGSXZXbFBZaEpQZlNnclNubFgySWNQeWNzXy1lRjFfSlFVLVhRLVdsUl9ZYjdBTExaQm5VUQ?oc=5",
@@ -1478,34 +1722,6 @@
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
-    },
-    {
-      "title": "Is SpaceX Stock a Buy Right Now? - Yahoo Finance",
-      "summary": "Is SpaceX Stock a Buy Right Now? &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0RwakZwZVRXYkc1NmkxNTZPR1F5UlRwcGZMVmdoSTdxWl9YMy1zMGdBT3JoT2g2V3luYnBrbHhIOXVoWFhjNGNlMnAyOE12V25nTS0teUEtalNweTIwZGFsQlRLWWktN2JtZzZLREIzUTBMSFRJVVEzb2RCYlhMQ3RDOEoxbVQ0eGI0c3hR?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T15:51:00Z",
-      "epoch": 1792943460,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "The Hidden $496 Billion Catalyst Waiting to Ignite Amazon Stock on Oct. 29 - Yahoo Finance",
-      "summary": "The Hidden $496 Billion Catalyst Waiting to Ignite Amazon Stock on Oct. 29 &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU2VwS1p3Q1ptTlRKY0ZXeUVvOGF6QUxQY0wxN1UxeXFRVFFlQnBrT3FIdWdDcW10SlhPQlFnUW5iaUlIZnM1TU0zVkl0aXpwc1AzMVlxS0tnaDBaSFhaYm91dDdzdkhTOS13MTQzOUlJbDYzekdOYnFaZEhWdDJ1WmwxNDZCSUFUUnlCMS1Ja3cwVEF4b1p5S0N4eXMzWUdpM3c?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T15:42:40Z",
-      "epoch": 1792942960,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": [
-        "AMZN"
-      ]
     },
     {
       "title": "Arm Stock Is Down 8% Last Week. What Does Lam Research Have to Do With It? - Yahoo Finance",
@@ -1521,32 +1737,6 @@
       "tickers": [
         "LRCX"
       ]
-    },
-    {
-      "title": "Up 35%, How Long Can Coca-Cola Continue Crushing the S&P 500? - Yahoo Finance",
-      "summary": "Up 35%, How Long Can Coca-Cola Continue Crushing the S&P 500? &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWRZdXBZdXRIbF8xRlFhQjJvRlhGWWxmTXVUQzNzMThPaUZLTXpkN3VjZzRwYndYMjcxVXVMbFhrNmJROGt4Tm9CVGozTG91aXJyamE4YWVtUDRwZFFhcHl1NVVSNVB1aGZybTFkVERueS1jeVlIZ09UZFd2a3FWRzZMMGRKQkVxWC1lMm5mS0FrLUhkQ1E?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T15:40:00Z",
-      "epoch": 1792942800,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "3 Massive Catalysts That Could Ignite an Eli Lilly Stock Rally on Oct 29 - Yahoo Finance",
-      "summary": "3 Massive Catalysts That Could Ignite an Eli Lilly Stock Rally on Oct 29 &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdElkRV9sUjF2eFVJVkRGT1cweWZuVmdlSVNGd2E5d1JRcEJuR0ljdkF2dGJrT3V6TXo4SFpTWE1vLTZ6MldmOGZ3aDBYQklIcGxVX18ya21lWF9qY3VHOEJqQ3pzM0h4U1VvV25fdXZSaEtzTlJ3aEtSMTFmdWFRTXJRazVXeXRURktjb2hSMmJaNHJURWtObng2WnhUQQ?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T15:35:23Z",
-      "epoch": 1792942523,
-      "sentiment": 0.67,
-      "horizon": "swing",
-      "tickers": []
     },
     {
       "title": "Can Caterpillar’s $72B Backlog Save Its Stock From a 10% Slump? - Yahoo Finance",
@@ -1610,27 +1800,14 @@
       "tickers": []
     },
     {
-      "title": "NN Group (ENXTAM:NN) Stock Looks Hard To Call As Earnings Support Its Price - Yahoo Finance",
-      "summary": "NN Group (ENXTAM:NN) Stock Looks Hard To Call As Earnings Support Its Price &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdGdqN1MyRTVuNHlHazNGWmxPS2t4dlFMUkpWQWE4WEdGV2l6NjEtRWRZZDBDMTdwSS1aY0Rsd0lHVXA0Y2N2US1BODN2dHlaelREallvSmhiemdKSTVFVFhRRzFiOWNEVHZndk52cG9XaUMwY0RsMms4U21HTHJRLUtPQ05fZE4wZ2EzbEZDalUtbXc?oc=5",
+      "title": "3 Cracks in the Housing Market Rocket Must Overcome on Oct. 29 - Yahoo Finance",
+      "summary": "3 Cracks in the Housing Market Rocket Must Overcome on Oct. 29 &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUpvSTNRQVo2a3F1Sm9ibG50MkFvbTU3UFhlZU9rX1pSVnVISEhQT0lsQjNuY3VPZXBSMUhIeWstTERFTE1YdTZ1aTBVaWxBY00xaDgwM3B3ZFBZd0ZvLUFrOGVncERlNzVxbEswbVpDYU5pNjZpOEdORENZN2txdDZsTTYzRHVkZ0RacUxmNW1xb281Z0tN?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-10-25T15:07:13Z",
-      "epoch": 1792940833,
-      "sentiment": 0.0,
-      "horizon": "swing",
-      "tickers": []
-    },
-    {
-      "title": "Prediction: This Will Be SpaceX's Stock Price by the End of 2030 - Yahoo Finance",
-      "summary": "Prediction: This Will Be SpaceX's Stock Price by the End of 2030 &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcV9Ra2l3bXdSeWRyblBXdlZxTklMZjhQdkJGYlZqa2U5T1R6ZzhoWDNHYzdPVXN2YVRsbEhYRTF3blBsZWJsUzVxT284SHhqanBEODhuTF9uZ2FDV05EOW5vSmZQc09wLWJET1B1ampVOERkTERidjlFbUNsckVpUW9sOFFPMzJHOWZHTmQzdW9FUkZyS1RKS2I0c0twcUsz?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T15:07:00Z",
-      "epoch": 1792940820,
+      "published_at": "2026-10-25T15:04:11Z",
+      "epoch": 1792940651,
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
@@ -1692,32 +1869,6 @@
       ]
     },
     {
-      "title": "NOTE (OM:NOTE) Stock Price Drifts After Q3 Results Defy Margin Concerns - Yahoo Finance",
-      "summary": "NOTE (OM:NOTE) Stock Price Drifts After Q3 Results Defy Margin Concerns &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMEIxY3RqYWRMRndNSnp1c3o3ZWxIc2x1dkEzMHVIdHNEVDZOWEUzTjBnMkhWem1aTzN4LTRDRHhCekF5R3Y4QXZFa3FscXo2STlSWWJwbF95RG53N2h2aGZ5WGpkc21XUHp5Vi02akxUM3Nha1pFZS1pcm0xMEtKZHNSWEo2TzQxOW9DS0FkSmdUWjA?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T14:11:26Z",
-      "epoch": 1792937486,
-      "sentiment": -0.67,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "3 British Value Stocks Trading Up To 49% Below Fair Value - Yahoo Finance",
-      "summary": "3 British Value Stocks Trading Up To 49% Below Fair Value &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdG5FU0tyQzNMVXNRRzkzY1hjN2VIUS00UmNHMzhxR0huMlZnelJHVFBqQ2ljUXRBMnJTdHdkSjdUYVBLbVNtU3ZRSXBrbU1QX3dSejFFeUpYaGZ2TEhGTWpkdC1aaWZmOG83a3UwZzVaLWtjUFJFaktXaUU1b0MybHBWQ3Z0VlZ5UlFoZHJGZDlUWkJzYS03Rjdpcw?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T14:11:17Z",
-      "epoch": 1792937477,
-      "sentiment": 0.0,
-      "horizon": "swing",
-      "tickers": []
-    },
-    {
       "title": "Garrett Motion (GTX) Stock Could Be Cheap On Its 230% Run - Yahoo Finance",
       "summary": "Garrett Motion (GTX) Stock Could Be Cheap On Its 230% Run &nbsp;&nbsp; Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZTlvYml1V1BWSGdGVWMzV2FadEdkV2hrdXFIYUFheFRORTY0eXRnbjBDc293X011NGZCcG1Mcl9GMWxfYXJmZlAtMC1rZVRiaVo1VzU1NzJmNnFMdW9iVUtQemlqYXV0VTk3TGxlOWFhUGNWbFItZlUyM3RaX0pQNG92TXM4T3NtSXc2YUpLT3NLMXEyalZxQ3lkRQ?oc=5",
@@ -1728,32 +1879,6 @@
       "epoch": 1792937438,
       "sentiment": 0.0,
       "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Can Stendörren Fastigheter (OM:STEF B) Stock Trust Its Q3 Earnings? - Yahoo Finance",
-      "summary": "Can Stendörren Fastigheter (OM:STEF B) Stock Trust Its Q3 Earnings? &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcHY5SURocURFWUNFRmdSdkU5UnhPT2ROZS1fM3ZGeDFqLThMRGNnREdjY3FfU3RONnpDNjRZV0w5ZHB3djhlbjZkdjBENlAxSDFkcmlIVmROLW9LTkdaTjBnQ3FfczJwZ3otQUZuXzFXaHNBaG5hYkltdDFjbFoxSzlEdVo2b0wtM09fNXJUWGxCeG04bEhNVjU1TQ?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T14:09:16Z",
-      "epoch": 1792937356,
-      "sentiment": 0.0,
-      "horizon": "swing",
-      "tickers": []
-    },
-    {
-      "title": "Kemira (HLSE:KEMIRA) Stock Q3 Results Deepen Margin Squeeze Concerns - Yahoo Finance",
-      "summary": "Kemira (HLSE:KEMIRA) Stock Q3 Results Deepen Margin Squeeze Concerns &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXJBTmw5VUVtV3UwYU9SWDFIZEdEeGlxc3hjc2VFcF9Eb21iZnFDWkV1Vi1pT1FHY1hCZmkxODdBSXo2Zmd5dlRxSWFybkVXTm9OZTAxRTkxc2RWdHF5RkdkOW04bUctOXhVWExVS25UMGxQZVJ1SXB2d1c2MnFRWGZRQjFtdWhRbkhUSVI5bWR2TTdhT29Z?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T14:08:01Z",
-      "epoch": 1792937281,
-      "sentiment": -0.67,
-      "horizon": "swing",
       "tickers": []
     },
     {
@@ -1770,16 +1895,16 @@
       "tickers": []
     },
     {
-      "title": "3 Stocks to Watch This Week as Earnings Season Hits Crypto - Yahoo Finance",
-      "summary": "3 Stocks to Watch This Week as Earnings Season Hits Crypto &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmcwUVp6OTN2S2IwTnJNSVZ1Ymt4SEg1MzdNWXZoUU95MTdVQTlUV1ZlOTlpRDdXWk94Ul9CREhjTEZraTRyTHp1Tko5Q2NoVjJ2SWpZTFpXM2VhblNYeG5vVWotb2FtNkQ5emdMTG1kOWF6bVAxbHE1RVgzVmUtVEVVUDktNE9ydlk3XzhoTEMycEtIYzcxRQ?oc=5",
+      "title": "Zero-Day Option Traders Are Betting Against Big S&P 500 Swings - Bloomberg.com",
+      "summary": "Zero-Day Option Traders Are Betting Against Big S&P 500 Swings &nbsp;&nbsp; Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaW9NZFpvd292NzhoTHBaRFZOZEZvR3lsSWhCMmtUS3F1OTJUelZsbzkyX1llbFNLdk5SVlNzM09RRXMxMzd6dVlTTUhLcFZ0Z0UxZ3NlNlpreW41d1c2ckh1SWdSQlcyR1hueVhtejBTaHNlMFdjdFNMQ2NNaENMOU1iOVpya0JQZUpqVHJQVUlycjVIaFRjQ0ZoeThiUHpKem0tZThCSUpXV0NJYjdGMGVIbw?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-10-25T13:57:54Z",
-      "epoch": 1792936674,
+      "published_at": "2026-10-25T14:00:00Z",
+      "epoch": 1792936800,
       "sentiment": 0.0,
-      "horizon": "swing",
+      "horizon": null,
       "tickers": []
     },
     {
@@ -1850,34 +1975,6 @@
       "tickers": []
     },
     {
-      "title": "Singapore Land Group (SGX:U06) Stock Could Be 13% Rich On Cash Flow - Yahoo Finance",
-      "summary": "Singapore Land Group (SGX:U06) Stock Could Be 13% Rich On Cash Flow &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMm5obHNoZC12MkZuVnF4TXlpOG4tQUEtWm8zbkRTcmxXT181M1pZQ0FnS05vck5pTnFGMVlSZ2JqcGlJcXlrZXlubUlVN0tpZWUzTUVSckNrUGlvOHNkYUNPdWtlMjd1YmFsRHNIWFlnLWpXUlVIRXU5N2IySl91aGZOYlV1OUF3X3N1bExVU012VTUxVVV1NQ?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T13:10:50Z",
-      "epoch": 1792933850,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": [
-        "LAND.L"
-      ]
-    },
-    {
-      "title": "Global New Material International Holdings (SEHK:6616) Stock Looks Expensive Based On Sales - Yahoo Finance",
-      "summary": "Global New Material International Holdings (SEHK:6616) Stock Looks Expensive Based On Sales &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORFI4SV9tbWxYSmdxSDF6Uk8wU0Y1cTZoUzI2aTE5ZlR4ZGQxazktclNXTHcwM3lGYXRIaVlILWhaY3ZUUXhKOFJnVWdPOTNxREdhS3NzLU9oV09aQV9Hd3hqUDRIeHp0T0FjY2xZUjFnYUowYTh2bUZfRUF3OWp6MzBYYjBLa194Q0ZlbnJmN29Dd0VPWUs2a1AwUjlQT3ZBdUF2NjJxOVNfZmd2?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T13:10:49Z",
-      "epoch": 1792933849,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
       "title": "History Says This ETF Could Be the Biggest Winner of the Stock Market Sell-Off - Yahoo Finance",
       "summary": "History Says This ETF Could Be the Biggest Winner of the Stock Market Sell-Off &nbsp;&nbsp; Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSzJCUzBqS1M0VTlvREVlZ2NISzg5bUNFR2pEN3d4cGhnTWF0X1J1Q1FmR0IxeVY5OGctNmtVZENBSWU5dWdxUW1lNXJfRnQtLXpFQnRVelJjR1I1RVJQXzVvbXpIS2R2d2RucTB4eDlCdVVUZjd5c3RIV2dwME45RlJwWmk5N2d2bkpHRi1PS1QyVzRlSVpRYmRzYw?oc=5",
@@ -1917,19 +2014,6 @@
       "tickers": []
     },
     {
-      "title": "AI money shifts from chips to software, exposing Korea’s lack of alternatives - KED Global",
-      "summary": "AI money shifts from chips to software, exposing Korea’s lack of alternatives &nbsp;&nbsp; KED Global",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11aHFmRFhscEh0aFJiZjN5eEhhZXIxazJVWWp5MVR4SnV6NkotLXluT3dubHM0VnVuYURORXd6Tnp2VVNKRE5RZ1lmcnRuM2V2ajdZMmoyQzdLdVZpOFpPU2tULUh6ME5DV21kNFRPMzEzdmNYMDlZc3Zn?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T12:50:00Z",
-      "epoch": 1792932600,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
       "title": "Is a stock slowdown coming? Vanguard’s new alert has retirees spooked — here are simple ways to shield your portfolio. - Yahoo Finance",
       "summary": "Is a stock slowdown coming? Vanguard’s new alert has retirees spooked — here are simple ways to shield your portfolio. &nbsp;&nbsp; Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlhBM0xCSjR2VU9QVHNxU1ZmLWExTlNkNTJwT0JKZmlzQkM2OEtWcmJSVVFFNnBQX0JDTC1EZFBUTHNOQUZJUU9aR1BFRkVKWldidElocW5yMDF0RThjRVlvOEg2UEh0OUZkS3RISlVrQUg1VkJEUXJ5anA5S0VucXB0dk1SSEI3N29KaGp6eXFkX21kdDB4T0V4bVF3NmQzUEhR?oc=5",
@@ -1956,16 +2040,16 @@
       "tickers": []
     },
     {
-      "title": "Mapletree Logistics Trust (SGX:M44U) Stock May Stay Stretched On Earnings Support - Yahoo Finance",
-      "summary": "Mapletree Logistics Trust (SGX:M44U) Stock May Stay Stretched On Earnings Support &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNGhhUGdRVXR5eVVhVmZudVhFZmtISUZucHdQbm9OT2pDR1ZXN3FESjVDZTRpbWpzTHhjQXVSMkV6ZHZ2cHRjSnVDdF9lNUFEUHhEbGZobXplVHRNeGo1UzkxRFpGSmZyQVdlU1Y3czZlSTJ4dHVzU0lxYjExdmpPSVV1WUMyTHZNVzJNUVhqYjNvQ29oQlNmZm5aYVUweDNR?oc=5",
+      "title": "Iowa Football Stock Report: Market Crashes, but a Few Hawkeyes Are Still Climbing - Sports Illustrated",
+      "summary": "Iowa Football Stock Report: Market Crashes, but a Few Hawkeyes Are Still Climbing &nbsp;&nbsp; Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeGYxSnBHR1EzdHRTOVlqUnFsLW1HdnFITFZFaVNzd1pBMW13cHdBUkFiNWdFSGJkZ1RJY1VycWRsaHFfeDZ0b3owQzRPYVlYRHpRX2t5c3lXWDAxcG5qWDMtcTItVXJJbk13OWo0NVZ4U2VjbnFBN0FvV2FHUHNZZGxOcGJETERSTmhUdHYwbVNzUjBmdG02ZVFJZUlkQjA?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-10-25T12:14:06Z",
-      "epoch": 1792930446,
-      "sentiment": 0.0,
-      "horizon": "swing",
+      "published_at": "2026-10-25T12:30:00Z",
+      "epoch": 1792931400,
+      "sentiment": -0.67,
+      "horizon": null,
       "tickers": []
     },
     {
@@ -1982,32 +2066,6 @@
       "tickers": [
         "TEL"
       ]
-    },
-    {
-      "title": "HASEKO (TSE:1808) Stock Could Be 13% Overvalued On Cooling Cash Flow - Yahoo Finance",
-      "summary": "HASEKO (TSE:1808) Stock Could Be 13% Overvalued On Cooling Cash Flow &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVUJYS1pIS3Q3eEthV1lUZGk1d2F1ZW5iME4yWkVyOHVlRUI3WXF3bjF5Tnl4VnpYOEh5ZktUVGFUTXJrSkR5bGRrbEdwbFZXaF9zS2pvdFFxQnlGTWdEVHBtb3czZVJ1OHI2OUdDREtOM2VFWFVBQ2hjbjlQS3VhaDNSUE9lOTRZQXhhblJ6Z3VhY0FncmVZ?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T12:13:33Z",
-      "epoch": 1792930413,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Century Next Financial (OTCPK:CTUY) Stock Stays Cheap After Strong Q3 Results - Yahoo Finance",
-      "summary": "Century Next Financial (OTCPK:CTUY) Stock Stays Cheap After Strong Q3 Results &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSE1XODlFMW8zWlNjTXljcFJZWTFELWk0ZWFpY254RWxYUVotMFdUdXY3TFpfUjBUY1lGQ0N0dFhuY3V6WFJYMkZ1RHd1eGhpUW5FejBYMG1nUml5ZG1RQ0pVZUlRMGhNSFl5MWZ4ZEhpaGZRWGZhQ0otdDFWcGs5cG5HcXR4aVcyU0hJaFJnVGJ1TmN4UXdOZkVER29DN0E?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T12:10:58Z",
-      "epoch": 1792930258,
-      "sentiment": 0.67,
-      "horizon": null,
-      "tickers": []
     },
     {
       "title": "Why economic health no longer dictates stock-market returns - MarketWatch",
@@ -2065,43 +2123,34 @@
       "tickers": []
     },
     {
-      "title": "Workiva (WK) Stock Could Be 50% Undervalued On Cash Flow - Yahoo Finance",
-      "summary": "Workiva (WK) Stock Could Be 50% Undervalued On Cash Flow &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR3FHWU82QmVIZEhhcHpLam5rVjFsaVNyQzNRUlVlYXdLZHdBdncwU2J3azZLUzM0Zlk3OXhSVS16NFdEdjUxdDVaSkFYSXllRkdIemR5NTNWY3dBcFFLclhVVGtjWEc4SEQ5X2c4WXk2N3Y4a1FfaXlLcWpFaXJLbWtuMlBhRktIZWllZUlaT2RXZ0lK?oc=5",
+      "title": "What Nvidia’s $235 billion stock buybacks program says about inequality in the AI economy - Oxfam",
+      "summary": "What Nvidia’s $235 billion stock buybacks program says about inequality in the AI economy &nbsp;&nbsp; Oxfam",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRHloM2tsZTJvWTVsWDJBMjU2VnhlYWxnS1M2ZHl4TWJtdDFJWE5KOTFEdGFGSDkyZ3FnMFhaekxBUlpJaG9wdDM5VW9UMTctNnRMcEp1UUlRZUZLLVZWWFVkd1FEaFlyRENFekRzQm16TF9Kc2Q4VngwQmFkZ3Y5UDZzSGRPdVlySGRGdnlkZnlhLVloc0NUdndtaXY5MzU4X0ItcTU3cUJNcW1aT0YtZFRuTTlyS1BUcnVpYWNkTGd2VjJQeHo4WXlvSE5jTUJwaUh5X3NjMTFuRl9xY1pJQw?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-10-25T11:11:45Z",
-      "epoch": 1792926705,
+      "published_at": "2026-10-25T10:38:22Z",
+      "epoch": 1792924702,
       "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
+      "horizon": "long_term",
+      "tickers": [
+        "NVDA"
+      ]
     },
     {
-      "title": "Volvo Cars (OM:VOLCAR B) Stock Sinks As Q3 Results Turn Lossmaking - Yahoo Finance",
-      "summary": "Volvo Cars (OM:VOLCAR B) Stock Sinks As Q3 Results Turn Lossmaking &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMnZ4QXdmejQ2NWluSWlVUmZmVlVQN1RDUXk5NFdyVDlUTGE5UW5rRVFOeHZLZDhiNVJPVzBqQkJMa0Y3emkzaXY2Uk5ITV9MeS02ZWJjempjQmxmRTlEcDRsdTdWWkRiU3JmcHJEQkpfTGhkRkZOS2NSRFZZTVBrV3FubDEzQXpMX0tob3Z1d0Y?oc=5",
+      "title": "Berkshire Hathaway Stock Rose 10 Days in a Row in October for the First Time Since 2018. Here's What History Says Comes Next. - Yahoo Finance",
+      "summary": "Berkshire Hathaway Stock Rose 10 Days in a Row in October for the First Time Since 2018. Here's What History Says Comes Next. &nbsp;&nbsp; Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZkFuMWpmT3otRzRPaEpoM0xlaUFNU2Y0cjYyZXYxRVJtZlRKVFl0Z3ZyQXpxdDVCSXp3X3hfZmFRY3NCaHlqVFgzSUNseWdvLXhIQWdyUnFfdlNkb3hqZVFqOTFhb19DdVpPc3lBaVBWdm9LZkhOTks0QkNEcThfSnY5a2hRUTFYdVNlbVQzUHd0OFdHTldXOTFuRXpiUQ?oc=5",
       "source": "Google News — Markets",
       "source_id": "google-news-markets",
       "continent": "eu",
-      "published_at": "2026-10-25T11:07:39Z",
-      "epoch": 1792926459,
+      "published_at": "2026-10-25T10:10:00Z",
+      "epoch": 1792923000,
       "sentiment": 0.0,
       "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Michael Burry Says S&P 500 Looks ‘Uncannily Close’ To 2000 — And ‘Busted’ Stocks Could Be The Winners - Yahoo Finance",
-      "summary": "Michael Burry Says S&P 500 Looks ‘Uncannily Close’ To 2000 — And ‘Busted’ Stocks Could Be The Winners &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnNIcGlLODIzR2ZJS1lyRzMteFdGVTNESkotTWt6cFhZUTc4eDVKSjhGNjBFc19ZNXU5dnlPWjN2QjU0YS05OGRmMzJNZWkzS1RWcm9VdWF3SS1BX3FnYjNRWjlleC1CMjlzSkdWT1k1Rk5TNmtwTVExeW5HTmVjcmF1b1EyV013cU13Z1hyc3RYUFk?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T09:22:42Z",
-      "epoch": 1792920162,
-      "sentiment": 0.0,
-      "horizon": null,
-      "tickers": []
+      "tickers": [
+        "BRK.B"
+      ]
     },
     {
       "title": "3 Financial Stocks For Investors Looking Beyond The UK - Yahoo Finance",
@@ -2115,21 +2164,6 @@
       "sentiment": 0.0,
       "horizon": null,
       "tickers": []
-    },
-    {
-      "title": "Prediction: Amazon Stock Will Skyrocket After Oct. 29 Thanks to AWS Growth - Yahoo Finance",
-      "summary": "Prediction: Amazon Stock Will Skyrocket After Oct. 29 Thanks to AWS Growth &nbsp;&nbsp; Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaTZQdDVuZkMxTjNXQmNaM3FwSXNqbTZlYWZzbFozbnJ5dS14eUtwUWZQVkhXelJXUThjMElTTXdESjN0TFJrTTVNRVdfWFdzVmRISFJ2ZGJqTmNzMHZFTlpENlVxQTM2X2J1S3BPcmdPZTBhQUdCdk9rUi1rUG1qbVFwWXRwc3dHWjlMODU2NS1BTFJQZVJJMDU4X0EtdWtLUDNpYQ?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T08:33:00Z",
-      "epoch": 1792917180,
-      "sentiment": 0.67,
-      "horizon": null,
-      "tickers": [
-        "AMZN"
-      ]
     },
     {
       "title": "This Stock Market Metric Warns History May Be Repeating Itself. Here's How the Smartest Investors Are Preparing. - Yahoo Finance",
@@ -2180,19 +2214,6 @@
       "published_at": "2026-10-25T03:05:00Z",
       "epoch": 1792897500,
       "sentiment": 0.67,
-      "horizon": null,
-      "tickers": []
-    },
-    {
-      "title": "Sinking Profits Turn China’s $3.5 Trillion Stock Rout Into Trap - Bloomberg.com",
-      "summary": "Sinking Profits Turn China’s $3.5 Trillion Stock Rout Into Trap &nbsp;&nbsp; Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObEthY2hVTFl0LTd4dlNRQjJWTF9OdnNWb2NCQUNFTE4xNkR2d0NPUUROdFRRSEREMXBiMUd5aDRlNVY0SWZRUm5OTXdCV3JYNnA2OGdBTGxIRTZCcFV5OUoyUEV4SUNlREh0SHNCQ3hudGZaUDZ4aGNSaC1wd2lDcjlGR0hjVWNWVU9nX21QSVZQSGlXZVBqZHRMV3NUTGF4dTkteWloRmdkd2JRWUUyaUJFWQ?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-25T00:00:00Z",
-      "epoch": 1792886400,
-      "sentiment": 0.0,
       "horizon": null,
       "tickers": []
     },
@@ -2271,19 +2292,6 @@
       "published_at": "2026-10-23T23:46:35Z",
       "epoch": 1792799195,
       "sentiment": 0.0,
-      "horizon": "swing",
-      "tickers": []
-    },
-    {
-      "title": "Stocks fall, but tech shares steady after selloff; oil hits highest in nearly six months - Reuters",
-      "summary": "Stocks fall, but tech shares steady after selloff; oil hits highest in nearly six months &nbsp;&nbsp; Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMG5uTk9BQ2lzbUtHT1k4Nlp4RlRCcXFvVXR5YUhCamhubGQ1SlB0c2FYczVLdl9ESzJBRzdkNmVuYU1ISVc2MndXWnBZTzBDNFdzeHBEQTNPTGU2SGhBTmtKM3Z1SWUxR2szN20yYWIySGIzUXlZcXVhdGNtTlJNMGN1WQ?oc=5",
-      "source": "Google News — Markets",
-      "source_id": "google-news-markets",
-      "continent": "eu",
-      "published_at": "2026-10-23T22:52:51Z",
-      "epoch": 1792795971,
-      "sentiment": -1.0,
       "horizon": "swing",
       "tickers": []
     },
