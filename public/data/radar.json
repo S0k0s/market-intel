@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-24T23:12:12Z",
+  "generated_at": "2026-10-25T01:11:01Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 146,
-    "breaking_catalyst_count": 23,
+    "breaking_count": 145,
+    "breaking_catalyst_count": 24,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 13,
     "movers_count": 0
@@ -74,11 +74,25 @@
   "concentration_warning": null,
   "breaking": [
     {
+      "title": "Zhejiang Wenda Pharma Announces Positive Results from Phase II Trial of Oral BET Inhibitor NHWD-870 HCl at the 2026 ESMO Annual Meeting",
+      "summary": "SHAOXING, China, Oct. 25, 2026 /PRNewswire/ -- At the 2026 ESMO Annual Meeting, Zhejiang Wenda Pharmaceutical Technology Co., Ltd. (\"Wenda Pharma\") will publish the phase II clinical trial data for NHWD-870 HCl, an oral BET inhibitor, in Chinese patients with advanced NUT carcino",
+      "url": "https://www.prnewswire.com/news-releases/zhejiang-wenda-pharma-announces-positive-results-from-phase-ii-trial-of-oral-bet-inhibitor-nhwd-870-hcl-at-the-2026-esmo-annual-meeting-302918672.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-25T01:00:00Z",
+      "epoch": 1792890000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
       "title": "IMDELLTRA® IN COMBINATION WITH IMFINZI® REDUCED RISK OF DEATH BY AN UNPRECEDENTED 58% IN FIRST-LINE EXTENSIVE STAGE SMALL CELL LUNG CANCER",
       "summary": "Nearly 80% of Patients Were Alive at One Year Versus 53% with IMFINZI Alone and Progression-Free Survival More Than Tripled Late-Breaking Phase 3 DeLLphi-305 Results Presented in ESMO Presidential Symposium and Simultaneously Published in The New England Journal of Medicine Longe",
       "url": "https://www.prnewswire.com/news-releases/imdelltra-in-combination-with-imfinzi-reduced-risk-of-death-by-an-unprecedented-58-in-first-line-extensive-stage-small-cell-lung-cancer-302918652.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-24T14:30:00Z",
       "epoch": 1792852200,
       "sentiment": -0.33,
@@ -400,6 +414,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "Herman Law Client Survivors Reach Landmark Settlement With Archdiocese of New York",
+      "summary": "More Than 800 Million Dollars to Resolve Claims From 1,300 Survivors of Clergy and Lay Leader Abuse NEW YORK, Oct. 24, 2026 /PRNewswire/ -- Herman Law, representing approximately 260 survivors of sexual abuse by clergy members and lay leaders of the Archdiocese of New York, the s",
+      "url": "https://www.prnewswire.com/news-releases/herman-law-client-survivors-reach-landmark-settlement-with-archdiocese-of-new-york-302918706.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-24T23:56:00Z",
+      "epoch": 1792886160,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "CARNE Brings a Nightmare Before Christmas to Oxnard with Limited-Time Halloween Pop-Up",
       "summary": "The Oxnard restaurant transforms into a hauntingly festive destination with themed cocktails, spooky culinary creations, and immersive Halloween décor through November 1. OXNARD, Calif., Oct. 24, 2026 /PRNewswire/ -- CARNE in Oxnard invites guests into a world where spooky meets ",
       "url": "https://www.prnewswire.com/news-releases/carne-brings-a-nightmare-before-christmas-to-oxnard-with-limited-time-halloween-pop-up-302918705.html",
@@ -535,48 +563,6 @@
       "source_id": "prnewswire-public-co",
       "published_at": "2026-10-24T14:37:00Z",
       "epoch": 1792852620,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Hi3D V1.0 se vuelve de código abierto: el primer modelo 3D de IA de código abierto validado para producción",
-      "summary": "PEKÍN, 24 de octubre de 2026 /PRNewswire/ -- Hi3D ha anunciado hoy el lanzamiento de Hi3D V1.0 (anteriormente Sparc3D) bajo una licencia de código abierto, poniendo su modelo de IA 3D —validado para entornos de producción— a disposición de todos los desarrolladores, investigadore",
-      "url": "https://www.prnewswire.com/news-releases/hi3d-v1-0-se-vuelve-de-codigo-abierto-el-primer-modelo-3d-de-ia-de-codigo-abierto-validado-para-produccion-302918659.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T14:19:00Z",
-      "epoch": 1792851540,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Hi3D V1.0 wird Open Source: Das erste produktionserprobte Open-Source-KI-3D-Modell",
-      "summary": "PEKING, 24. Oktober 2026 /PRNewswire/ -- Hi3D gab heute die Open-Source-Veröffentlichung von Hi3D V1.0 (ehemals Sparc3D) bekannt und stellt damit sein produktionserprobtes KI-3D-Modell allen Entwicklern, Forschern und Unternehmen zur Verfügung. Benutzer können online auf den Quel",
-      "url": "https://www.prnewswire.com/news-releases/hi3d-v1-0-wird-open-source-das-erste-produktionserprobte-open-source-ki-3d-modell-302918658.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T14:17:00Z",
-      "epoch": 1792851420,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Hi3D V1.0 devient open source : le premier modèle IA 3D open source validé en production",
-      "summary": "PÉKIN, 24 octobre 2026 /PRNewswire/ -- Hi3D a annoncé aujourd'hui la publication en open source de Hi3D V1.0 (anciennement Sparc3D), rendant son modèle IA 3D validé en production accessible à tous les développeurs, chercheurs et entreprises. Les utilisateurs peuvent accéder au co",
-      "url": "https://www.prnewswire.com/news-releases/hi3d-v1-0-devient-open-source--le-premier-modele-ia-3d-open-source-valide-en-production-302918656.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T14:16:00Z",
-      "epoch": 1792851360,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -948,22 +934,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "Hyperliquid Strategies Inc Announces Increase of Stock Repurchase Program to $100 Million",
-      "summary": "NEW YORK, Oct. 23, 2026 /PRNewswire/ -- Hyperliquid Strategies Inc (NASDAQ: PURR) (\"HSI\" or the \"Company\"), the premier digital asset treasury platform focused on the Hyperliquid ecosystem, today announced that its Board of Directors has authorized an increase to its previously a",
-      "url": "https://www.prnewswire.com/news-releases/hyperliquid-strategies-inc-announces-increase-of-stock-repurchase-program-to-100-million-302918312.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-23T20:15:00Z",
-      "epoch": 1792786500,
-      "sentiment": 0.0,
-      "tickers": [
-        "PURR"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "Civista Bancshares, Inc. Appoints Jeremy Normington-Slay to Board of Directors",
       "summary": "SANDUSKY, Ohio, Oct. 23, 2026 /PRNewswire/ -- Civista Bancshares, Inc. (NASDAQ: CIVB) (\"Civista\") today announced the appointment of Jeremy Normington-Slay, DPT, MBA, FACHE, to the Boards of Directors of Civista Bancshares and Civista Bank, effective October 21, 2026. Normington-",
       "url": "https://www.prnewswire.com/news-releases/civista-bancshares-inc-appoints-jeremy-normington-slay-to-board-of-directors-302917585.html",
@@ -974,6 +944,22 @@
       "sentiment": 0.0,
       "tickers": [
         "CIVB"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Hyperliquid Strategies Inc Announces Increase of Stock Repurchase Program to $100 Million",
+      "summary": "NEW YORK, Oct. 23, 2026 /PRNewswire/ -- Hyperliquid Strategies Inc (NASDAQ: PURR) (\"HSI\" or the \"Company\"), the premier digital asset treasury platform focused on the Hyperliquid ecosystem, today announced that its Board of Directors has authorized an increase to its previously a",
+      "url": "https://www.prnewswire.com/news-releases/hyperliquid-strategies-inc-announces-increase-of-stock-repurchase-program-to-100-million-302918312.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-23T20:15:00Z",
+      "epoch": 1792786500,
+      "sentiment": 0.0,
+      "tickers": [
+        "PURR"
       ],
       "company_name": null,
       "catalyst": false,
@@ -1038,18 +1024,20 @@
       "small_cap_risk": false
     },
     {
-      "title": "Egan-Jones Finds Steady CLO Credit Metrics as Interest Rates Turn Higher",
-      "summary": "NEW YORK, Oct. 23, 2026 /PRNewswire/ -- Egan-Jones released its monthly report on the collateralized loan obligation (CLO) market, finding that credit metrics across the deals it rates held steady even as interest rates and high-yield spreads moved higher in September. For invest",
-      "url": "https://www.prnewswire.com/news-releases/egan-jones-finds-steady-clo-credit-metrics-as-interest-rates-turn-higher-302918341.html",
+      "title": "Hyperliquid Strategies Inc Announces Webcast to Discuss Results for the Quarter Ended September 30, 2026",
+      "summary": "NEW YORK, Oct. 23, 2026 /PRNewswire/ -- Hyperliquid Strategies Inc (NASDAQ: PURR) (\"HSI\" or the \"Company\"), the premier digital asset treasury platform focused on the Hyperliquid ecosystem, today announced that it will host a live webcast on Thursday, November 5, 2026, at 5:15 p.",
+      "url": "https://www.prnewswire.com/news-releases/hyperliquid-strategies-inc-announces-webcast-to-discuss-results-for-the-quarter-ended-september-30-2026-302918354.html",
       "source": "PR Newswire — Financial",
       "source_id": "prnewswire-financial",
       "published_at": "2026-10-23T19:00:00Z",
       "epoch": 1792782000,
       "sentiment": 0.0,
-      "tickers": [],
+      "tickers": [
+        "PURR"
+      ],
       "company_name": null,
       "catalyst": false,
-      "small_cap_risk": false
+      "small_cap_risk": true
     },
     {
       "title": "8-K - Greenwave Technology Solutions, Inc. (0001589149) (Filer)",
