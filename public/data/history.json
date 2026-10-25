@@ -545,6 +545,12 @@
       "score": 38.8,
       "avg_sentiment": -0.33,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "score": 92.0,
+      "avg_sentiment": 1.0,
+      "article_count": 1
     }
   ],
   "CAH": [
@@ -1139,6 +1145,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "UNH": [
@@ -1616,9 +1628,9 @@
     },
     {
       "date": "2026-10-25",
-      "score": 54.0,
+      "score": 52.0,
       "avg_sentiment": 0.0,
-      "article_count": 2
+      "article_count": 1
     }
   ],
   "IHG.L": [
@@ -1934,9 +1946,9 @@
     },
     {
       "date": "2026-10-25",
-      "score": 54.0,
+      "score": 52.0,
       "avg_sentiment": 0.0,
-      "article_count": 2
+      "article_count": 1
     }
   ],
   "WMT": [
@@ -3460,9 +3472,9 @@
     },
     {
       "date": "2026-10-25",
-      "score": 60.7,
-      "avg_sentiment": 0.07,
-      "article_count": 4
+      "score": 61.7,
+      "avg_sentiment": 0.04,
+      "article_count": 5
     }
   ],
   "AMD": [
@@ -4100,9 +4112,9 @@
     },
     {
       "date": "2026-10-25",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
-      "article_count": 1
+      "score": 80.8,
+      "avg_sentiment": 0.67,
+      "article_count": 2
     }
   ],
   "NXT.L": [
@@ -5833,6 +5845,12 @@
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "score": 25.2,
+      "avg_sentiment": -0.67,
+      "article_count": 1
     }
   ],
   "CMI": [
@@ -6216,9 +6234,9 @@
     },
     {
       "date": "2026-10-25",
-      "score": 52.0,
+      "score": 54.0,
       "avg_sentiment": 0.0,
-      "article_count": 1
+      "article_count": 2
     }
   ],
   "HMC": [
@@ -7080,9 +7098,9 @@
     },
     {
       "date": "2026-10-25",
-      "score": 81.9,
-      "avg_sentiment": 0.7,
-      "article_count": 2
+      "score": 92.0,
+      "avg_sentiment": 1.0,
+      "article_count": 1
     }
   ],
   "BP.L": [
@@ -8258,9 +8276,9 @@
     },
     {
       "date": "2026-10-25",
-      "score": 52.0,
+      "score": 56.0,
       "avg_sentiment": 0.0,
-      "article_count": 1
+      "article_count": 3
     }
   ],
   "COST": [
@@ -8962,9 +8980,9 @@
     },
     {
       "date": "2026-10-25",
-      "score": 66.4,
-      "avg_sentiment": 0.16,
-      "article_count": 5
+      "score": 71.9,
+      "avg_sentiment": 0.3,
+      "article_count": 6
     }
   ],
   "CPAY": [
@@ -9078,12 +9096,6 @@
     }
   ],
   "CRWD": [
-    {
-      "date": "2026-09-16",
-      "score": 63.9,
-      "avg_sentiment": 0.15,
-      "article_count": 4
-    },
     {
       "date": "2026-09-17",
       "score": 63.9,
@@ -9254,6 +9266,12 @@
     },
     {
       "date": "2026-10-24",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-25",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -10773,6 +10791,12 @@
       "score": 92.0,
       "avg_sentiment": 1.0,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "ANET": [
@@ -11168,9 +11192,9 @@
     },
     {
       "date": "2026-10-25",
-      "score": 67.2,
-      "avg_sentiment": 0.33,
-      "article_count": 2
+      "score": 64.4,
+      "avg_sentiment": 0.16,
+      "article_count": 4
     }
   ],
   "UPS": [
@@ -11712,6 +11736,12 @@
       "date": "2026-10-23",
       "score": 25.2,
       "avg_sentiment": -0.67,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -13975,6 +14005,12 @@
       "score": 25.2,
       "avg_sentiment": -0.67,
       "article_count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "ULTA": [
@@ -15948,6 +15984,12 @@
       "date": "2026-10-22",
       "score": 78.8,
       "avg_sentiment": 0.67,
+      "article_count": 1
+    },
+    {
+      "date": "2026-10-25",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -30486,9 +30528,9 @@
     },
     {
       "date": "2026-10-25",
-      "score": 55.3,
-      "avg_sentiment": 0.03,
-      "article_count": 2
+      "score": 65.2,
+      "avg_sentiment": 0.33,
+      "article_count": 1
     }
   ],
   "SO": [
