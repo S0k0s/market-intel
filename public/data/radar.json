@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T15:00:06Z",
+  "generated_at": "2026-10-25T18:19:53Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 144,
+    "breaking_count": 143,
     "breaking_catalyst_count": 29,
     "pipeline_count": 59,
-    "pipeline_catalyst_count": 14,
+    "pipeline_catalyst_count": 17,
     "movers_count": 0
   },
   "trending_tickers": [
@@ -16,10 +16,22 @@
       "source_count": 3
     },
     {
+      "ticker": "AZN.L",
+      "count": 6,
+      "catalyst_count": 3,
+      "source_count": 3
+    },
+    {
       "ticker": "GSK.L",
-      "count": 7,
+      "count": 5,
       "catalyst_count": 2,
       "source_count": 3
+    },
+    {
+      "ticker": "AMGN",
+      "count": 4,
+      "catalyst_count": 2,
+      "source_count": 2
     },
     {
       "ticker": "ABBV",
@@ -28,16 +40,16 @@
       "source_count": 2
     },
     {
-      "ticker": "AMGN",
+      "ticker": "MRNA",
       "count": 3,
       "catalyst_count": 1,
       "source_count": 2
     },
     {
-      "ticker": "MRNA",
-      "count": 3,
+      "ticker": "BMY",
+      "count": 2,
       "catalyst_count": 1,
-      "source_count": 2
+      "source_count": 1
     },
     {
       "ticker": "MRK",
@@ -56,23 +68,25 @@
       "count": 1,
       "catalyst_count": 1,
       "source_count": 1
-    },
-    {
-      "ticker": "BAYN.DE",
-      "count": 1,
-      "catalyst_count": 1,
-      "source_count": 1
-    },
-    {
-      "ticker": "AZN.L",
-      "count": 3,
-      "catalyst_count": 0,
-      "source_count": 2
     }
   ],
   "movers": [],
   "concentration_warning": null,
   "breaking": [
+    {
+      "title": "Positive Overall Survival Results from the Phase III HARMONi-GI1 Trial of Ivonescimab Plus Chemotherapy Versus Durvalumab Plus Chemotherapy in First-Line Biliary Tract Cancer Presented at the ESMO 2026 Presidential Symposium",
+      "summary": "HONG KONG, Oct. 25, 2026 /PRNewswire/ -- Akeso, Inc. (HKEX: 9926.HK) today announced the presentation of results from the randomized, controlled, double-blind, multicenter, registrational Phase III HARMONi-GI1 trial (AK112-309). The study evaluated first-in-class ivonescimab plus",
+      "url": "https://www.prnewswire.com/news-releases/positive-overall-survival-results-from-the-phase-iii-harmoni-gi1-trial-of-ivonescimab-plus-chemotherapy-versus-durvalumab-plus-chemotherapy-in-first-line-biliary-tract-cancer-presented-at-the-esmo-2026-presidential-symposium-302918768.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-25T15:31:00Z",
+      "epoch": 1792942260,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
     {
       "title": "RYBREVANT FASPRO™ (amivantamab and hyaluronidase-lpuj) combination demonstrates 77% overall response rate in first-line treatment of patients with advanced head and neck cancer",
       "summary": "Responses were deep and durable, with 65% ongoing at clinical cutoff Results support continued evaluation of the investigational RYBREVANT FASPRO regimen in the ongoing first-line Phase 3 study Data highlight the role of dual-targeting EGFR and MET, key drivers of tumor growth an",
@@ -105,8 +119,8 @@
       "title": "The Results of Phase III OptiTROP-Lung06 Study of Sacituzumab Tirumotecan (sac-TMT) Presented as an ESMO Oral Presentation and Simultaneously Published in The New England Journal of Medicine",
       "summary": "PFS was significantly prolonged: as assessed by BICR, the risk of disease progression or death was reduced by 51% (HR 0.49; 95% CI 0.36-0.65; P",
       "url": "https://www.prnewswire.com/news-releases/the-results-of-phase-iii-optitrop-lung06-study-of-sacituzumab-tirumotecan-sac-tmt-presented-as-an-esmo-oral-presentation-and-simultaneously-published-in-the-new-england-journal-of-medicine-302918758.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-25T10:37:00Z",
       "epoch": 1792924620,
       "sentiment": -0.33,
@@ -166,20 +180,6 @@
       "published_at": "2026-10-24T14:30:00Z",
       "epoch": 1792852200,
       "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Pathalys Pharma Presents Positive Data from Pivotal Phase 3 Studies of Upacicalcet in Featured Oral Presentation at ASN Kidney Week 2026",
-      "summary": "~ In PATH-1 and PATH-2 upacicalcet met primary and key secondary endpoints of reducing parathyroid hormone (PTH) in patients with end-stage kidney disease and Secondary Hyperparathyroidism (SHPT) on hemodialysis ~ Upacicalcet also reduced FGF23 and markers of bone turnover in the",
-      "url": "https://www.prnewswire.com/news-releases/pathalys-pharma-presents-positive-data-from-pivotal-phase-3-studies-of-upacicalcet-in-featured-oral-presentation-at-asn-kidney-week-2026-302918517.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-23T23:30:00Z",
-      "epoch": 1792798200,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": true,
@@ -484,6 +484,76 @@
       "small_cap_risk": false
     },
     {
+      "title": "Drive to Great! BAIC FOTON Africa Partners Conference Set to Open",
+      "summary": "BEIJING, Oct. 25, 2026 /PRNewswire/ -- On October 29, the BAIC FOTON Africa Partners Conference, themed \"Drive to Great,\" will be held in Port Elizabeth, South Africa. More than 600 distributors, major customers, industry partners and media representatives from 42 African countri",
+      "url": "https://www.prnewswire.com/news-releases/drive-to-great-baic-foton-africa-partners-conference-set-to-open-302918782.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-25T18:12:00Z",
+      "epoch": 1792951920,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Miranda Lambert dará inicio a la Campaña Red Kettle del Ejército de Salvación con una actuación durante el medio tiempo del partido de Acción de Gracias de los Dallas Cowboys",
+      "summary": "Este año se cumple el 30.º aniversario de una iniciativa en la que artistas emblemáticos fomentan la solidaridad mediante actuaciones en directo, retransmitidas a nivel nacional, durante el partido de la temporada regular con mayor audiencia FRISCO, Texas, 25 de octubre de 2026..",
+      "url": "https://www.prnewswire.com/news-releases/miranda-lambert-dara-inicio-a-la-campana-red-kettle-del-ejercito-de-salvacion-con-una-actuacion-durante-el-medio-tiempo-del-partido-de-accion-de-gracias-de-los-dallas-cowboys-826908448.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-25T17:05:00Z",
+      "epoch": 1792947900,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Miranda Lambert To Kick Off Salvation Army's Red Kettle Campaign With Dallas Cowboys Thanksgiving Game Halftime Performance",
+      "summary": "This year marks the 30th anniversary of iconic artists inspiring giving with live, nationally televised performances during the most-watched regular season game FRISCO, Texas, Oct. 25, 2026 /PRNewswire/ -- Multi-Platinum, three-time Grammy Award-winning country music superstar Mi",
+      "url": "https://www.prnewswire.com/news-releases/miranda-lambert-to-kick-off-salvation-armys-red-kettle-campaign-with-dallas-cowboys-thanksgiving-game-halftime-performance-302918584.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-25T17:05:00Z",
+      "epoch": 1792947900,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Vantrue Announces Early Black Friday Sale with Up to 44% Off Select Dash Cams",
+      "summary": "November 1–21, 2026 | Official Website: Vantrue.com SHENZHEN, China, Oct. 25, 2026 /PRNewswire/ -- Vantrue, a dash cam brand dedicated to helping drivers capture the road with confidence, is launching its three-week Black Friday campaign from November 1 to November 21, 2026. The ",
+      "url": "https://www.prnewswire.com/news-releases/vantrue-announces-early-black-friday-sale-with-up-to-44-off-select-dash-cams-302918196.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-25T17:00:00Z",
+      "epoch": 1792947600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "In HelloNation, Insulation Expert Mike Mancuso Explains Why Air Sealing Should Come Before Adding Insulation",
+      "summary": "The article explains how sealing air leaks first helps insulation improve comfort, energy performance, and moisture control. CLARKS SUMMIT, Pa., Oct. 25, 2026 /PRNewswire/ -- Why should you air seal your home before adding insulation? A HelloNation article featuring insights from",
+      "url": "https://www.prnewswire.com/news-releases/in-hellonation-insulation-expert-mike-mancuso-explains-why-air-sealing-should-come-before-adding-insulation-302918374.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-25T15:30:00Z",
+      "epoch": 1792942200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "LexisNexis Coplogic Solutions Introduces Field Clarity for LexisNexis® Desk Officer Reporting System (DORS) at IACP 2026",
       "summary": "A new, modern DORS and Field Clarity, the First AI-Guided Smartphone Video Assistant, Enhances Community Experience and Helps Improve Evidence, Case Building ORLANDO, Fla., Oct. 25, 2026 /PRNewswire/ -- LexisNexis® Coplogic™ Solutions today announced its modernized LexisNexis® De",
       "url": "https://www.prnewswire.com/news-releases/lexisnexis-coplogic-solutions-introduces-field-clarity-for-lexisnexis-desk-officer-reporting-system-dors-at-iacp-2026-302918694.html",
@@ -540,83 +610,13 @@
       "small_cap_risk": false
     },
     {
-      "title": "Beyond GRC: DigitalXForce Pioneers AI-Powered Risk Operations with Global X-ROC™ Rollout",
-      "summary": "Enterprise TRiSCM™ innovator advances Continuous Control Assurance, cyber risk quantification and real-time Risk Operations across global enterprises, transforming traditional GRC into proactive Digital Trust DALLAS, Oct. 25, 2026 /PRNewswire/ -- DigitalXForce, the AI-native Ente",
-      "url": "https://www.prnewswire.com/news-releases/beyond-grc-digitalxforce-pioneers-ai-powered-risk-operations-with-global-x-roc-rollout-302918726.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-25T11:00:00Z",
-      "epoch": 1792926000,
-      "sentiment": -1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Best AI Tools for Small Business Marketing (2026): CapCut Featured for Creating Professional Video and Visual Content by Expert Consumers",
-      "summary": "NEW YORK, Oct. 25, 2026 /PRNewswire/ -- Expert Consumers has recognized CapCut in its 2026 coverage of the best AI tools for small business marketing, highlighting the platform's collection of AI-powered features for creating and editing video, images, audio, and other visual con",
-      "url": "https://www.prnewswire.com/news-releases/best-ai-tools-for-small-business-marketing-2026-capcut-featured-for-creating-professional-video-and-visual-content-by-expert-consumers-302918043.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-25T10:30:00Z",
-      "epoch": 1792924200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Borr Drilling Limited - Prospector 5 Rig Incident",
-      "summary": "HAMILTON, Bermuda, October 25, 2026 /PRNewswire/ -- Borr Drilling Limited (NYSE and OSE: BORR) (\"Borr Drilling\") confirms that an incident occurred at approximately 20:37 local time on October 24, 2026 involving the Prospector 5 drilling rig while conducting jacking operations of",
-      "url": "https://www.prnewswire.com/news-releases/borr-drilling-limited--prospector-5-rig-incident-302918752.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-25T10:22:00Z",
-      "epoch": 1792923720,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Best Broadband Provider for Small Businesses UK (2026): Love Business Group Recognised for Helping SMEs Compare Business Broadband Options by Expert Consumers",
-      "summary": "NEW YORK, Oct. 25, 2026 /PRNewswire/ -- Expert Consumers has recognised Love Business Group for helping small and medium-sized UK businesses compare broadband options based on location, connectivity requirements and day-to-day operational needs. For companies searching for the be",
-      "url": "https://www.prnewswire.com/news-releases/best-broadband-provider-for-small-businesses-uk-2026-love-business-group-recognised-for-helping-smes-compare-business-broadband-options-by-expert-consumers-302918082.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-25T10:00:00Z",
-      "epoch": 1792922400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Best Protective iPhone Cases for 2026: Top Slim and Drop-Protection Options for iPhone 18 Pro &amp; iPhone 18 Pro Max Recommended by Consumer365",
-      "summary": "NEW YORK, Oct. 25, 2026 /PRNewswire/ -- Consumer365 has recognized TORRAS in its review of the best iPhone cases for 2026, highlighting the Ostand Q3 Air and Ostand Q3 Air Pro as two options designed for iPhone 18 Pro & iPhone 18 Pro Max users seeking a balance between slim every",
-      "url": "https://www.prnewswire.com/news-releases/best-protective-iphone-cases-for-2026-top-slim-and-drop-protection-options-for-iphone-18-pro--iphone-18-pro-max-recommended-by-consumer365-302918070.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-25T09:30:00Z",
-      "epoch": 1792920600,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "TCL Zhonghuan, REI Expo 2026'da Güneş Enerjisi Yenilikleriyle Hindistan'ın Enerji Dönüşümüne Öncülük Ediyor",
-      "summary": "BÜYÜK NOIDA, Hindistan, 25 Ekim 2026 /PRNewswire/ -- Yenilenebilir Enerji Hindistan Fuarı (REI), 22 Ekim'de Büyük Noida'daki Hindistan Fuar Merkezi'nde kapılarını açtı. Güney Asya'nın önde gelen yenilenebilir enerji sektörü etkinliklerinden biri olan bu yılki fuar, dünyanın dört ",
-      "url": "https://www.prnewswire.com/news-releases/tcl-zhonghuan-rei-expo-2026da-gune-enerjisi-yenilikleriyle-hindistann-enerji-donuumune-onculuk-ediyor-302918740.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-25T08:09:00Z",
-      "epoch": 1792915740,
+      "title": "New data on Lilly's investigational treatment olomorasib at ESMO 2026 show durable first-line activity in KRAS G12C-mutant non-small cell lung cancer",
+      "summary": "Data presented at ESMO highlight the promising efficacy of olomorasib in combination with standard-of-care immunotherapy with or without chemotherapy in first-line advanced KRAS G12C-mutant non-small cell lung cancer (NSCLC) across PD-L1 expression levels First-line treatment opt",
+      "url": "https://www.prnewswire.com/news-releases/new-data-on-lillys-investigational-treatment-olomorasib-at-esmo-2026-show-durable-first-line-activity-in-kras-g12c-mutant-non-small-cell-lung-cancer-302918479.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-10-25T07:30:00Z",
+      "epoch": 1792913400,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -627,22 +627,8 @@
       "title": "Johnson &amp; Johnson reports 75% tumor response rate in advanced prostate cancer with JNJ-6143, a first-in-class RIPTAC™ molecule",
       "summary": "JNJ-6143 is an investigational, once-daily, novel, small molecule designed to trigger cancer cell death through a targeted dual-protein lock between BRD4 and androgen receptor, a highly expressed tumor-selective protein in prostate cancer cells Among patients with measurable dise",
       "url": "https://www.prnewswire.com/news-releases/johnson--johnson-reports-75-tumor-response-rate-in-advanced-prostate-cancer-with-jnj-6143-a-first-in-class-riptac-molecule-302918733.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-25T07:30:00Z",
-      "epoch": 1792913400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "New data on Lilly's investigational treatment olomorasib at ESMO 2026 show durable first-line activity in KRAS G12C-mutant non-small cell lung cancer",
-      "summary": "Data presented at ESMO highlight the promising efficacy of olomorasib in combination with standard-of-care immunotherapy with or without chemotherapy in first-line advanced KRAS G12C-mutant non-small cell lung cancer (NSCLC) across PD-L1 expression levels First-line treatment opt",
-      "url": "https://www.prnewswire.com/news-releases/new-data-on-lillys-investigational-treatment-olomorasib-at-esmo-2026-show-durable-first-line-activity-in-kras-g12c-mutant-non-small-cell-lung-cancer-302918479.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-10-25T07:30:00Z",
       "epoch": 1792913400,
       "sentiment": 0.0,
@@ -2120,6 +2106,72 @@
   ],
   "pipeline": [
     {
+      "title": "‘Infinite potential’: Akeso CEO looks for more ivonescimab combos amid AstraZeneca investment, new phase 3 win",
+      "summary": "With ivonescimab’s first phase 3 win outside lung cancer and a $2 billion investment from AstraZeneca in its U.S. partner Summit Therapeutics, Akeso CEO Michelle Xia, Ph.D., is expecting more combination opportunities for its star PD-1xVEGF bispecific.",
+      "url": "https://www.fiercepharma.com/pharma/akeso-ceo-looks-more-ivonescimab-combos-amid-astrazeneca-investment-new-phase-3-win",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-10-24T20:24:00Z",
+      "epoch": 1792873440,
+      "sentiment": 0.67,
+      "tickers": [
+        "AZN.L"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "ESMO: Roche touts ‘convincing’ phase 3 KRAS data after win over rivals",
+      "summary": "Roche has shed more light on its investigational KRAS G12C inhibitor’s phase 3 victory over Amgen’s Lumakras and Bristol Myers Squibb’s Krazati.",
+      "url": "https://www.fiercebiotech.com/biotech/esmo-roche-sees-phase-3-kras-lung-cancer-win-over-krazati-convincing-health-authorities",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-10-24T09:45:00Z",
+      "epoch": 1792835100,
+      "sentiment": 0.33,
+      "tickers": [
+        "AMGN",
+        "BMY",
+        "ROG"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "ESMO: AstraZeneca exec insists phase 3 ADC data ‘robust’ enough for regulators despite PFS miss",
+      "summary": "An AstraZeneca executive was adamant that detailed data from a phase 3 study of the pharma’s next-generation antibody-drug conjugate are “robust” enough to take to regulators, despite the trial failing to meet a key endpoint.",
+      "url": "https://www.fiercebiotech.com/biotech/esmo-az-exec-insists-ph-3-adc-data-robust-enough-approval-despite-pfs-miss",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-10-24T09:07:00Z",
+      "epoch": 1792832820,
+      "sentiment": -0.33,
+      "tickers": [
+        "AZN.L"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "ESMO: AZ, Hutchmed’s Orpathys combo shows post-Tagrisso power in MET-driven lung cancer",
+      "summary": "AstraZeneca has offered a detailed look at the phase 3 non-small cell lung cancer data that finally position its Hutchmed-partnered Orpathys for an FDA approval more than five years after the MET inhibitor’s initial go-ahead in China.",
+      "url": "https://www.fiercepharma.com/pharma/az-hutchmed-orpathys-combo-shows-post-tagrisso-power-met-driven-lung-cancer",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-10-23T19:33:00Z",
+      "epoch": 1792783980,
+      "sentiment": 0.33,
+      "tickers": [
+        "AZN.L"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
       "title": "Bayer's Nubeqa scores phase 3 win in high-risk prostate cancer",
       "summary": "Nubeqa, when added to standard-of-care treatment, significantly improved metastasis-free survival in patients with very high-risk localized prostate cancer.",
       "url": "https://www.fiercepharma.com/pharma/bayers-nubeqa-lands-phase-3-win-very-high-risk-prostate-cancer",
@@ -2287,22 +2339,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Roche builds blockbuster BTK case for fenebrutinib in multiple sclerosis as FDA decision approaches",
-      "summary": "Roche has dived into the data behind its filing for FDA approval of fenebrutinib in multiple sclerosis, unpacking the BTK inhibitor’s effect on chronic active lesions, disease control and brain volume.",
-      "url": "https://www.fiercebiotech.com/biotech/roche-builds-blockbuster-btk-case-multiple-sclerosis-fda-decision-approaches",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-10-21T09:30:00Z",
-      "epoch": 1792575000,
-      "sentiment": 0.33,
-      "tickers": [
-        "ROG"
-      ],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
       "title": "ESMO: After leak, Merck and Moderna post phase 3 cancer vaccine data early",
       "summary": "Merck &amp; Co. and Moderna have shared highly anticipated phase 3 data on their cancer vaccine ahead of schedule, revealing a primary endpoint hit that approached analysts’ best-case scenario. But the positive result was offset by weaker-than-expected data on a key secondary end",
       "url": "https://www.fiercebiotech.com/biotech/merck-co-and-moderna-post-phase-3-cancer-vaccine-data",
@@ -2333,6 +2369,20 @@
       ],
       "company_name": null,
       "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "ESMO: J&J exec says RIPTAC readout is ‘best data we’ve ever seen’ for a prostate cancer drug",
+      "summary": "A year after paying over $3 billion for Halda Therapeutics, Johnson &amp; Johson has unveiled the first data from its shiny new RIPTAC pipeline that it believes could sustain its leading role in prostate cancer.",
+      "url": "https://www.fiercebiotech.com/biotech/esmo-jjs-riptac-readout-best-data-weve-ever-seen-prostate-cancer-drug",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-10-25T09:47:00Z",
+      "epoch": 1792921620,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
       "small_cap_risk": false
     },
     {
@@ -2923,52 +2973,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Amid bepirovirsen triumph, GSK quietly scraps trial of next-gen hep B therapy",
-      "summary": "GSK may have cemented its hepatitis B credentials with Tuesday’s landmark FDA nod for its “functional cure” bepirovirsen, but the pharma continues to rethink its strategy for next-gen candidates.",
-      "url": "https://www.fiercebiotech.com/biotech/amid-bepirovirsen-triumph-gsk-quietly-scraps-trial-next-gen-hep-b-therapy",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-10-21T09:37:00Z",
-      "epoch": 1792575420,
-      "sentiment": 0.0,
-      "tickers": [
-        "GSK.L"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "GSK brings promise of 'functional cure' to hepatitis B finish line with FDA nod for Hibsago",
-      "summary": "With the FDA’s green light in hepatitis B, GSK and its Ionis-licensed medicine bepirovirsen have racked up several notable distinctions, bringing the antisense oligonucleotide class to bear against the virus for the first time alongside the promise of functional cure-standard eff",
-      "url": "https://www.fiercepharma.com/pharma/gsk-brings-promise-functional-cure-hepatitis-b-finish-line-fda-nod-hibsago",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-10-21T06:42:00Z",
-      "epoch": 1792564920,
-      "sentiment": 0.0,
-      "tickers": [
-        "GSK.L"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "‘A two-way conversation with the tumor’: Researchers use ‘avatar’ to predict immunotherapy responses",
-      "summary": "Researchers have explored a revolutionary way to predict a patient's response to immunotherapies by creating a tumor “avatar” from biopsies.",
-      "url": "https://www.fiercebiotech.com/research/using-tumor-avatars-predict-patient-immunotherapy-response",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-10-20T15:10:00Z",
-      "epoch": 1792509000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "BMS leads Pathos AI's $237M series E alongside Alzheimer's link-up",
       "summary": "Pathos AI has closed a $237 million series E round led by pharma giant Bristol Myers Squibb on the same day that the two companies signed a cutting-edge Alzheimer's disease-focused collaboration.",
       "url": "https://www.fiercebiotech.com/biotech/pathos-ai-closes-237m-series-e-heels-bms-alzheimers-link",
@@ -2980,20 +2984,6 @@
       "tickers": [
         "BMY"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "AI-Powered Brand Sites Are Changing Patient Engagement",
-      "summary": "Compliant AI helps brands answer patient questions in real time and turn conversations into actionable insights.",
-      "url": "https://www.fiercepharma.com/sponsored/ai-powered-brand-sites-are-changing-patient-engagement",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-10-08T15:37:00Z",
-      "epoch": 1791473820,
-      "sentiment": 0.0,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
