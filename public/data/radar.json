@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T06:07:26Z",
+  "generated_at": "2026-10-25T11:24:37Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 145,
-    "breaking_catalyst_count": 27,
+    "breaking_count": 144,
+    "breaking_catalyst_count": 29,
     "pipeline_count": 59,
-    "pipeline_catalyst_count": 13,
+    "pipeline_catalyst_count": 14,
     "movers_count": 0
   },
   "trending_tickers": [
@@ -73,6 +73,34 @@
   "movers": [],
   "concentration_warning": null,
   "breaking": [
+    {
+      "title": "Final OS Analysis Results from Phase III OptiTROP-Lung04 Study of Sacituzumab Tirumotecan (sac-TMT) Presented at 2026 ESMO",
+      "summary": "Median OS was extended by 8.5 months compared with platinum-based doublet chemotherapy (25.9 vs 17.4 months), with a 31% reduction in the risk of death (HR 0.69; 95% CI 0.54–0.89; one-sided P = 0.0021). The 2-year OS rate was 54.1% vs 37.2%, an improvement of 16.9%; with a median",
+      "url": "https://www.prnewswire.com/news-releases/final-os-analysis-results-from-phase-iii-optitrop-lung04-study-of-sacituzumab-tirumotecan-sac-tmt-presented-at-2026-esmo-302918760.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-25T11:01:00Z",
+      "epoch": 1792926060,
+      "sentiment": -0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "The Results of Phase III OptiTROP-Lung06 Study of Sacituzumab Tirumotecan (sac-TMT) Presented as an ESMO Oral Presentation and Simultaneously Published in The New England Journal of Medicine",
+      "summary": "PFS was significantly prolonged: as assessed by BICR, the risk of disease progression or death was reduced by 51% (HR 0.49; 95% CI 0.36-0.65; P",
+      "url": "https://www.prnewswire.com/news-releases/the-results-of-phase-iii-optitrop-lung06-study-of-sacituzumab-tirumotecan-sac-tmt-presented-as-an-esmo-oral-presentation-and-simultaneously-published-in-the-new-england-journal-of-medicine-302918758.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-25T10:37:00Z",
+      "epoch": 1792924620,
+      "sentiment": -0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
     {
       "title": "2026 ESMO | Innovent Presented Phase 1 Study Data for IBI3001, a First-in-Class EGFR/B7H3 Bispecific ADC",
       "summary": "SAN FRANCISCO and SUZHOU, China, Oct. 25, 2026 /PRNewswire/ -- Innovent Biologics, Inc. (HKEX Stock Code: 01801), a biopharmaceutical company dedicated to the research, development, manufacturing, and commercialization of innovative drugs for major diseases including oncology, au",
@@ -456,13 +484,125 @@
       "small_cap_risk": false
     },
     {
+      "title": "Beyond GRC: DigitalXForce Pioneers AI-Powered Risk Operations with Global X-ROC™ Rollout",
+      "summary": "Enterprise TRiSCM™ innovator advances Continuous Control Assurance, cyber risk quantification and real-time Risk Operations across global enterprises, transforming traditional GRC into proactive Digital Trust DALLAS, Oct. 25, 2026 /PRNewswire/ -- DigitalXForce, the AI-native Ente",
+      "url": "https://www.prnewswire.com/news-releases/beyond-grc-digitalxforce-pioneers-ai-powered-risk-operations-with-global-x-roc-rollout-302918726.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-25T11:00:00Z",
+      "epoch": 1792926000,
+      "sentiment": -1.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Best AI Tools for Small Business Marketing (2026): CapCut Featured for Creating Professional Video and Visual Content by Expert Consumers",
+      "summary": "NEW YORK, Oct. 25, 2026 /PRNewswire/ -- Expert Consumers has recognized CapCut in its 2026 coverage of the best AI tools for small business marketing, highlighting the platform's collection of AI-powered features for creating and editing video, images, audio, and other visual con",
+      "url": "https://www.prnewswire.com/news-releases/best-ai-tools-for-small-business-marketing-2026-capcut-featured-for-creating-professional-video-and-visual-content-by-expert-consumers-302918043.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-25T10:30:00Z",
+      "epoch": 1792924200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Borr Drilling Limited - Prospector 5 Rig Incident",
+      "summary": "HAMILTON, Bermuda, October 25, 2026 /PRNewswire/ -- Borr Drilling Limited (NYSE and OSE: BORR) (\"Borr Drilling\") confirms that an incident occurred at approximately 20:37 local time on October 24, 2026 involving the Prospector 5 drilling rig while conducting jacking operations of",
+      "url": "https://www.prnewswire.com/news-releases/borr-drilling-limited--prospector-5-rig-incident-302918752.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-25T10:22:00Z",
+      "epoch": 1792923720,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Best Broadband Provider for Small Businesses UK (2026): Love Business Group Recognised for Helping SMEs Compare Business Broadband Options by Expert Consumers",
+      "summary": "NEW YORK, Oct. 25, 2026 /PRNewswire/ -- Expert Consumers has recognised Love Business Group for helping small and medium-sized UK businesses compare broadband options based on location, connectivity requirements and day-to-day operational needs. For companies searching for the be",
+      "url": "https://www.prnewswire.com/news-releases/best-broadband-provider-for-small-businesses-uk-2026-love-business-group-recognised-for-helping-smes-compare-business-broadband-options-by-expert-consumers-302918082.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-25T10:00:00Z",
+      "epoch": 1792922400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Best Protective iPhone Cases for 2026: Top Slim and Drop-Protection Options for iPhone 18 Pro &amp; iPhone 18 Pro Max Recommended by Consumer365",
+      "summary": "NEW YORK, Oct. 25, 2026 /PRNewswire/ -- Consumer365 has recognized TORRAS in its review of the best iPhone cases for 2026, highlighting the Ostand Q3 Air and Ostand Q3 Air Pro as two options designed for iPhone 18 Pro & iPhone 18 Pro Max users seeking a balance between slim every",
+      "url": "https://www.prnewswire.com/news-releases/best-protective-iphone-cases-for-2026-top-slim-and-drop-protection-options-for-iphone-18-pro--iphone-18-pro-max-recommended-by-consumer365-302918070.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-25T09:30:00Z",
+      "epoch": 1792920600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "TCL Zhonghuan, REI Expo 2026'da Güneş Enerjisi Yenilikleriyle Hindistan'ın Enerji Dönüşümüne Öncülük Ediyor",
+      "summary": "BÜYÜK NOIDA, Hindistan, 25 Ekim 2026 /PRNewswire/ -- Yenilenebilir Enerji Hindistan Fuarı (REI), 22 Ekim'de Büyük Noida'daki Hindistan Fuar Merkezi'nde kapılarını açtı. Güney Asya'nın önde gelen yenilenebilir enerji sektörü etkinliklerinden biri olan bu yılki fuar, dünyanın dört ",
+      "url": "https://www.prnewswire.com/news-releases/tcl-zhonghuan-rei-expo-2026da-gune-enerjisi-yenilikleriyle-hindistann-enerji-donuumune-onculuk-ediyor-302918740.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-25T08:09:00Z",
+      "epoch": 1792915740,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "New data on Lilly's investigational treatment olomorasib at ESMO 2026 show durable first-line activity in KRAS G12C-mutant non-small cell lung cancer",
+      "summary": "Data presented at ESMO highlight the promising efficacy of olomorasib in combination with standard-of-care immunotherapy with or without chemotherapy in first-line advanced KRAS G12C-mutant non-small cell lung cancer (NSCLC) across PD-L1 expression levels First-line treatment opt",
+      "url": "https://www.prnewswire.com/news-releases/new-data-on-lillys-investigational-treatment-olomorasib-at-esmo-2026-show-durable-first-line-activity-in-kras-g12c-mutant-non-small-cell-lung-cancer-302918479.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-25T07:30:00Z",
+      "epoch": 1792913400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Johnson &amp; Johnson reports 75% tumor response rate in advanced prostate cancer with JNJ-6143, a first-in-class RIPTAC™ molecule",
+      "summary": "JNJ-6143 is an investigational, once-daily, novel, small molecule designed to trigger cancer cell death through a targeted dual-protein lock between BRD4 and androgen receptor, a highly expressed tumor-selective protein in prostate cancer cells Among patients with measurable dise",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-reports-75-tumor-response-rate-in-advanced-prostate-cancer-with-jnj-6143-a-first-in-class-riptac-molecule-302918733.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-10-25T07:30:00Z",
+      "epoch": 1792913400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Ping An Highlights Green Development Initiatives at International Communication Seminar in Shenzhen Ahead of APEC 2026",
       "summary": "HONG KONG and SHANGHAI, Oct. 25, 2026 /PRNewswire/ -- The Seminar on International Communication of Chinese and Foreign Enterprises' Green Development and Global Contributions was held at the Ping An Finance Center in Shenzhen on October 23. Hosted by the China Public Relations..",
-      "url": "https://www.prnewswire.com/news-releases/ping-an-highlights-green-development-initiatives-at-international-communication-seminar-in-shenzhen-ahead-of-apec-2026-302918727.html",
+      "url": "https://www.prnewswire.com/news-releases/ping-an-highlights-green-development-initiatives-at-international-communication-seminar-in-shenzhen-ahead-of-apec-2026-302918732.html",
       "source": "PR Newswire — Financial",
       "source_id": "prnewswire-financial",
-      "published_at": "2026-10-25T06:01:00Z",
-      "epoch": 1792908060,
+      "published_at": "2026-10-25T06:22:00Z",
+      "epoch": 1792909320,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -493,106 +633,6 @@
       "epoch": 1792886160,
       "sentiment": 0.0,
       "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "CARNE Brings a Nightmare Before Christmas to Oxnard with Limited-Time Halloween Pop-Up",
-      "summary": "The Oxnard restaurant transforms into a hauntingly festive destination with themed cocktails, spooky culinary creations, and immersive Halloween décor through November 1. OXNARD, Calif., Oct. 24, 2026 /PRNewswire/ -- CARNE in Oxnard invites guests into a world where spooky meets ",
-      "url": "https://www.prnewswire.com/news-releases/carne-brings-a-nightmare-before-christmas-to-oxnard-with-limited-time-halloween-pop-up-302918705.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T22:51:00Z",
-      "epoch": 1792882260,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Katarská iniciatíva Years of Culture oznamuje partnerské krajiny do roku 2030",
-      "summary": "Za budúcich partnerov Years of Culture boli menované Taliansko, Holandsko, Švajčiarsko, Portugalsko a Španielsko DOHA, Katar, 25. októbra 2026 /PRNewswire/ -- Iniciatíva Years of Culture (Roky kultúry) dnes oznámila kultúrnych partnerov Kataru do roku 2030. V nadväznosti na predc",
-      "url": "https://www.prnewswire.com/news-releases/katarska-iniciativa-years-of-culture-oznamuje-partnerske-krajiny-do-roku-2030-302918703.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T22:24:00Z",
-      "epoch": 1792880640,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "L'initiative Years of Culture du Qatar annonce ses pays partenaires jusqu'en 2030",
-      "summary": "L'Italie, les Pays-Bas, la Suisse, le Portugal et l'Espagne désignés comme futurs partenaires des Years of Culture DOHA, Qatar, 25 octobre 2026 /PRNewswire/ -- L'initiative Years of Culture a annoncé aujourd'hui les partenaires culturels du Qatar jusqu'en 2030. Suite aux partenar",
-      "url": "https://www.prnewswire.com/news-releases/linitiative-years-of-culture-du-qatar-annonce-ses-pays-partenaires-jusquen-2030-302918702.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T22:20:00Z",
-      "epoch": 1792880400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Программа «Years of Culture» Катара объявляет страны-партнеры до 2030 года",
-      "summary": "Италия, Нидерланды, Швейцария, Португалия и Испания названы будущими партнерами инициативы «Years of Culture» ДОХА, Катар, 25 октября 2026 г. /PRNewswire/ -- Инициатива «Years of Culture» сегодня объявила о культурных партнерах Катара до 2030 года. Опираясь на ранее объявленные..",
-      "url": "https://www.prnewswire.com/news-releases/-years-of-culture------2030--302918697.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T21:57:00Z",
-      "epoch": 1792879020,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "DIRECTV Adds NHL's New Carolina Hurricanes, Columbus Blue Jackets, Minnesota Wild, and St. Louis Blues Regional Channels",
-      "summary": "EL SEGUNDO, Calif., Oct. 24, 2026 /PRNewswire/ -- DIRECTV today announced a new multi-year distribution agreement with the National Hockey League for Hurricanes Hockey Network, Blue Jackets Hockey Network, Wild+, and Blue Note+ pregame, postgame, and in-game live sports services.",
-      "url": "https://www.prnewswire.com/news-releases/directv-adds-nhls-new-carolina-hurricanes-columbus-blue-jackets-minnesota-wild-and-st-louis-blues-regional-channels-302918682.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T17:43:00Z",
-      "epoch": 1792863780,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "/C O R R E C T I O N - Roadrunner Freight/",
-      "summary": "In the news release, Roadrunner Launches Its First-Ever Outbound Canada-to-U.S. LTL Service, Connecting Key Canadian Markets to 40+ U.S. Metropolitan Areas via Its Smart Network™, issued 23-Oct-2026 by Roadrunner Freight over PR Newswire, we are advised by the company that change",
-      "url": "https://www.prnewswire.com/news-releases/roadrunner-launches-its-first-ever-outbound-canada-to-us-ltl-service-connecting-key-canadian-markets-to-40-us-metropolitan-areas-via-its-smart-network-302917544.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T17:34:00Z",
-      "epoch": 1792863240,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Axon Announces Body 5: Next-Generation Camera Built for the AI Era",
-      "summary": "Axon Body 5 delivers 25x the AI processing power of earlier-generation cameras, with upgraded connectivity, audio and battery life to support real-time situational awareness in the field SCOTTSDALE, Ariz., Oct. 24, 2026 /PRNewswire/ -- Axon (Nasdaq: AXON), the global leader in pu",
-      "url": "https://www.prnewswire.com/news-releases/axon-announces-body-5-next-generation-camera-built-for-the-ai-era-302918553.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-10-24T17:00:00Z",
-      "epoch": 1792861200,
-      "sentiment": 0.33,
-      "tickers": [
-        "AXON"
-      ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -768,20 +808,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "The Galien Foundation Presents Senator John Kerry with 2026 Roy Vagelos Pro Bono Humanum Award for Global Health Equity",
-      "summary": "Honoring the former U.S. Secretary of State and Special Presidential Envoy for Climate for pioneering efforts to address climate change and public health initiatives Award to be presented on October 29, 2026, at the Prix Galien USA Awards Ceremony in New York City NEW YORK, Oct. ",
-      "url": "https://www.prnewswire.com/news-releases/the-galien-foundation-presents-senator-john-kerry-with-2026-roy-vagelos-pro-bono-humanum-award-for-global-health-equity-302918473.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-23T22:30:00Z",
-      "epoch": 1792794600,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Howard Hughes Holdings Set to Join S&amp;P SmallCap 600",
       "summary": "NEW YORK, Oct. 23, 2026 /PRNewswire/ -- Howard Hughes Holdings Inc. (NYSE: HHH) will replace Arcosa Inc. (NYSE: ACA) in the S&P SmallCap 600 effective prior to the opening of trading on Wednesday, October 28. S&P 500 constituent CRH plc (NYSE: CRH) has acquired Arcosa in a deal t",
       "url": "https://www.prnewswire.com/news-releases/howard-hughes-holdings-set-to-join-sp-smallcap-600-302918511.html",
@@ -798,34 +824,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "Family Research Council President Tony Perkins to Speak at Missouri and Kansas Churches This Sunday",
-      "summary": "GREENWOOD, Mo., Oct. 23, 2026 /PRNewswire/ -- On Sunday, October 25, Family Research Council President Tony Perkins will speak at churches in the Kansas City, Missouri area and Wichita, Kansas. During Sunday morning services, Perkins will deliver a message titled \"When We Stand: ",
-      "url": "https://www.prnewswire.com/news-releases/family-research-council-president-tony-perkins-to-speak-at-missouri-and-kansas-churches-this-sunday-302918497.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-23T21:25:00Z",
-      "epoch": 1792790700,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "/C O R R E C T I O N - COhatch/",
-      "summary": "In the news release, COhatch and City of Dublin to Host Fourth Annual Dublin Pitch Competition to Find Ohio's Next Breakthrough Startup, issued 23-Sep-2026 by COhatch over PR Newswire, we are advised by the company that changes have been made. The complete, corrected release foll",
-      "url": "https://www.prnewswire.com/news-releases/cohatch-and-city-of-dublin-to-host-fourth-annual-dublin-pitch-competition-to-find-ohios-next-breakthrough-startup-302887013.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-23T21:15:00Z",
-      "epoch": 1792790100,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "Artprice salue Brognon Rollin lauréats du Prix Marcel Duchamp 2026",
@@ -948,22 +946,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "Hyperliquid Strategies Inc Announces Increase of Stock Repurchase Program to $100 Million",
-      "summary": "NEW YORK, Oct. 23, 2026 /PRNewswire/ -- Hyperliquid Strategies Inc (NASDAQ: PURR) (\"HSI\" or the \"Company\"), the premier digital asset treasury platform focused on the Hyperliquid ecosystem, today announced that its Board of Directors has authorized an increase to its previously a",
-      "url": "https://www.prnewswire.com/news-releases/hyperliquid-strategies-inc-announces-increase-of-stock-repurchase-program-to-100-million-302918312.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-23T20:15:00Z",
-      "epoch": 1792786500,
-      "sentiment": 0.0,
-      "tickers": [
-        "PURR"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "Civista Bancshares, Inc. Appoints Jeremy Normington-Slay to Board of Directors",
       "summary": "SANDUSKY, Ohio, Oct. 23, 2026 /PRNewswire/ -- Civista Bancshares, Inc. (NASDAQ: CIVB) (\"Civista\") today announced the appointment of Jeremy Normington-Slay, DPT, MBA, FACHE, to the Boards of Directors of Civista Bancshares and Civista Bank, effective October 21, 2026. Normington-",
       "url": "https://www.prnewswire.com/news-releases/civista-bancshares-inc-appoints-jeremy-normington-slay-to-board-of-directors-302917585.html",
@@ -974,6 +956,22 @@
       "sentiment": 0.0,
       "tickers": [
         "CIVB"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Hyperliquid Strategies Inc Announces Increase of Stock Repurchase Program to $100 Million",
+      "summary": "NEW YORK, Oct. 23, 2026 /PRNewswire/ -- Hyperliquid Strategies Inc (NASDAQ: PURR) (\"HSI\" or the \"Company\"), the premier digital asset treasury platform focused on the Hyperliquid ecosystem, today announced that its Board of Directors has authorized an increase to its previously a",
+      "url": "https://www.prnewswire.com/news-releases/hyperliquid-strategies-inc-announces-increase-of-stock-repurchase-program-to-100-million-302918312.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-23T20:15:00Z",
+      "epoch": 1792786500,
+      "sentiment": 0.0,
+      "tickers": [
+        "PURR"
       ],
       "company_name": null,
       "catalyst": false,
@@ -1022,20 +1020,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "Goranson Bain Ausley Partner Lindsey Obenhaus Earns Certified Divorce Financial Analyst® Designation",
-      "summary": "Additional credential enhances the financial insight she brings to complex divorce matters and helps clients make informed decisions about their futures. DALLAS, Oct. 23, 2026 /PRNewswire/ -- Goranson Bain Ausley is pleased to announce that Dallas partner Lindsey Obenhaus has ear",
-      "url": "https://www.prnewswire.com/news-releases/goranson-bain-ausley-partner-lindsey-obenhaus-earns-certified-divorce-financial-analyst-designation-302918433.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-23T19:32:00Z",
-      "epoch": 1792783920,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "8-K - Greenwave Technology Solutions, Inc. (0001589149) (Filer)",
@@ -2154,6 +2138,20 @@
       "small_cap_risk": false
     },
     {
+      "title": "ESMO: Merck, Kelun’s ‘workhorse’ ADC posts major tumor progression benefit in PD-L1-negative NSCLC",
+      "summary": "Sac-TMT showed a strong tumor progression benefit in first-line, PD-L1-negative non-small cell lung cancer in a China phase 3 trial that could help Merck close a high-stakes gap in its expansive global development program for the Kelun-Biotech-partnered ADC.",
+      "url": "https://www.fiercepharma.com/pharma/merck-kelun-workhorse-adc-posts-major-tumor-progression-benefit-pd-l1-negative-nsclc",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-10-23T11:38:00Z",
+      "epoch": 1792755480,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
       "title": "Argenx confirmatory trial update for Vyvgart puts small dent in strong Q3",
       "summary": "Argenx's third quarter report reflected strong sales and pipeline plans, but investors took issue with high operating expenses and a new phase 3 requirement.",
       "url": "https://www.fiercepharma.com/pharma/argenx-pipeline-wobbles-overshadow-strong-vyvgart-sales",
@@ -2954,20 +2952,6 @@
       "tickers": [
         "GSK.L"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "FDA solidifies stance on mobile apps, software used with prescription drugs in final guidance",
-      "summary": "The agency clarified its framework for when drugmakers should include prescription drug apps in their labeling submissions or when app content should instead be treated as promotional material.",
-      "url": "https://www.fiercepharma.com/marketing/fda-solidifies-stance-prescription-drug-mobile-apps-software-final-guidance",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-10-20T18:12:00Z",
-      "epoch": 1792519920,
-      "sentiment": 0.0,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
