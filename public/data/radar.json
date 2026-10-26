@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-25T23:15:13Z",
+  "generated_at": "2026-10-26T01:27:29Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 143,
+    "breaking_count": 145,
     "breaking_catalyst_count": 29,
     "pipeline_count": 59,
-    "pipeline_catalyst_count": 17,
+    "pipeline_catalyst_count": 18,
     "movers_count": 0
   },
   "trending_tickers": [
     {
-      "ticker": "ROG",
-      "count": 7,
+      "ticker": "AZN.L",
+      "count": 6,
       "catalyst_count": 3,
       "source_count": 3
     },
     {
-      "ticker": "AZN.L",
+      "ticker": "ROG",
       "count": 6,
       "catalyst_count": 3,
       "source_count": 3
@@ -40,16 +40,16 @@
       "source_count": 2
     },
     {
+      "ticker": "BMY",
+      "count": 3,
+      "catalyst_count": 2,
+      "source_count": 1
+    },
+    {
       "ticker": "MRNA",
       "count": 3,
       "catalyst_count": 1,
       "source_count": 2
-    },
-    {
-      "ticker": "BMY",
-      "count": 2,
-      "catalyst_count": 1,
-      "source_count": 1
     },
     {
       "ticker": "MRK",
@@ -554,9 +554,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "Miranda Lambert dará inicio a la Campaña Red Kettle del Ejército de Salvación con una actuación durante el medio tiempo del partido de Acción de Gracias de los Dallas Cowboys",
-      "summary": "Este año se cumple el 30.º aniversario de una iniciativa en la que artistas emblemáticos fomentan la solidaridad mediante actuaciones en directo, retransmitidas a nivel nacional, durante el partido de la temporada regular con mayor audiencia FRISCO, Texas, 25 de octubre de 2026..",
-      "url": "https://www.prnewswire.com/news-releases/miranda-lambert-dara-inicio-a-la-campana-red-kettle-del-ejercito-de-salvacion-con-una-actuacion-durante-el-medio-tiempo-del-partido-de-accion-de-gracias-de-los-dallas-cowboys-826908448.html",
+      "title": "Miranda Lambert To Kick Off Salvation Army's Red Kettle Campaign With Dallas Cowboys Thanksgiving Game Halftime Performance",
+      "summary": "This year marks the 30th anniversary of iconic artists inspiring giving with live, nationally televised performances during the most-watched regular season game FRISCO, Texas, Oct. 25, 2026 /PRNewswire/ -- Multi-Platinum, three-time Grammy Award-winning country music superstar Mi",
+      "url": "https://www.prnewswire.com/news-releases/miranda-lambert-to-kick-off-salvation-armys-red-kettle-campaign-with-dallas-cowboys-thanksgiving-game-halftime-performance-302918584.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
       "published_at": "2026-10-25T17:05:00Z",
@@ -568,9 +568,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "Miranda Lambert To Kick Off Salvation Army's Red Kettle Campaign With Dallas Cowboys Thanksgiving Game Halftime Performance",
-      "summary": "This year marks the 30th anniversary of iconic artists inspiring giving with live, nationally televised performances during the most-watched regular season game FRISCO, Texas, Oct. 25, 2026 /PRNewswire/ -- Multi-Platinum, three-time Grammy Award-winning country music superstar Mi",
-      "url": "https://www.prnewswire.com/news-releases/miranda-lambert-to-kick-off-salvation-armys-red-kettle-campaign-with-dallas-cowboys-thanksgiving-game-halftime-performance-302918584.html",
+      "title": "Miranda Lambert dará inicio a la Campaña Red Kettle del Ejército de Salvación con una actuación durante el medio tiempo del partido de Acción de Gracias de los Dallas Cowboys",
+      "summary": "Este año se cumple el 30.º aniversario de una iniciativa en la que artistas emblemáticos fomentan la solidaridad mediante actuaciones en directo, retransmitidas a nivel nacional, durante el partido de la temporada regular con mayor audiencia FRISCO, Texas, 25 de octubre de 2026..",
+      "url": "https://www.prnewswire.com/news-releases/miranda-lambert-dara-inicio-a-la-campana-red-kettle-del-ejercito-de-salvacion-con-una-actuacion-durante-el-medio-tiempo-del-partido-de-accion-de-gracias-de-los-dallas-cowboys-826908448.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
       "published_at": "2026-10-25T17:05:00Z",
@@ -638,9 +638,37 @@
       "small_cap_risk": false
     },
     {
-      "title": "Johnson &amp; Johnson reports 75% tumor response rate in advanced prostate cancer with JNJ-6143, a first-in-class RIPTAC™ molecule",
-      "summary": "JNJ-6143 is an investigational, once-daily, novel, small molecule designed to trigger cancer cell death through a targeted dual-protein lock between BRD4 and androgen receptor, a highly expressed tumor-selective protein in prostate cancer cells Among patients with measurable dise",
-      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-reports-75-tumor-response-rate-in-advanced-prostate-cancer-with-jnj-6143-a-first-in-class-riptac-molecule-302918733.html",
+      "title": "Monster Energy and Call of Duty® Take Over Cosm Los Angeles for Immersive Modern Warfare® 4 Launch Celebration",
+      "summary": "Celebrities, athletes and creators came together for an action-packed night of gaming, immersive entertainment and exclusive experiences on Cosm's massive Shared Reality Display. INGLEWOOD, Calif., Oct. 25, 2026 /PRNewswire/ -- Monster Energy transformed Cosm Los Angeles into the",
+      "url": "https://www.prnewswire.com/news-releases/monster-energy-and-call-of-duty-take-over-cosm-los-angeles-for-immersive-modern-warfare-4-launch-celebration-302918764.html",
+      "source": "PR Newswire — Clinical Trials/FDA",
+      "source_id": "prnewswire-trials-fda",
+      "published_at": "2026-10-25T12:36:00Z",
+      "epoch": 1792931760,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Come Back to Firefox: Mozilla launches its most ambitious campaign yet to bring people back to the independent alternative to big tech browsers",
+      "summary": "As tracking and unwanted AI reshape the web, Firefox reunites the internet's original viral icons to make the case for a browser that puts people back in control. SAN FRANCISCO, Oct. 25, 2026 /PRNewswire/ -- In its new campaign, Come Back to Firefox, the independent browser by Mo",
+      "url": "https://www.prnewswire.com/news-releases/come-back-to-firefox-mozilla-launches-its-most-ambitious-campaign-yet-to-bring-people-back-to-the-independent-alternative-to-big-tech-browsers-302918568.html",
+      "source": "PR Newswire — Clinical Trials/FDA",
+      "source_id": "prnewswire-trials-fda",
+      "published_at": "2026-10-25T12:00:00Z",
+      "epoch": 1792929600,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "New data on Lilly's investigational treatment olomorasib at ESMO 2026 show durable first-line activity in KRAS G12C-mutant non-small cell lung cancer",
+      "summary": "Data presented at ESMO highlight the promising efficacy of olomorasib in combination with standard-of-care immunotherapy with or without chemotherapy in first-line advanced KRAS G12C-mutant non-small cell lung cancer (NSCLC) across PD-L1 expression levels First-line treatment opt",
+      "url": "https://www.prnewswire.com/news-releases/new-data-on-lillys-investigational-treatment-olomorasib-at-esmo-2026-show-durable-first-line-activity-in-kras-g12c-mutant-non-small-cell-lung-cancer-302918479.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
       "published_at": "2026-10-25T07:30:00Z",
@@ -652,9 +680,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "New data on Lilly's investigational treatment olomorasib at ESMO 2026 show durable first-line activity in KRAS G12C-mutant non-small cell lung cancer",
-      "summary": "Data presented at ESMO highlight the promising efficacy of olomorasib in combination with standard-of-care immunotherapy with or without chemotherapy in first-line advanced KRAS G12C-mutant non-small cell lung cancer (NSCLC) across PD-L1 expression levels First-line treatment opt",
-      "url": "https://www.prnewswire.com/news-releases/new-data-on-lillys-investigational-treatment-olomorasib-at-esmo-2026-show-durable-first-line-activity-in-kras-g12c-mutant-non-small-cell-lung-cancer-302918479.html",
+      "title": "Johnson &amp; Johnson reports 75% tumor response rate in advanced prostate cancer with JNJ-6143, a first-in-class RIPTAC™ molecule",
+      "summary": "JNJ-6143 is an investigational, once-daily, novel, small molecule designed to trigger cancer cell death through a targeted dual-protein lock between BRD4 and androgen receptor, a highly expressed tumor-selective protein in prostate cancer cells Among patients with measurable dise",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-reports-75-tumor-response-rate-in-advanced-prostate-cancer-with-jnj-6143-a-first-in-class-riptac-molecule-302918733.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
       "published_at": "2026-10-25T07:30:00Z",
@@ -2104,6 +2132,22 @@
   ],
   "pipeline": [
     {
+      "title": "ESMO: BMS’ Massacesi hails ‘very promising’ data for BioNTech-partnered PD-L1xVEGF-A drug",
+      "summary": "Bristol Myers Squibb Chief Medical Officer Cristian Massacesi, M.D., has told Fierce that the latest data for its BioNTech-partnered PD-L1xVEGF-A drug are “very promising,” as phase 3 ambitions ramp up.v",
+      "url": "https://www.fiercebiotech.com/biotech/esmo-bms-massacesi-hails-very-promising-data-biontech-partnered-pd-l1xvegf-drug",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-10-25T12:03:00Z",
+      "epoch": 1792929780,
+      "sentiment": 0.0,
+      "tickers": [
+        "BMY"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
       "title": "‘Infinite potential’: Akeso CEO looks for more ivonescimab combos amid AstraZeneca investment, new phase 3 win",
       "summary": "With ivonescimab’s first phase 3 win outside lung cancer and a $2 billion investment from AstraZeneca in its U.S. partner Summit Therapeutics, Akeso CEO Michelle Xia, Ph.D., is expecting more combination opportunities for its star PD-1xVEGF bispecific.",
       "url": "https://www.fiercepharma.com/pharma/akeso-ceo-looks-more-ivonescimab-combos-amid-astrazeneca-investment-new-phase-3-win",
@@ -2802,22 +2846,6 @@
       "epoch": 1792646880,
       "sentiment": 0.33,
       "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Roche’s CEO has ‘absolutely not’ changed tune on Poseida despite scrapping CAR-T from the buyout",
-      "summary": "Roche’s CEO has insisted to Fierce that the company’s view on its $1.5 billion Poseida buyout has “absolutely not” changed, even as the Swiss pharma scraps one of the CAR-T therapy’s from the acquisition.",
-      "url": "https://www.fiercebiotech.com/biotech/roches-ceo-has-absolutely-not-changed-tune-15b-poseida-buy-despite-scrapping-asset",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-10-22T04:21:00Z",
-      "epoch": 1792642860,
-      "sentiment": 0.0,
-      "tickers": [
-        "ROG"
-      ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
