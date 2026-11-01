@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-01T19:51:21Z",
+  "generated_at": "2026-11-01T23:19:37Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 147,
-    "breaking_catalyst_count": 23,
+    "breaking_count": 149,
+    "breaking_catalyst_count": 24,
     "pipeline_count": 57,
     "pipeline_catalyst_count": 10,
     "movers_count": 0
@@ -64,7 +64,7 @@
       "source_count": 2
     },
     {
-      "ticker": "CTSH",
+      "ticker": "DLR",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 1
@@ -73,6 +73,20 @@
   "movers": [],
   "concentration_warning": null,
   "breaking": [
+    {
+      "title": "Abbott's TECTONIC clinical trial demonstrates strong 30-day outcomes and high procedural success for its investigational SonicForce™ Coronary Intravascular Lithotripsy System",
+      "summary": "SonicForce is an investigational coronary intravascular lithotripsy (IVL) system that uses acoustic pressure waves, similar to those used to break up kidney stones, to crack calcium in coronary arteries and restore blood flow The system is designed to bring purposeful innovation ",
+      "url": "https://www.prnewswire.com/news-releases/abbotts-tectonic-clinical-trial-demonstrates-strong-30-day-outcomes-and-high-procedural-success-for-its-investigational-sonicforce-coronary-intravascular-lithotripsy-system-302925602.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-01T20:45:00Z",
+      "epoch": 1793565900,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
     {
       "title": "Zhimeng Biopharma has completed the patients enrollment of its investigational drug, CB03-154, in the pivotal Phase 2/3 ALS clinical trial.",
       "summary": "SHANGHAI, Oct. 31, 2026 /PRNewswire/ -- Shanghai Zhimeng Biopharma, Inc. ( \"Zhimeng Biopharma\") announced today that its independently developed next-generation potassium channel opener, CB03-154, intended for the treatment of amyotrophic lateral sclerosis (ALS), has successfully",
@@ -402,6 +416,104 @@
       "small_cap_risk": false
     },
     {
+      "title": "'Dedicate' Premieres in the Philippines as Millions Worldwide are Getting a Glimpse of Young Latter-day Saints ahead of the Salt Lake Temple Celebration",
+      "summary": "The series has surpassed 2 million views as it brings together audiences across the globe MANILA, Philippines, Nov. 1, 2026 /PRNewswire/ -- Hundreds gathered at the Missionary Training Center (MTC) near the Manila Philippines Temple of The Church of Jesus Christ of Latter-day Sai",
+      "url": "https://www.prnewswire.com/news-releases/dedicate-premieres-in-the-philippines-as-millions-worldwide-are-getting-a-glimpse-of-young-latter-day-saints-ahead-of-the-salt-lake-temple-celebration-302925819.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-01T21:40:00Z",
+      "epoch": 1793569200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Am Rande der Gateway Gulf 2026: Mumtalakat und die ARP Group schließen sich zusammen, um eine KI-basierte Großbank in Bahrain zu gründen",
+      "summary": "Die geplante Bank soll institutionelle Kunden mit regionalen und internationalen Bankbedürfnissen unterstützen. MANAMA, Bahrain, 1. November 2026 /PRNewswire/ -- Die Bahrain Mumtalakat Holding Company (Mumtalakat), der Staatsfonds des Königreichs Bahrain, und die ARP Group haben ",
+      "url": "https://www.prnewswire.com/news-releases/am-rande-der-gateway-gulf-2026-mumtalakat-und-die-arp-group-schlieWen-sich-zusammen-um-eine-ki-basierte-groWbank-in-bahrain-zu-grunden-302925815.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-01T21:19:00Z",
+      "epoch": 1793567940,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "HYPEVERSE Introduces the First Virtual K-Pop Idol Group Made for American Audiences",
+      "summary": "SEOUL, South Korea, NEW YORK and LOS ANGELES, Nov. 1, 2026 /PRNewswire/ -- Artists from Japan, the United States, Korea and Europe unite to create a new entertainment multiverse for Gen Z and Gen Alpha. Philandart Studio introduces HYPEVERSE as the first virtual K-pop idol group ",
+      "url": "https://www.prnewswire.com/news-releases/hypeverse-introduces-the-first-virtual-k-pop-idol-group-made-for-american-audiences-302925533.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-01T21:00:00Z",
+      "epoch": 1793566800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Shenzhen odhaľuje úvodnú pieseň a hudobný videoklip pre hostiteľské mesto APEC Čína 2026",
+      "summary": "SHANZHEN, Čína,/PRNewswire/ – Titulnú pieseň hostiteľského mesta pre APEC Čína 2026 s názvom „Stretneme sa tam, kde kvitnú zázraky\" (在奇迹之城遇见你) produkovalo oddelenie publicity Mestského výboru KS Číny v Shenzhene a vytvorila spoločnosť Shenzhen Media Group. Pieseň, ktorú napísal a",
+      "url": "https://www.prnewswire.com/news-releases/shenzhen-odhauje-uvodnu-piese-a-hudobny-videoklip-pre-hostiteske-mesto-apec-ina-2026-302925810.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-01T20:47:00Z",
+      "epoch": 1793566020,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Le Bahreïn décerne des licences d'exploitation à quatre nouveaux projets dans le cadre du programme Gateway Gulf 2026, d'une valeur de 3,89 milliards de dollars américains.",
+      "summary": "Couvrant la logistique aéronautique, l'immobilier et la technologie, les derniers projets bénéficiant de la Licence d'Or soulignent l'attrait croissant du Bahreïn pour les investissements mondiaux et ses ambitions de croissance diversifiée. MANAMA, Bahreïn, 1er novembre 2026 /PRN",
+      "url": "https://www.prnewswire.com/news-releases/le-bahrein-decerne-des-licences-dexploitation-a-quatre-nouveaux-projets-dans-le-cadre-du-programme-gateway-gulf-2026--dune-valeur-de-3-89-milliards-de-dollars-americains-302925807.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-01T20:45:00Z",
+      "epoch": 1793565900,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Bahrain vergibt goldene Lizenzen an vier neue Projekte im Rahmen von Gateway Gulf 2026 im Wert von 3,89 Milliarden US-Dollar.",
+      "summary": "Die jüngsten Projekte im Rahmen der Goldenen Lizenz, die von Luftfahrtlogistik über Immobilien bis hin zu Technologie reichen, unterstreichen Bahrains wachsende globale Attraktivität für Investoren und seine diversifizierten Wachstumsambitionen. MANAMA, Bahrain, 1. November 2026.",
+      "url": "https://www.prnewswire.com/news-releases/bahrain-vergibt-goldene-lizenzen-an-vier-neue-projekte-im-rahmen-von-gateway-gulf-2026-im-wert-von-3-89-milliarden-us-dollar-302925804.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-01T20:40:00Z",
+      "epoch": 1793565600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "La plateforme Context Labs AI Distillery™ permet aux entreprises d'exécuter une IA souveraine sur leurs propres données",
+      "summary": "La société lance son moteur contextuel pour une IA souveraine de confiance, qui regroupe les données propres à une entreprise avec une traçabilité vérifiée pour une utilisation avec le modèle de pointe ou à poids ouvert choisi par l'entreprise. ABOU DABI, Émirats arabes unis, 1er",
+      "url": "https://www.prnewswire.com/news-releases/la-plateforme-context-labs-ai-distillery-permet-aux-entreprises-dexecuter-une-ia-souveraine-sur-leurs-propres-donnees-302925796.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-01T20:08:00Z",
+      "epoch": 1793563680,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Investcorp Announces Aggregate Financial Activity for 2026 at Gateway Gulf Investment Forum",
       "summary": "Global investment manager reports US$65.2 billion in assets under management and strong investment and fundraising momentum during the first nine months of 2026 MANAMA, Bahrain, Nov. 1, 2026 /PRNewswire/ -- Investcorp, a leading global alternative investment manager, today announ",
       "url": "https://www.prnewswire.com/news-releases/investcorp-announces-aggregate-financial-activity-for-2026-at-gateway-gulf-investment-forum-302925789.html",
@@ -556,27 +668,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "Best Reddit Marketing Agency for Enterprise Brands: Nicely Network Named by Better Business Advice",
-      "summary": "NEW YORK, Nov. 1, 2026 /PRNewswire/ -- Nicely Network has been named Best Reddit Marketing Agency for Enterprise Brands for November 2026 by Better Business Advice, recognizing its work combining Reddit campaigns, high-authority article placements and search visibility reporting ",
-      "url": "https://www.prnewswire.com/news-releases/best-reddit-marketing-agency-for-enterprise-brands-nicely-network-named-by-better-business-advice-302925751.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-01T16:30:00Z",
-      "epoch": 1793550600,
-      "sentiment": 0.0,
-      "tickers": [
-        "RDDT"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "MNA: Brigham Nurses Issue Notice for Open-Ended Strike Beginning November 12 in Fight for Patient Safety and a Fair Contract",
       "summary": "Nurses prepare for largest open-ended strike in MA history as they work to negotiate a fair contract that helps ensure safe patient care BOSTON, Nov. 1, 2026 /PRNewswire/ -- Registered nurses at Brigham and Women's Hospital (BWH), represented by the Massachusetts Nurses Associati",
       "url": "https://www.prnewswire.com/news-releases/mna-brigham-nurses-issue-notice-for-open-ended-strike-beginning-november-12-in-fight-for-patient-safety-and-a-fair-contract-302925763.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-11-01T16:16:00Z",
       "epoch": 1793549760,
       "sentiment": 0.0,
@@ -628,20 +724,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Expansion to Champion: New Era Celebrates Golden State Valkyries' First-Ever WNBA Title with Championship Collection",
-      "summary": "New Era® x 2026 WNBA Championship Collection Images LINKED HERE BUFFALO, N.Y., Nov. 1, 2026 /PRNewswire/ -- New Era celebrates the Golden State Valkyries' first WNBA title with the unveiling of its 2026 WNBA Championship Collection. As the Official Cap of the Women's National Bas",
-      "url": "https://www.prnewswire.com/news-releases/expansion-to-champion-new-era-celebrates-golden-state-valkyries-first-ever-wnba-title-with-championship-collection-302925750.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-01T15:00:00Z",
-      "epoch": 1793545200,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Bahrain Awards Golden Licenses to Four New Projects at Gateway Gulf 2026 Valued at USD 3.89 Billion",
       "summary": "Spanning aviation logistics, real estate, and technology, the latest Golden License projects underscore Bahrain's growing global investment appeal and diversified growth ambitions MANAMA, Bahrain, Nov. 1, 2026 /PRNewswire/ -- The Kingdom of Bahrain announced USD 3.89 billion in i",
       "url": "https://www.prnewswire.com/news-releases/bahrain-awards-golden-licenses-to-four-new-projects-at-gateway-gulf-2026-valued-at-usd-3-89-billion-302925748.html",
@@ -684,9 +766,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "Accounting Expert David Riggs Explains S Corp Reasonable Salary and Distributions in HelloNation",
-      "summary": "The article explains how owner compensation affects payroll taxes and why salary decisions need supporting records. KEY HIGHLIGHTS Working S corporation owners must receive reasonable compensation before taking shareholder distributions. Duties, experience, hours worked, and comp",
-      "url": "https://www.prnewswire.com/news-releases/accounting-expert-david-riggs-explains-s-corp-reasonable-salary-and-distributions-in-hellonation-302925330.html",
+      "title": "Real Estate Expert Matt Nuzie Explains Comparative Market Analysis and Listing Prices in HelloNation",
+      "summary": "The article explains how recent sales, comparable properties, and local market conditions help homeowners evaluate a realistic listing price. KEY HIGHLIGHTS Recent sales of similar nearby homes provide the foundation for estimating a property's market value. Property differences,",
+      "url": "https://www.prnewswire.com/news-releases/real-estate-expert-matt-nuzie-explains-comparative-market-analysis-and-listing-prices-in-hellonation-302925428.html",
       "source": "PR Newswire — Financial",
       "source_id": "prnewswire-financial",
       "published_at": "2026-11-01T11:00:00Z",
@@ -698,9 +780,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "Real Estate Expert Matt Nuzie Explains Comparative Market Analysis and Listing Prices in HelloNation",
-      "summary": "The article explains how recent sales, comparable properties, and local market conditions help homeowners evaluate a realistic listing price. KEY HIGHLIGHTS Recent sales of similar nearby homes provide the foundation for estimating a property's market value. Property differences,",
-      "url": "https://www.prnewswire.com/news-releases/real-estate-expert-matt-nuzie-explains-comparative-market-analysis-and-listing-prices-in-hellonation-302925428.html",
+      "title": "Accounting Expert David Riggs Explains S Corp Reasonable Salary and Distributions in HelloNation",
+      "summary": "The article explains how owner compensation affects payroll taxes and why salary decisions need supporting records. KEY HIGHLIGHTS Working S corporation owners must receive reasonable compensation before taking shareholder distributions. Duties, experience, hours worked, and comp",
+      "url": "https://www.prnewswire.com/news-releases/accounting-expert-david-riggs-explains-s-corp-reasonable-salary-and-distributions-in-hellonation-302925330.html",
       "source": "PR Newswire — Financial",
       "source_id": "prnewswire-financial",
       "published_at": "2026-11-01T11:00:00Z",
@@ -756,9 +838,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "CJ BIO presentará soluciones de nutrición animal orientadas al futuro en EuroTier 2026",
-      "summary": "\"Feed Intelligence for Sustainable Performance\" FRANKFURT, Alemania, 1 de noviembre de 2026 /PRNewswire/ -- CJ BIO participará en EuroTier 2026, que se celebrará del 10 al 13 de noviembre de 2026 en Hannover, Alemania, para presentar sus soluciones de nutrición animal a clientes ",
-      "url": "https://www.prnewswire.com/news-releases/cj-bio-presentara-soluciones-de-nutricion-animal-orientadas-al-futuro-en-eurotier-2026-302920120.html",
+      "title": "CJ BIO to Showcase Future-Ready Animal Nutrition Solutions at EuroTier 2026",
+      "summary": "\"Feed Intelligence for Sustainable Performance,\" FRANKFURT, Germany, Nov. 1, 2026 /PRNewswire/ -- CJ BIO will participate in EuroTier 2026, taking place from November 10 to 13, 2026, in Hanover, Germany, to present its animal nutrition solutions to global customers and industry p",
+      "url": "https://www.prnewswire.com/news-releases/cj-bio-to-showcase-future-ready-animal-nutrition-solutions-at-eurotier-2026-302920126.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
       "published_at": "2026-11-01T07:00:00Z",
@@ -770,9 +852,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "CJ BIO to Showcase Future-Ready Animal Nutrition Solutions at EuroTier 2026",
-      "summary": "\"Feed Intelligence for Sustainable Performance,\" FRANKFURT, Germany, Nov. 1, 2026 /PRNewswire/ -- CJ BIO will participate in EuroTier 2026, taking place from November 10 to 13, 2026, in Hanover, Germany, to present its animal nutrition solutions to global customers and industry p",
-      "url": "https://www.prnewswire.com/news-releases/cj-bio-to-showcase-future-ready-animal-nutrition-solutions-at-eurotier-2026-302920126.html",
+      "title": "CJ BIO presentará soluciones de nutrición animal orientadas al futuro en EuroTier 2026",
+      "summary": "\"Feed Intelligence for Sustainable Performance\" FRANKFURT, Alemania, 1 de noviembre de 2026 /PRNewswire/ -- CJ BIO participará en EuroTier 2026, que se celebrará del 10 al 13 de noviembre de 2026 en Hannover, Alemania, para presentar sus soluciones de nutrición animal a clientes ",
+      "url": "https://www.prnewswire.com/news-releases/cj-bio-presentara-soluciones-de-nutricion-animal-orientadas-al-futuro-en-eurotier-2026-302920120.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
       "published_at": "2026-11-01T07:00:00Z",
@@ -998,20 +1080,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "Ondo Intelligent Portfolios erweitert sein Angebot um Solana",
-      "summary": "Nachdem in den ersten vier Wochen ein Total Value Locked (TVL) von mehr als 40 Millionen US-Dollar erreicht wurde, sind nun alle sieben Ondo Intelligent Portfolios für berechtigte Anleger über Solana‑Wallets und -Apps verfügbar. GREENWICH, Connecticut, 29. Oktober 2026 /PRNewswir",
-      "url": "https://www.prnewswire.com/news-releases/ondo-intelligent-portfolios-erweitert-sein-angebot-um-solana-302925480.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-30T23:24:00Z",
-      "epoch": 1793402640,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "aphranel® accueille des médecins européens en Chine pour des échanges cliniques",
       "summary": "Un programme d'une semaine intitulé The Norns' Weave examine la pratique clinique chinoise et ses applications potentielles en Europe SHANGHAI, 30 octobre 2026 /PRNewswire/ -- aphranel®, la marque d'esthétique régénérative de MOYOM Biotech, a lancé un programme d'échange clinique",
       "url": "https://www.prnewswire.com/news-releases/aphranel-accueille-des-medecins-europeens-en-chine-pour-des-echanges-cliniques-302925466.html",
@@ -1021,50 +1089,6 @@
       "epoch": 1793401200,
       "sentiment": 0.0,
       "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Pakistans Banken bestehen den Klima- und Naturschutztest nicht: Unzureichende Schutzvorkehrungen bei der Kreditvergabe",
-      "summary": "BANGKOK, 30. Oktober 2026 /PRNewswire/ -- Sieben große pakistanische Geschäftsbanken erzielen bei der Bewertung ihrer Klimaschutzrichtlinien im Durchschnitt lediglich 1,12 von 10 Punkten und beim Schutz der Biodiversität nur 1,69 Punkte. Dies verdeutlicht die erhebliche Kluft zwi",
-      "url": "https://www.prnewswire.com/news-releases/pakistans-banken-bestehen-den-klima--und-naturschutztest-nicht-unzureichende-schutzvorkehrungen-bei-der-kreditvergabe-302925458.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-30T22:53:00Z",
-      "epoch": 1793400780,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Medicilon udeľuje spoločnosti Revolution Medicines „Cenu za vynikajúce partnerstvo s klientom\"",
-      "summary": "BOSTON, 30. októbra 2026 /PRNewswire/ – Dr. Yang Liu, riaditeľ oddelenia medicínskej chémie v spoločnosti Revolution Medicines, Inc., a Dr. Kristof Pota, vedúci vedecký pracovník, navštívili výskumné a vývojové centrum Nanhui spoločnosti Medicilon. Privítali ich Dr. Maosheng Duan",
-      "url": "https://www.prnewswire.com/news-releases/medicilon-udeuje-spolonosti-revolution-medicines-cenu-za-vynikajuce-partnerstvo-s-klientom-302925450.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-10-30T22:46:00Z",
-      "epoch": 1793400360,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Cognizant setzt mehr als 25.000 Fachkräfte für die Umsetzung von OpenAI-Lösungen ein, während Unternehmen bahnbrechende KI-Technologien in die Produktion überführen",
-      "summary": "Die neue „OpenAI Frontier Capability Group\" von Cognizant vereint mehr als 25.000 Fachkräfte in einer globalen OpenAI-Umsetzungsorganisation Cognizant skaliert OpenAI zunächst in den eigenen Vertriebs- und Kundenerfolgsabteilungen, damit Kunden von Ansätzen profitieren können, di",
-      "url": "https://www.prnewswire.com/news-releases/cognizant-setzt-mehr-als-25-000-fachkrafte-fur-die-umsetzung-von-openai-losungen-ein-wahrend-unternehmen-bahnbrechende-ki-technologien-in-die-produktion-uberfuhren-302925415.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-30T22:17:00Z",
-      "epoch": 1793398620,
-      "sentiment": 0.0,
-      "tickers": [
-        "CTSH"
-      ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
