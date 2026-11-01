@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-31T22:49:59Z",
+  "generated_at": "2026-11-01T01:47:59Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 145,
+    "breaking_count": 148,
     "breaking_catalyst_count": 24,
     "pipeline_count": 57,
     "pipeline_catalyst_count": 10,
@@ -413,6 +413,48 @@
       "tickers": [],
       "company_name": "Franklin Bsp Capital Corp",
       "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "A new way to explore Japan with AI: Naviu AR Travel Companion for Japan Launches November 1 2026",
+      "summary": "Patent pending geospatial technology brings 29 language guidance and city scale AR navigation to travelers TOKYO, Oct. 31, 2026 /PRNewswire/ -- Naviu, a business under TANGLE Inc., offering an AI-powered augmented-reality travel companion for Japan, launches on iOS and Android on",
+      "url": "https://www.prnewswire.com/news-releases/a-new-way-to-explore-japan-with-ai-naviu-ar-travel-companion-for-japan-launches-november-1-2026-302925556.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-01T01:00:00Z",
+      "epoch": 1793494800,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "From IFA Berlin to CES 2027: OlloBot Continues Its Journey in Emotional Companionship",
+      "summary": "HONG KONG, Oct. 31, 2026 /PRNewswire/ -- AI companion robot brand OlloBot made its European debut at IFA Berlin 2026, where its AI companion robot OlloNi SS1 was named an Honoree in the Best in Home & Entertainment category of the IFA Innovation Awards. The recognition, alongside",
+      "url": "https://www.prnewswire.com/news-releases/from-ifa-berlin-to-ces-2027-ollobot-continues-its-journey-in-emotional-companionship-302925063.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-01T01:00:00Z",
+      "epoch": 1793494800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "MATT ROBERTSON WINS RECORD $1.25M IN INAUGURAL WORLD BASS ENTERPRISES' \"THE CHAMPIONS\" TOURNAMENT",
+      "summary": "World Bass Enterprises Featured Field of 62 Top Anglers Competing for Record-Breaking $3.25M Prize Purse Robertson Takes Home Record First-Place Prize with Championship Catch of 20 lbs. 2 oz. Pake South Wins $500K Second Place Prize; Wesley Strader Wins $300K Third Place Prize Te",
+      "url": "https://www.prnewswire.com/news-releases/matt-robertson-wins-record-1-25m-in-inaugural-world-bass-enterprises-the-champions-tournament-302925654.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-01T00:18:00Z",
+      "epoch": 1793492280,
+      "sentiment": 1.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
       "small_cap_risk": false
     },
     {
@@ -918,22 +960,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "NEUBERGER NEXT GENERATION CONNECTIVITY FUND INC. NOTICE TO SHAREHOLDERS - SOURCES OF DISTRIBUTION UNDER SECTION 19(a)",
-      "summary": "NEW YORK, Oct. 30, 2026 /PRNewswire/ -- This announcement provides stockholders of Neuberger Next Generation Connectivity Fund Inc. (NYSE: NBXG) (the \"Fund\") with important information concerning the sources of distribution declared in September 2026, as required by the Fund's ma",
-      "url": "https://www.prnewswire.com/news-releases/neuberger-next-generation-connectivity-fund-inc-notice-to-shareholders---sources-of-distribution-under-section-19a-302924514.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-30T20:30:00Z",
-      "epoch": 1793392200,
-      "sentiment": 0.0,
-      "tickers": [
-        "NBXG"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "NEUBERGER NEXT GENERATION CONNECTIVITY FUND ANNOUNCES INCREASE IN DISTRIBUTION RATE AND DECLARATION OF NEXT MONTHLY DISTRIBUTION",
       "summary": "NEW YORK, Oct. 30, 2026 /PRNewswire/ -- Neuberger Next Generation Connectivity Fund Inc. (NYSE: NBXG) (the \"Fund\") has announced a distribution declaration of $0.132 per share of common stock. The distribution announced today is payable on November 30, 2026, has a record date of ",
       "url": "https://www.prnewswire.com/news-releases/neuberger-next-generation-connectivity-fund-announces-increase-in-distribution-rate-and-declaration-of-next-monthly-distribution-302924384.html",
@@ -942,6 +968,22 @@
       "published_at": "2026-10-30T20:30:00Z",
       "epoch": 1793392200,
       "sentiment": 0.33,
+      "tickers": [
+        "NBXG"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "NEUBERGER NEXT GENERATION CONNECTIVITY FUND INC. NOTICE TO SHAREHOLDERS - SOURCES OF DISTRIBUTION UNDER SECTION 19(a)",
+      "summary": "NEW YORK, Oct. 30, 2026 /PRNewswire/ -- This announcement provides stockholders of Neuberger Next Generation Connectivity Fund Inc. (NYSE: NBXG) (the \"Fund\") with important information concerning the sources of distribution declared in September 2026, as required by the Fund's ma",
+      "url": "https://www.prnewswire.com/news-releases/neuberger-next-generation-connectivity-fund-inc-notice-to-shareholders---sources-of-distribution-under-section-19a-302924514.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-30T20:30:00Z",
+      "epoch": 1793392200,
+      "sentiment": 0.0,
       "tickers": [
         "NBXG"
       ],
@@ -1009,22 +1051,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "John Hancock Premium Dividend Fund Notice to Shareholders - Sources of Distribution Under Section 19(a)",
-      "summary": "BOSTON, Oct. 30, 2026 /PRNewswire/ -- John Hancock Premium Dividend Fund (NYSE: PDT) (the \"Fund\"), a closed-end fund managed by John Hancock Investment Management LLC and subadvised by Manulife Investment Management (US) LLC, announced today sources of its monthly distribution of",
-      "url": "https://www.prnewswire.com/news-releases/john-hancock-premium-dividend-fund-notice-to-shareholders--sources-of-distribution-under-section-19a-302924069.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-10-30T20:10:00Z",
-      "epoch": 1793391000,
-      "sentiment": 0.67,
-      "tickers": [
-        "PDT"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "John Hancock Tax-Advantaged Dividend Income Fund Notice to Shareholders - Sources of Distribution Under Section 19(a)",
       "summary": "BOSTON, Oct. 30, 2026 /PRNewswire/ -- John Hancock Tax-Advantaged Dividend Income Fund (NYSE: HTD) (the \"Fund\"), a closed-end fund managed by John Hancock Investment Management LLC and subadvised by Manulife Investment Management (US) LLC, announced today sources of its monthly..",
       "url": "https://www.prnewswire.com/news-releases/john-hancock-tax-advantaged-dividend-income-fund-notice-to-shareholders--sources-of-distribution-under-section-19a-302923948.html",
@@ -1035,6 +1061,22 @@
       "sentiment": 0.67,
       "tickers": [
         "HTD"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "John Hancock Premium Dividend Fund Notice to Shareholders - Sources of Distribution Under Section 19(a)",
+      "summary": "BOSTON, Oct. 30, 2026 /PRNewswire/ -- John Hancock Premium Dividend Fund (NYSE: PDT) (the \"Fund\"), a closed-end fund managed by John Hancock Investment Management LLC and subadvised by Manulife Investment Management (US) LLC, announced today sources of its monthly distribution of",
+      "url": "https://www.prnewswire.com/news-releases/john-hancock-premium-dividend-fund-notice-to-shareholders--sources-of-distribution-under-section-19a-302924069.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-10-30T20:10:00Z",
+      "epoch": 1793391000,
+      "sentiment": 0.67,
+      "tickers": [
+        "PDT"
       ],
       "company_name": null,
       "catalyst": false,
