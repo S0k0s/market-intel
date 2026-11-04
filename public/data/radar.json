@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-03T22:28:44Z",
+  "generated_at": "2026-11-04T02:36:59Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 146,
-    "breaking_catalyst_count": 12,
+    "breaking_count": 150,
+    "breaking_catalyst_count": 11,
     "pipeline_count": 59,
     "pipeline_catalyst_count": 9,
     "movers_count": 0
@@ -20,12 +20,6 @@
       "count": 2,
       "catalyst_count": 1,
       "source_count": 2
-    },
-    {
-      "ticker": "MDT",
-      "count": 1,
-      "catalyst_count": 1,
-      "source_count": 1
     },
     {
       "ticker": "LVS",
@@ -64,7 +58,13 @@
       "source_count": 1
     },
     {
-      "ticker": "SEB",
+      "ticker": "SCM",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "INF.L",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -74,29 +74,13 @@
   "concentration_warning": null,
   "breaking": [
     {
-      "title": "TCT26: Medtronic Symplicity blood pressure procedure shows significant blood pressure drops in SPYRAL AFFIRM real-world study",
-      "summary": "Nearly nine out of 10 patients experienced a clinical benefit at six months Medtronic receives FDA approval for U.S. labeling update to Symplicity blood pressure procedure, expanding clinical evidence informing treatment options GALWAY, Ireland and SAN DIEGO, Nov. 3, 2026 /PRNews",
-      "url": "https://www.prnewswire.com/news-releases/tct26-medtronic-symplicity-blood-pressure-procedure-shows-significant-blood-pressure-drops-in-spyral-affirm-real-world-study-302928326.html",
+      "title": "Zuellig Pharma Strengthens Clinical Sourcing Capabilities in China through Strategic Acquisition",
+      "summary": "The acquisition of our newly licensed Hangzhou facility establishes robust local sourcing capabilities to accelerate and support clinical trials across China HANGZHOU, China, Nov. 3, 2026 /PRNewswire/ -- Zuellig Pharma, a leading healthcare solutions company in Asia, announced th",
+      "url": "https://www.prnewswire.com/news-releases/zuellig-pharma-strengthens-clinical-sourcing-capabilities-in-china-through-strategic-acquisition-302927944.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
-      "published_at": "2026-11-03T19:34:00Z",
-      "epoch": 1793734440,
-      "sentiment": 0.0,
-      "tickers": [
-        "MDT"
-      ],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Die 140. Canton Fair - Phase 3: Highlights im Bereich intelligenter Gesundheitsinnovationen für ein besseres Leben",
-      "summary": "GUANGZHOU, China, 3. November 2026 /PRNewswire/ -- Phase 3 der 140. Canton Fair, die vom 31. Oktober bis zum 4. November stattfindet, steht unter dem Motto „Better Life\". Da Gesundheit nach wie vor von zentraler Bedeutung für eine hohe Lebensqualität ist, hat sich die „Intelligen",
-      "url": "https://www.prnewswire.com/news-releases/die-140-canton-fair--phase-3-highlights-im-bereich-intelligenter-gesundheitsinnovationen-fur-ein-besseres-leben-302928217.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-03T18:14:00Z",
-      "epoch": 1793729640,
+      "published_at": "2026-11-03T23:00:00Z",
+      "epoch": 1793746800,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -246,14 +230,335 @@
       "small_cap_risk": false
     },
     {
-      "title": "APTIM Appoints Chuck Prow as Chief Executive Officer",
-      "summary": "BATON ROUGE, La., Nov. 3, 2026 /PRNewswire/ -- APTIM (\"APTIM\" or the \"Company\"), a leading environmental and resilience consulting firm with a long history of providing expertise and integrated solutions to government and commercial customers, today announced that Chuck Prow has ",
-      "url": "https://www.prnewswire.com/news-releases/aptim-appoints-chuck-prow-as-chief-executive-officer-302928514.html",
+      "title": "Wenge AI Subsidiary D2 Intelligence Showcases Four AI Products at Hong Kong FinTech Week 2026",
+      "summary": "HONG KONG, Nov. 3, 2026 /PRNewswire/ -- D2 Intelligence, a subsidiary of Wenge AI (1956.HK), is showcasing at Hong Kong FinTech Week x StartmeupHK 2026. Under this year's theme \"Fintech Nexus: Bridging the World, Building the Future\", Asia's flagship fintech event brought togethe",
+      "url": "https://www.prnewswire.com/news-releases/wenge-ai-subsidiary-d2-intelligence-showcases-four-ai-products-at-hong-kong-fintech-week-2026-302928667.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-04T02:30:00Z",
+      "epoch": 1793759400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "/C O R R E C T I O N - ACG METALS LIMITED/",
+      "summary": "In the news release, ACG to Acquire 100% of Blue Moon Norway, Including the Construction-Stage Nussir Copper Mine, to Create a High-Growth European Copper Company, issued Nov. 3, 2026 by ACG METALS LIMITED over PR Newswire, we are advised by the company that an edit has been made",
+      "url": "https://www.prnewswire.com/news-releases/acg-to-acquire-100-of-blue-moon-norway-including-the-construction-stage-nussir-copper-mine-to-create-a-high-growth-european-copper-company-302927155.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-03T22:24:00Z",
-      "epoch": 1793744640,
+      "published_at": "2026-11-04T02:28:00Z",
+      "epoch": 1793759280,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "UN Global Compact Convenes Latin American Leaders in Montevideo and Launches CEO-led Coalition",
+      "summary": "MONTEVIDEO, Uruguay, Nov. 3, 2026 /PRNewswire/ -- The United Nations Global Compact today convened its second Latin America and the Caribbean Leaders Forum in Montevideo, Uruguay, bringing together more than 300 leaders from business, government, finance, the UN and academia to a",
+      "url": "https://www.prnewswire.com/news-releases/un-global-compact-convenes-latin-american-leaders-in-montevideo-and-launches-ceo-led-coalition-302928668.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-04T02:24:00Z",
+      "epoch": 1793759040,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Xinhua Silk Road: Multiple achievements unveiled at 11th Global Mazu Culture Forum",
+      "summary": "BEIJING, Nov. 3, 2026 /PRNewswire/ -- The 11th Global Mazu Culture Forum opened on Meizhou Island in Putian City, southeast China's Fujian Province on November 1 with multiple achievements on promotion of the Mazu culture unveiled. At the opening ceremony, a collection of the fir",
+      "url": "https://www.prnewswire.com/news-releases/xinhua-silk-road-multiple-achievements-unveiled-at-11th-global-mazu-culture-forum-302928669.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-04T02:24:00Z",
+      "epoch": 1793759040,
       "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Stellus Capital Investment Corporation Schedules Third Quarter 2026 Financial Results Conference Call",
+      "summary": "HOUSTON, Nov. 3, 2026 /PRNewswire/ -- Stellus Capital Investment Corporation (NYSE: SCM) will release its financial results for the third quarter ended September 30, 2026 on Monday, November 9, 2026, after the close of the stock market. Stellus Capital Investment Corporation will",
+      "url": "https://www.prnewswire.com/news-releases/stellus-capital-investment-corporation-schedules-third-quarter-2026-financial-results-conference-call-302928666.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-04T02:19:00Z",
+      "epoch": 1793758740,
+      "sentiment": 0.0,
+      "tickers": [
+        "SCM"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "ieGeek abre las reservas para el sistema de cámaras de seguridad ZY-Q5 con almacenamiento local",
+      "summary": "HONG KONG, 4 de noviembre de 2026 /PRNewswire/ -- ieGeek ha abierto el plazo de reserva anticipada para el sistema de cámaras de seguridad ZY-Q5 en Reino Unido y Europa. El sistema combina cámaras para exteriores de 5 MP con una estación base, lo que permite a los usuarios superv",
+      "url": "https://www.prnewswire.com/news-releases/iegeek-abre-las-reservas-para-el-sistema-de-camaras-de-seguridad-zy-q5-con-almacenamiento-local-302928664.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-04T02:14:00Z",
+      "epoch": 1793758440,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "ieGeek ouvre les réservations pour le système de caméra de sécurité ZY-Q5 avec stockage local",
+      "summary": "HONG KONG, 4 novembre 2026 /PRNewswire/ -- ieGeek a ouvert les réservations anticipées pour le système de caméra de sécurité ZY-Q5 au Royaume-Uni et en Europe. Le système associe des caméras extérieures de 5 mégapixels à une station de base, permettant ainsi aux ménages de survei",
+      "url": "https://www.prnewswire.com/news-releases/iegeek-ouvre-les-reservations-pour-le-systeme-de-camera-de-securite-zy-q5-avec-stockage-local-302928662.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-04T02:13:00Z",
+      "epoch": 1793758380,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "/C O R R E C T I F - Compal Electronics, Inc./",
+      "summary": "Dans le communiqué de presse intitulé « Verda et Compal étendent leur collaboration mondiale en matière d'infrastructures d'IA lors de la GTC Berlin 2026 », publié le 22 octobre 2026 par Compal Electronics, Inc. via PR Newswire, la société nous a informés que des modifications y ",
+      "url": "https://www.prnewswire.com/news-releases/c-o-r-r-e-c-t-i-f--compal-electronics-inc-302928655.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-04T02:04:00Z",
+      "epoch": 1793757840,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "/C O R R E C C I O N -- Compal Electronics, Inc./",
+      "summary": "En el comunicado de prensa titulado \"Verda y Compal amplían su colaboración en infraestructura global de IA en GTC Berlín 2026\", publicado el 22 de octubre de 2026 por Compal Electronics, Inc. a través de PR Newswire, la empresa nos informa que se han realizado cambios. A continu",
+      "url": "https://www.prnewswire.com/news-releases/verda-y-compal-amplian-su-colaboracion-en-infraestructura-global-de-ia-en-gtc-berlin-2026-302916238.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-04T02:01:00Z",
+      "epoch": 1793757660,
+      "sentiment": 0.0,
+      "tickers": [
+        "INF.L"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "MEIYUME PRÄSENTIERT: BEACON AUF DER COSMOPACK ASIA 2026",
+      "summary": "Den nächsten Schritt in der Schönheitswelt meistern HONGKONG, 4. November 2026 /PRNewswire/ -- Meiyume kehrt mit BEACON zur Cosmopack Asia am Stand 3-C01 zurück – einem immersiven Beauty-Navigationserlebnis, das Marken dabei helfen soll, Marktchancen zu erkennen und diese über un",
+      "url": "https://www.prnewswire.com/news-releases/meiyume-prasentiert-beacon-auf-der-cosmopack-asia-2026-302928227.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-04T02:00:00Z",
+      "epoch": 1793757600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "MEIYUME PRESENTS: BEACON AT COSMOPACK ASIA 2026",
+      "summary": "Navigating What's Next in Beauty HONG KONG, Nov. 3, 2026 /PRNewswire/ -- Meiyume returns to Cosmopack Asia at Booth 3-C01 with BEACON—an immersive beauty navigation experience designed to help brands spot market opportunities and execute through our connected global ecosystem. In",
+      "url": "https://www.prnewswire.com/news-releases/meiyume-presents-beacon-at-cosmopack-asia-2026-302927946.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-04T02:00:00Z",
+      "epoch": 1793757600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "/K O R R E K T U R - Compal Electronics, Inc./",
+      "summary": "In der Pressemitteilung „Verda und Compal bauen ihre weltweite Zusammenarbeit im Bereich der KI-Infrastruktur auf der GTC Berlin 2026 aus\", die am 22. Oktober 2026 von Compal Electronics, Inc. über PR Newswire veröffentlicht wurde, wurden uns vom Unternehmen Änderungen mitgeteilt",
+      "url": "https://www.prnewswire.com/news-releases/k-o-r-r-e-k-t-u-r--compal-electronics-inc-302928650.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-04T01:59:00Z",
+      "epoch": 1793757540,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "exida stellt exSILentia® CRA vor, um die Einhaltung der Vorschriften zu optimieren und Geschäftsrisiken im Zusammenhang mit dem EU-Cyber-Resilience-Act zu minimieren",
+      "summary": "Die weltweit erste akkreditierte Zertifizierungsstelle für Cybersicherheit im Bereich industrieller Automatisierungs- und Steuerungssysteme (IACS) bringt ein strukturiertes, vorlagengestütztes Engineering-Tool auf den Markt, das darauf ausgelegt ist, Produktrisikobewertungen und.",
+      "url": "https://www.prnewswire.com/news-releases/exida-stellt-exsilentia-cra-vor-um-die-einhaltung-der-vorschriften-zu-optimieren-und-geschaftsrisiken-im-zusammenhang-mit-dem-eu-cyber-resilience-act-zu-minimieren-302928647.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-04T01:55:00Z",
+      "epoch": 1793757300,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "THE KOREA INDUSTRY DAILY: ROBOTWORLD 2026 to Spotlight Physical AI and AI-Driven Manufacturing With 402 Exhibitors From 17 Countries",
+      "summary": "Rainbow Robotics, Neuromeka and Samhyun to exhibit Nov. 4–7 near Seoul; NVIDIA and Qualcomm to participate in conference GOYANG, South Korea, Nov. 3, 2026 /PRNewswire/ -- ROBOTWORLD 2026 will bring together 402 companies from 17 countries at the Korea International Exhibition Cen",
+      "url": "https://www.prnewswire.com/news-releases/the-korea-industry-daily-robotworld-2026-to-spotlight-physical-ai-and-ai-driven-manufacturing-with-402-exhibitors-from-17-countries-302928643.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-04T01:49:00Z",
+      "epoch": 1793756940,
+      "sentiment": 0.0,
+      "tickers": [
+        "NVDA",
+        "QCOM"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Xinhua Silk Road: Ausländische Journalisten erkunden die innovationsgetriebene Entwicklung von Yuhang",
+      "summary": "PEKING, 4. November 2026 /PRNewswire/ -- Journalisten südkoreanischer, türkischer, US-amerikanischer und kubanischer Medien besuchten vom 26. bis 28. Oktober mehrere Hightech-Unternehmen und moderne landwirtschaftliche Demonstrationsparks im Bezirk Yuhang in Hangzhou. Durch Besic",
+      "url": "https://www.prnewswire.com/news-releases/xinhua-silk-road-auslandische-journalisten-erkunden-die-innovationsgetriebene-entwicklung-von-yuhang-302928639.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-04T01:43:00Z",
+      "epoch": 1793756580,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Xinhua Silk Road : Des journalistes internationaux se penchent sur le développement axé sur l'innovation de Yuhang",
+      "summary": "PÉKIN, 4 novembre 2026 /PRNewswire/ -- Des journalistes sud-coréens, turcs, américains et cubains ont visité plusieurs entreprises de haute technologie et parcs de démonstration agricole modernes dans le district de Yuhang, à Hangzhou, du 26 au 28 octobre. Grâce à des visites de ",
+      "url": "https://www.prnewswire.com/news-releases/xinhua-silk-road--des-journalistes-internationaux-se-penchent-sur-le-developpement-axe-sur-linnovation-de-yuhang-302928637.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-04T01:42:00Z",
+      "epoch": 1793756520,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "USDGO Plus SP Among First Products on OSL's Instant Redemption",
+      "summary": "Eligible professional investors redeeming units of USDGO Plus SP through OSL may receive redemption proceeds on the same day, subject to OSL's eligibility criteria and applicable terms and conditions HONG KONG, Nov. 3, 2026 /PRNewswire/ -- Units of PrimePlus SPC – USDGO Plus SP h",
+      "url": "https://www.prnewswire.com/news-releases/usdgo-plus-sp-among-first-products-on-osls-instant-redemption-302928630.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-04T01:37:00Z",
+      "epoch": 1793756220,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "TXP Medical Publishes Whitepaper \"The State of Japanese Real-World Evidence,\" Analyzing the Current State of Real-World Evidence (RWE) in Japan",
+      "summary": "～ EMR-derived data market to grow from approx. ¥3.9 billion (2025) to approx. ¥25 billion (2035) ～ ～ RWD/RWE use in new approvals up from 18.1% (2019) to 30.4% (2024) ～ ～ Claims/DPC and EMR data: complementary roles clarified for Medical Affairs ～ TOKYO, Nov. 3, 2026 /PRNewswire/",
+      "url": "https://www.prnewswire.com/news-releases/txp-medical-publishes-whitepaper-the-state-of-japanese-real-world-evidence-analyzing-the-current-state-of-real-world-evidence-rwe-in-japan-302928617.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-04T01:30:00Z",
+      "epoch": 1793755800,
+      "sentiment": 0.0,
+      "tickers": [
+        "RWE.DE"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "BIO-TECHNE DECLARES DIVIDEND",
+      "summary": "MINNEAPOLIS, Nov. 3, 2026 /PRNewswire/ -- Bio-Techne Corporation (NASDAQ: TECH) announced that its Board of Directors has decided to pay a dividend of $0.08 per share for the quarter ended September 30, 2026. The quarterly dividend will be payable November 23, 2026, to all common",
+      "url": "https://www.prnewswire.com/news-releases/bio-techne-declares-dividend-302928623.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-04T01:30:00Z",
+      "epoch": 1793755800,
+      "sentiment": 1.0,
+      "tickers": [
+        "TECH"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "CStone and Kimia Therapeutics Enter Clinical Development Collaboration to Advance a Novel Drug Candidate Targeting Repair Pathways Critical for Solid Tumor Survival",
+      "summary": "SUZHOU, China, Nov. 3, 2026 /PRNewswire/ -- CStone Pharmaceuticals (\"CStone,\" HKEX: 2616), an innovation-driven biopharmaceutical company focused on the research and development of therapies for oncology, immunology, inflammation, and other key disease areas, today announced that",
+      "url": "https://www.prnewswire.com/news-releases/cstone-and-kimia-therapeutics-enter-clinical-development-collaboration-to-advance-a-novel-drug-candidate-targeting-repair-pathways-critical-for-solid-tumor-survival-302927961.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-11-04T00:10:00Z",
+      "epoch": 1793751000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Verismo Therapeutics Presents Preclinical Data at SITC 2026 Demonstrating Enhanced Tumor Control and Reduced Cytokine Release with SynKIR™-110 KIR-CAR Compared to Conventional CAR T",
+      "summary": "SynKIR™-110 demonstrated faster tumor control with approximately 10-fold lower IFNγ and 30-fold lower TNFα and IL-2 production compared to CD28-based single-chain CAR T in preclinical models Preclinical in vivo data showed reduced exhaustion of tumor-infiltrating SynKIR™-110 T ce",
+      "url": "https://www.prnewswire.com/news-releases/verismo-therapeutics-presents-preclinical-data-at-sitc-2026-demonstrating-enhanced-tumor-control-and-reduced-cytokine-release-with-synkir-110-kir-car-compared-to-conventional-car-t-302927546.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-11-04T00:00:00Z",
+      "epoch": 1793750400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Samsung Biologics Achieves 'Negligible Risk' Rating in Sustainalytics ESG Assessment",
+      "summary": "Earns ESG Risk Rating score of 9.0, ranking among the top 0.5% in the pharmaceuticals industry Advances from 'Low Risk' to 'Negligible Risk,' the lowest ESG risk category Recognition reflects continued improvements in ESG risk management across operations INCHEON, South Korea, No",
+      "url": "https://www.prnewswire.com/news-releases/samsung-biologics-achieves-negligible-risk-rating-in-sustainalytics-esg-assessment-302927620.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-11-03T23:30:00Z",
+      "epoch": 1793748600,
+      "sentiment": -1.0,
+      "tickers": [
+        "005930.KS"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "The ALS Association Secures Major Legislative Victory with ACT for ALS Becoming Law",
+      "summary": "President signs the bipartisan measure, extending life-saving research and treatment access programs through 2031 ARLINGTON, Va., Nov. 3, 2026 /PRNewswire/ -- The ALS Association celebrates the signing of the ACT for ALS Act into law, a milestone the organization helped drive fro",
+      "url": "https://www.prnewswire.com/news-releases/the-als-association-secures-major-legislative-victory-with-act-for-als-becoming-law-302928493.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-11-03T23:00:00Z",
+      "epoch": 1793746800,
+      "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -274,71 +579,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "REPORT OF EARNINGS AND DIVIDEND DECLARATION",
-      "summary": "MERRIAM, Kan., Nov. 3, 2026 /PRNewswire/ -- The following is a report of earnings for Seaboard Corporation (NYSE American: SEB), with offices at 9000 West 67th Street, Merriam, Kansas, for the three and nine months ended October 3, 2026 and September 27, 2025, in millions of doll",
-      "url": "https://www.prnewswire.com/news-releases/report-of-earnings-and-dividend-declaration-302928502.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-03T22:13:00Z",
-      "epoch": 1793743980,
-      "sentiment": 0.33,
-      "tickers": [
-        "SEB"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "PMET Increases Grade and Scale of Caesium Mineral Resource at Shaakichiuwaanaan",
-      "summary": "Mineral Resource update includes maiden estimates at the Helios Caesium Zone and CV4 Pegmatite, contributing to overall resource growth in all three critical minerals (Li, Cs, Ta) at the Shaakichiuwaanaan Property MONTREAL, Nov. 3, 2026 /PRNewswire/ -- November 4, 2026 – Sydney, ",
-      "url": "https://www.prnewswire.com/news-releases/pmet-increases-grade-and-scale-of-caesium-mineral-resource-at-shaakichiuwaanaan-302928498.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-03T22:08:00Z",
-      "epoch": 1793743680,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Silvercorp Announces Project Update for El Domo",
-      "summary": "Trading Symbol: TSX/NYSE American: SVM VANCOUVER, BC, Nov. 3, 2026 /PRNewswire/ -- Silvercorp Metals Inc. (\"Silvercorp\" or the \"Company\") (TSX: SVM) (NYSE American: SVM) (the \"Company\") announces an update for its budget and construction schedule for the construction of the El Do",
-      "url": "https://www.prnewswire.com/news-releases/silvercorp-announces-project-update-for-el-domo-302928334.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-03T22:05:00Z",
-      "epoch": 1793743500,
-      "sentiment": 0.0,
-      "tickers": [
-        "SVM"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "NEW PACIFIC REPORTS FINANCIAL RESULTS FOR THE THREE MONTHS ENDED SEPTEMBER 30, 2026",
-      "summary": "VANCOUVER, BC, Nov. 3, 2026 /PRNewswire/ -- New Pacific Metals Corp. (\"New Pacific\" or the \"Company\") reports its financial results for the three months ended September 30, 2026. All figures are expressed in US dollars unless otherwise stated. FISCAL 2027 Q1 HIGHLIGHTS On August ",
-      "url": "https://www.prnewswire.com/news-releases/new-pacific-reports-financial-results-for-the-three-months-ended-september-30-2026-302928456.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-03T22:05:00Z",
-      "epoch": 1793743500,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Cardiol Therapeutics Announces At-The-Market Equity Offering Program With Jefferies LLC",
       "summary": "TORONTO, Nov. 3, 2026 /PRNewswire/ -- Cardiol Therapeutics Inc. (NASDAQ: CRDL) (TSX: CRDL) (\"Cardiol\" or the \"Company\"), a late-stage life sciences company advancing anti-inflammatory and anti-fibrotic therapies for heart disease, is pleased to announce that it has entered into a",
       "url": "https://www.prnewswire.com/news-releases/cardiol-therapeutics-announces-at-the-market-equity-offering-program-with-jefferies-llc-302928492.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-11-03T22:03:00Z",
       "epoch": 1793743380,
       "sentiment": 0.0,
@@ -350,20 +595,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "Ovintiv Reports Third Quarter 2026 Financial and Operating Results",
-      "summary": "Track Record of Strong Profitability Continues, Significant Additions Made to Premium Return Drilling Inventory Highlights: Generated third quarter net earnings of $549 million, cash from operating activities of $1.1 billion, Non-GAAP Cash Flow of $1.2 billion and Non-GAAP Free C",
-      "url": "https://www.prnewswire.com/news-releases/ovintiv-reports-third-quarter-2026-financial-and-operating-results-302928304.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-03T22:01:00Z",
-      "epoch": 1793743260,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "BOARDWALK REIT REPORTS Q3 2026 RESULTS",
       "summary": "CALGARY, AB, Nov. 3, 2026 /PRNewswire/ -- Boardwalk Real Estate Investment Trust (TSX: BEI.UN) SUMMARY HIGHLIGHTS FOR THE THREE AND NINE MONTH PERIODS ENDED SEPTEMBER 30, 2026 RESILIENT FINANCIAL PERFORMANCE FOR THE 3 MONTH PERIOD ENDED SEPTEMBER 30, 2026Same Property(1) Occupanc",
       "url": "https://www.prnewswire.com/news-releases/boardwalk-reit-reports-q3-2026-results-302928457.html",
@@ -373,54 +604,6 @@
       "epoch": 1793743200,
       "sentiment": 0.0,
       "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "WEIS MARKETS REPORTS THIRD QUARTER 2026 RESULTS",
-      "summary": "Third Quarter 2026 total revenue increased 3.0% and comparable store sales increased 1.3% SUNBURY, Pa., Nov. 3, 2026 /PRNewswire/ -- Weis Markets, Inc. (NYSE: WMK) (\"Weis Markets\", or the \"Company\") today reported its financial results for the 13-week third quarter and 39-week...",
-      "url": "https://www.prnewswire.com/news-releases/weis-markets-reports-third-quarter-2026-results-302928460.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-03T22:00:00Z",
-      "epoch": 1793743200,
-      "sentiment": 0.0,
-      "tickers": [
-        "WMK"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Gates Industrial to Participate in the Baird 2026 Global Industrial Conference",
-      "summary": "DENVER, Nov. 3, 2026 /PRNewswire/ -- Gates Industrial Corporation Ltd. (NYSE: GTES), a global manufacturer of innovative, highly engineered power transmission and fluid power solutions, today announced that the Company will participate in the Baird 2026 Global Industrial Conferen",
-      "url": "https://www.prnewswire.com/news-releases/gates-industrial-to-participate-in-the-baird-2026-global-industrial-conference-302928453.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-03T22:00:00Z",
-      "epoch": 1793743200,
-      "sentiment": 0.0,
-      "tickers": [
-        "GTES"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "3M Board Approves New $6 Billion Share Repurchase Authorization, Declares Quarterly Dividend",
-      "summary": "SAINT PAUL, Minn., Nov. 3, 2026 /PRNewswire/ -- The 3M Board of Directors (NYSE: MMM) today authorized the repurchase of up to $6.0 billion of 3M's outstanding common stock, in addition to the remaining $1.5 billion available under the company's existing 2025 repurchase authoriza",
-      "url": "https://www.prnewswire.com/news-releases/3m-board-approves-new-6-billion-share-repurchase-authorization-declares-quarterly-dividend-302928490.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-03T21:59:00Z",
-      "epoch": 1793743140,
-      "sentiment": 0.67,
-      "tickers": [
-        "MMM"
-      ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -502,20 +685,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "SUMMIT HOTEL PROPERTIES REPORTS THIRD QUARTER 2026 RESULTS",
-      "summary": "Third Quarter Operating Income Increased 90.3% to $16.3 Million; Adjusted EBITDAre Increased 11.8% to $43.9 Million Third Quarter Pro Forma RevPAR Increased 7.2%, Driving a 14.4% Increase in Pro Forma Hotel EBITDA AUSTIN, Texas, Nov. 3, 2026 /PRNewswire/ -- Summit Hotel Propertie",
-      "url": "https://www.prnewswire.com/news-releases/summit-hotel-properties-reports-third-quarter-2026-results-302928152.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-11-03T21:30:00Z",
-      "epoch": 1793741400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Solstice Advanced Materials Declares Dividend of $0.075 per Common Share",
       "summary": "MORRIS PLAINS, N.J., Nov. 3, 2026 /PRNewswire/ -- Solstice Advanced Materials (NASDAQ: SOLS), today announced that its Board of Directors has declared a regular quarterly dividend payment of seven and a half cents ($0.075) per share of the Company's common stock. The dividend wil",
       "url": "https://www.prnewswire.com/news-releases/solstice-advanced-materials-declares-dividend-of-0-075-per-common-share-302926924.html",
@@ -532,20 +701,18 @@
       "small_cap_risk": true
     },
     {
-      "title": "Viking Therapeutics to Participate at Upcoming Investor Conferences",
-      "summary": "SAN DIEGO, Nov. 3, 2026 /PRNewswire/ -- Viking Therapeutics, Inc. (\"Viking\") (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced that it will participate at the Stifel 2026",
-      "url": "https://www.prnewswire.com/news-releases/viking-therapeutics-to-participate-at-upcoming-investor-conferences-302928444.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
+      "title": "SUMMIT HOTEL PROPERTIES REPORTS THIRD QUARTER 2026 RESULTS",
+      "summary": "Third Quarter Operating Income Increased 90.3% to $16.3 Million; Adjusted EBITDAre Increased 11.8% to $43.9 Million Third Quarter Pro Forma RevPAR Increased 7.2%, Driving a 14.4% Increase in Pro Forma Hotel EBITDA AUSTIN, Texas, Nov. 3, 2026 /PRNewswire/ -- Summit Hotel Propertie",
+      "url": "https://www.prnewswire.com/news-releases/summit-hotel-properties-reports-third-quarter-2026-results-302928152.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
       "published_at": "2026-11-03T21:30:00Z",
       "epoch": 1793741400,
       "sentiment": 0.0,
-      "tickers": [
-        "VKTX"
-      ],
+      "tickers": [],
       "company_name": null,
       "catalyst": false,
-      "small_cap_risk": true
+      "small_cap_risk": false
     },
     {
       "title": "Vanda Pharmaceuticals Announces Participation at November 2026 Investor Conferences",
@@ -558,6 +725,22 @@
       "sentiment": 0.0,
       "tickers": [
         "VNDA"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Viking Therapeutics to Participate at Upcoming Investor Conferences",
+      "summary": "SAN DIEGO, Nov. 3, 2026 /PRNewswire/ -- Viking Therapeutics, Inc. (\"Viking\") (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced that it will participate at the Stifel 2026",
+      "url": "https://www.prnewswire.com/news-releases/viking-therapeutics-to-participate-at-upcoming-investor-conferences-302928444.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-11-03T21:30:00Z",
+      "epoch": 1793741400,
+      "sentiment": 0.0,
+      "tickers": [
+        "VKTX"
       ],
       "company_name": null,
       "catalyst": false,
@@ -642,16 +825,16 @@
       "small_cap_risk": false
     },
     {
-      "title": "Robert Half to participate in the J.P. Morgan Ultimate Services Investor Conference",
-      "summary": "MENLO PARK, Calif., Nov. 3, 2026 /PRNewswire/ -- M. Keith Waddell, President and Chief Executive Officer of global talent solutions and business consulting firm Robert Half Inc. (NYSE: RHI), will participate in a fireside chat at the J.P. Morgan Ultimate Services Investor Confere",
-      "url": "https://www.prnewswire.com/news-releases/robert-half-to-participate-in-the-jp-morgan-ultimate-services-investor-conference-302928368.html",
+      "title": "DIAMONDROCK HOSPITALITY COMPANY REPORTS THIRD QUARTER 2026 RESULTS",
+      "summary": "Raises Full-Year Guidance Following Another Strong Quarter BETHESDA, Md., Nov. 3, 2026 /PRNewswire/ -- DiamondRock Hospitality Company (Nasdaq: DRH) (the \"Company\"), a lodging real estate investment trust that owns a portfolio of 35 premium hotels and resorts in the United States",
+      "url": "https://www.prnewswire.com/news-releases/diamondrock-hospitality-company-reports-third-quarter-2026-results-302928267.html",
       "source": "PR Newswire — Financial",
       "source_id": "prnewswire-financial",
       "published_at": "2026-11-03T21:05:00Z",
       "epoch": 1793739900,
-      "sentiment": 0.0,
+      "sentiment": 0.67,
       "tickers": [
-        "RHI"
+        "DRH"
       ],
       "company_name": null,
       "catalyst": false,
@@ -674,16 +857,16 @@
       "small_cap_risk": true
     },
     {
-      "title": "DIAMONDROCK HOSPITALITY COMPANY REPORTS THIRD QUARTER 2026 RESULTS",
-      "summary": "Raises Full-Year Guidance Following Another Strong Quarter BETHESDA, Md., Nov. 3, 2026 /PRNewswire/ -- DiamondRock Hospitality Company (Nasdaq: DRH) (the \"Company\"), a lodging real estate investment trust that owns a portfolio of 35 premium hotels and resorts in the United States",
-      "url": "https://www.prnewswire.com/news-releases/diamondrock-hospitality-company-reports-third-quarter-2026-results-302928267.html",
+      "title": "Robert Half to participate in the J.P. Morgan Ultimate Services Investor Conference",
+      "summary": "MENLO PARK, Calif., Nov. 3, 2026 /PRNewswire/ -- M. Keith Waddell, President and Chief Executive Officer of global talent solutions and business consulting firm Robert Half Inc. (NYSE: RHI), will participate in a fireside chat at the J.P. Morgan Ultimate Services Investor Confere",
+      "url": "https://www.prnewswire.com/news-releases/robert-half-to-participate-in-the-jp-morgan-ultimate-services-investor-conference-302928368.html",
       "source": "PR Newswire — Financial",
       "source_id": "prnewswire-financial",
       "published_at": "2026-11-03T21:05:00Z",
       "epoch": 1793739900,
-      "sentiment": 0.67,
+      "sentiment": 0.0,
       "tickers": [
-        "DRH"
+        "RHI"
       ],
       "company_name": null,
       "catalyst": false,
@@ -800,48 +983,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Altaba Announces Liquidating Distribution of $0.36 Per Share",
-      "summary": "NEW YORK, Nov. 3, 2026 /PRNewswire/ -- Altaba Inc. (\"Altaba\" or the \"Fund\") announced that on November 2, 2026 the Board approved a liquidating distribution of $0.36 per share of the Fund's common stock, par value $0.001 per share, or $187,024,091 in the aggregate (the \"Liquidati",
-      "url": "https://www.prnewswire.com/news-releases/altaba-announces-liquidating-distribution-of-0-36-per-share-302928090.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-11-03T21:00:00Z",
-      "epoch": 1793739600,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Cordatus Capital Announces Majority Investment in Diamabrush",
-      "summary": "DALLAS, Nov. 3, 2026 /PRNewswire/ -- Cordatus Capital (\"Cordatus\"), a Dallas-based private equity firm, is pleased to announce a majority investment in Diamabrush (\"Diamabrush\" or the \"Company\"), a leading manufacturer of consumable abrasive products for floor preparation, polish",
-      "url": "https://www.prnewswire.com/news-releases/cordatus-capital-announces-majority-investment-in-diamabrush-302928400.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-11-03T20:48:00Z",
-      "epoch": 1793738880,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "/C O R R E C T I O N - Specialty Program Group/",
-      "summary": "In the news release, Specialty Program Group Strengthens Wholesale Professional Liability Expertise with Appointment of Victoria Dearing, issued 03-Nov-2026 by Specialty Program Group over PR Newswire, we are advised by the company that changes have been made. The complete, corre",
-      "url": "https://www.prnewswire.com/news-releases/specialty-program-group-strengthens-wholesale-professional-liability-expertise-with-appointment-of-victoria-dearing-302927065.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-11-03T20:44:00Z",
-      "epoch": 1793738640,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "BRIJ Medical Closes Upsized $5M Financing Round, Led by Board with Strong Existing-Investor Participation",
       "summary": "Proceeds will fuel BRIJ Medical's continued commercial expansion of BRIJ-SEAL™ and the upcoming launch of BRIJ-Ag™, building on strong investor confidence and growing market momentum. SAN DIEGO, Nov. 3, 2026 /PRNewswire/ -- BRIJ Medical, a medical technology company advancing sur",
       "url": "https://www.prnewswire.com/news-releases/brij-medical-closes-upsized-5m-financing-round-led-by-board-with-strong-existing-investor-participation-302928389.html",
@@ -850,90 +991,6 @@
       "published_at": "2026-11-03T20:37:00Z",
       "epoch": 1793738220,
       "sentiment": 1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "SportsMed Physical Therapy Opens Clinic in Jersey City, Expanding to 58 Clinics Across NJ and CT",
-      "summary": "RIDGEWOOD, N.J., Nov. 3, 2026 /PRNewswire/ -- SportsMed Physical Therapy, a leading name in outpatient rehabilitation and wellness, is pleased to announce the opening of the Jersey City Heights clinic. This addition brings the company's total number of clinics to 58, further expa",
-      "url": "https://www.prnewswire.com/news-releases/sportsmed-physical-therapy-opens-clinic-in-jersey-city-expanding-to-58-clinics-across-nj-and-ct-302928356.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-03T19:59:00Z",
-      "epoch": 1793735940,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Speakeasy Dispensary Expands to Maysville, Bringing Medical Cannabis Access to Northern Kentucky",
-      "summary": "MAYSVILLE, Ky., Nov. 3, 2026 /PRNewswire/ -- Speakeasy Dispensary will officially open its newest Kentucky medical cannabis location on Thursday, November 5 at 11:00 AM, continuing the company's expansion across the Commonwealth and bringing greater access to patients in Maysvill",
-      "url": "https://www.prnewswire.com/news-releases/speakeasy-dispensary-expands-to-maysville-bringing-medical-cannabis-access-to-northern-kentucky-302928351.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-03T19:55:00Z",
-      "epoch": 1793735700,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Cerbo Expands AI Scribe to Virtual Visits, Bringing Native AI Charting to Telehealth",
-      "summary": "AI Scribe now drafts the structured note inside the chart for Cerbo Telemedicine and Zoom visits, so telehealth doesn't mean extra time spent on documentation. ATLANTA, Nov. 3, 2026 /PRNewswire/ -- Cerbo, a leading electronic health record (EHR) platform forcash pay, personalized",
-      "url": "https://www.prnewswire.com/news-releases/cerbo-expands-ai-scribe-to-virtual-visits-bringing-native-ai-charting-to-telehealth-302928250.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-03T18:36:00Z",
-      "epoch": 1793730960,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "How the NIH Common Fund Data Ecosystem Could Accelerate Scientific Discovery",
-      "summary": "CU Anschutz researchers play a major role in evaluating research data from 18 programs to help scientists uncover relationships across studies and make better use of existing research. AURORA, Colo., Nov. 3, 2026 /PRNewswire/ -- Scientists generate vast amounts of research data, ",
-      "url": "https://www.prnewswire.com/news-releases/how-the-nih-common-fund-data-ecosystem-could-accelerate-scientific-discovery-302928243.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-03T18:31:00Z",
-      "epoch": 1793730660,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "La 3e phase de la 140e Foire de Canton met en lumière les innovations dans le domaine de la santé intelligente pour une vie meilleure",
-      "summary": "GUANGZHOU, Chine, 3 novembre 2026 /PRNewswire/ -- La 3e phase de la 140e Foire de Canton, qui se déroule du 31 octobre au 4 novembre, est axée sur le thème « Une vie meilleure ». La santé demeurant un élément essentiel d'une bonne qualité de vie, l'espace de la santé intelligente",
-      "url": "https://www.prnewswire.com/news-releases/la-3e-phase-de-la-140e-foire-de-canton-met-en-lumiere-les-innovations-dans-le-domaine-de-la-sante-intelligente-pour-une-vie-meilleure-302928226.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-03T18:20:00Z",
-      "epoch": 1793730000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "PKS-Burgos JV, LLC Awarded Position on $3 Billion Department of Veterans Affairs Construction Contract",
-      "summary": "Five-year multiple-award contract provides opportunities to compete for construction, renovation, and infrastructure improvement projects supporting VA healthcare facilities throughout Florida and South Georgia. FALLS CHURCH, Va. and TAMPA, Fla., Nov. 3, 2026 /PRNewswire/ -- PKS-",
-      "url": "https://www.prnewswire.com/news-releases/pks-burgos-jv-llc-awarded-position-on-3-billion-department-of-veterans-affairs-construction-contract-302928208.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-03T18:09:00Z",
-      "epoch": 1793729340,
-      "sentiment": -0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
