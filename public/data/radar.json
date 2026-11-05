@@ -1,19 +1,43 @@
 {
-  "generated_at": "2026-11-04T22:54:12Z",
+  "generated_at": "2026-11-05T03:05:38Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 136,
     "breaking_catalyst_count": 12,
-    "pipeline_count": 10,
-    "pipeline_catalyst_count": 0,
+    "pipeline_count": 58,
+    "pipeline_catalyst_count": 7,
     "movers_count": 0
   },
   "trending_tickers": [
+    {
+      "ticker": "ABBV",
+      "count": 3,
+      "catalyst_count": 2,
+      "source_count": 1
+    },
+    {
+      "ticker": "PFE",
+      "count": 2,
+      "catalyst_count": 1,
+      "source_count": 2
+    },
+    {
+      "ticker": "FFR",
+      "count": 1,
+      "catalyst_count": 1,
+      "source_count": 1
+    },
     {
       "ticker": "STE",
       "count": 1,
       "catalyst_count": 1,
       "source_count": 1
+    },
+    {
+      "ticker": "GEHC",
+      "count": 2,
+      "catalyst_count": 0,
+      "source_count": 2
     },
     {
       "ticker": "SLF",
@@ -34,37 +58,13 @@
       "source_count": 1
     },
     {
-      "ticker": "ARAY",
+      "ticker": "BAYN.DE",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "DPZ",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "CCS",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "TROW",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "SVM",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "RUS",
+      "ticker": "CNTN",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -74,18 +74,20 @@
   "concentration_warning": null,
   "breaking": [
     {
-      "title": "Edgewise Therapeutics Reports Third Quarter 2026 Financial Results",
-      "summary": "– Published the differentiated mechanism of action of EDG-7500 that targets the regulatory light chain – – Phase 3 trial for EDG-7500 in obstructive and nonobstructive hypertrophic cardiomyopathy (HCM) on track to initiate by year-end 2026 – – Dosed first patient in Phase 2 EQUIN",
-      "url": "https://www.prnewswire.com/news-releases/edgewise-therapeutics-reports-third-quarter-2026-financial-results-302929509.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-04T21:01:00Z",
-      "epoch": 1793826060,
-      "sentiment": 0.0,
-      "tickers": [],
+      "title": "FF EAI Robotics Ecosystem Announces Strategic Partnership with California Science and Technology University and Boston International Business School to Advance Robotics Education, Talent Development, and Innovation",
+      "summary": "LOS ANGELES, Nov. 4, 2026 /PRNewswire/ -- FF EAI Robotics Ecosystem Inc. (NASDAQ: FFR) (\"FFR,\" \"the Company\"), a U.S.-based Embodied AI robotics company, today announced that it has entered into a comprehensive strategic partnership with California Science and Technology Universi",
+      "url": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-announces-strategic-partnership-with-california-science-and-technology-university-and-boston-international-business-school-to-advance-robotics-education-talent-development-and-innovation-302930028.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-05T02:30:00Z",
+      "epoch": 1793845800,
+      "sentiment": 0.67,
+      "tickers": [
+        "FFR"
+      ],
       "company_name": null,
       "catalyst": true,
-      "small_cap_risk": false
+      "small_cap_risk": true
     },
     {
       "title": "8-K - Quoin Pharmaceuticals Ltd. (0001671502) (Filer)",
@@ -244,44 +246,268 @@
       "small_cap_risk": false
     },
     {
-      "title": "Digital Information Resources Announces Launch of ManhattanHockey.com, Its First Team-Specific Sports Media Property",
-      "summary": "New digital platform covering the New York Rangers launches for the 2026–2027 NHL season NEW YORK, Nov. 4, 2026 /PRNewswire/ -- Digital Information Resources (DIR), a technology and digital media company that builds, acquires, and operates specialized digital properties, today an",
-      "url": "https://www.prnewswire.com/news-releases/digital-information-resources-announces-launch-of-manhattanhockeycom-its-first-team-specific-sports-media-property-302929866.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-04T22:53:00Z",
-      "epoch": 1793832780,
-      "sentiment": 0.67,
+      "title": "Founder Securities Chief Economist Yan Xiang: China's Capital Market Reforms Continue to Deliver Results",
+      "summary": "BEIJING, Nov. 4, 2026 /PRNewswire/ -- Recent volatility in China's A-share market has not changed its favorable long-term outlook, according to Yan Xiang, chief economist at Founder Securities. He points to the continuing effects of capital market reforms and five factors support",
+      "url": "https://www.prnewswire.com/news-releases/founder-securities-chief-economist-yan-xiang-chinas-capital-market-reforms-continue-to-deliver-results-302930049.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-05T02:55:00Z",
+      "epoch": 1793847300,
+      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
     {
-      "title": "Did Domino's Pizza, Inc. Insiders Breach their Fiduciary Duties to Shareholders?",
-      "summary": "Shareholders are encouraged to contact the firm to discuss their rights and options at no cost or obligation. We would handle any matter on a contingent fee basis, whereby you would not be responsible for out-of-pocket payment of our legal fees or expenses. Shareholders should co",
-      "url": "https://www.prnewswire.com/news-releases/did-dominos-pizza-inc-insiders-breach-their-fiduciary-duties-to-shareholders-302929709.html",
+      "title": "APMA DENOUNCES CMS DECISION ON SAME-DAY CARE",
+      "summary": "New rule will create barriers to patient care. ROCKVILLE, Md., Nov. 4, 2026 /PRNewswire/ -- The American Podiatric Medical Association (APMA) is deeply concerned by the decision from the Centers for Medicare and Medicaid Services (CMS) to move forward with a 20% reduction in paym",
+      "url": "https://www.prnewswire.com/news-releases/apma-denounces-cms-decision-on-same-day-care-302930044.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-04T22:45:00Z",
-      "epoch": 1793832300,
+      "published_at": "2026-11-05T02:53:00Z",
+      "epoch": 1793847180,
       "sentiment": 0.0,
-      "tickers": [
-        "DPZ"
-      ],
+      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
     {
-      "title": "DINNER IS SERVED, AMERICA: SAUSAGE TSUNAMI SWEEPS THE STATES",
-      "summary": "From a nationwide campaign blitz and Rob Riggle's stump speech to free dinners, easy meal solutions and hunger relief, the Johnsonville-backed candidate delivers on its promise SHEBOYGAN FALLS, Wis., Nov. 4, 2026 /PRNewswire/ -- With plenty of big decisions on Michiganders' minds",
-      "url": "https://www.prnewswire.com/news-releases/dinner-is-served-america-sausage-tsunami-sweeps-the-states-302929885.html",
+      "title": "AlphaESS Named a BloombergNEF Tier 1 Energy Storage Manufacturer for the Fifth Consecutive Quarter in Q4 2026",
+      "summary": "NANTONG, China, Nov. 5, 2026 /PRNewswire/ -- AlphaESS has once again been recognized as a Tier 1 global energy storage manufacturer by BloombergNEF (BNEF) in its Q4 2026 list, reaffirming its established track record in energy storage projects and growing presence in the global..",
+      "url": "https://www.prnewswire.com/news-releases/alphaess-named-a-bloombergnef-tier-1-energy-storage-manufacturer-for-the-fifth-consecutive-quarter-in-q4-2026-302930042.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-04T22:44:00Z",
-      "epoch": 1793832240,
+      "published_at": "2026-11-05T02:48:00Z",
+      "epoch": 1793846880,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "From Global Dialogue to Everyday Action: Highlights from the 2026 Sustainability Global Leaders Conference",
+      "summary": "SHANGHAI, Nov. 4, 2026 /PRNewswire/ -- The 2026 Sustainability Global Leaders Conference brought together policymakers, academics, business leaders and international organizations in Shanghai from October 20 to 22, conveying a vital message: building a more resilient future requi",
+      "url": "https://www.prnewswire.com/news-releases/from-global-dialogue-to-everyday-action-highlights-from-the-2026-sustainability-global-leaders-conference-302930038.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-05T02:35:00Z",
+      "epoch": 1793846100,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Marini SkinSolutions® Night Zyme® Overnight Glass Skin Resurfacing Complex Named a Winner in the 2026 Shop TODAY Ageless Beauty Awards",
+      "summary": "SAN JOSE, Calif., Nov. 4, 2026 /PRNewswire/ -- Marini SkinSolutions® (formerly Jan Marini Skin Research®) is proud to announce that Night Zyme® Overnight Glass Skin Resurfacing Complex has been named a winner in the prestigious 2026 Shop TODAY Ageless Beauty Awards. The TODAY Awa",
+      "url": "https://www.prnewswire.com/news-releases/marini-skinsolutions-night-zyme-overnight-glass-skin-resurfacing-complex-named-a-winner-in-the-2026-shop-today-ageless-beauty-awards-302930030.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-05T02:15:00Z",
+      "epoch": 1793844900,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "SensAI Veritas Launches SensAI Gateway™ and SensAI Helm™: Bringing Risk Intelligence to the Moment of Trust",
+      "summary": "Beyond Identity. Before Trust. New integrated platform reveals potential concealed information and ill intent at security checkpoints, enabling real-time risk assessment, coordinated screening, and more informed trust decisions. MIAMI, Nov. 5, 2026 /PRNewswire/ -- SensAI Veritas ",
+      "url": "https://www.prnewswire.com/news-releases/sensai-veritas-launches-sensai-gateway-and-sensai-helm-bringing-risk-intelligence-to-the-moment-of-trust-302929460.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-05T02:05:00Z",
+      "epoch": 1793844300,
       "sentiment": -0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "GaNrich Empowers Global GaN Adoption with expanded 40-1200V GaN Power Device Portfolio",
+      "summary": "GaNrich provides GaN-on-Si and GaN-on-Sapphire platforms, combined with proprietary technology, full-range capability, and non-red supply chain strategy. TAIPEI and BERLIN and NEW YORK, Nov. 5, 2026 /PRNewswire/ -- GaNrich Semiconductor Corporation is a Taiwan-based leader dedica",
+      "url": "https://www.prnewswire.com/news-releases/ganrich-empowers-global-gan-adoption-with-expanded-401200v-gan-power-device-portfolio-302927731.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-05T02:00:00Z",
+      "epoch": 1793844000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "GaNrich impulsa la adopción global de la tecnología GaN con una gama ampliada de dispositivos",
+      "summary": "-GaNrich impulsa la adopción global de la tecnología GaN con una gama ampliada de dispositivos de potencia GaN de 40–1200 V GaNrich ofrece plataformas GaN-on-Si y GaN-on-Sapphire, combinadas con tecnología propia, una oferta integral y una estrategia de cadena de suministro alter",
+      "url": "https://www.prnewswire.com/news-releases/ganrich-impulsa-la-adopcion-global-de-la-tecnologia-gan-con-una-gama-ampliada-de-dispositivos-302928726.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-05T02:00:00Z",
+      "epoch": 1793844000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "GaNrich fördert die weltweite Einführung von GaN mit einem erweiterten Portfolio an 40-1200-V-GaN-Leistungshalbleitern.",
+      "summary": "GaNrich bietet GaN-auf-Si- und GaN-auf-Sapphire-Plattformen in Kombination mit firmeneigener Technologie, umfassender Leistungsfähigkeit und einer auf nachhaltige Lieferkettennutzung ausgerichteten Strategie. TAIPEI und BERLIN und NEW YORK, 5. November 2026 /PRNewswire/ -- Die Ga",
+      "url": "https://www.prnewswire.com/news-releases/ganrich-fordert-die-weltweite-einfuhrung-von-gan-mit-einem-erweiterten-portfolio-an-401200-v-gan-leistungshalbleitern-302928728.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-05T02:00:00Z",
+      "epoch": 1793844000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "GaNrich favorise l'adoption mondiale du GaN grâce à une gamme étendue de dispositifs de puissance GaN de 40 à 1 200 V",
+      "summary": "GaNrich fournit des plateformes GaN-sur-Si et GaN-sur-saphir, combinées à une technologie propriétaire, une capacité complète et une stratégie de chaîne d'approvisionnement excluant les composants chinois. TAIPEI, BERLIN et NEW YORK, 5 novembre 2026 /PRNewswire/ -- GaNrich Semico",
+      "url": "https://www.prnewswire.com/news-releases/ganrich-favorise-ladoption-mondiale-du-gan-grace-a-une-gamme-etendue-de-dispositifs-de-puissance-gan-de-40-a-1-200-v-302928755.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-05T02:00:00Z",
+      "epoch": 1793844000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "The PenFed Foundation for Military Heroes Releases 2026 Ranking of Top U.S. Cities for Veteran Entrepreneurs",
+      "summary": "Washington, D.C. ranks first for the second year in a row, followed by Raleigh and Austin TYSONS, Va., Nov. 4, 2026 /PRNewswire/ -- The PenFed Foundation for Military Heroes, a national nonprofit organization dedicated to supporting veterans in their transition from service to su",
+      "url": "https://www.prnewswire.com/news-releases/the-penfed-foundation-for-military-heroes-releases-2026-ranking-of-top-us-cities-for-veteran-entrepreneurs-302930015.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-05T01:59:00Z",
+      "epoch": 1793843940,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Bluerock Private Real Estate Fund Announces Monthly Distribution for November 2026",
+      "summary": "NEW YORK, Nov. 4, 2026 /PRNewswire/ -- Bluerock Private Real Estate Fund (ticker: BPRE) today announced it will pay a cash distribution of $0.1371 per share for November 2026. The distribution will be paid to shareholders of record as of November 18, 2026, reflecting a 7.5% distr",
+      "url": "https://www.prnewswire.com/news-releases/bluerock-private-real-estate-fund-announces-monthly-distribution-for-november-2026-302929971.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-05T01:02:00Z",
+      "epoch": 1793840520,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "PropAccount.com Launches PropWallet, Turning Prop Firm Payouts Into Repeat Sales",
+      "summary": "BOCA RATON, Fla., Nov. 4, 2026 /PRNewswire/ -- PropAccount.com, the white-label solution provider powered by FPFX Tech, has launched a new functionality: PropWallet PropWallet is a payout option that lets traders take a payout into their assigned PropWallet instead of a standard.",
+      "url": "https://www.prnewswire.com/news-releases/propaccountcom-launches-propwallet-turning-prop-firm-payouts-into-repeat-sales-302929898.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-05T00:34:00Z",
+      "epoch": 1793838840,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "PeptideWorld Expands Evidence-Based Peptide Education, Backed by Multidisciplinary Scientific Advisory Board",
+      "summary": "Powered by eūvita Health, the educational platform provides scientifically reviewed information on peptide therapies, metabolic health, hormone optimization, and longevity medicine. WEST PALM BEACH, Fla., Nov. 4, 2026 /PRNewswire/ -- PeptideWorld (www.peptideworld.com), an online",
+      "url": "https://www.prnewswire.com/news-releases/peptideworld-expands-evidence-based-peptide-education-backed-by-multidisciplinary-scientific-advisory-board-302929940.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-11-05T00:07:00Z",
+      "epoch": 1793837220,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "ONE OF THE WORLD'S FIRST PERSONALISED BRAIN STIMULATION STUDIES SHOWS PROMISE FOR SEVERE OCD WITH NUH AND NUS MEDICINE EXTENDING THE APPROACH TO DEPRESSION AND ANXIETY",
+      "summary": "Building on an established NUH–NUS Medicine collaboration, the work combines clinical expertise and cutting‑edge neuroimaging to improve outcomes for patients who have not responded to standard treatments SINGAPORE, Nov. 4, 2026 /PRNewswire/ -- Mental health treatments such as...",
+      "url": "https://www.prnewswire.com/news-releases/one-of-the-worlds-first-personalised-brain-stimulation-studies-shows-promise-for-severe-ocd-with-nuh-and-nus-medicine-extending-the-approach-to-depression-and-anxiety-302929938.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-11-05T00:05:00Z",
+      "epoch": 1793837100,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Verismo Therapeutics to Present First-in-Human SynKIR™-310 KIR-CAR Clinical Data Showing Robust Antitumor Activity and Favorable Safety Profile in Oral Presentation at 68th ASH Annual Meeting",
+      "summary": "Interim clinical data of SynKIR™-310, a CD19-targeted KIR-CAR T therapy, showed no CRS, ICANS, or DLT in the first two dose levels, coupled with robust antitumor activity in patients with relapsed or refractory B-cell non-Hodgkin Lymphoma (B-NHL) Verismo also presenting two precl",
+      "url": "https://www.prnewswire.com/news-releases/verismo-therapeutics-to-present-first-in-human-synkir-310-kir-car-clinical-data-showing-robust-antitumor-activity-and-favorable-safety-profile-in-oral-presentation-at-68th-ash-annual-meeting-302929714.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-11-05T00:00:00Z",
+      "epoch": 1793836800,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "First National Poll Examining Public Attitudes Toward \"Trump Derangement Syndrome\" Exposes Voter Behavior in 2026 Mid-Term Elections",
+      "summary": "Following National Press Club Briefing, Psychiatrist Dr. Carole Lieberman Submitted Official Diagnostic Proposal on \"Trump Derangement Syndrome\" to American Psychiatric Association WASHINGTON, Nov. 4, 2026 /PRNewswire/ -- In the aftermath of the 2026 mid-term elections, findings ",
+      "url": "https://www.prnewswire.com/news-releases/first-national-poll-examining-public-attitudes-toward-trump-derangement-syndrome-exposes-voter-behavior-in-2026-mid-term-elections-302929902.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-11-04T23:12:00Z",
+      "epoch": 1793833920,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Tradecraft Becomes First Venue to Support a Tokenized U.S. Stock Transaction Under the SEC Innovation Exemption",
+      "summary": "The trades involving Canton Strategic Holdings (NASDAQ: CNTN) shares follow TSV LLC's September 23 notice to the SEC, the first by any Tokenized Securities Venue NEW YORK, Nov. 4, 2026 /PRNewswire/ -- TSV LLC (\"TSV\"), the permissioned venue for tokenized NMS stocks on the Canton ",
+      "url": "https://www.prnewswire.com/news-releases/tradecraft-becomes-first-venue-to-support-a-tokenized-us-stock-transaction-under-the-sec-innovation-exemption-302929896.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-04T23:00:00Z",
+      "epoch": 1793833200,
+      "sentiment": 0.0,
+      "tickers": [
+        "CNTN"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Fedora Healthcare Solutions and Clarion Partner to Strengthen Revenue Cycle Performance for Independent Oncology Practices",
+      "summary": "Agreement brings preferred RCM pricing, network-wide KPI initiatives and shared operational best practices to Clarion member practices within ONCare Alliance WASHINGTON, Nov. 4, 2026 /PRNewswire/ -- Fedora Healthcare Solutions and Clarion Oncology, LLC, the group purchasing arm f",
+      "url": "https://www.prnewswire.com/news-releases/fedora-healthcare-solutions-and-clarion-partner-to-strengthen-revenue-cycle-performance-for-independent-oncology-practices-302929895.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-11-04T22:59:00Z",
+      "epoch": 1793833140,
+      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -321,20 +547,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "BROCO ENERGY AWARDED TWO FIVE-YEAR MASSACHUSETTS STATEWIDE FUEL CONTRACTS",
-      "summary": "Statewide awards include renewable diesel, biodiesel, heating oil and eligible liquid biofuel for public entities across the Commonwealth. BOSTON, Nov. 4, 2026 /PRNewswire/ -- Broco Energy, a Massachusetts-based, Veteran-Owned Small Business, has been awarded two five-year statew",
-      "url": "https://www.prnewswire.com/news-releases/broco-energy-awarded-two-five-year-massachusetts-statewide-fuel-contracts-302929880.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-04T22:40:00Z",
-      "epoch": 1793832000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "T. ROWE PRICE GROUP, INC., DECLARES QUARTERLY DIVIDEND",
       "summary": "BALTIMORE, Nov. 4, 2026 /PRNewswire/ -- T. Rowe Price Group, Inc. (NASDAQ-GS: TROW), a global asset management firm and a leader in retirement, announced today that its Board of Directors has declared a quarterly dividend of $1.30 per share payable on December 29, 2026, to stockh",
       "url": "https://www.prnewswire.com/news-releases/t-rowe-price-group-inc-declares-quarterly-dividend-302929875.html",
@@ -346,20 +558,6 @@
       "tickers": [
         "TROW"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "LV Petroleum Reaches 100 Travel Centers Nationwide",
-      "summary": "Growth from 42 to 100 travel centers in 14 months expands connections for drivers and communities across the country. LAS VEGAS, Nov. 4, 2026 /PRNewswire/ -- LV Petroleum LLC announced the opening of its 99th and 100th travel centers in Ivor and Suffolk, Virginia, on November 3, ",
-      "url": "https://www.prnewswire.com/news-releases/lv-petroleum-reaches-100-travel-centers-nationwide-302929865.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-04T22:12:00Z",
-      "epoch": 1793830320,
-      "sentiment": 0.67,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -379,22 +577,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "SILVERCORP DECLARES SEMI-ANNUAL DIVIDEND OF US$0.0125 PER SHARE",
-      "summary": "Trading Symbol: TSX/NYSE American: SVM VANCOUVER, BC, Nov. 4, 2026 /PRNewswire/ -- Silvercorp Metals Inc. (\"Silvercorp\" or the \"Company\") (TSX: SVM) (NYSE American: SVM) is pleased to announce that its Board of Directors declared a semi-annual dividend of US$0.0125 per share to b",
-      "url": "https://www.prnewswire.com/news-releases/silvercorp-declares-semi-annual-dividend-of-us0-0125-per-share-302929636.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-04T22:05:00Z",
-      "epoch": 1793829900,
-      "sentiment": 0.67,
-      "tickers": [
-        "SVM"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
     },
     {
       "title": "Year-end giving campaign launches for the AAN Research Program",
@@ -458,36 +640,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "RUSSEL METALS ANNOUNCES 2026 THIRD QUARTER RESULTS",
-      "summary": "TORONTO, Nov. 4, 2026 /PRNewswire/ -- Russel Metals Inc. (TSX: RUS) announces financial results for three months ended September 30, 2026. Record Quarterly Revenues, Adjusted EBITDA and Adjusted EPS Revenues of $1.8 Billion, Adjusted EBITDA of $230 Million and Adjusted EPS of $2.",
-      "url": "https://www.prnewswire.com/news-releases/russel-metals-announces-2026-third-quarter-results-302929438.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-04T22:01:00Z",
-      "epoch": 1793829660,
-      "sentiment": 0.33,
-      "tickers": [
-        "RUS"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "OceanaGold Reports Third Quarter 2026 Results",
-      "summary": "(All financial figures in United States dollars unless otherwise stated) On track to achieve production and AISC† guidance, Q4 expected to be the strongest of the year Strong Free Cash Flow† of $155 million, with cash of $729 million and no debt at quarter end Advanced growth pro",
-      "url": "https://www.prnewswire.com/news-releases/oceanagold-reports-third-quarter-2026-results-302929854.html",
-      "source": "PR Newswire — Biotechnology",
-      "source_id": "prnewswire-biotech",
-      "published_at": "2026-11-04T22:00:00Z",
-      "epoch": 1793829600,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Perpetua Announces New Gold Discovery at Stibnite Gold Project & Continued High Grades from Clark Tunnel Fault Zone",
       "summary": "First drill hole at the Fiddle prospect returns 109.7 m of 3.2 g/t Au and 1.1% Sb, located south of the permitted Yellow Pine open pit Clark Tunnel Fault Zone drilling returns 25.4 m of 4.5 g/t Au and 25.0 m of 2.3 g/t Au BOISE, Idaho, Nov. 4, 2026 /PRNewswire/ -- Perpetua Resour",
       "url": "https://www.prnewswire.com/news-releases/perpetua-announces-new-gold-discovery-at-stibnite-gold-project--continued-high-grades-from-clark-tunnel-fault-zone-302929850.html",
@@ -532,70 +684,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "American Bitcoin Reports Third Quarter 2026 Results",
-      "summary": "Grows Bitcoin Reserve Through Mining Operations, Increases Satoshis Per Share by Approximately 5% MIAMI, Nov. 4, 2026 /PRNewswire/ -- American Bitcoin Corp. (Nasdaq: ABTC) (\"American Bitcoin\" or the \"Company\"), a Bitcoin accumulation platform focused on building America's Bitcoin",
-      "url": "https://www.prnewswire.com/news-releases/american-bitcoin-reports-third-quarter-2026-results-302929390.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-11-04T21:30:00Z",
-      "epoch": 1793827800,
-      "sentiment": 0.0,
-      "tickers": [
-        "ABTC"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "MSA Safety to Participate in Upcoming Investor Conferences",
-      "summary": "PITTSBURGH, Nov. 4, 2026 /PRNewswire/ -- MSA Safety Incorporated (NYSE: MSA), a global leader in the development of advanced industrial safety technology products and solutions that protect people and facility infrastructure, announced its participation in the following upcoming ",
-      "url": "https://www.prnewswire.com/news-releases/msa-safety-to-participate-in-upcoming-investor-conferences-302929684.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-11-04T21:30:00Z",
-      "epoch": 1793827800,
-      "sentiment": 0.0,
-      "tickers": [
-        "MSA"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Cboe Global Markets Reports Trading Volume for October 2026",
-      "summary": "CHICAGO, Nov. 4, 2026 /PRNewswire/ -- Cboe Global Markets, Inc. (Cboe: CBOE), a leading global markets operator and pioneer in equity and index derivatives, today reported October trading volume statistics across its global business lines. The data sheet \"Cboe Global Markets Mont",
-      "url": "https://www.prnewswire.com/news-releases/cboe-global-markets-reports-trading-volume-for-october-2026-302929782.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-11-04T21:30:00Z",
-      "epoch": 1793827800,
-      "sentiment": 0.0,
-      "tickers": [
-        "CBOE"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Koppers Holdings Inc. Declares Quarterly Cash Dividend",
-      "summary": "PITTSBURGH, Nov. 4, 2026 /PRNewswire/ -- Koppers Holdings Inc. (NYSE: KOP), an integrated global provider of treated wood products, wood treatment chemicals, and carbon compounds, today announced that its Board of Directors has declared a quarterly cash dividend of $0.09 per shar",
-      "url": "https://www.prnewswire.com/news-releases/koppers-holdings-inc-declares-quarterly-cash-dividend-302929822.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-11-04T21:30:00Z",
-      "epoch": 1793827800,
-      "sentiment": 0.67,
-      "tickers": [
-        "KOP"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "New Story Names Adam Drudge Chief People Officer, Earns Third Straight Most Loved Workplace® Recognition",
       "summary": "The appointment and 2026 recognition reflect New Story's continued investment in its people as it works to advance special education and become an employer of choice. BALTIMORE, Nov. 4, 2026 /PRNewswire/ -- New Story has named Adam Drudge its Chief People Officer and earned 2026 ",
       "url": "https://www.prnewswire.com/news-releases/new-story-names-adam-drudge-chief-people-officer-earns-third-straight-most-loved-workplace-recognition-302929814.html",
@@ -605,22 +693,6 @@
       "epoch": 1793827260,
       "sentiment": 0.0,
       "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Allstate Reports Excellent Q3 2026 Results",
-      "summary": "NORTHBROOK, Ill., Nov. 4, 2026 /PRNewswire/ -- The Allstate Corporation (NYSE: ALL) today reported financial results for the third quarter of 2026. \"Allstate delivered excellent financial results and increased Property-Liability growth in the third quarter,\" said Tom Wilson, who ",
-      "url": "https://www.prnewswire.com/news-releases/allstate-reports-excellent-q3-2026-results-302929810.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-11-04T21:20:00Z",
-      "epoch": 1793827200,
-      "sentiment": 0.33,
-      "tickers": [
-        "ALL"
-      ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -636,22 +708,6 @@
       "sentiment": 0.0,
       "tickers": [
         "ARAY"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "MiniMed to Announce Its Fiscal Year 2027 Second Quarter Financial Results",
-      "summary": "NORTHRIDGE, Calif., Nov. 4, 2026 /PRNewswire/ -- MiniMed (Nasdaq: MMED), a global leader in diabetes technology, today announced that it expects to report financial results on Tuesday, November 24, 2026, for its second quarter of fiscal year 2027, which ended on Friday, October 3",
-      "url": "https://www.prnewswire.com/news-releases/minimed-to-announce-its-fiscal-year-2027-second-quarter-financial-results-302928451.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-04T21:15:00Z",
-      "epoch": 1793826900,
-      "sentiment": 0.0,
-      "tickers": [
-        "MMED"
       ],
       "company_name": null,
       "catalyst": false,
@@ -684,6 +740,22 @@
       "sentiment": 0.0,
       "tickers": [
         "EHTH"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "MiniMed to Announce Its Fiscal Year 2027 Second Quarter Financial Results",
+      "summary": "NORTHRIDGE, Calif., Nov. 4, 2026 /PRNewswire/ -- MiniMed (Nasdaq: MMED), a global leader in diabetes technology, today announced that it expects to report financial results on Tuesday, November 24, 2026, for its second quarter of fiscal year 2027, which ended on Friday, October 3",
+      "url": "https://www.prnewswire.com/news-releases/minimed-to-announce-its-fiscal-year-2027-second-quarter-financial-results-302928451.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-11-04T21:15:00Z",
+      "epoch": 1793826900,
+      "sentiment": 0.0,
+      "tickers": [
+        "MMED"
       ],
       "company_name": null,
       "catalyst": false,
@@ -748,20 +820,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Precigen Reports Third Quarter 2026 Results Highlighted by Strong Sequential PAPZIMEOS Revenue Growth and Positive Cash Flow Ahead of Guidance",
-      "summary": "PAPZIMEOS® net revenue rose 37% quarter-over-quarter to $72.9 million in the third quarter of 2026 bringing launch-to-date net product revenue to $151 million, underscoring sustained commercial momentum and expanding US adoption Achieved positive cash flow in the third quarter of",
-      "url": "https://www.prnewswire.com/news-releases/precigen-reports-third-quarter-2026-results-highlighted-by-strong-sequential-papzimeos-revenue-growth-and-positive-cash-flow-ahead-of-guidance-302929690.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-04T21:05:00Z",
-      "epoch": 1793826300,
-      "sentiment": 1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Nuvation Bio Reports Third Quarter 2026 Financial Results and Provides Business Update",
       "summary": "Achieved $45.0 million in third quarter 2026 total revenue, including $27.5 million in net product revenue for IBTROZI® (taletrectinib) IBTROZI continues to be the most prescribed ROS1 TKI and established as the ROS1 market leader in new patient starts and total active patients f",
       "url": "https://www.prnewswire.com/news-releases/nuvation-bio-reports-third-quarter-2026-financial-results-and-provides-business-update-302929623.html",
@@ -770,82 +828,6 @@
       "published_at": "2026-11-04T21:05:00Z",
       "epoch": 1793826300,
       "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Caris Life Sciences Reports Third Quarter 2026 Financial Results and Increases 2026 Revenue Guidance",
-      "summary": "Revenue growth of 27% driven by strong performance in molecular profiling services, including approximately 61,500 clinical cases, consisting of over 358,000 total oncology tests Raises 2026 revenue guidance to $1.04 to $1.05 billion, representing growth of 28% to 29% IRVING, Tex",
-      "url": "https://www.prnewswire.com/news-releases/caris-life-sciences-reports-third-quarter-2026-financial-results-and-increases-2026-revenue-guidance-302929429.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-04T21:05:00Z",
-      "epoch": 1793826300,
-      "sentiment": 1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Envista Reports Third Quarter 2026 Results",
-      "summary": "BREA, Calif., Nov. 4, 2026 /PRNewswire/ -- Envista Holdings Corporation (NYSE: NVST) today announced results for the quarter ended October 2, 2026. \"Envista delivered another quarter of profitable growth, gaining share and expanding margins,\" said Paul Keel, CEO. \"Supported by th",
-      "url": "https://www.prnewswire.com/news-releases/envista-reports-third-quarter-2026-results-302929688.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-04T21:05:00Z",
-      "epoch": 1793826300,
-      "sentiment": 0.67,
-      "tickers": [
-        "NVST"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Aflac Incorporated Announces Third Quarter 2026 Results, Declares Fourth Quarter Dividend",
-      "summary": "COLUMBUS, Ga., Nov. 4, 2026 /PRNewswire/ -- Aflac Incorporated (NYSE: AFL) today reported its third quarter results. For the Quarter Net earnings were $303 million, or $0.61 per diluted share, compared with $1.6 billion, or $3.08 per diluted share a year ago. Adjusted earnings* w",
-      "url": "https://www.prnewswire.com/news-releases/aflac-incorporated-announces-third-quarter-2026-results-declares-fourth-quarter-dividend-302929781.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-04T21:05:00Z",
-      "epoch": 1793826300,
-      "sentiment": 0.33,
-      "tickers": [
-        "AFL"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Accuray Reports Fiscal 2027 First Quarter Financial Results",
-      "summary": "MADISON, Wis., Nov. 4, 2026 /PRNewswire/ -- Accuray Incorporated (NASDAQ: ARAY) today reported financial results for the first quarter ended September 30, 2026. Key Highlights Service revenue grew 4% year-over-year to $59.2 million, up 5% on a constant currency basis, driven by s",
-      "url": "https://www.prnewswire.com/news-releases/accuray-reports-fiscal-2027-first-quarter-financial-results-302929651.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-04T21:05:00Z",
-      "epoch": 1793826300,
-      "sentiment": 0.0,
-      "tickers": [
-        "ARAY"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "GRAIL Reports Third Quarter 2026 Financial Results",
-      "summary": "FDA Advisory Committee Voted in Favor of Approval of GRAIL's Galleri Multi-Cancer Early Detection Test Q3 Galleri®Test Volume Increased ~24% to More Than 56,000 Year-Over-Year, Year-to-Date Test Volume Increased ~36% to More Than 174,000 Q3 Galleri Revenue Grew 14% Year-Over-Year",
-      "url": "https://www.prnewswire.com/news-releases/grail-reports-third-quarter-2026-financial-results-302929752.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-04T21:02:00Z",
-      "epoch": 1793826120,
-      "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -2044,6 +2026,126 @@
   ],
   "pipeline": [
     {
+      "title": "AbbVie pens $1.4B deal for deprioritized IBD drug from Nxera",
+      "summary": "AbbVie has added another angle to its relationship with Nxera, with the Big Pharma paying $100 million upfront for a phase 1 inflammatory bowel disease candidate.",
+      "url": "https://www.fiercebiotech.com/biotech/abbvie-pens-14b-deal-deprioritized-ibd-drug-nxera",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-04T07:21:00Z",
+      "epoch": 1793776860,
+      "sentiment": 0.33,
+      "tickers": [
+        "ABBV"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Rhythm doubles down on LG obesity license, raising payout to as much as $855M",
+      "summary": "Rhythm Pharmaceuticals and LG Chem have rewritten the terms of their licensing agreement for the oral obesity and hyperphagia drug bivamelagon, growing to $855 million in scheduled payments from the earlier milestone-based deal of $305 million.",
+      "url": "https://www.fiercebiotech.com/biotech/rhythm-doubles-down-lg-obesity-license-raising-payout-much-855m",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-03T09:35:00Z",
+      "epoch": 1793698500,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "AbbVie abandons phase 2 solid tumor drug over ‘limited benefit’",
+      "summary": "AbbVie has scrapped a phase 2 solid tumor drug after deciding that the monoclonal antibody was unlikely to best the current standard of care, Fierce has learned.",
+      "url": "https://www.fiercebiotech.com/biotech/abbvie-abandons-phase-2-stage-solid-tumor-drug-over-limited-benefit",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-03T08:41:00Z",
+      "epoch": 1793695260,
+      "sentiment": 0.0,
+      "tickers": [
+        "ABBV"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Pfizer pares back obesity pipeline, drops phase 2-stage lung disease candidate",
+      "summary": "Pfizer has axed a phase 2 pulmonary arterial hypertension program on business grounds, dealing a setback to a long-running effort to treat the lung disease by targeting BMP9.",
+      "url": "https://www.fiercebiotech.com/biotech/pfizer-drops-phase-2-lung-disease-candidate-pares-back-obesity-pipeline",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-03T08:29:00Z",
+      "epoch": 1793694540,
+      "sentiment": -0.33,
+      "tickers": [
+        "PFE"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "FDA grants uniQure’s Huntington’s gene therapy priority review, teeing up ‘defining milestone’",
+      "summary": "The FDA has accepted uniQure’s priority review and application for its gene therapy treatment for Huntington’s disease.",
+      "url": "https://www.fiercebiotech.com/biotech/fda-grants-uniqure-review-its-huntingtons-drug-approval-would-be-defining-milestone",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-02T15:28:00Z",
+      "epoch": 1793633280,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Inovio’s DNA-based immunotherapy Voceryq approved by FDA for rare HPV airway disease",
+      "summary": "After an initial FDA scare that threatened its path for an accelerated approval, Inovio’s Voceryq, the first plasmid DNA-based immunotherapy, has earned a go-ahead to treat a rare HPV-driven disease.",
+      "url": "https://www.fiercepharma.com/pharma/inovio-dna-based-immunotherapy-voceryq-approved-fda-rare-hpv-airway-disease",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-02T10:57:00Z",
+      "epoch": 1793617020,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "How advanced AI can improve clinical trial decision-making",
+      "summary": "Life science foundation models can help teams anticipate patient outcomes and pressure-test trial designs.",
+      "url": "https://www.fiercepharma.com/sponsored/how-advanced-ai-can-improve-clinical-trial-decision-making",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-10-08T15:35:00Z",
+      "epoch": 1791473700,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Charles River teams up with Ipsen to use virtual control groups in toxicology studies",
+      "summary": "Charles River Laboratories’ virtual control group (VCG) database will be used in a toxicology study run by French biopharma company Ipsen.",
+      "url": "https://www.fiercebiotech.com/cro/charles-river-teams-ipsen-use-virtual-control-groups-toxicology-studies",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-04T14:14:00Z",
+      "epoch": 1793801640,
+      "sentiment": 0.0,
+      "tickers": [
+        "CRL"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Sanofi stops development of Nurix-partnered immune drug",
       "summary": "The decision sparked a sell-off in Nurix shares as well as analyst debate about the prospects of drugs designed to degrade a tough-to-reach protein called STAT6.&nbsp;",
       "url": "https://www.biopharmadive.com/news/sanofi-discontinue-development-nurix-stat6-degrader-eczema/873697/",
@@ -2058,6 +2160,50 @@
       "small_cap_risk": false
     },
     {
+      "title": "Samsung Bio union vows strike as labor negotiations stall",
+      "summary": "Samsung Biologics' labor negotiations have stalled out amid mounting tension between union members and management. In response, the union says 400 employees will strike starting November 6.",
+      "url": "https://www.fiercepharma.com/pharma/samsung-bio-union-vows-strike-labor-negotiations-stall",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-04T11:51:00Z",
+      "epoch": 1793793060,
+      "sentiment": 0.0,
+      "tickers": [
+        "005930.KS"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "With oncology pipeline at ‘inflection point,’ Merck puts finish line in focus with new corporate campaign",
+      "summary": "In “From Our Pipeline to the Finish Line,” Merck highlights its vision of a cancer-free future and the role it hopes its pipeline will play in achieving that goal.",
+      "url": "https://www.fiercepharma.com/marketing/oncology-pipeline-inflection-point-merck-maps-out-finish-line-focus-new-corporate",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-04T11:37:00Z",
+      "epoch": 1793792220,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Sanofi runs emotive RSV campaign zeroing in on a baby’s bronchiolitis breathing sounds",
+      "summary": "Would you know the difference between a normal cold and one that has turned into something more serious? Sanofi is raising awareness of bronchiolitis, a potential complication of RSV in young children, with a new a tough-to-watch PSA video.",
+      "url": "https://www.fiercepharma.com/marketing/sanofi-runs-emotive-rsv-campaign-zeroing-babys-bronchiolitis-breathing-sounds",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-04T11:31:00Z",
+      "epoch": 1793791860,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Novo gets much-needed lift as Wegovy pill tops Wall Street forecasts",
       "summary": "The drug&rsquo;s third-quarter sales numbers came in well above consensus estimates, widening Novo&rsquo;s early edge over Eli Lilly in the latest battleground for weight loss medicines.",
       "url": "https://www.biopharmadive.com/news/novo-wegovy-pill-sales-3q-2026-earnings-cfo/873693/",
@@ -2065,6 +2211,34 @@
       "source_id": "biopharmadive",
       "published_at": "2026-11-04T11:13:00Z",
       "epoch": 1793790780,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Novo catches Wegovy pill tailwind in Q3 as CEO eyes new launch horizons in 2027",
+      "summary": "With a modest improvement to guidance and rosy launch expectations for 2027 girding a solid quarter for its GLP-1 franchise, Novo appears to be gradually winning back the confidence of some of its shareholders.",
+      "url": "https://www.fiercepharma.com/pharma/novo-catches-wegovy-pill-tailwind-q3-ceo-eyes-new-launch-horizons-2027",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-04T11:06:00Z",
+      "epoch": 1793790360,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Madrigal’s former clinical development head files whistleblower lawsuit alleging Rezdiffra safety cover-up",
+      "summary": "Madrigal Pharmaceuticals is facing a whistleblower lawsuit alleging that senior leadership censored serious liver-injury data related to its breakthrough MASH drug Rezdiffra and retaliated against the firm’s top clinical development head who tried to sound the alarm.",
+      "url": "https://www.fiercebiotech.com/pharma/madrigal-former-clinical-development-head-files-whistleblower-lawsuit-alleging-rezdiffra",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-04T10:52:00Z",
+      "epoch": 1793789520,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -2100,6 +2274,195 @@
       "small_cap_risk": false
     },
     {
+      "title": "BMS Canada teams with TANK Worldwide, Ogilvy Health to turn autumn leaves into melanoma awareness campaign",
+      "summary": "Bristol Myers Squibb Canada is partnering with TANK Worldwide and Ogilvy Health on a new “What Summer Leaves Behind” skin cancer awareness campaign.",
+      "url": "https://www.fiercepharma.com/marketing/bms-canada-teams-tank-worldwide-ogilvy-health-autumnal-melanoma-messaging",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-04T10:21:00Z",
+      "epoch": 1793787660,
+      "sentiment": 0.33,
+      "tickers": [
+        "BMY"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Minghui grants ASKA Japanese rights to sub-q TED candidate in $440M deal",
+      "summary": "China’s Minghui Pharmaceutical has licensed its late-stage thyroid eye disease candidate to ASKA Pharmaceutical for up to $440 million, granting the Japanese drugmaker exclusive development and commercialization rights in its home country.",
+      "url": "https://www.fiercebiotech.com/biotech/minghui-grants-aska-exclusive-japanese-rights-sub-q-ted-candidate-440m",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-04T09:20:00Z",
+      "epoch": 1793784000,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Blackstone Life Sciences teams up with Boston Scientific in $455M heart pump deal",
+      "summary": "Blackstone Life Sciences has penned a $455 million collaboration with Boston Scientific to co-fund the development of the medtech’s next-generation miniature heart pump system.",
+      "url": "https://www.fiercebiotech.com/medtech/blackstone-life-sciences-teams-boston-scientific-455m-heart-pump-deal",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-04T09:17:00Z",
+      "epoch": 1793783820,
+      "sentiment": 0.33,
+      "tickers": [
+        "BSX",
+        "BX"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Boehringer returns to Sino Biopharma in $7.4B deal for preclinical TCEs, ADCs",
+      "summary": "Boehringer Ingelheim has returned to China to satisfy its appetite for antibody-drug conjugates and T-cell engagers.",
+      "url": "https://www.fiercebiotech.com/biotech/boehringer-returns-sino-biopharma-74b-deal-preclinical-tces-adcs",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-04T09:12:00Z",
+      "epoch": 1793783520,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "nPhase rakes in $30M to expand AI-native clinical data platform",
+      "summary": "Clinical research company nPhase has closed a $30 million series D financing round to expand its AI-native clinical data platform.",
+      "url": "https://www.fiercebiotech.com/cro/nphase-rakes-30m-expand-ai-native-clinical-data-platform",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-04T08:23:00Z",
+      "epoch": 1793780580,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Ultragenyx shrinks workforce and axes assets to halve R&D spend",
+      "summary": "Ultragenyx is laying off 20% of its workforce and axing drug development programs to cut its annual R&amp;D budget to half of the amount it spent in 2025.",
+      "url": "https://www.fiercebiotech.com/biotech/ultragenyx-shrinks-workforce-and-axes-assets-halve-rd-spend",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-04T05:19:00Z",
+      "epoch": 1793769540,
+      "sentiment": -0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Sanofi scraps STAT6 degrader from Nurix just 2 months after entering clinic",
+      "summary": "Sanofi has decided to end work on a STAT6 degrader from Nurix just two months after taking the inflammatory disease drug into the clinic.",
+      "url": "https://www.fiercebiotech.com/biotech/sanofi-scraps-stat6-degrader-nurix-just-2-months-after-entering-clinic",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-04T05:04:00Z",
+      "epoch": 1793768640,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Novo’s CEO still looking for deals to ‘close some of the gaps,’ as misfires hit profits",
+      "summary": "Novo’s CEO has told Fierce that the company remains on the hunt for deals that “close some of the gaps” in its pipeline, as the Big Pharma reports billions of dollars in impairment charges from a string of recent clinical misses.",
+      "url": "https://www.fiercebiotech.com/biotech/novos-ceo-still-looking-deals-close-some-gaps-misfires-hit-profits",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-04T04:04:00Z",
+      "epoch": 1793765040,
+      "sentiment": -0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Servier’s $1.6B muscular dystrophy bet on Edgewise delivers quick-fire pivotal failure",
+      "summary": "Servier’s decision to bet $1.55 billion on Edgewise Therapeutics’ muscular dystrophy program ahead of pivotal data has backfired. Five months after striking the deal, the French drugmaker has reported that a Becker muscular dystrophy trial missed its primary and secondary endpoin",
+      "url": "https://www.fiercebiotech.com/biotech/serviers-155b-muscular-dystrophy-bet-delivers-quick-fire-pivotal-failure",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-04T03:06:00Z",
+      "epoch": 1793761560,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Smith+Nephew held failed talks with J&J over potential orthopedics combination",
+      "summary": "Smith+Nephew held talks with Johnson &amp; Johnson’s hip-and-knee replacement unit DePuy Synthes aimed at a potential combination with its orthopedics unit.",
+      "url": "https://www.fiercebiotech.com/medtech/smithnephew-held-failed-talks-jj-orthopaedics-biz-combination",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-04T03:02:00Z",
+      "epoch": 1793761320,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Insulin pump maker MiniMed names David Segal chief medical officer",
+      "summary": "MiniMed has hired David Segal, M.D., as its new chief medical officer, bringing in a diabetes care and digital health veteran as the company enters its next chapter as an independent business.",
+      "url": "https://www.fiercebiotech.com/medtech/diabetes-insulin-maker-minimed-hires-david-segal-new-chief-medical-officer",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-04T02:23:00Z",
+      "epoch": 1793758980,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Amgen's quality chief to retire as internal successor steps up",
+      "summary": "Jackie Elbonne, Ph.D., announced her retirement after 35 years in the biopharma industry, leaving Amgen's chief quality officer role to her deputy, Aine Hanly, Ph.D.",
+      "url": "https://www.fiercepharma.com/pharma/amgens-quality-chief-heads-retirement-her-deputy-take-reins",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-03T15:07:00Z",
+      "epoch": 1793718420,
+      "sentiment": 0.0,
+      "tickers": [
+        "AMGN"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Madrigal’s Rezdiffra storms past blockbuster milestone as CEO hails ‘accelerating’ MASH market",
+      "summary": "To Madrigal CEO Bill Sibold, “it’s hard to find a more attractive growth opportunity in biotech” than MASH, as the company’s Rezdiffra, the first FDA-approved MASH therapy, crossed the $1 billion mark in annual sales.",
+      "url": "https://www.fiercepharma.com/pharma/madrigal-rezdiffra-storms-past-blockbuster-milestone-ceo-hails-accelerating-mash-market",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-03T15:00:00Z",
+      "epoch": 1793718000,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Vertex, ahead of FDA decision, calms fears surrounding kidney drug",
       "summary": "On a conference call, executives expressed conviction in the coming launch of an IgA nephropathy medicine viewed by Wall Street investors as important to Vertex&rsquo;s future.&nbsp;",
       "url": "https://www.biopharmadive.com/news/vertex-earnings-q3-2026-povetacicept-iga-nephropathy-kidney/873600/",
@@ -2109,6 +2472,68 @@
       "epoch": 1793709120,
       "sentiment": 0.0,
       "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "As Bayer spots pharma recovery, questions resurface over potential crop science split",
+      "summary": "Bayer’s pharmaceutical business may finally be entering a long-awaited growth cycle, but CEO Bill Anderson still can’t quite escape the lingering questions around a potential crop science split.",
+      "url": "https://www.fiercepharma.com/pharma/bayer-spots-pharma-recovery-questions-resurface-over-potential-crop-science-split",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-03T11:27:00Z",
+      "epoch": 1793705220,
+      "sentiment": 0.33,
+      "tickers": [
+        "BAYN.DE"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Pfizer delivers Q3 beat as post-COVID comeback gains momentum",
+      "summary": "Pfizer's third-quarter performance bested Wall Street estimates thanks to an Eliquis beat and 37% growth from acquired products.",
+      "url": "https://www.fiercepharma.com/pharma/pfizer-post-q3-beat-post-covid-comeback-gains-momentum",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-03T11:26:00Z",
+      "epoch": 1793705160,
+      "sentiment": 1.0,
+      "tickers": [
+        "PFE"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Rising Stars: Publicis Health’s Ariel Rabinowitz knows what it takes to 'meet people where they are'",
+      "summary": "Publicis Health’s Ariel Rabinowitz learned lessons about health literacy, trust and access firsthand while teaching at a school in the Bronx.",
+      "url": "https://www.fiercepharma.com/marketing/rising-stars-publicis-healths-ariel-rabinowitz",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-03T10:38:00Z",
+      "epoch": 1793702280,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Lonza bets big on US growth, snaps up Merck KGaA’s CDMO business",
+      "summary": "Lonza will purchase the German Merck’s U.S.-based CDMO network for mid-triple-digit million euros. Besides five sites, the deal will bolster Lonza’s prowess in rapidly growing sectors such as cell and gene therapy, bioconjugates, viral vectors and advanced drug-delivery technolog",
+      "url": "https://www.fiercepharma.com/manufacturing/lonza-bets-big-us-growth-snaps-merck-kgaa-cdmo-business-amid-industry-consolidation",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-03T09:27:00Z",
+      "epoch": 1793698020,
+      "sentiment": 0.67,
+      "tickers": [
+        "MRK.DE"
+      ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -2142,6 +2567,96 @@
       "small_cap_risk": false
     },
     {
+      "title": "AbbVie invests £120M in UK, including expanded R&D site",
+      "summary": "AbbVie is investing 120 million pounds ($160 million) to expand its U.K. R&amp;D presence, in a show of faith in the country’s life sciences sector.",
+      "url": "https://www.fiercebiotech.com/biotech/abbvie-invests-ps120m-uk-including-new-rd-headquarters",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-03T05:49:00Z",
+      "epoch": 1793684940,
+      "sentiment": 0.0,
+      "tickers": [
+        "ABBV"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Philips sets aside $322M for proposed DOJ settlement over sleep apnea device recall",
+      "summary": "Philips’ Respironics division has reached an “agreement in principle” with the U.S. Department of Justice to settle a long-running investigation into its recall of potentially defective sleep apnea devices.",
+      "url": "https://www.fiercebiotech.com/medtech/philips-books-322m-payment-proposed-doj-settlement-over-sleep-apnea-device-recall",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-03T05:05:00Z",
+      "epoch": 1793682300,
+      "sentiment": -1.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "BioArctic left out in the cold as Novartis walks away from $800M neuro collab",
+      "summary": "Just 14 months after Novartis signed an $800 million biobucks neuroscience partnership with BioArctic, the Swiss pharma has walked away from the deal.",
+      "url": "https://www.fiercebiotech.com/biotech/novartis-scraps-800m-bioartic-neuroscience-collab-after-barely-year",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-03T04:55:00Z",
+      "epoch": 1793681700,
+      "sentiment": 0.67,
+      "tickers": [
+        "NOVN"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "GE HealthCare debuts ceiling-mounted AI image guidance system",
+      "summary": "GE HealthCare has debuted Allia Celeo, a ceiling-mounted image guiding system, at the Transcatheter Cardiovascular Therapeutics (TCT) 2026 conference.",
+      "url": "https://www.fiercebiotech.com/medtech/ge-healthcare-debuts-ceiling-mounted-ai-image-guidance-system",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-03T04:47:00Z",
+      "epoch": 1793681220,
+      "sentiment": 0.0,
+      "tickers": [
+        "GEHC"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Abbott's Tectonic test looks to shift artery disease treatment with ‘early’ win",
+      "summary": "Abbott has posted positive 30-day results from its Tectonic trial of the investigational SonicForce Coronary IVL System in coronary artery disease (CAD), but analysts urge caution on results.",
+      "url": "https://www.fiercebiotech.com/medtech/abbotts-tectonic-test-looks-shift-artery-disease-treatment-early-win",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-03T04:09:00Z",
+      "epoch": 1793678940,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Hansoh hit with FDA write-up after inspection",
+      "summary": "In a recently disclosed report, the FDA outlined manufacturing concerns at a facility run by China's Hansoh Pharma, with sterilization issues among the agency's chief complaints.",
+      "url": "https://www.fiercepharma.com/pharma/hansoh-and-samsung-face-fda-write-after-inspections",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-02T14:30:00Z",
+      "epoch": 1793629800,
+      "sentiment": -0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Karyopharm, deep in debt, to sell itself in bankruptcy",
       "summary": "The parent of cell therapy maker Gamida Cell will be the lead bidder in a court-supervised auction of Karyopharm, which recently cut a forbearance deal to push off debt payments.",
       "url": "https://www.biopharmadive.com/news/karyopharm-bankruptcy-chapter-11-auction-ayrmid-gamida-cell/873415/",
@@ -2150,6 +2665,62 @@
       "published_at": "2026-11-02T12:07:00Z",
       "epoch": 1793621220,
       "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Sumitomo's Gemtesa power couple takes the wheel in road-trip themed overactive bladder awareness push",
+      "summary": "Actress Holly Robinson Peete and her husband, former professional quarterback Rodney Peete, are hitting the road for another starring role in Sumitomo Pharma America’s Gemtesa campaign, “Time To Go.”",
+      "url": "https://www.fiercepharma.com/marketing/sumitomos-gemtesa-power-couple-takes-wheel-road-trip-themed-overactive-bladder-awareness",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-02T11:32:00Z",
+      "epoch": 1793619120,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Compass points to unmet need in depression as landmark psychedelic nears market",
+      "summary": "Compass Pathways has published survey data showing how treatment-resistant depression affects patients and their caregivers, laying the groundwork for the launch of its psychedelic therapy.",
+      "url": "https://www.fiercepharma.com/marketing/compass-points-unmet-need-depression-landmark-psychedelic-nears-market",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-02T10:34:00Z",
+      "epoch": 1793615640,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Karyopharm files Chapter 11, lines up Ayrmid as lead bidder in planned merger",
+      "summary": "In an answer to Karyopharm's cash crisis, Irish biotech Ayrmid has agreed to make the first bid on the struggling biopharma's assets in a court supervised auction, teeing up a potential hematology merger.",
+      "url": "https://www.fiercebiotech.com/pharma/karyopharm-files-chapter-11-and-ayrmid-agrees-make-first-bid",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-02T10:17:00Z",
+      "epoch": 1793614620,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "OpenAI-funded Biossil snags Theriva's unwanted antibiotic degrader portfolio for up to $91M",
+      "summary": "Canada's OpenAI-backed startup Biossil Labs has extended its pharma shopping spree with a deal worth up to $91 million for Theriva Biologics' deprioritized early- to mid-stage portfolio of antibiotic-degrading enzymes.",
+      "url": "https://www.fiercebiotech.com/biotech/openai-funded-biossil-snags-therivas-antibiotic-degrader-portfolio-91m",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-02T09:55:00Z",
+      "epoch": 1793613300,
+      "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -2170,6 +2741,39 @@
       "small_cap_risk": false
     },
     {
+      "title": "Dexcom taps celebrities, influencers for ‘A Letter to Diabetes’ campaign",
+      "summary": "Dexcom is marking National Diabetes Awareness Month and World Diabetes Day in November with a new campaign asking people affected by diabetes to write a letter to the condition.",
+      "url": "https://www.fiercepharma.com/marketing/dexcom-launches-letter-diabetes-campaign-enlisting-celebs-influencers-and-hcps",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-02T09:30:00Z",
+      "epoch": 1793611800,
+      "sentiment": 0.0,
+      "tickers": [
+        "DXCM"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Fresenius strikes WuXi Bio biosimilars deal for up to 37 assets, targeting €370B market",
+      "summary": "Fresenius has inked a broad deal with WuXi Biologics to scale its biosimilars portfolio to as many as 66 molecules targeting a combined originator market worth over 370 billion euros ($415 billion).",
+      "url": "https://www.fiercepharma.com/pharma/fresenius-expands-biosimilars-pipeline-37-asset-wuxi-deal-targeting-eur370b-market",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-02T09:10:00Z",
+      "epoch": 1793610600,
+      "sentiment": 0.67,
+      "tickers": [
+        "2269.HK",
+        "FRE.DE"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Earnings roundup: AstraZeneca’s cost cuts, Alnylam’s slump and Regeneron’s resilience",
       "summary": "AstraZeneca will &ldquo;redeploy resources&rdquo; through a new restructuring program. Meanwhile, Alnylam shares sold off on fears surrounding a top drug and investors rewarded Regeneron for a record quarter.",
       "url": "https://www.biopharmadive.com/news/astrazeneca-alnylam-regeneron-3q26-earnings-analysis/873410/",
@@ -2181,6 +2785,92 @@
       "tickers": [
         "AZN.L"
       ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Sanofi tips Dupixent to reap most rewards from Eli Lilly’s Ebglyss ad push",
+      "summary": "Sanofi has predicted that Dupixent will receive “the majority of the benefit” from the direct-to-consumer marketing campaigns that Eli Lilly is running to support its rival drug Ebglyss.",
+      "url": "https://www.fiercepharma.com/marketing/sanofi-tips-dupixent-reap-most-rewards-eli-lillys-ebglyss-ad-push",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-02T02:28:00Z",
+      "epoch": 1793586480,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "How AI turns field conversations into actionable insights",
+      "summary": "See how STEM AI turns real-world HCP conversations into personalized coaching, strategic insights and stronger field execution.",
+      "url": "https://www.fiercepharma.com/sponsored/how-ai-turns-field-conversations-actionable-insights",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-10-29T12:39:00Z",
+      "epoch": 1793277540,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Proof Over Promise: What a DTP Program Actually Looks Like When It's Working",
+      "summary": "The DTP space is full of providers making bold claims. But claims aren’t outcomes. Find out what a high-performing DTP program actually delivers.",
+      "url": "https://www.fiercepharma.com/sponsored/proof-over-promise-what-dtp-program-actually-looks-when-its-working",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-10-29T10:21:00Z",
+      "epoch": 1793269260,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "HCPs Aren’t Ignoring Your Science. They’re Ignoring How (and When) You Deliver It",
+      "summary": "Make your congress investment work harder. Discover how the right format can deliver 180% more engaged sessions.",
+      "url": "https://www.fiercepharma.com/sponsored/hcps-arent-ignoring-your-science-theyre-ignoring-how-and-when-you-deliver-it",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-10-28T10:33:00Z",
+      "epoch": 1793183580,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Regulatory tracker: Sun's Ilumya wins FDA expansion; Bayer's FXIa inhibitor gets world-1st nod in China",
+      "summary": "In this tracker, Fierce Pharma is recording the regulatory progress of in-market products, including expansions into key geographies and new indications. Some of these updates may not meet the bar for standalone stories, but we think they are still worth mentioning.",
+      "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-07-01T13:33:00Z",
+      "epoch": 1782912780,
+      "sentiment": 0.67,
+      "tickers": [
+        "BAYN.DE"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Fierce Biotech Layoff Tracker 2026: Ultragenyx lays off 20%; Molecular Partners trims 44%",
+      "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+      "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2025-12-23T10:11:00Z",
+      "epoch": 1766484660,
+      "sentiment": -0.33,
+      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
