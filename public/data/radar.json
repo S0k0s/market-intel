@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T20:41:09Z",
+  "generated_at": "2026-11-07T23:58:26Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 146,
+    "breaking_count": 145,
     "breaking_catalyst_count": 26,
     "pipeline_count": 57,
     "pipeline_catalyst_count": 6,
@@ -58,13 +58,13 @@
       "source_count": 1
     },
     {
-      "ticker": "CLSK",
+      "ticker": "KG",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "KG",
+      "ticker": "CLSK",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -74,9 +74,9 @@
   "concentration_warning": null,
   "breaking": [
     {
-      "title": "Johnson & Johnson announces ICOTYDE® (icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide",
-      "summary": "Late-breaking data from Phase 3 investigational study presented at the American College of Rheumatology Convergence show 58% of ICOTYDE-treated patients achieved an ACR20 response and 29% achieved an ACR50 response at Week 16 ICOTYDE is a first-in-class IL-23R targeted oral pepti",
-      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-icotyde-icotrokinra-delivers-significant-improvement-in-psoriatic-arthritis-disease-activity-among-biologic-naive-patients-with-once-daily-targeted-oral-peptide-302932455.html",
+      "title": "Johnson & Johnson announces new Phase 2 nipocalimab study data in Sjögren's disease that reveal insights on importance of symptom improvements most valued by patients",
+      "summary": "New patient experience dataa to be presented at ACR 2026 show mouth dryness was reported as the most important symptom to improve, followed by eye dryness, fatigue and joint pain Patient insights complement Phase 2 study results demonstrating a 50% increase in saliva productionb ",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-new-phase-2-nipocalimab-study-data-in-sjogrens-disease-that-reveal-insights-on-importance-of-symptom-improvements-most-valued-by-patients-302932516.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
       "published_at": "2026-11-07T15:03:00Z",
@@ -90,9 +90,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "Johnson & Johnson announces new Phase 2 nipocalimab study data in Sjögren's disease that reveal insights on importance of symptom improvements most valued by patients",
-      "summary": "New patient experience dataa to be presented at ACR 2026 show mouth dryness was reported as the most important symptom to improve, followed by eye dryness, fatigue and joint pain Patient insights complement Phase 2 study results demonstrating a 50% increase in saliva productionb ",
-      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-new-phase-2-nipocalimab-study-data-in-sjogrens-disease-that-reveal-insights-on-importance-of-symptom-improvements-most-valued-by-patients-302932516.html",
+      "title": "Johnson & Johnson announces ICOTYDE® (icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide",
+      "summary": "Late-breaking data from Phase 3 investigational study presented at the American College of Rheumatology Convergence show 58% of ICOTYDE-treated patients achieved an ACR20 response and 29% achieved an ACR50 response at Week 16 ICOTYDE is a first-in-class IL-23R targeted oral pepti",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-icotyde-icotrokinra-delivers-significant-improvement-in-psoriatic-arthritis-disease-activity-among-biologic-naive-patients-with-once-daily-targeted-oral-peptide-302932455.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
       "published_at": "2026-11-07T15:03:00Z",
@@ -444,6 +444,62 @@
       "small_cap_risk": false
     },
     {
+      "title": "Impulse Space Awarded Two Task Orders for NASA's Moon Base",
+      "summary": "NASA will use Impulse's in-space mobility capabilities to build transportation infrastructure supporting humanity's first outpost on the Moon REDONDO BEACH, Calif., Nov. 7, 2026 /PRNewswire/ -- Impulse Space, the in-space mobility company, announced today it has been awarded two ",
+      "url": "https://www.prnewswire.com/news-releases/impulse-space-awarded-two-task-orders-for-nasas-moon-base-302932625.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-07T23:01:00Z",
+      "epoch": 1794092460,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Quantum Space Part of Team Awarded $185 Million NASA Contract for Moon Base Transportation Program",
+      "summary": "Ranger spacecraft to deliver NASA payloads to lunar orbit, with Quantum Space receiving approximately 25% of the Arrow-led contract value ROCKVILLE, Md., Nov. 7, 2026 /PRNewswire/ -- Quantum Space, LLC (the \"Company\" or \"Quantum Space\"), a company developing the next generation o",
+      "url": "https://www.prnewswire.com/news-releases/quantum-space-part-of-team-awarded-185-million-nasa-contract-for-moon-base-transportation-program-302932612.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-07T23:00:00Z",
+      "epoch": 1794092400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Four Course Records and 28 Olympic Trials Qualifiers Highlight Historic 2026 CNO Financial Indianapolis Monumental Marathon",
+      "summary": "Record-breaking performances across all three race distances headline the 19th annual event as Beyond Monumental looks ahead to its 20th anniversary INDIANAPOLIS, Nov. 7, 2026 /PRNewswire/ -- Four course records fell and 28 athletes achieved qualifying times for the 2028 U.S. Oly",
+      "url": "https://www.prnewswire.com/news-releases/four-course-records-and-28-olympic-trials-qualifiers-highlight-historic-2026-cno-financial-indianapolis-monumental-marathon-302932614.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-07T21:07:00Z",
+      "epoch": 1794085620,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Boston Students Explore Engineering and Innovation at Hands-On STEM Expo",
+      "summary": "Society of Women Engineers event introduced young people to science, technology and potential careers in engineering BOSTON, Nov. 7, 2026 /PRNewswire/ -- For young people curious about how things work, Boston's Seaport District became a place of discovery Saturday as students exp",
+      "url": "https://www.prnewswire.com/news-releases/boston-students-explore-engineering-and-innovation-at-hands-on-stem-expo-302932602.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-07T21:05:00Z",
+      "epoch": 1794085500,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "2027 Toy of the Year® Finalists Unveiled",
       "summary": "122 Standout Toys & Games to Inspire Wishlists this Holiday Season NEW YORK, Nov. 7, 2026 /PRNewswire/ -- Buildable solar flowers, a plush tiger cub that grows, and satisfying sensory toys are among the 122 innovative finalists for the prestigious 2027 Toy of the Year® (TOTY®) Aw",
       "url": "https://www.prnewswire.com/news-releases/2027-toy-of-the-year-finalists-unveiled-302932604.html",
@@ -586,62 +642,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "JOYEE N01 Global Mass Production Launch and First Batch Delivery of 2,000 Overseas Orders Kicks Off",
-      "summary": "YANCHENG, China, Nov. 7, 2026 /PRNewswire/ -- On October 28, the ceremony for the global mass production launch of the JOYEE N01 and the first batch delivery of 2,000 overseas orders was grandly held at the Yancheng Branch of China FAW. At the event, FAW Bestune delivered the fir",
-      "url": "https://www.prnewswire.com/news-releases/joyee-n01-global-mass-production-launch-and-first-batch-delivery-of-2-000-overseas-orders-kicks-off-302932578.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T12:25:00Z",
-      "epoch": 1794054300,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Pigeon Showcases Parenting Innovations at CIIE 2026 Under \"Boundless Joy of Newborn\" Theme",
-      "summary": "SHANGHAI, Nov. 7, 2026 /PRNewswire/ -- Pigeon, a global leader in baby feeding and care, returned to the China International Import Expo (CIIE) for the fourth consecutive year, showcasing baby care products and research innovations from around the world, together with its latest.",
-      "url": "https://www.prnewswire.com/news-releases/pigeon-showcases-parenting-innovations-at-ciie-2026-under-boundless-joy-of-newborn-theme-302932569.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T08:26:00Z",
-      "epoch": 1794039960,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Muyuan Foods Group, a Global Leader in Pig Farming, to Showcase Smart Pig Farming and Green Development Solutions at EuroTier 2026",
-      "summary": "HANOVER, Germany, Nov. 7, 2026 /PRNewswire/ -- From November 10 to 13, Muyuan Foods Group (002714.SZ/02714.HK) will participate in EuroTier 2026 in Hanover, Germany. As a global leader in pig farming, Muyuan marketed 77.98 million pigs and slaughtered 28.66 million pigs in 2025. ",
-      "url": "https://www.prnewswire.com/news-releases/muyuan-foods-group-a-global-leader-in-pig-farming-to-showcase-smart-pig-farming-and-green-development-solutions-at-eurotier-2026-302932559.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T06:53:00Z",
-      "epoch": 1794034380,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Youth voices carry Mazu's legacy",
-      "summary": "PUTIAN, China, Nov. 6, 2026 /PRNewswire/ -- A report from China Daily: Over 200 Gen Z representatives from more than 20 countries and regions gathered in Putian, Fujian, from Oct 27 to Nov 1 for the Mazu Culture Youth Exchange Forum: Global Gen Z in Dialogue with Mazu Culture. Th",
-      "url": "https://www.prnewswire.com/news-releases/youth-voices-carry-mazus-legacy-302932536.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T04:00:00Z",
-      "epoch": 1794024000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Datavault AI Founder Nathaniel Bradley Sues Board",
       "summary": "WILMINGTON, Del., Nov. 6, 2026 /PRNewswire/ -- Lawsuit Alleges Chairman and CFO Brett Moyer Engineered a Weekend Lockout While Keeping a $90–$100 Million Financing Offer From Independent Directors Datavault AI Founder Nathaniel Bradley Sues Board Nathaniel Bradley, the founder wh",
       "url": "https://www.prnewswire.com/news-releases/datavault-ai-founder-nathaniel-bradley-sues-board-302932495.html",
@@ -742,22 +742,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "CleanSpark Announces Participation in Upcoming Investor Events",
-      "summary": "LAS VEGAS, Nov. 6, 2026 /PRNewswire/ -- CleanSpark, Inc. (Nasdaq: CLSK) (\"CleanSpark\" or the \"Company\"), a market-leading data center developer, today announced its participation in upcoming investor conferences. If applicable, live webcasts, replay information and updated presen",
-      "url": "https://www.prnewswire.com/news-releases/cleanspark-announces-participation-in-upcoming-investor-events-302932282.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-11-06T21:15:00Z",
-      "epoch": 1793999700,
-      "sentiment": 0.0,
-      "tickers": [
-        "CLSK"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "Kestrel Group Reports Third Quarter 2026 Financial Results",
       "summary": "AUSTIN, Texas, Nov. 6, 2026 /PRNewswire/ -- Kestrel Group Ltd (NASDAQ: KG) (\"Kestrel\" or the \"Company\") a leading specialty insurance platform that provides fronting services to program managers, reinsurers, and reinsurance brokers, today reported its financial results for the th",
       "url": "https://www.prnewswire.com/news-releases/kestrel-group-reports-third-quarter-2026-financial-results-302932395.html",
@@ -768,6 +752,22 @@
       "sentiment": 0.0,
       "tickers": [
         "KG"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "CleanSpark Announces Participation in Upcoming Investor Events",
+      "summary": "LAS VEGAS, Nov. 6, 2026 /PRNewswire/ -- CleanSpark, Inc. (Nasdaq: CLSK) (\"CleanSpark\" or the \"Company\"), a market-leading data center developer, today announced its participation in upcoming investor conferences. If applicable, live webcasts, replay information and updated presen",
+      "url": "https://www.prnewswire.com/news-releases/cleanspark-announces-participation-in-upcoming-investor-events-302932282.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-06T21:15:00Z",
+      "epoch": 1793999700,
+      "sentiment": 0.0,
+      "tickers": [
+        "CLSK"
       ],
       "company_name": null,
       "catalyst": false,
@@ -790,22 +790,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "InMed Pharmaceuticals Completes Closing of Merger with Mentari Therapeutics",
-      "summary": "Shares expected to trade on Nasdaq under the ticker symbol \"MTRI\" commencing November 9, 2026 VANCOUVER, BC, Nov. 6, 2026 /PRNewswire/ -- InMed Pharmaceuticals Inc. (which has changed its name to Mentari Therapeutics, Inc.) (NASDAQ: INM) (\"Mentari\" or the \"Company\") today announc",
-      "url": "https://www.prnewswire.com/news-releases/inmed-pharmaceuticals-completes-closing-of-merger-with-mentari-therapeutics-302932393.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-06T21:05:00Z",
-      "epoch": 1793999100,
-      "sentiment": 0.0,
-      "tickers": [
-        "INM"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "POMDOCTOR LIMITED Regains Compliance with Nasdaq Bid Price Requirement",
       "summary": "GUANGZHOU, China, Nov. 6, 2026 /PRNewswire/ -- POMDOCTOR LIMITED (\"Pomdoctor\" or the \"Company\") (NASDAQ: POM), a digital healthcare company focused on advancing AI-enabled healthcare solutions and predictive healthcare capabilities, today announced that on November 5, 2026, the C",
       "url": "https://www.prnewswire.com/news-releases/pomdoctor-limited-regains-compliance-with-nasdaq-bid-price-requirement-302932252.html",
@@ -816,6 +800,22 @@
       "sentiment": 0.0,
       "tickers": [
         "POM"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "InMed Pharmaceuticals Completes Closing of Merger with Mentari Therapeutics",
+      "summary": "Shares expected to trade on Nasdaq under the ticker symbol \"MTRI\" commencing November 9, 2026 VANCOUVER, BC, Nov. 6, 2026 /PRNewswire/ -- InMed Pharmaceuticals Inc. (which has changed its name to Mentari Therapeutics, Inc.) (NASDAQ: INM) (\"Mentari\" or the \"Company\") today announc",
+      "url": "https://www.prnewswire.com/news-releases/inmed-pharmaceuticals-completes-closing-of-merger-with-mentari-therapeutics-302932393.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-11-06T21:05:00Z",
+      "epoch": 1793999100,
+      "sentiment": 0.0,
+      "tickers": [
+        "INM"
       ],
       "company_name": null,
       "catalyst": false,
@@ -1170,20 +1170,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Quoin Pharmaceuticals Ltd.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Capitol Securities Welcomes Joe Malave, CFP® & Katy Carrigan",
-      "summary": "Vice President, Investments-Managing Director | Optimal Wealth Management SARASOTA, Fla., Nov. 6, 2026 /PRNewswire/ -- Capitol Securities Management is pleased to welcome Joe Malave, CFP®, as Vice President, Investments. Joe has more than 30 years of financial services experience",
-      "url": "https://www.prnewswire.com/news-releases/capitol-securities-welcomes-joe-malave-cfp--katy-carrigan-302932226.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-11-06T17:15:00Z",
-      "epoch": 1793985300,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
