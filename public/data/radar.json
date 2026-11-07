@@ -1,14 +1,20 @@
 {
-  "generated_at": "2026-11-07T11:15:14Z",
+  "generated_at": "2026-11-07T16:56:45Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 147,
-    "breaking_catalyst_count": 24,
+    "breaking_count": 148,
+    "breaking_catalyst_count": 26,
     "pipeline_count": 57,
     "pipeline_catalyst_count": 6,
     "movers_count": 0
   },
   "trending_tickers": [
+    {
+      "ticker": "JNJ",
+      "count": 2,
+      "catalyst_count": 2,
+      "source_count": 1
+    },
     {
       "ticker": "MRNA",
       "count": 2,
@@ -29,9 +35,21 @@
     },
     {
       "ticker": "NOVN",
-      "count": 3,
+      "count": 4,
       "catalyst_count": 0,
       "source_count": 3
+    },
+    {
+      "ticker": "AMGN",
+      "count": 2,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "AUR",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
     },
     {
       "ticker": "JHX",
@@ -50,29 +68,43 @@
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
-    },
-    {
-      "ticker": "STHO",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "POM",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "INM",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
     }
   ],
   "movers": [],
   "concentration_warning": null,
   "breaking": [
+    {
+      "title": "Johnson & Johnson announces new Phase 2 nipocalimab study data in Sjögren's disease that reveal insights on importance of symptom improvements most valued by patients",
+      "summary": "New patient experience dataa to be presented at ACR 2026 show mouth dryness was reported as the most important symptom to improve, followed by eye dryness, fatigue and joint pain Patient insights complement Phase 2 study results demonstrating a 50% increase in saliva productionb ",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-new-phase-2-nipocalimab-study-data-in-sjogrens-disease-that-reveal-insights-on-importance-of-symptom-improvements-most-valued-by-patients-302932516.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-07T15:03:00Z",
+      "epoch": 1794063780,
+      "sentiment": 0.0,
+      "tickers": [
+        "JNJ"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Johnson & Johnson announces ICOTYDE® (icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide",
+      "summary": "Late-breaking data from Phase 3 investigational study presented at the American College of Rheumatology Convergence show 58% of ICOTYDE-treated patients achieved an ACR20 response and 29% achieved an ACR50 response at Week 16 ICOTYDE is a first-in-class IL-23R targeted oral pepti",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-icotyde-icotrokinra-delivers-significant-improvement-in-psoriatic-arthritis-disease-activity-among-biologic-naive-patients-with-once-daily-targeted-oral-peptide-302932455.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-07T15:03:00Z",
+      "epoch": 1794063780,
+      "sentiment": 0.0,
+      "tickers": [
+        "JNJ"
+      ],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
     {
       "title": "Novo real-world studies link Wegovy® 2.4 mg to reductions in liver enzymes, weight, and blood sugar in adults with MASH at The Liver Meeting® (AASLD) 2026",
       "summary": "In a real-world study, semaglutide 2.4 mg once weekly injection was associated with a statistically significant mean weight loss from baseline, 18.9 lb (8.6 kg; ~8%), when compared to resmetirom at six months Semaglutide 2.4 mg was also associated with significantly greater reduc",
@@ -412,6 +444,120 @@
       "small_cap_risk": false
     },
     {
+      "title": "Routine Invasive Procedures for Stable Heart Disease Offer No Long-Term Survival Advantage Over Drug Therapy",
+      "summary": "Findings Add to Past Evidence That Early Invasive Procedures Ease Symptoms but Do Not Improve Long-Term Survival NEW YORK, Nov. 7, 2026 /PRNewswire/ -- Patients with stable heart disease and abnormal stress tests who have invasive procedures early in their care do not live longer",
+      "url": "https://www.prnewswire.com/news-releases/routine-invasive-procedures-for-stable-heart-disease-offer-no-long-term-survival-advantage-over-drug-therapy-302931095.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-07T16:07:00Z",
+      "epoch": 1794067620,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "What to Look for in an Online GLP-1 Provider: Meant Outlines Five Questions Worth Asking Before Signing Up",
+      "summary": "MANASSAS, Va., Nov. 7, 2026 /PRNewswire/ -- As more telehealth companies offer GLP-1 care, the options can look alike from the outside, and telling them apart takes more than a glance at a landing page. Meant is sharing five questions consumers can ask when choosing an online GLP",
+      "url": "https://www.prnewswire.com/news-releases/what-to-look-for-in-an-online-glp-1-provider-meant-outlines-five-questions-worth-asking-before-signing-up-302927805.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-07T16:00:00Z",
+      "epoch": 1794067200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Notice of AUR Investigation: Kessler Topaz Meltzer & Check, LLP Encourages Aurora Innovation, Inc. (AUR) Investors to Contact the Firm",
+      "summary": "RADNOR, Pa., Nov. 7, 2026 /PRNewswire/ -- Kessler Topaz Meltzer & Check, LLP (www.ktmc.com), a nationally recognized securities litigation law firm, is investigating potential violations of the federal securities laws by Aurora Innovation, Inc. (\"Aurora Innovation\") (NASDAQ: AUR)",
+      "url": "https://www.prnewswire.com/news-releases/notice-of-aur-investigation-kessler-topaz-meltzer--check-llp-encourages-aurora-innovation-inc-aur-investors-to-contact-the-firm-302932285.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-07T15:40:00Z",
+      "epoch": 1794066000,
+      "sentiment": -0.33,
+      "tickers": [
+        "AUR"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Paris Baguette Opens First-Ever Drive-Thru Location in Moore, Oklahoma, Marking a Major Brand Milestone",
+      "summary": "Paris Baguette's 346th North American café opened on November 3rd, introducing its first drive-thru format, a milestone in the brand's growth and innovation, bringing freshly baked pastries and the signature bakery café experience to guests on the go. MOORE, Okla., Nov. 7, 2026..",
+      "url": "https://www.prnewswire.com/news-releases/paris-baguette-opens-first-ever-drive-thru-location-in-moore-oklahoma-marking-a-major-brand-milestone-302932523.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-07T14:00:00Z",
+      "epoch": 1794060000,
+      "sentiment": 1.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "ecozy Introduces the Brezzano Switch, a 2-in-1 Home Espresso Machine That Delivers True Drip Coffee",
+      "summary": "FULLERTON, Calif., Nov. 7, 2026 /PRNewswire/ -- ecozy, a leader in smart home appliances, today announced the launch of the Brezzano Switch 2-in-1 Espresso Machine, an entry-level home coffee maker that delivers espresso and true drip coffee. Designed to make home brewing simple ",
+      "url": "https://www.prnewswire.com/news-releases/ecozy-introduces-the-brezzano-switch-a-2-in-1-home-espresso-machine-that-delivers-true-drip-coffee-302932574.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-07T14:00:00Z",
+      "epoch": 1794060000,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "In HelloNation, Fireplace Expert Jimmy Smith Explains How to Add a Fireplace to an Existing Home",
+      "summary": "The article outlines how homeowners can add a fireplace by matching installation options to their home's layout, heating needs, and design goals. NORTH CHARLESTON, S.C., Nov. 7, 2026 /PRNewswire/ -- Can you add a fireplace to an existing home? The answer is provided in a HelloNat",
+      "url": "https://www.prnewswire.com/news-releases/in-hellonation-fireplace-expert-jimmy-smith-explains-how-to-add-a-fireplace-to-an-existing-home-302932202.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-07T13:00:00Z",
+      "epoch": 1794056400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "7th World Media Summit opens in Beijing",
+      "summary": "BEIJING, Nov. 7, 2026 /PRNewswire/ -- The 7th World Media Summit held its opening ceremony in Beijing on Saturday under the theme \"Media in the Intelligent Age: From Consensus to Action.\" Xinhua News Agency and the Beijing municipal government jointly organized this year's summit",
+      "url": "https://www.prnewswire.com/news-releases/7th-world-media-summit-opens-in-beijing-302932579.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-07T12:38:00Z",
+      "epoch": 1794055080,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "JOYEE N01 Global Mass Production Launch and First Batch Delivery of 2,000 Overseas Orders Kicks Off",
+      "summary": "YANCHENG, China, Nov. 7, 2026 /PRNewswire/ -- On October 28, the ceremony for the global mass production launch of the JOYEE N01 and the first batch delivery of 2,000 overseas orders was grandly held at the Yancheng Branch of China FAW. At the event, FAW Bestune delivered the fir",
+      "url": "https://www.prnewswire.com/news-releases/joyee-n01-global-mass-production-launch-and-first-batch-delivery-of-2-000-overseas-orders-kicks-off-302932578.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-07T12:25:00Z",
+      "epoch": 1794054300,
+      "sentiment": 0.67,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Pigeon Showcases Parenting Innovations at CIIE 2026 Under \"Boundless Joy of Newborn\" Theme",
       "summary": "SHANGHAI, Nov. 7, 2026 /PRNewswire/ -- Pigeon, a global leader in baby feeding and care, returned to the China International Import Expo (CIIE) for the fourth consecutive year, showcasing baby care products and research innovations from around the world, together with its latest.",
       "url": "https://www.prnewswire.com/news-releases/pigeon-showcases-parenting-innovations-at-ciie-2026-under-boundless-joy-of-newborn-theme-302932569.html",
@@ -475,76 +621,6 @@
       "source_id": "prnewswire-public-co",
       "published_at": "2026-11-07T03:24:00Z",
       "epoch": 1794021840,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Tool Changer. Game Changer. Bambu Lab presenta la H3C: la nueva generación de impresoras 3D que marca la diferencia",
-      "summary": "AUSTIN, Texas, 7 de noviembre de 2026 /PRNewswire/ -- Bambu Lab presenta hoy la H3C, la primera impresora 3D de sobremesa de tercera generación de la compañía. Basada en una arquitectura Swaptek™ de nueve herramientas, la H3C elimina, por fin, el tradicional dilema entre velocida",
-      "url": "https://www.prnewswire.com/news-releases/tool-changer-game-changer-bambu-lab-presenta-la-h3c-la-nueva-generacion-de-impresoras-3d-que-marca-la-diferencia-302932526.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T02:46:00Z",
-      "epoch": 1794019560,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Segway Powersports stärkt Partnerschaften mit europäischen Händlern auf der EICMA 2026",
-      "summary": "MAILAND, 7. November 2026 /PRNewswire/ -- Segway Powersports, SSegways weltweit angebotene Produktlinie für leistungsstarke Powersports-Fahrzeuge auf professionellem Niveau, veranstaltete im Rahmen der EICMA 2026 seine „2026 International Business Partner Conference\" (internation",
-      "url": "https://www.prnewswire.com/news-releases/segway-powersports-starkt-partnerschaften-mit-europaischen-handlern-auf-der-eicma-2026-302932522.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T02:17:00Z",
-      "epoch": 1794017820,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Koppers Holdings Investigation Notice: Levi & Korsinsky Notifies Investors of Pending Investigation Into Koppers Holdings Inc. (KOP)",
-      "summary": "An investigation is examining whether Koppers Holdings adequately disclosed the business and operational challenges affecting its financial performance before third-quarter results and a substantial reduction in full-year 2026 guidance sent KOP shares lower. NEW YORK, Nov. 6, 202",
-      "url": "https://www.prnewswire.com/news-releases/koppers-holdings-investigation-notice-levi--korsinsky-notifies-investors-of-pending-investigation-into-koppers-holdings-inc-kop-302932421.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T01:40:00Z",
-      "epoch": 1794015600,
-      "sentiment": -1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "AXON Investigation Notice: Levi & Korsinsky Notifies Investors of Pending Investigation Into AXON (AXON)",
-      "summary": "Axon raised its 2026 growth forecast to 32%-34% on August 5, then cut it to approximately 30% on November 5 after pulling roughly $130 million in revenue tied to three delayed Federal Dedrone deployments. Shareholders who lost money have rights. NEW YORK, Nov. 6, 2026 /PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/axon-investigation-notice-levi--korsinsky-notifies-investors-of-pending-investigation-into-axon-axon-302932415.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T01:40:00Z",
-      "epoch": 1794015600,
-      "sentiment": -0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Kim Wileman and Shauna Lahiri Exit No Makeup Makeup Following Rapid Growth",
-      "summary": "The executives who helped build the award-winning beauty brand No Makeup Makeup to an eight-figure revenue conclude their tenure. LOS ANGELES, Nov. 6, 2026 /PRNewswire/ -- Kim Wileman, Co-Founder and Chief Executive Officer of No Makeup Makeup®, and Shauna Lahiri, President, have",
-      "url": "https://www.prnewswire.com/news-releases/kim-wileman-and-shauna-lahiri-exit-no-makeup-makeup-following-rapid-growth-302932514.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T01:38:00Z",
-      "epoch": 1794015480,
       "sentiment": 0.33,
       "tickers": [],
       "company_name": null,
@@ -1310,34 +1386,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "VS Pharmtech Boosts Cancer Treatment Efficacy Without Adding Toxicity",
-      "summary": "SEOUL, South Korea, Nov. 6, 2026 /PRNewswire/ -- Cancer drugs keep improving, but their limits remain. When antibody therapies first emerged, only a fraction of patients benefited, and small-molecule anticancer drugs often carry severe toxicity. Rather than developing a new antic",
-      "url": "https://www.prnewswire.com/news-releases/vs-pharmtech-boosts-cancer-treatment-efficacy-without-adding-toxicity-302931942.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-06T17:00:00Z",
-      "epoch": 1793984400,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Esperto Medical Awarded Grant by the Translational Research Institute for Space Health (TRISH) to Advance Noninvasive Monitoring Technology for Spaceflight",
-      "summary": "Esperto Medical's Resonance Sonomanometry™ technology will be developed to enable continuous, calibration-free cardiovascular monitoring for terrestrial environments and spaceflight. FULLERTON, Calif., Nov. 6, 2026 /PRNewswire/ -- Esperto Medical, Inc., a healthtech startup speci",
-      "url": "https://www.prnewswire.com/news-releases/esperto-medical-awarded-grant-by-the-translational-research-institute-for-space-health-trish-to-advance-noninvasive-monitoring-technology-for-spaceflight-302929700.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-06T16:58:00Z",
-      "epoch": 1793984280,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "8-K - CPS TECHNOLOGIES CORP/DE/ (0000814676) (Filer)",
       "summary": "Filed:  2026-11-06  AccNo:  0001437749-26-035609  Size:  513 KB\n Item 2.02: Results of Operations and Financial Condition\n Item 8.01: Other Events\n Item 9.01: Financial Statements and Exhibits",
       "url": "https://www.sec.gov/Archives/edgar/data/814676/000143774926035609/0001437749-26-035609-index.htm",
@@ -1418,20 +1466,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Hyster-Yale, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Introducing IAN: A New Longevity-Focused Wellness Company on a Mission to Put More Life Into Every Year",
-      "summary": "Debuting December 22, IAN brings foundational nutrition and longevity support together in one daily stack gummy WEST PALM BEACH, Fla., Nov. 6, 2026 /PRNewswire/ -- IAN, a new longevity-focused wellness company founded by serial entrepreneur Richard Laver, today announced the upco",
-      "url": "https://www.prnewswire.com/news-releases/introducing-ian-a-new-longevity-focused-wellness-company-on-a-mission-to-put-more-life-into-every-year-302932144.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-06T16:40:00Z",
-      "epoch": 1793983200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
@@ -1700,20 +1734,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Geovax Labs, Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Give an Hour Releases New Veteran MILE Case Study Showing Early Impact of Mental Health Training in a Veteran-Serving Organization",
-      "summary": "In collaboration with University of Phoenix, new findings from Adaptive Performance Center demonstrate how practical skills can move from individual learning toward broader organizational capacity PHOENIX and CLARKSBURG, Md., Nov. 6, 2026 /PRNewswire/ -- Give an Hour today announ",
-      "url": "https://www.prnewswire.com/news-releases/give-an-hour-releases-new-veteran-mile-case-study-showing-early-impact-of-mental-health-training-in-a-veteran-serving-organization-302932183.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-06T16:22:00Z",
-      "epoch": 1793982120,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
@@ -2518,6 +2538,23 @@
       "small_cap_risk": false
     },
     {
+      "title": "Novartis’ Lp(a) drug shows zero benefit, casting shadow over Amgen and Lilly programs",
+      "summary": "Novartis has lifted the lid on data from its failed cardiovascular outcomes trial, reporting a total absence of efficacy that could intensify questions about upcoming readouts from Amgen and Eli Lilly.",
+      "url": "https://www.fiercebiotech.com/biotech/novartis-lpa-drug-shows-zero-benefit-casting-shadow-over-amgen-and-lilly-programs",
+      "source": "FierceBiotech",
+      "source_id": "fiercebiotech",
+      "published_at": "2026-11-05T10:46:00Z",
+      "epoch": 1793875560,
+      "sentiment": 0.0,
+      "tickers": [
+        "AMGN",
+        "NOVN"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "RevMed’s Rasonque debut nets ‘eye-popping’ $198M in 5 weeks, even as exec tempers expectations",
       "summary": "After roughly one month on the market, Revolution Medicines’ RAS inhibitor daraxonrasib is living up to its much-hyped potential, with an initial sales performance that more than one group of analysts considers “eye-popping.”",
       "url": "https://www.fiercepharma.com/pharma/revmed-wows-analysts-eye-popping-rasonque-debut-even-management-tempers-expectations",
@@ -2861,20 +2898,6 @@
       "published_at": "2026-11-04T08:23:00Z",
       "epoch": 1793780580,
       "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Ultragenyx shrinks workforce and axes assets to halve R&D spend",
-      "summary": "Ultragenyx is laying off 20% of its workforce and axing drug development programs to cut its annual R&amp;D budget to half of the amount it spent in 2025.",
-      "url": "https://www.fiercebiotech.com/biotech/ultragenyx-shrinks-workforce-and-axes-assets-halve-rd-spend",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-04T05:19:00Z",
-      "epoch": 1793769540,
-      "sentiment": -0.33,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
