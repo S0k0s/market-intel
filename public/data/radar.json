@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T16:56:45Z",
+  "generated_at": "2026-11-07T20:41:09Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 148,
+    "breaking_count": 146,
     "breaking_catalyst_count": 26,
     "pipeline_count": 57,
     "pipeline_catalyst_count": 6,
@@ -58,13 +58,13 @@
       "source_count": 1
     },
     {
-      "ticker": "KG",
+      "ticker": "CLSK",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "CLSK",
+      "ticker": "KG",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -74,9 +74,9 @@
   "concentration_warning": null,
   "breaking": [
     {
-      "title": "Johnson & Johnson announces new Phase 2 nipocalimab study data in Sjögren's disease that reveal insights on importance of symptom improvements most valued by patients",
-      "summary": "New patient experience dataa to be presented at ACR 2026 show mouth dryness was reported as the most important symptom to improve, followed by eye dryness, fatigue and joint pain Patient insights complement Phase 2 study results demonstrating a 50% increase in saliva productionb ",
-      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-new-phase-2-nipocalimab-study-data-in-sjogrens-disease-that-reveal-insights-on-importance-of-symptom-improvements-most-valued-by-patients-302932516.html",
+      "title": "Johnson & Johnson announces ICOTYDE® (icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide",
+      "summary": "Late-breaking data from Phase 3 investigational study presented at the American College of Rheumatology Convergence show 58% of ICOTYDE-treated patients achieved an ACR20 response and 29% achieved an ACR50 response at Week 16 ICOTYDE is a first-in-class IL-23R targeted oral pepti",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-icotyde-icotrokinra-delivers-significant-improvement-in-psoriatic-arthritis-disease-activity-among-biologic-naive-patients-with-once-daily-targeted-oral-peptide-302932455.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
       "published_at": "2026-11-07T15:03:00Z",
@@ -90,9 +90,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "Johnson & Johnson announces ICOTYDE® (icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide",
-      "summary": "Late-breaking data from Phase 3 investigational study presented at the American College of Rheumatology Convergence show 58% of ICOTYDE-treated patients achieved an ACR20 response and 29% achieved an ACR50 response at Week 16 ICOTYDE is a first-in-class IL-23R targeted oral pepti",
-      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-icotyde-icotrokinra-delivers-significant-improvement-in-psoriatic-arthritis-disease-activity-among-biologic-naive-patients-with-once-daily-targeted-oral-peptide-302932455.html",
+      "title": "Johnson & Johnson announces new Phase 2 nipocalimab study data in Sjögren's disease that reveal insights on importance of symptom improvements most valued by patients",
+      "summary": "New patient experience dataa to be presented at ACR 2026 show mouth dryness was reported as the most important symptom to improve, followed by eye dryness, fatigue and joint pain Patient insights complement Phase 2 study results demonstrating a 50% increase in saliva productionb ",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-new-phase-2-nipocalimab-study-data-in-sjogrens-disease-that-reveal-insights-on-importance-of-symptom-improvements-most-valued-by-patients-302932516.html",
       "source": "PR Newswire — Public Companies",
       "source_id": "prnewswire-public-co",
       "published_at": "2026-11-07T15:03:00Z",
@@ -444,6 +444,48 @@
       "small_cap_risk": false
     },
     {
+      "title": "2027 Toy of the Year® Finalists Unveiled",
+      "summary": "122 Standout Toys & Games to Inspire Wishlists this Holiday Season NEW YORK, Nov. 7, 2026 /PRNewswire/ -- Buildable solar flowers, a plush tiger cub that grows, and satisfying sensory toys are among the 122 innovative finalists for the prestigious 2027 Toy of the Year® (TOTY®) Aw",
+      "url": "https://www.prnewswire.com/news-releases/2027-toy-of-the-year-finalists-unveiled-302932604.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-07T19:00:00Z",
+      "epoch": 1794078000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "NatGold Digital Announces Immediate Delisting of NATG from MEXC Following U.S. Treasury Action",
+      "summary": "CORAL GABLES, Fla., Nov. 7, 2026 /PRNewswire/ -- NatGold Digital Ltd. (\"NatGold\" or the \"Company\") today announced that it has requested the delisting of the NatGold Token (NATG) from MEXC, a global cryptocurrency exchange where NATG is currently listed, with immediate effect. Th",
+      "url": "https://www.prnewswire.com/news-releases/natgold-digital-announces-immediate-delisting-of-natg-from-mexc-following-us-treasury-action-302932606.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-07T18:31:00Z",
+      "epoch": 1794076260,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Off-Broadway Production DUST Raises $30,000 for Young Adults with Autism",
+      "summary": "LOS ANGELES, Nov. 7, 2026 /PRNewswire/ -- The Off-Broadway production DUST raised $30,000 to support young adults with autism in partnership with Cultural Autism Studies at Yale and the Ed Asner Family Center. The production was staged at the EROS Theatre, in a loft above the his",
+      "url": "https://www.prnewswire.com/news-releases/off-broadway-production-dust-raises-30-000-for-young-adults-with-autism-302932600.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-07T17:37:00Z",
+      "epoch": 1794073020,
+      "sentiment": 1.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Routine Invasive Procedures for Stable Heart Disease Offer No Long-Term Survival Advantage Over Drug Therapy",
       "summary": "Findings Add to Past Evidence That Early Invasive Procedures Ease Symptoms but Do Not Improve Long-Term Survival NEW YORK, Nov. 7, 2026 /PRNewswire/ -- Patients with stable heart disease and abnormal stress tests who have invasive procedures early in their care do not live longer",
       "url": "https://www.prnewswire.com/news-releases/routine-invasive-procedures-for-stable-heart-disease-offer-no-long-term-survival-advantage-over-drug-therapy-302931095.html",
@@ -600,34 +642,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Sensitron Introduces 16-Channel, 270VDC Programmable SSPC Series",
-      "summary": "SPHM/SEHM Series consolidates circuit protection, load switching and real-time monitoring in a single networked COTS module HAUPPAUGE, N.Y., Nov. 6, 2026 /PRNewswire/ -- Sensitron Semiconductor, a U.S.-based manufacturer of high-reliability power electronics, today announced the ",
-      "url": "https://www.prnewswire.com/news-releases/sensitron-introduces-16-channel-270vdc-programmable-sspc-series-302932535.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T03:41:00Z",
-      "epoch": 1794022860,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "CassTime Unveils AI-Driven \"T+D Solution\" to Tackle Data and Repair Bottlenecks in the Global Automotive Aftermarket",
-      "summary": "LAS VEGAS, Nov. 6, 2026 /PRNewswire/ -- At the recently concluded AAPEX 2026, more than 45,000 professionals from 128 countries and regions and over 2,500 exhibitors gathered in Las Vegas, a clear sign of sourcing demand across the global automotive aftermarket. At the same time,",
-      "url": "https://www.prnewswire.com/news-releases/casstime-unveils-ai-driven-td-solution-to-tackle-data-and-repair-bottlenecks-in-the-global-automotive-aftermarket-302932534.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T03:24:00Z",
-      "epoch": 1794021840,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Datavault AI Founder Nathaniel Bradley Sues Board",
       "summary": "WILMINGTON, Del., Nov. 6, 2026 /PRNewswire/ -- Lawsuit Alleges Chairman and CFO Brett Moyer Engineered a Weekend Lockout While Keeping a $90–$100 Million Financing Offer From Independent Directors Datavault AI Founder Nathaniel Bradley Sues Board Nathaniel Bradley, the founder wh",
       "url": "https://www.prnewswire.com/news-releases/datavault-ai-founder-nathaniel-bradley-sues-board-302932495.html",
@@ -728,22 +742,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Kestrel Group Reports Third Quarter 2026 Financial Results",
-      "summary": "AUSTIN, Texas, Nov. 6, 2026 /PRNewswire/ -- Kestrel Group Ltd (NASDAQ: KG) (\"Kestrel\" or the \"Company\") a leading specialty insurance platform that provides fronting services to program managers, reinsurers, and reinsurance brokers, today reported its financial results for the th",
-      "url": "https://www.prnewswire.com/news-releases/kestrel-group-reports-third-quarter-2026-financial-results-302932395.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-11-06T21:15:00Z",
-      "epoch": 1793999700,
-      "sentiment": 0.0,
-      "tickers": [
-        "KG"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "CleanSpark Announces Participation in Upcoming Investor Events",
       "summary": "LAS VEGAS, Nov. 6, 2026 /PRNewswire/ -- CleanSpark, Inc. (Nasdaq: CLSK) (\"CleanSpark\" or the \"Company\"), a market-leading data center developer, today announced its participation in upcoming investor conferences. If applicable, live webcasts, replay information and updated presen",
       "url": "https://www.prnewswire.com/news-releases/cleanspark-announces-participation-in-upcoming-investor-events-302932282.html",
@@ -754,6 +752,22 @@
       "sentiment": 0.0,
       "tickers": [
         "CLSK"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Kestrel Group Reports Third Quarter 2026 Financial Results",
+      "summary": "AUSTIN, Texas, Nov. 6, 2026 /PRNewswire/ -- Kestrel Group Ltd (NASDAQ: KG) (\"Kestrel\" or the \"Company\") a leading specialty insurance platform that provides fronting services to program managers, reinsurers, and reinsurance brokers, today reported its financial results for the th",
+      "url": "https://www.prnewswire.com/news-releases/kestrel-group-reports-third-quarter-2026-financial-results-302932395.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-06T21:15:00Z",
+      "epoch": 1793999700,
+      "sentiment": 0.0,
+      "tickers": [
+        "KG"
       ],
       "company_name": null,
       "catalyst": false,
@@ -776,22 +790,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "POMDOCTOR LIMITED Regains Compliance with Nasdaq Bid Price Requirement",
-      "summary": "GUANGZHOU, China, Nov. 6, 2026 /PRNewswire/ -- POMDOCTOR LIMITED (\"Pomdoctor\" or the \"Company\") (NASDAQ: POM), a digital healthcare company focused on advancing AI-enabled healthcare solutions and predictive healthcare capabilities, today announced that on November 5, 2026, the C",
-      "url": "https://www.prnewswire.com/news-releases/pomdoctor-limited-regains-compliance-with-nasdaq-bid-price-requirement-302932252.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-06T21:05:00Z",
-      "epoch": 1793999100,
-      "sentiment": 0.0,
-      "tickers": [
-        "POM"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "InMed Pharmaceuticals Completes Closing of Merger with Mentari Therapeutics",
       "summary": "Shares expected to trade on Nasdaq under the ticker symbol \"MTRI\" commencing November 9, 2026 VANCOUVER, BC, Nov. 6, 2026 /PRNewswire/ -- InMed Pharmaceuticals Inc. (which has changed its name to Mentari Therapeutics, Inc.) (NASDAQ: INM) (\"Mentari\" or the \"Company\") today announc",
       "url": "https://www.prnewswire.com/news-releases/inmed-pharmaceuticals-completes-closing-of-merger-with-mentari-therapeutics-302932393.html",
@@ -802,6 +800,22 @@
       "sentiment": 0.0,
       "tickers": [
         "INM"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "POMDOCTOR LIMITED Regains Compliance with Nasdaq Bid Price Requirement",
+      "summary": "GUANGZHOU, China, Nov. 6, 2026 /PRNewswire/ -- POMDOCTOR LIMITED (\"Pomdoctor\" or the \"Company\") (NASDAQ: POM), a digital healthcare company focused on advancing AI-enabled healthcare solutions and predictive healthcare capabilities, today announced that on November 5, 2026, the C",
+      "url": "https://www.prnewswire.com/news-releases/pomdoctor-limited-regains-compliance-with-nasdaq-bid-price-requirement-302932252.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-11-06T21:05:00Z",
+      "epoch": 1793999100,
+      "sentiment": 0.0,
+      "tickers": [
+        "POM"
       ],
       "company_name": null,
       "catalyst": false,
@@ -1174,20 +1188,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Milton Hershey School Breaks Ground at Newly Announced Founders Grove",
-      "summary": "Residential Development Marks Next Phase for Hershey West End HERSHEY, Pa., Nov. 6, 2026 /PRNewswire/ -- Milton Hershey School (MHS), as steward of MHS Trust Real Estate, today broke ground on Phase J of the Hershey West End development project. The planned 138 for-sale units,...",
-      "url": "https://www.prnewswire.com/news-releases/milton-hershey-school-breaks-ground-at-newly-announced-founders-grove-302932223.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-11-06T17:15:00Z",
-      "epoch": 1793985300,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "8-K - GREIF, INC (0000043920) (Filer)",
       "summary": "Filed:  2026-11-06  AccNo:  0001628280-26-071783  Size:  1 MB\n Item 2.02: Results of Operations and Financial Condition\n Item 7.01: Regulation FD Disclosure\n Item 9.01: Financial Statements and Exhibits",
       "url": "https://www.sec.gov/Archives/edgar/data/43920/000162828026071783/0001628280-26-071783-index.htm",
@@ -1254,20 +1254,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Table Trac Inc",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "New England Realty Associates LP Announces Fourth-Quarter Distribution on Class A Units and Depositary Receipts",
-      "summary": "ALLSTON, Ma., Nov. 6, 2026 /PRNewswire/ -- On December 31, 2026, New England Realty Associates Limited Partnership (NYSE MKT: NEN) will make its quarterly distribution to its Class A Limited Partners and holders of Depositary Receipts of record as of December 16, 2026. The quarte",
-      "url": "https://www.prnewswire.com/news-releases/new-england-realty-associates-lp-announces-fourth-quarter-distribution-on-class-a-units-and-depositary-receipts-302932214.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-11-06T17:02:00Z",
-      "epoch": 1793984520,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
@@ -1368,22 +1354,6 @@
       "company_name": "Treasure Global Inc",
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "Lifeway® Kefir Commercial Makes Chicagoland Television Debut Sunday, November 8, With New Muscle Mates™ Social Media Campaign to Follow",
-      "summary": "MORTON GROVE, Ill., Nov. 6, 2026 /PRNewswire/ -- Lifeway Foods, Inc. (Nasdaq: LWAY) (\"Lifeway\" or \"the Company\"), the leading U.S. supplier of kefir and fermented probiotic products, is bringing its partnership with Chicago football stars Colston Loveland and D'Andre Swift to a b",
-      "url": "https://www.prnewswire.com/news-releases/lifeway-kefir-commercial-makes-chicagoland-television-debut-sunday-november-8-with-new-muscle-mates-social-media-campaign-to-follow-302932198.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-06T17:00:00Z",
-      "epoch": 1793984400,
-      "sentiment": 0.33,
-      "tickers": [
-        "LWAY"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
     },
     {
       "title": "8-K - CPS TECHNOLOGIES CORP/DE/ (0000814676) (Filer)",
