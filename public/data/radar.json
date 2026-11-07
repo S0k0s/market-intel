@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T04:27:29Z",
+  "generated_at": "2026-11-07T11:15:14Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 147,
@@ -34,18 +34,6 @@
       "source_count": 3
     },
     {
-      "ticker": "AMGN",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 2
-    },
-    {
-      "ticker": "MDGL",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
       "ticker": "JHX",
       "count": 1,
       "catalyst_count": 0,
@@ -65,6 +53,18 @@
     },
     {
       "ticker": "STHO",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "POM",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "INM",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -412,6 +412,34 @@
       "small_cap_risk": false
     },
     {
+      "title": "Pigeon Showcases Parenting Innovations at CIIE 2026 Under \"Boundless Joy of Newborn\" Theme",
+      "summary": "SHANGHAI, Nov. 7, 2026 /PRNewswire/ -- Pigeon, a global leader in baby feeding and care, returned to the China International Import Expo (CIIE) for the fourth consecutive year, showcasing baby care products and research innovations from around the world, together with its latest.",
+      "url": "https://www.prnewswire.com/news-releases/pigeon-showcases-parenting-innovations-at-ciie-2026-under-boundless-joy-of-newborn-theme-302932569.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-07T08:26:00Z",
+      "epoch": 1794039960,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Muyuan Foods Group, a Global Leader in Pig Farming, to Showcase Smart Pig Farming and Green Development Solutions at EuroTier 2026",
+      "summary": "HANOVER, Germany, Nov. 7, 2026 /PRNewswire/ -- From November 10 to 13, Muyuan Foods Group (002714.SZ/02714.HK) will participate in EuroTier 2026 in Hanover, Germany. As a global leader in pig farming, Muyuan marketed 77.98 million pigs and slaughtered 28.66 million pigs in 2025. ",
+      "url": "https://www.prnewswire.com/news-releases/muyuan-foods-group-a-global-leader-in-pig-farming-to-showcase-smart-pig-farming-and-green-development-solutions-at-eurotier-2026-302932559.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-07T06:53:00Z",
+      "epoch": 1794034380,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Youth voices carry Mazu's legacy",
       "summary": "PUTIAN, China, Nov. 6, 2026 /PRNewswire/ -- A report from China Daily: Over 200 Gen Z representatives from more than 20 countries and regions gathered in Putian, Fujian, from Oct 27 to Nov 1 for the Mazu Culture Youth Exchange Forum: Global Gen Z in Dialogue with Mazu Culture. Th",
       "url": "https://www.prnewswire.com/news-releases/youth-voices-carry-mazus-legacy-302932536.html",
@@ -518,36 +546,6 @@
       "published_at": "2026-11-07T01:38:00Z",
       "epoch": 1794015480,
       "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Notice of Investigation of MDGL: Madrigal Pharmaceuticals, Inc. Investors are Encouraged to Contact Kessler Topaz Meltzer & Check, LLP",
-      "summary": "RADNOR, Pa., Nov. 6, 2026 /PRNewswire/ -- Kessler Topaz Meltzer & Check, LLP (www.ktmc.com), a nationally recognized securities litigation law firm, is investigating potential violations of the federal securities laws by Madrigal Pharmaceuticals, Inc. (\"Madrigal\") (NASDAQ: MDGL) ",
-      "url": "https://www.prnewswire.com/news-releases/notice-of-investigation-of-mdgl-madrigal-pharmaceuticals-inc-investors-are-encouraged-to-contact-kessler-topaz-meltzer--check-llp-302932356.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T01:07:00Z",
-      "epoch": 1794013620,
-      "sentiment": -0.33,
-      "tickers": [
-        "MDGL"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "County of Sussex, New Jersey Notice of Data Privacy Incident",
-      "summary": "NEWTON, N.J., Nov. 6, 2026 /PRNewswire/ -- Sussex County Prosecutor's Office (SCPO) experienced a data privacy event that involved personal information. On or about August 10, 2026, SCPO received alerts of a disruption to its computer network. Upon this identification, it launche",
-      "url": "https://www.prnewswire.com/news-releases/county-of-sussex-new-jersey-notice-of-data-privacy-incident-302932369.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T01:00:00Z",
-      "epoch": 1794013200,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -702,22 +700,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "InMed Pharmaceuticals Completes Closing of Merger with Mentari Therapeutics",
-      "summary": "Shares expected to trade on Nasdaq under the ticker symbol \"MTRI\" commencing November 9, 2026 VANCOUVER, BC, Nov. 6, 2026 /PRNewswire/ -- InMed Pharmaceuticals Inc. (which has changed its name to Mentari Therapeutics, Inc.) (NASDAQ: INM) (\"Mentari\" or the \"Company\") today announc",
-      "url": "https://www.prnewswire.com/news-releases/inmed-pharmaceuticals-completes-closing-of-merger-with-mentari-therapeutics-302932393.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-06T21:05:00Z",
-      "epoch": 1793999100,
-      "sentiment": 0.0,
-      "tickers": [
-        "INM"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "POMDOCTOR LIMITED Regains Compliance with Nasdaq Bid Price Requirement",
       "summary": "GUANGZHOU, China, Nov. 6, 2026 /PRNewswire/ -- POMDOCTOR LIMITED (\"Pomdoctor\" or the \"Company\") (NASDAQ: POM), a digital healthcare company focused on advancing AI-enabled healthcare solutions and predictive healthcare capabilities, today announced that on November 5, 2026, the C",
       "url": "https://www.prnewswire.com/news-releases/pomdoctor-limited-regains-compliance-with-nasdaq-bid-price-requirement-302932252.html",
@@ -728,6 +710,22 @@
       "sentiment": 0.0,
       "tickers": [
         "POM"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "InMed Pharmaceuticals Completes Closing of Merger with Mentari Therapeutics",
+      "summary": "Shares expected to trade on Nasdaq under the ticker symbol \"MTRI\" commencing November 9, 2026 VANCOUVER, BC, Nov. 6, 2026 /PRNewswire/ -- InMed Pharmaceuticals Inc. (which has changed its name to Mentari Therapeutics, Inc.) (NASDAQ: INM) (\"Mentari\" or the \"Company\") today announc",
+      "url": "https://www.prnewswire.com/news-releases/inmed-pharmaceuticals-completes-closing-of-merger-with-mentari-therapeutics-302932393.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-11-06T21:05:00Z",
+      "epoch": 1793999100,
+      "sentiment": 0.0,
+      "tickers": [
+        "INM"
       ],
       "company_name": null,
       "catalyst": false,
@@ -2250,6 +2248,34 @@
       "small_cap_risk": false
     },
     {
+      "title": "Hims & Hers inks deal with Eli Lilly to offer branded weight loss drugs",
+      "summary": "Hims &amp; Hers struck a deal with Eli Lilly to offer the drugmaker’s branded obesity treatments through its online health and wellness platform.",
+      "url": "https://www.fiercepharma.com/health-tech/hims-hers-inks-deal-eli-lilly-offer-branded-weight-loss-drugs",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-06T16:12:00Z",
+      "epoch": 1793981520,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "CMS makes it official, codifying Medicare drug price negotiations established under IRA",
+      "summary": "Against a backdrop of repeated industry challenges in court, the Centers for Medicare and Medicaid Services is locking in the drug price negotiation framework established under the Biden-era Inflation Reduction Act.",
+      "url": "https://www.fiercepharma.com/pharma/cms-makes-it-official-codifying-medicare-drug-price-negotiations-rolled-out-under-ira",
+      "source": "FiercePharma",
+      "source_id": "fiercepharma",
+      "published_at": "2026-11-06T15:31:00Z",
+      "epoch": 1793979060,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Actor Jeremy Pope joins ViiV's 'PrEP Wisdom' campaign to educate on long-acting PrEP options",
       "summary": "ViiV Healthcare has tapped a new mind for its “PrEP Wisdom” campaign, with Tony Award-winning actor and fashion icon Jeremy Pope joining in on the education and awareness messaging around long-acting injectable pre-exposure prophylaxis options.",
       "url": "https://www.fiercepharma.com/marketing/actor-jeremy-pope-joins-viivs-prep-wisdom-campaign-continuing-long-acting-injectable",
@@ -2869,22 +2895,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Amgen's quality chief to retire as internal successor steps up",
-      "summary": "Jackie Elbonne, Ph.D., announced her retirement after 35 years in the biopharma industry, leaving Amgen's chief quality officer role to her deputy, Aine Hanly, Ph.D.",
-      "url": "https://www.fiercepharma.com/pharma/amgens-quality-chief-heads-retirement-her-deputy-take-reins",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-03T15:07:00Z",
-      "epoch": 1793718420,
-      "sentiment": 0.0,
-      "tickers": [
-        "AMGN"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Madrigal’s Rezdiffra storms past blockbuster milestone as CEO hails ‘accelerating’ MASH market",
       "summary": "To Madrigal CEO Bill Sibold, “it’s hard to find a more attractive growth opportunity in biotech” than MASH, as the company’s Rezdiffra, the first FDA-approved MASH therapy, crossed the $1 billion mark in annual sales.",
       "url": "https://www.fiercepharma.com/pharma/madrigal-rezdiffra-storms-past-blockbuster-milestone-ceo-hails-accelerating-mash-market",
@@ -2908,22 +2918,6 @@
       "epoch": 1793717580,
       "sentiment": 0.33,
       "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Pfizer delivers Q3 beat as post-COVID comeback gains momentum",
-      "summary": "Pfizer's third-quarter performance bested Wall Street estimates thanks to an Eliquis beat and 37% growth from acquired products.",
-      "url": "https://www.fiercepharma.com/pharma/pfizer-post-q3-beat-post-covid-comeback-gains-momentum",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-03T11:26:00Z",
-      "epoch": 1793705160,
-      "sentiment": 1.0,
-      "tickers": [
-        "PFE"
-      ],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
