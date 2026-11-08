@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-08T05:26:04Z",
+  "generated_at": "2026-11-08T12:04:46Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 145,
+    "breaking_count": 150,
     "breaking_catalyst_count": 26,
     "pipeline_count": 57,
     "pipeline_catalyst_count": 6,
@@ -41,19 +41,13 @@
     },
     {
       "ticker": "TZOO",
-      "count": 2,
+      "count": 4,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
       "ticker": "AMGN",
       "count": 2,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "AUR",
-      "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
@@ -68,17 +62,23 @@
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
+    },
+    {
+      "ticker": "CLSK",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
     }
   ],
   "movers": [],
   "concentration_warning": null,
   "breaking": [
     {
-      "title": "Johnson & Johnson announces new Phase 2 nipocalimab study data in Sjögren's disease that reveal insights on importance of symptom improvements most valued by patients",
-      "summary": "New patient experience dataa to be presented at ACR 2026 show mouth dryness was reported as the most important symptom to improve, followed by eye dryness, fatigue and joint pain Patient insights complement Phase 2 study results demonstrating a 50% increase in saliva productionb ",
-      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-new-phase-2-nipocalimab-study-data-in-sjogrens-disease-that-reveal-insights-on-importance-of-symptom-improvements-most-valued-by-patients-302932516.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "title": "Johnson & Johnson announces ICOTYDE® (icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide",
+      "summary": "Late-breaking data from Phase 3 investigational study presented at the American College of Rheumatology Convergence show 58% of ICOTYDE-treated patients achieved an ACR20 response and 29% achieved an ACR50 response at Week 16 ICOTYDE is a first-in-class IL-23R targeted oral pepti",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-icotyde-icotrokinra-delivers-significant-improvement-in-psoriatic-arthritis-disease-activity-among-biologic-naive-patients-with-once-daily-targeted-oral-peptide-302932455.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-11-07T15:03:00Z",
       "epoch": 1794063780,
       "sentiment": 0.0,
@@ -90,11 +90,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "Johnson & Johnson announces ICOTYDE® (icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide",
-      "summary": "Late-breaking data from Phase 3 investigational study presented at the American College of Rheumatology Convergence show 58% of ICOTYDE-treated patients achieved an ACR20 response and 29% achieved an ACR50 response at Week 16 ICOTYDE is a first-in-class IL-23R targeted oral pepti",
-      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-icotyde-icotrokinra-delivers-significant-improvement-in-psoriatic-arthritis-disease-activity-among-biologic-naive-patients-with-once-daily-targeted-oral-peptide-302932455.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "title": "Johnson & Johnson announces new Phase 2 nipocalimab study data in Sjögren's disease that reveal insights on importance of symptom improvements most valued by patients",
+      "summary": "New patient experience dataa to be presented at ACR 2026 show mouth dryness was reported as the most important symptom to improve, followed by eye dryness, fatigue and joint pain Patient insights complement Phase 2 study results demonstrating a 50% increase in saliva productionb ",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-new-phase-2-nipocalimab-study-data-in-sjogrens-disease-that-reveal-insights-on-importance-of-symptom-improvements-most-valued-by-patients-302932516.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-11-07T15:03:00Z",
       "epoch": 1794063780,
       "sentiment": 0.0,
@@ -444,6 +444,94 @@
       "small_cap_risk": false
     },
     {
+      "title": "Segway Powersports укрепляет партнерские отношения с европейскими дилерами на выставке EICMA 2026",
+      "summary": "МИЛАН, 8 ноября 2026 г. /PRNewswire/ -- Компания Segway Powersports — подразделение Segway, предлагающее на мировых рынках мощную мототехнику профессионального уровня, — провела в рамках выставки EICMA 2026 Международную конференцию деловых партнеров 2026 года (2026 International",
+      "url": "https://www.prnewswire.com/news-releases/segway-powersports---------eicma-2026-302932707.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T11:09:00Z",
+      "epoch": 1794136140,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "GSMA MWC26 Doha opens with call to align on global industry standards and close MENA's connectivity gap",
+      "summary": "Operators, technology leaders, policymakers and innovators gather in Doha today for three days of exhibition, collaboration and debate on the future of connectivity across the Middle East and North Africa DOHA, Qatar, Nov. 8, 2026 /PRNewswire/ -- MWC26 Doha, held in partnership w",
+      "url": "https://www.prnewswire.com/news-releases/gsma-mwc26-doha-opens-with-call-to-align-on-global-industry-standards-and-close-menas-connectivity-gap-302932706.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T11:06:00Z",
+      "epoch": 1794135960,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Club Offers for Travel Enthusiasts in Germany",
+      "summary": "BERLIN, Nov. 8, 2026 /PRNewswire/ -- Travelzoo® (NASDAQ: TZOO), the club for travel enthusiasts, announces five of many new Club Offers for Club Members in Germany. Rigorously vetted and negotiated for us travel enthusiasts: FROM €99 PP—HESSE: 3 DAYS AT A CASTLE HOTEL WITH DINNER",
+      "url": "https://www.prnewswire.com/news-releases/club-offers-for-travel-enthusiasts-in-germany-302932690.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T09:56:00Z",
+      "epoch": 1794131760,
+      "sentiment": 0.0,
+      "tickers": [
+        "TZOO"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "2026 China International Intelligent Communication Forum Held in Wuxi",
+      "summary": "WUXI, China, Nov. 8, 2026 /PRNewswire/ -- From November 8 to 10, the 2026 China International Intelligent Communication Forum (CIICF), jointly organized by China Media Group (CMG) and the Jiangsu Provincial People's Government, is held in Wuxi, Jiangsu Province. At the forum, the",
+      "url": "https://www.prnewswire.com/news-releases/2026-china-international-intelligent-communication-forum-held-in-wuxi-302932685.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T09:13:00Z",
+      "epoch": 1794129180,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Club Offers for Travel Enthusiasts in Canada",
+      "summary": "TORONTO, Nov. 8, 2026 /PRNewswire/ -- Travelzoo® (NASDAQ: TZOO), the club for travel enthusiasts, announces five of many new Club Offers for Club Members in Canada. Rigorously vetted and negotiated for us travel enthusiasts: $849—LISBON CITY BREAK WITH FLIGHTS Spend five nights i",
+      "url": "https://www.prnewswire.com/news-releases/club-offers-for-travel-enthusiasts-in-canada-302932399.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T08:00:00Z",
+      "epoch": 1794124800,
+      "sentiment": 0.0,
+      "tickers": [
+        "TZOO"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "XCMG hebt internationale Innovationen beim Wettbewerb „AI + Construction Machinery\" hervor",
+      "summary": "Die preisgekrönten Projekte umfassen elektrische Bergbauausrüstung, vorausschauende Wartung und automatisierte Erdbauüberwachung XUZHOU, China, 8. November 2026 /PRNewswire/ -- Der 15. China Innovation & Entrepreneurship Competition in der Kategorie „AI + Construction Machinery\" ",
+      "url": "https://www.prnewswire.com/news-releases/xcmg-hebt-internationale-innovationen-beim-wettbewerb-ai--construction-machinery-hervor-302932669.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T07:00:00Z",
+      "epoch": 1794121200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Club Offers for Travel Enthusiasts in the U.S.",
       "summary": "NEW YORK, Nov. 8, 2026 /PRNewswire/ -- Travelzoo® (NASDAQ: TZOO), the club for travel enthusiasts, announces six of many new Club Offers for Club Members in the U.S. Rigorously vetted and negotiated for us travel enthusiasts: $589—COSTA RICA IN PEAK SEASON: 6 NIGHTS WITH FLIGHTS.",
       "url": "https://www.prnewswire.com/news-releases/club-offers-for-travel-enthusiasts-in-the-us-302932402.html",
@@ -591,8 +679,8 @@
       "title": "Off-Broadway Production DUST Raises $30,000 for Young Adults with Autism",
       "summary": "LOS ANGELES, Nov. 7, 2026 /PRNewswire/ -- The Off-Broadway production DUST raised $30,000 to support young adults with autism in partnership with Cultural Autism Studies at Yale and the Ed Asner Family Center. The production was staged at the EROS Theatre, in a loft above the his",
       "url": "https://www.prnewswire.com/news-releases/off-broadway-production-dust-raises-30-000-for-young-adults-with-autism-302932600.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-11-07T17:37:00Z",
       "epoch": 1794073020,
       "sentiment": 1.0,
@@ -605,8 +693,8 @@
       "title": "Routine Invasive Procedures for Stable Heart Disease Offer No Long-Term Survival Advantage Over Drug Therapy",
       "summary": "Findings Add to Past Evidence That Early Invasive Procedures Ease Symptoms but Do Not Improve Long-Term Survival NEW YORK, Nov. 7, 2026 /PRNewswire/ -- Patients with stable heart disease and abnormal stress tests who have invasive procedures early in their care do not live longer",
       "url": "https://www.prnewswire.com/news-releases/routine-invasive-procedures-for-stable-heart-disease-offer-no-long-term-survival-advantage-over-drug-therapy-302931095.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-11-07T16:07:00Z",
       "epoch": 1794067620,
       "sentiment": 0.0,
@@ -619,8 +707,8 @@
       "title": "What to Look for in an Online GLP-1 Provider: Meant Outlines Five Questions Worth Asking Before Signing Up",
       "summary": "MANASSAS, Va., Nov. 7, 2026 /PRNewswire/ -- As more telehealth companies offer GLP-1 care, the options can look alike from the outside, and telling them apart takes more than a glance at a landing page. Meant is sharing five questions consumers can ask when choosing an online GLP",
       "url": "https://www.prnewswire.com/news-releases/what-to-look-for-in-an-online-glp-1-provider-meant-outlines-five-questions-worth-asking-before-signing-up-302927805.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-11-07T16:00:00Z",
       "epoch": 1794067200,
       "sentiment": 0.0,
@@ -628,22 +716,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "Notice of AUR Investigation: Kessler Topaz Meltzer & Check, LLP Encourages Aurora Innovation, Inc. (AUR) Investors to Contact the Firm",
-      "summary": "RADNOR, Pa., Nov. 7, 2026 /PRNewswire/ -- Kessler Topaz Meltzer & Check, LLP (www.ktmc.com), a nationally recognized securities litigation law firm, is investigating potential violations of the federal securities laws by Aurora Innovation, Inc. (\"Aurora Innovation\") (NASDAQ: AUR)",
-      "url": "https://www.prnewswire.com/news-releases/notice-of-aur-investigation-kessler-topaz-meltzer--check-llp-encourages-aurora-innovation-inc-aur-investors-to-contact-the-firm-302932285.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T15:40:00Z",
-      "epoch": 1794066000,
-      "sentiment": -0.33,
-      "tickers": [
-        "AUR"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
     },
     {
       "title": "Datavault AI Founder Nathaniel Bradley Sues Board",
