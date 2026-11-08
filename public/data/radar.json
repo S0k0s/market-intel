@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-08T17:54:56Z",
+  "generated_at": "2026-11-08T21:38:13Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 147,
+    "breaking_count": 144,
     "breaking_catalyst_count": 27,
     "pipeline_count": 57,
     "pipeline_catalyst_count": 6,
@@ -40,14 +40,14 @@
       "source_count": 3
     },
     {
-      "ticker": "TZOO",
-      "count": 3,
+      "ticker": "AMGN",
+      "count": 2,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "AMGN",
-      "count": 2,
+      "ticker": "TM",
+      "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
@@ -458,6 +458,78 @@
       "small_cap_risk": false
     },
     {
+      "title": "7. Weltmediengipfel in Peking eröffnet",
+      "summary": "PEKING, 8. November 2026 /PRNewswire/ -- Am Samstag fand in Peking die Eröffnungsfeier des 7th World Media Summit (7. Weltmediengipfel) unter dem Motto „Media in the Intelligent Age: From Consensus to Action\" („Medien im intelligenten Zeitalter: Vom Konsens zur Umsetzung\") statt.",
+      "url": "https://www.prnewswire.com/news-releases/7-weltmediengipfel-in-peking-eroffnet-302932769.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T21:06:00Z",
+      "epoch": 1794171960,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Le 7e Sommet mondial des médias s'ouvre à Pékin",
+      "summary": "PÉKIN, 8 novembre 2026 /PRNewswire/ -- La cérémonie d'ouverture du 7e Sommet mondial des médias a eu lieu à Pékin samedi sous le thème « Les médias à l'ère de l'intelligence : du consensus à l'action. » L'agence de presse Xinhua et le gouvernement municipal de Pékin ont organisé.",
+      "url": "https://www.prnewswire.com/news-releases/le-7e-sommet-mondial-des-medias-souvre-a-pekin-302932768.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T21:04:00Z",
+      "epoch": 1794171840,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Fibocom LTE Cat.1 bis Modules: Starlink DTC Field Test Report",
+      "summary": "AUCKLAND, New Zealand, Nov. 8, 2026 /PRNewswire/ -- Fibocom's LE270-EU and LE271-GL LTE Cat.1 bis modules have successfully connected to the SpaceX Direct to Cell (DTC) satellite network during live-network testing in New Zealand. Using standard firmware and without adding...",
+      "url": "https://www.prnewswire.com/news-releases/fibocom-lte-cat1-bis-modules-starlink-dtc-field-test-report-302930788.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T21:00:00Z",
+      "epoch": 1794171600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Toyota Tundra 2027: Un nuevo y audaz capítulo en la excelencia de las camionetas pickup de tamaño grande con tecnología de remolque avanzada y el nuevo paquete Trailhunter",
+      "summary": "El diseño actualizado presenta un exterior más definido. El nuevo paquete Tundra Trailhunter amplía la capacidad todoterreno de fábrica. TRD Pro Adds FOX® QS3®, ganchos de remolque rojos, y un nuevo y llamativo color Honeycomb. El último sistema multimedia de audio de Toyota incl",
+      "url": "https://www.prnewswire.com/news-releases/toyota-tundra-2027-un-nuevo-y-audaz-capitulo-en-la-excelencia-de-las-camionetas-pickup-de-tamano-grande-con-tecnologia-de-remolque-avanzada-y-el-nuevo-paquete-trailhunter-890239829.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T20:22:00Z",
+      "epoch": 1794169320,
+      "sentiment": 0.0,
+      "tickers": [
+        "TM"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Novo post hoc analysis finds Wegovy® 2.4 mg was associated with improvements in liver markers in adults with MASH with liver scarring and a BMI less than 27 kg/m2, presented at The Liver Meeting® (AASLD) 2026",
+      "summary": "A post hoc analysis of adults with MASH and liver scarring with a BMI below 27 kg/m² found that measures of liver injury, fibrosis, and disease activity improved at week 72 among participants receiving semaglutide 2.4 mg once weekly injection versus placebo Non-invasive fibrosis.",
+      "url": "https://www.prnewswire.com/news-releases/novo-post-hoc-analysis-finds-wegovy-2-4-mg-was-associated-with-improvements-in-liver-markers-in-adults-with-mash-with-liver-scarring-and-a-bmi-less-than-27-kgm2--presented-at-the-liver-meeting-aasld-2026--302932759.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T19:11:00Z",
+      "epoch": 1794165060,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Cleaner Bedroom Air May Help Manage Blood Sugar in Prediabetes",
       "summary": "NEW YORK, Nov. 8, 2026 /PRNewswire/ -- Using portable filters to reduce exposure to air pollution during sleep may stabilize the large spikes in blood sugar experienced by people with prediabetes, a condition in which sugar (glucose) levels are higher than normal, a new study sho",
       "url": "https://www.prnewswire.com/news-releases/cleaner-bedroom-air-may-help-manage-blood-sugar-in-prediabetes-302932132.html",
@@ -528,110 +600,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "Segway Powersports укрепляет партнерские отношения с европейскими дилерами на выставке EICMA 2026",
-      "summary": "МИЛАН, 8 ноября 2026 г. /PRNewswire/ -- Компания Segway Powersports — подразделение Segway, предлагающее на мировых рынках мощную мототехнику профессионального уровня, — провела в рамках выставки EICMA 2026 Международную конференцию деловых партнеров 2026 года (2026 International",
-      "url": "https://www.prnewswire.com/news-releases/segway-powersports---------eicma-2026-302932707.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-08T11:09:00Z",
-      "epoch": 1794136140,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "GSMA MWC26 Doha opens with call to align on global industry standards and close MENA's connectivity gap",
-      "summary": "Operators, technology leaders, policymakers and innovators gather in Doha today for three days of exhibition, collaboration and debate on the future of connectivity across the Middle East and North Africa DOHA, Qatar, Nov. 8, 2026 /PRNewswire/ -- MWC26 Doha, held in partnership w",
-      "url": "https://www.prnewswire.com/news-releases/gsma-mwc26-doha-opens-with-call-to-align-on-global-industry-standards-and-close-menas-connectivity-gap-302932706.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-08T11:06:00Z",
-      "epoch": 1794135960,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Club Offers for Travel Enthusiasts in Germany",
-      "summary": "BERLIN, Nov. 8, 2026 /PRNewswire/ -- Travelzoo® (NASDAQ: TZOO), the club for travel enthusiasts, announces five of many new Club Offers for Club Members in Germany. Rigorously vetted and negotiated for us travel enthusiasts: FROM €99 PP—HESSE: 3 DAYS AT A CASTLE HOTEL WITH DINNER",
-      "url": "https://www.prnewswire.com/news-releases/club-offers-for-travel-enthusiasts-in-germany-302932690.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-08T09:56:00Z",
-      "epoch": 1794131760,
-      "sentiment": 0.0,
-      "tickers": [
-        "TZOO"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "2026 China International Intelligent Communication Forum Held in Wuxi",
-      "summary": "WUXI, China, Nov. 8, 2026 /PRNewswire/ -- From November 8 to 10, the 2026 China International Intelligent Communication Forum (CIICF), jointly organized by China Media Group (CMG) and the Jiangsu Provincial People's Government, is held in Wuxi, Jiangsu Province. At the forum, the",
-      "url": "https://www.prnewswire.com/news-releases/2026-china-international-intelligent-communication-forum-held-in-wuxi-302932685.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-08T09:13:00Z",
-      "epoch": 1794129180,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Club Offers for Travel Enthusiasts in Canada",
-      "summary": "TORONTO, Nov. 8, 2026 /PRNewswire/ -- Travelzoo® (NASDAQ: TZOO), the club for travel enthusiasts, announces five of many new Club Offers for Club Members in Canada. Rigorously vetted and negotiated for us travel enthusiasts: $849—LISBON CITY BREAK WITH FLIGHTS Spend five nights i",
-      "url": "https://www.prnewswire.com/news-releases/club-offers-for-travel-enthusiasts-in-canada-302932399.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-08T08:00:00Z",
-      "epoch": 1794124800,
-      "sentiment": 0.0,
-      "tickers": [
-        "TZOO"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "XCMG hebt internationale Innovationen beim Wettbewerb „AI + Construction Machinery\" hervor",
-      "summary": "Die preisgekrönten Projekte umfassen elektrische Bergbauausrüstung, vorausschauende Wartung und automatisierte Erdbauüberwachung XUZHOU, China, 8. November 2026 /PRNewswire/ -- Der 15. China Innovation & Entrepreneurship Competition in der Kategorie „AI + Construction Machinery\" ",
-      "url": "https://www.prnewswire.com/news-releases/xcmg-hebt-internationale-innovationen-beim-wettbewerb-ai--construction-machinery-hervor-302932669.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-08T07:00:00Z",
-      "epoch": 1794121200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Club Offers for Travel Enthusiasts in the U.S.",
-      "summary": "NEW YORK, Nov. 8, 2026 /PRNewswire/ -- Travelzoo® (NASDAQ: TZOO), the club for travel enthusiasts, announces six of many new Club Offers for Club Members in the U.S. Rigorously vetted and negotiated for us travel enthusiasts: $589—COSTA RICA IN PEAK SEASON: 6 NIGHTS WITH FLIGHTS.",
-      "url": "https://www.prnewswire.com/news-releases/club-offers-for-travel-enthusiasts-in-the-us-302932402.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-08T05:00:00Z",
-      "epoch": 1794114000,
-      "sentiment": 0.0,
-      "tickers": [
-        "TZOO"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
     },
     {
       "title": "Four Course Records and 28 Olympic Trials Qualifiers Highlight Historic 2026 CNO Financial Indianapolis Monumental Marathon",
@@ -1078,22 +1046,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
-    },
-    {
-      "title": "NextPlat to Release Third Quarter 2026 Results on Thursday, November 12, 2026",
-      "summary": "Investor Conference Call Scheduled for Thursday, November 12, 2026 at 8:30 a.m. Eastern HALLANDALE BEACH, Fla., Nov. 6, 2026 /PRNewswire/ -- NextPlat Corp (NASDAQ: NXPL) (\"NextPlat\" or the \"Company\"), a global consumer products and services company providing healthcare and techno",
-      "url": "https://www.prnewswire.com/news-releases/nextplat-to-release-third-quarter-2026-results-on-thursday-november-12-2026-302932263.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-06T18:08:00Z",
-      "epoch": 1793988480,
-      "sentiment": 0.0,
-      "tickers": [
-        "NXPL"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
     },
     {
       "title": "8-K - TEN Holdings, Inc. (0002030954) (Filer)",
