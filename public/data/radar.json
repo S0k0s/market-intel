@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-08T12:04:46Z",
+  "generated_at": "2026-11-08T17:54:56Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 150,
-    "breaking_catalyst_count": 26,
+    "breaking_count": 147,
+    "breaking_catalyst_count": 27,
     "pipeline_count": 57,
     "pipeline_catalyst_count": 6,
     "movers_count": 0
@@ -11,9 +11,9 @@
   "trending_tickers": [
     {
       "ticker": "JNJ",
-      "count": 2,
+      "count": 3,
       "catalyst_count": 2,
-      "source_count": 1
+      "source_count": 2
     },
     {
       "ticker": "MRNA",
@@ -41,7 +41,7 @@
     },
     {
       "ticker": "TZOO",
-      "count": 4,
+      "count": 3,
       "catalyst_count": 0,
       "source_count": 1
     },
@@ -74,9 +74,23 @@
   "concentration_warning": null,
   "breaking": [
     {
-      "title": "Johnson & Johnson announces ICOTYDE® (icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide",
-      "summary": "Late-breaking data from Phase 3 investigational study presented at the American College of Rheumatology Convergence show 58% of ICOTYDE-treated patients achieved an ACR20 response and 29% achieved an ACR50 response at Week 16 ICOTYDE is a first-in-class IL-23R targeted oral pepti",
-      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-icotyde-icotrokinra-delivers-significant-improvement-in-psoriatic-arthritis-disease-activity-among-biologic-naive-patients-with-once-daily-targeted-oral-peptide-302932455.html",
+      "title": "Allergan Aesthetics Reports Improved Satisfaction With Facial Appearance Following Aesthetic Treatment in Two Studies of Patients on GLP-1 Medications",
+      "summary": "– HARMONY IN DIVERSITY is the first study of combined neurotoxin and filler treatment in adults on glucagon-like peptide-1 (GLP-1) medications. In this Phase 4 cohort, participants reported statistically significant improvements in satisfaction with facial appearance and skin qua",
+      "url": "https://www.prnewswire.com/news-releases/allergan-aesthetics-reports-improved-satisfaction-with-facial-appearance-following-aesthetic-treatment-in-two-studies-of-patients-on-glp-1-medications-302932241.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T17:45:00Z",
+      "epoch": 1794159900,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Johnson & Johnson announces new Phase 2 nipocalimab study data in Sjögren's disease that reveal insights on importance of symptom improvements most valued by patients",
+      "summary": "New patient experience dataa to be presented at ACR 2026 show mouth dryness was reported as the most important symptom to improve, followed by eye dryness, fatigue and joint pain Patient insights complement Phase 2 study results demonstrating a 50% increase in saliva productionb ",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-new-phase-2-nipocalimab-study-data-in-sjogrens-disease-that-reveal-insights-on-importance-of-symptom-improvements-most-valued-by-patients-302932516.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
       "published_at": "2026-11-07T15:03:00Z",
@@ -90,9 +104,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "Johnson & Johnson announces new Phase 2 nipocalimab study data in Sjögren's disease that reveal insights on importance of symptom improvements most valued by patients",
-      "summary": "New patient experience dataa to be presented at ACR 2026 show mouth dryness was reported as the most important symptom to improve, followed by eye dryness, fatigue and joint pain Patient insights complement Phase 2 study results demonstrating a 50% increase in saliva productionb ",
-      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-new-phase-2-nipocalimab-study-data-in-sjogrens-disease-that-reveal-insights-on-importance-of-symptom-improvements-most-valued-by-patients-302932516.html",
+      "title": "Johnson & Johnson announces ICOTYDE® (icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide",
+      "summary": "Late-breaking data from Phase 3 investigational study presented at the American College of Rheumatology Convergence show 58% of ICOTYDE-treated patients achieved an ACR20 response and 29% achieved an ACR50 response at Week 16 ICOTYDE is a first-in-class IL-23R targeted oral pepti",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-icotyde-icotrokinra-delivers-significant-improvement-in-psoriatic-arthritis-disease-activity-among-biologic-naive-patients-with-once-daily-targeted-oral-peptide-302932455.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
       "published_at": "2026-11-07T15:03:00Z",
@@ -444,6 +458,78 @@
       "small_cap_risk": false
     },
     {
+      "title": "Cleaner Bedroom Air May Help Manage Blood Sugar in Prediabetes",
+      "summary": "NEW YORK, Nov. 8, 2026 /PRNewswire/ -- Using portable filters to reduce exposure to air pollution during sleep may stabilize the large spikes in blood sugar experienced by people with prediabetes, a condition in which sugar (glucose) levels are higher than normal, a new study sho",
+      "url": "https://www.prnewswire.com/news-releases/cleaner-bedroom-air-may-help-manage-blood-sugar-in-prediabetes-302932132.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T16:37:00Z",
+      "epoch": 1794155820,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Johnson & Johnson reports 73% PSA response rate with investigational pasritamig-based immunotherapy combination in advanced prostate cancer",
+      "summary": "First-of-its-kind dual-antigen-targeted bispecific regimen of pasritamig and JNJ-9401 directed at two prostate cancer proteins, KLK2 and PSMA, using complementary signals to activate T cells against cancer Deep and sustained PSA responses observed with every-six-week dosing, with",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-reports-73-psa-response-rate-with-investigational-pasritamig-based-immunotherapy-combination-in-advanced-prostate-cancer-302932750.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T16:00:00Z",
+      "epoch": 1794153600,
+      "sentiment": 0.0,
+      "tickers": [
+        "JNJ"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Le GSMA MWC26 Doha ouvre ses portes avec un appel à l'harmonisation des normes industrielles mondiales et à la réduction de la fracture numérique au Moyen-Orient et en Afrique du Nord",
+      "summary": "Des opérateurs, des leaders technologiques, des décideurs politiques et des innovateurs se réunissent aujourd'hui à Doha pour trois jours d'exposition, de collaboration et de débats sur l'avenir de la connectivité au Moyen-Orient et en Afrique du Nord DOHA, Qatar, 8 novembre 2026",
+      "url": "https://www.prnewswire.com/news-releases/le-gsma-mwc26-doha-ouvre-ses-portes-avec-un-appel-a-lharmonisation-des-normes-industrielles-mondiales-et-a-la-reduction-de-la-fracture-numerique-au-moyen-orient-et-en-afrique-du-nord-302932747.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T15:06:00Z",
+      "epoch": 1794150360,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "essential COSTA RICA nommée Marque territoriale de l'année aux City Nation Place Awards à Londres",
+      "summary": "Le Costa Rica a reçu trois distinctions : Marque territoriale de l'année, Meilleure mobilisation citoyenne et une mention spéciale dans la catégorie Meilleure stratégie de communication. essential COSTA RICA est la première marque nationale à recevoir deux fois le prix de la Marq",
+      "url": "https://www.prnewswire.com/news-releases/essential-costa-rica-nommee-marque-territoriale-de-lannee-aux-city-nation-place-awards-a-londres-302932731.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T13:07:00Z",
+      "epoch": 1794143220,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Les fausses boutiques prolifèrent avant le Black Friday : un test d'AV-Comparatives révèle quels produits protègent les consommateurs",
+      "summary": "Sept produits de sécurité obtiennent la certification de détection des fausses boutiques pour 2026, à l'heure où les signalements de fausses boutiques en ligne spécialisées dans la période des fêtes se multiplient. INNSBRUCK, Autriche, 8 novembre 2026 /PRNewswire/ -- À l'approche",
+      "url": "https://www.prnewswire.com/news-releases/les-fausses-boutiques-proliferent-avant-le-black-friday--un-test-dav-comparatives-revele-quels-produits-protegent-les-consommateurs-302932722.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T12:18:00Z",
+      "epoch": 1794140280,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Segway Powersports укрепляет партнерские отношения с европейскими дилерами на выставке EICMA 2026",
       "summary": "МИЛАН, 8 ноября 2026 г. /PRNewswire/ -- Компания Segway Powersports — подразделение Segway, предлагающее на мировых рынках мощную мототехнику профессионального уровня, — провела в рамках выставки EICMA 2026 Международную конференцию деловых партнеров 2026 года (2026 International",
       "url": "https://www.prnewswire.com/news-releases/segway-powersports---------eicma-2026-302932707.html",
@@ -548,78 +634,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "JOYEE N01: начало глобального серийного производства и старт первых поставок по зарубежному заказу в 2000 автомобилей",
-      "summary": "Яньчэн, 8 ноября 2026 г. /PRNewswire/ -- 28 октября на заводе китайской корпорации FAW в Яньчэне торжественно прошла церемония начала глобального серийного производства JOYEE N01 и первой поставки автомобилей по зарубежному заказу в 2000 единиц. В ходе мероприятия компания Bestun",
-      "url": "https://www.prnewswire.com/news-releases/joyee-n01-------------2000--302932655.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-08T04:00:00Z",
-      "epoch": 1794110400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "TCL CSOT to Explore the Future of Displays in the AI Era at DTC 2026",
-      "summary": "WUHAN, China, Nov. 7, 2026 /PRNewswire/ -- The TCL CSOT Global Display Tech-Ecosystem Conference 2026 (DTC 2026) will take place in Wuhan, China, on November 13. Under the theme \"TRUE VISION, AI IN MOTION,\" this year's conference will present TCL CSOT's latest advances in Inkjet ",
-      "url": "https://www.prnewswire.com/news-releases/tcl-csot-to-explore-the-future-of-displays-in-the-ai-era-at-dtc-2026-302932647.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-08T02:41:00Z",
-      "epoch": 1794105660,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Club Offers for Travel Enthusiasts in the UK",
-      "summary": "LONDON, Nov. 7, 2026 /PRNewswire/ -- Travelzoo® (NASDAQ: TZOO), the club for travel enthusiasts, announces four of many new Club Offers for Club Members in the UK. Rigorously vetted and negotiated for us travel enthusiasts: £420PP—DELUXE TUSCANY BREAK WITH DINNER & COOKING CLASS ",
-      "url": "https://www.prnewswire.com/news-releases/club-offers-for-travel-enthusiasts-in-the-uk-302932597.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-08T00:01:00Z",
-      "epoch": 1794096060,
-      "sentiment": 0.0,
-      "tickers": [
-        "TZOO"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
-      "title": "Impulse Space Awarded Two Task Orders for NASA's Moon Base",
-      "summary": "NASA will use Impulse's in-space mobility capabilities to build transportation infrastructure supporting humanity's first outpost on the Moon REDONDO BEACH, Calif., Nov. 7, 2026 /PRNewswire/ -- Impulse Space, the in-space mobility company, announced today it has been awarded two ",
-      "url": "https://www.prnewswire.com/news-releases/impulse-space-awarded-two-task-orders-for-nasas-moon-base-302932625.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T23:01:00Z",
-      "epoch": 1794092460,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Quantum Space Part of Team Awarded $185 Million NASA Contract for Moon Base Transportation Program",
-      "summary": "Ranger spacecraft to deliver NASA payloads to lunar orbit, with Quantum Space receiving approximately 25% of the Arrow-led contract value ROCKVILLE, Md., Nov. 7, 2026 /PRNewswire/ -- Quantum Space, LLC (the \"Company\" or \"Quantum Space\"), a company developing the next generation o",
-      "url": "https://www.prnewswire.com/news-releases/quantum-space-part-of-team-awarded-185-million-nasa-contract-for-moon-base-transportation-program-302932612.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T23:00:00Z",
-      "epoch": 1794092400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Four Course Records and 28 Olympic Trials Qualifiers Highlight Historic 2026 CNO Financial Indianapolis Monumental Marathon",
       "summary": "Record-breaking performances across all three race distances headline the 19th annual event as Beyond Monumental looks ahead to its 20th anniversary INDIANAPOLIS, Nov. 7, 2026 /PRNewswire/ -- Four course records fell and 28 athletes achieved qualifying times for the 2028 U.S. Oly",
       "url": "https://www.prnewswire.com/news-releases/four-course-records-and-28-olympic-trials-qualifiers-highlight-historic-2026-cno-financial-indianapolis-monumental-marathon-302932614.html",
@@ -628,34 +642,6 @@
       "published_at": "2026-11-07T21:07:00Z",
       "epoch": 1794085620,
       "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Boston Students Explore Engineering and Innovation at Hands-On STEM Expo",
-      "summary": "Society of Women Engineers event introduced young people to science, technology and potential careers in engineering BOSTON, Nov. 7, 2026 /PRNewswire/ -- For young people curious about how things work, Boston's Seaport District became a place of discovery Saturday as students exp",
-      "url": "https://www.prnewswire.com/news-releases/boston-students-explore-engineering-and-innovation-at-hands-on-stem-expo-302932602.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T21:05:00Z",
-      "epoch": 1794085500,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "2027 Toy of the Year® Finalists Unveiled",
-      "summary": "122 Standout Toys & Games to Inspire Wishlists this Holiday Season NEW YORK, Nov. 7, 2026 /PRNewswire/ -- Buildable solar flowers, a plush tiger cub that grows, and satisfying sensory toys are among the 122 innovative finalists for the prestigious 2027 Toy of the Year® (TOTY®) Aw",
-      "url": "https://www.prnewswire.com/news-releases/2027-toy-of-the-year-finalists-unveiled-302932604.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T19:00:00Z",
-      "epoch": 1794078000,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -866,22 +852,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "InMed Pharmaceuticals Completes Closing of Merger with Mentari Therapeutics",
-      "summary": "Shares expected to trade on Nasdaq under the ticker symbol \"MTRI\" commencing November 9, 2026 VANCOUVER, BC, Nov. 6, 2026 /PRNewswire/ -- InMed Pharmaceuticals Inc. (which has changed its name to Mentari Therapeutics, Inc.) (NASDAQ: INM) (\"Mentari\" or the \"Company\") today announc",
-      "url": "https://www.prnewswire.com/news-releases/inmed-pharmaceuticals-completes-closing-of-merger-with-mentari-therapeutics-302932393.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-06T21:05:00Z",
-      "epoch": 1793999100,
-      "sentiment": 0.0,
-      "tickers": [
-        "INM"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "POMDOCTOR LIMITED Regains Compliance with Nasdaq Bid Price Requirement",
       "summary": "GUANGZHOU, China, Nov. 6, 2026 /PRNewswire/ -- POMDOCTOR LIMITED (\"Pomdoctor\" or the \"Company\") (NASDAQ: POM), a digital healthcare company focused on advancing AI-enabled healthcare solutions and predictive healthcare capabilities, today announced that on November 5, 2026, the C",
       "url": "https://www.prnewswire.com/news-releases/pomdoctor-limited-regains-compliance-with-nasdaq-bid-price-requirement-302932252.html",
@@ -892,6 +862,22 @@
       "sentiment": 0.0,
       "tickers": [
         "POM"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "InMed Pharmaceuticals Completes Closing of Merger with Mentari Therapeutics",
+      "summary": "Shares expected to trade on Nasdaq under the ticker symbol \"MTRI\" commencing November 9, 2026 VANCOUVER, BC, Nov. 6, 2026 /PRNewswire/ -- InMed Pharmaceuticals Inc. (which has changed its name to Mentari Therapeutics, Inc.) (NASDAQ: INM) (\"Mentari\" or the \"Company\") today announc",
+      "url": "https://www.prnewswire.com/news-releases/inmed-pharmaceuticals-completes-closing-of-merger-with-mentari-therapeutics-302932393.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-11-06T21:05:00Z",
+      "epoch": 1793999100,
+      "sentiment": 0.0,
+      "tickers": [
+        "INM"
       ],
       "company_name": null,
       "catalyst": false,
@@ -1110,20 +1096,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "Zylox-Tonbridge and GL Capital Announce Strategic Investment in LifeTech Scientific to Build a Leading Vascular and Structural Heart Intervention Platform",
-      "summary": "HANGZHOU, China, Nov. 6, 2026 /PRNewswire/ -- Zylox-Tonbridge Medical Technology Co., Ltd. (HKEX: 2190) (\"Zylox-Tonbridge\") today announced a strategic investment in LifeTech Scientific Corporation (HKEX: 1302) (\"LifeTech\"), in partnership with GL Capital, marking a significant s",
-      "url": "https://www.prnewswire.com/news-releases/zylox-tonbridge-and-gl-capital-announce-strategic-investment-in-lifetech-scientific-to-build-a-leading-vascular-and-structural-heart-intervention-platform-302932258.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-06T18:03:00Z",
-      "epoch": 1793988180,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "8-K - TEN Holdings, Inc. (0002030954) (Filer)",
       "summary": "Filed:  2026-11-06  AccNo:  0001493152-26-050546  Size:  262 KB\n Item 2.02: Results of Operations and Financial Condition\n Item 9.01: Financial Statements and Exhibits",
       "url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226050546/0001493152-26-050546-index.htm",
@@ -1288,20 +1260,6 @@
       "sentiment": 0.0,
       "tickers": [],
       "company_name": "Capforce Inc.",
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Delta Dental of New Mexico Partners with New Mexico Mission of Mercy to Expand Access to Free Dental Care",
-      "summary": "Two-day clinic at EXPO New Mexico will provide no-cost dental care to New Mexicans on November 6 and 7. ALBUQUERQUE, N.M. , Nov. 6, 2026 /PRNewswire/ -- Delta Dental of New Mexico (DDNM) is proud to support the New Mexico Dental Association Foundation and the 2026 New Mexico Miss",
-      "url": "https://www.prnewswire.com/news-releases/delta-dental-of-new-mexico-partners-with-new-mexico-mission-of-mercy-to-expand-access-to-free-dental-care-302932220.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-06T17:07:00Z",
-      "epoch": 1793984820,
-      "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
     },
