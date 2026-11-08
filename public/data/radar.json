@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T23:58:26Z",
+  "generated_at": "2026-11-08T05:26:04Z",
   "move_threshold_pct": 20.0,
   "summary": {
     "breaking_count": 145,
@@ -40,6 +40,12 @@
       "source_count": 3
     },
     {
+      "ticker": "TZOO",
+      "count": 2,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
       "ticker": "AMGN",
       "count": 2,
       "catalyst_count": 0,
@@ -59,12 +65,6 @@
     },
     {
       "ticker": "KG",
-      "count": 1,
-      "catalyst_count": 0,
-      "source_count": 1
-    },
-    {
-      "ticker": "CLSK",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -444,6 +444,66 @@
       "small_cap_risk": false
     },
     {
+      "title": "Club Offers for Travel Enthusiasts in the U.S.",
+      "summary": "NEW YORK, Nov. 8, 2026 /PRNewswire/ -- Travelzoo® (NASDAQ: TZOO), the club for travel enthusiasts, announces six of many new Club Offers for Club Members in the U.S. Rigorously vetted and negotiated for us travel enthusiasts: $589—COSTA RICA IN PEAK SEASON: 6 NIGHTS WITH FLIGHTS.",
+      "url": "https://www.prnewswire.com/news-releases/club-offers-for-travel-enthusiasts-in-the-us-302932402.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T05:00:00Z",
+      "epoch": 1794114000,
+      "sentiment": 0.0,
+      "tickers": [
+        "TZOO"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "JOYEE N01: начало глобального серийного производства и старт первых поставок по зарубежному заказу в 2000 автомобилей",
+      "summary": "Яньчэн, 8 ноября 2026 г. /PRNewswire/ -- 28 октября на заводе китайской корпорации FAW в Яньчэне торжественно прошла церемония начала глобального серийного производства JOYEE N01 и первой поставки автомобилей по зарубежному заказу в 2000 единиц. В ходе мероприятия компания Bestun",
+      "url": "https://www.prnewswire.com/news-releases/joyee-n01-------------2000--302932655.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T04:00:00Z",
+      "epoch": 1794110400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "TCL CSOT to Explore the Future of Displays in the AI Era at DTC 2026",
+      "summary": "WUHAN, China, Nov. 7, 2026 /PRNewswire/ -- The TCL CSOT Global Display Tech-Ecosystem Conference 2026 (DTC 2026) will take place in Wuhan, China, on November 13. Under the theme \"TRUE VISION, AI IN MOTION,\" this year's conference will present TCL CSOT's latest advances in Inkjet ",
+      "url": "https://www.prnewswire.com/news-releases/tcl-csot-to-explore-the-future-of-displays-in-the-ai-era-at-dtc-2026-302932647.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T02:41:00Z",
+      "epoch": 1794105660,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Club Offers for Travel Enthusiasts in the UK",
+      "summary": "LONDON, Nov. 7, 2026 /PRNewswire/ -- Travelzoo® (NASDAQ: TZOO), the club for travel enthusiasts, announces four of many new Club Offers for Club Members in the UK. Rigorously vetted and negotiated for us travel enthusiasts: £420PP—DELUXE TUSCANY BREAK WITH DINNER & COOKING CLASS ",
+      "url": "https://www.prnewswire.com/news-releases/club-offers-for-travel-enthusiasts-in-the-uk-302932597.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T00:01:00Z",
+      "epoch": 1794096060,
+      "sentiment": 0.0,
+      "tickers": [
+        "TZOO"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
       "title": "Impulse Space Awarded Two Task Orders for NASA's Moon Base",
       "summary": "NASA will use Impulse's in-space mobility capabilities to build transportation infrastructure supporting humanity's first outpost on the Moon REDONDO BEACH, Calif., Nov. 7, 2026 /PRNewswire/ -- Impulse Space, the in-space mobility company, announced today it has been awarded two ",
       "url": "https://www.prnewswire.com/news-releases/impulse-space-awarded-two-task-orders-for-nasas-moon-base-302932625.html",
@@ -584,62 +644,6 @@
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": true
-    },
-    {
-      "title": "Paris Baguette Opens First-Ever Drive-Thru Location in Moore, Oklahoma, Marking a Major Brand Milestone",
-      "summary": "Paris Baguette's 346th North American café opened on November 3rd, introducing its first drive-thru format, a milestone in the brand's growth and innovation, bringing freshly baked pastries and the signature bakery café experience to guests on the go. MOORE, Okla., Nov. 7, 2026..",
-      "url": "https://www.prnewswire.com/news-releases/paris-baguette-opens-first-ever-drive-thru-location-in-moore-oklahoma-marking-a-major-brand-milestone-302932523.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T14:00:00Z",
-      "epoch": 1794060000,
-      "sentiment": 1.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "ecozy Introduces the Brezzano Switch, a 2-in-1 Home Espresso Machine That Delivers True Drip Coffee",
-      "summary": "FULLERTON, Calif., Nov. 7, 2026 /PRNewswire/ -- ecozy, a leader in smart home appliances, today announced the launch of the Brezzano Switch 2-in-1 Espresso Machine, an entry-level home coffee maker that delivers espresso and true drip coffee. Designed to make home brewing simple ",
-      "url": "https://www.prnewswire.com/news-releases/ecozy-introduces-the-brezzano-switch-a-2-in-1-home-espresso-machine-that-delivers-true-drip-coffee-302932574.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T14:00:00Z",
-      "epoch": 1794060000,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "In HelloNation, Fireplace Expert Jimmy Smith Explains How to Add a Fireplace to an Existing Home",
-      "summary": "The article outlines how homeowners can add a fireplace by matching installation options to their home's layout, heating needs, and design goals. NORTH CHARLESTON, S.C., Nov. 7, 2026 /PRNewswire/ -- Can you add a fireplace to an existing home? The answer is provided in a HelloNat",
-      "url": "https://www.prnewswire.com/news-releases/in-hellonation-fireplace-expert-jimmy-smith-explains-how-to-add-a-fireplace-to-an-existing-home-302932202.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T13:00:00Z",
-      "epoch": 1794056400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "7th World Media Summit opens in Beijing",
-      "summary": "BEIJING, Nov. 7, 2026 /PRNewswire/ -- The 7th World Media Summit held its opening ceremony in Beijing on Saturday under the theme \"Media in the Intelligent Age: From Consensus to Action.\" Xinhua News Agency and the Beijing municipal government jointly organized this year's summit",
-      "url": "https://www.prnewswire.com/news-releases/7th-world-media-summit-opens-in-beijing-302932579.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-07T12:38:00Z",
-      "epoch": 1794055080,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
     },
     {
       "title": "Datavault AI Founder Nathaniel Bradley Sues Board",
@@ -790,22 +794,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "POMDOCTOR LIMITED Regains Compliance with Nasdaq Bid Price Requirement",
-      "summary": "GUANGZHOU, China, Nov. 6, 2026 /PRNewswire/ -- POMDOCTOR LIMITED (\"Pomdoctor\" or the \"Company\") (NASDAQ: POM), a digital healthcare company focused on advancing AI-enabled healthcare solutions and predictive healthcare capabilities, today announced that on November 5, 2026, the C",
-      "url": "https://www.prnewswire.com/news-releases/pomdoctor-limited-regains-compliance-with-nasdaq-bid-price-requirement-302932252.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-06T21:05:00Z",
-      "epoch": 1793999100,
-      "sentiment": 0.0,
-      "tickers": [
-        "POM"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "InMed Pharmaceuticals Completes Closing of Merger with Mentari Therapeutics",
       "summary": "Shares expected to trade on Nasdaq under the ticker symbol \"MTRI\" commencing November 9, 2026 VANCOUVER, BC, Nov. 6, 2026 /PRNewswire/ -- InMed Pharmaceuticals Inc. (which has changed its name to Mentari Therapeutics, Inc.) (NASDAQ: INM) (\"Mentari\" or the \"Company\") today announc",
       "url": "https://www.prnewswire.com/news-releases/inmed-pharmaceuticals-completes-closing-of-merger-with-mentari-therapeutics-302932393.html",
@@ -816,6 +804,22 @@
       "sentiment": 0.0,
       "tickers": [
         "INM"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "POMDOCTOR LIMITED Regains Compliance with Nasdaq Bid Price Requirement",
+      "summary": "GUANGZHOU, China, Nov. 6, 2026 /PRNewswire/ -- POMDOCTOR LIMITED (\"Pomdoctor\" or the \"Company\") (NASDAQ: POM), a digital healthcare company focused on advancing AI-enabled healthcare solutions and predictive healthcare capabilities, today announced that on November 5, 2026, the C",
+      "url": "https://www.prnewswire.com/news-releases/pomdoctor-limited-regains-compliance-with-nasdaq-bid-price-requirement-302932252.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-11-06T21:05:00Z",
+      "epoch": 1793999100,
+      "sentiment": 0.0,
+      "tickers": [
+        "POM"
       ],
       "company_name": null,
       "catalyst": false,
