@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-09T01:13:32Z",
+  "generated_at": "2026-11-09T08:00:00Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 145,
+    "breaking_count": 144,
     "breaking_catalyst_count": 27,
     "pipeline_count": 57,
     "pipeline_catalyst_count": 6,
@@ -46,25 +46,25 @@
       "source_count": 1
     },
     {
-      "ticker": "TM",
+      "ticker": "9888.HK",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "JHX",
+      "ticker": "BIDU",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "CLSK",
+      "ticker": "DOCS",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "KG",
+      "ticker": "CSCO",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -77,8 +77,8 @@
       "title": "Innovent Announces Phase 3 CREDIT-5 Study Met Primary Endpoint, SINTBILO® (Tafolecimab Injection) as First-line Monotherapy Treatment for Hyperlipidemia Demonstrated Potent Lipid-lowering Efficacy",
       "summary": "SINTBILO® (tafolecimab injection) monotherapy achieved significant reduction of LDL-C level, with > 60% mean LDL-C reduction after 12 weeks of treatment with 150 mg Q2W/450 mg Q4W SINTBILO® (tafolecimab injection) monotherapy significantly decreased non-HDL-C, vLDL-C, ApoB, and L",
       "url": "https://www.prnewswire.com/news-releases/innovent-announces-phase-3-credit-5-study-met-primary-endpoint-sintbilo-tafolecimab-injection-as-first-line-monotherapy-treatment-for-hyperlipidemia-demonstrated-potent-lipid-lowering-efficacy-302932681.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-11-09T00:00:00Z",
       "epoch": 1794182400,
       "sentiment": 0.0,
@@ -102,9 +102,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "Johnson & Johnson announces new Phase 2 nipocalimab study data in Sjögren's disease that reveal insights on importance of symptom improvements most valued by patients",
-      "summary": "New patient experience dataa to be presented at ACR 2026 show mouth dryness was reported as the most important symptom to improve, followed by eye dryness, fatigue and joint pain Patient insights complement Phase 2 study results demonstrating a 50% increase in saliva productionb ",
-      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-new-phase-2-nipocalimab-study-data-in-sjogrens-disease-that-reveal-insights-on-importance-of-symptom-improvements-most-valued-by-patients-302932516.html",
+      "title": "Johnson & Johnson announces ICOTYDE® (icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide",
+      "summary": "Late-breaking data from Phase 3 investigational study presented at the American College of Rheumatology Convergence show 58% of ICOTYDE-treated patients achieved an ACR20 response and 29% achieved an ACR50 response at Week 16 ICOTYDE is a first-in-class IL-23R targeted oral pepti",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-icotyde-icotrokinra-delivers-significant-improvement-in-psoriatic-arthritis-disease-activity-among-biologic-naive-patients-with-once-daily-targeted-oral-peptide-302932455.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
       "published_at": "2026-11-07T15:03:00Z",
@@ -118,9 +118,9 @@
       "small_cap_risk": false
     },
     {
-      "title": "Johnson & Johnson announces ICOTYDE® (icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide",
-      "summary": "Late-breaking data from Phase 3 investigational study presented at the American College of Rheumatology Convergence show 58% of ICOTYDE-treated patients achieved an ACR20 response and 29% achieved an ACR50 response at Week 16 ICOTYDE is a first-in-class IL-23R targeted oral pepti",
-      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-icotyde-icotrokinra-delivers-significant-improvement-in-psoriatic-arthritis-disease-activity-among-biologic-naive-patients-with-once-daily-targeted-oral-peptide-302932455.html",
+      "title": "Johnson & Johnson announces new Phase 2 nipocalimab study data in Sjögren's disease that reveal insights on importance of symptom improvements most valued by patients",
+      "summary": "New patient experience dataa to be presented at ACR 2026 show mouth dryness was reported as the most important symptom to improve, followed by eye dryness, fatigue and joint pain Patient insights complement Phase 2 study results demonstrating a 50% increase in saliva productionb ",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-new-phase-2-nipocalimab-study-data-in-sjogrens-disease-that-reveal-insights-on-importance-of-symptom-improvements-most-valued-by-patients-302932516.html",
       "source": "PR Newswire — Health",
       "source_id": "prnewswire-health",
       "published_at": "2026-11-07T15:03:00Z",
@@ -458,11 +458,146 @@
       "small_cap_risk": false
     },
     {
+      "title": "ASMAX auf der EICMA 2026: Jenseits des Nächsten in der Motorradkommunikation",
+      "summary": "MAILAND, 9. November 2026 /PRNewswire/ -- ASMAX präsentierte seine Vision der Motorradkommunikation der nächsten Generation auf der EICMA 2026 in Halle 6, Stand H08. Dort enthüllte das Unternehmen eine Vorschau auf sein RoamX-Intercom der nächsten Generation, stellte exklusive...",
+      "url": "https://www.prnewswire.com/news-releases/asmax-auf-der-eicma-2026-jenseits-des-nachsten-in-der-motorradkommunikation-302933105.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-09T07:53:00Z",
+      "epoch": 1794210780,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Valmet continues long-term cooperation with board producer in Asia with another board making line order",
+      "summary": "Valmet Oyj's press release on November 9, 2026 at 9:30 a.m. EET ESPOO, Finland, Nov. 9, 2026 /PRNewswire/ -- Valmet has been selected to supply another complete board making line with automation and lifecycle services to one of its major customers in Asia. Building on the compani",
+      "url": "https://www.prnewswire.com/news-releases/valmet-continues-long-term-cooperation-with-board-producer-in-asia-with-another-board-making-line-order-302933099.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-09T07:50:00Z",
+      "epoch": 1794210600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Baidu, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - BIDU",
+      "summary": "NEW YORK, Nov. 9, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Baidu, Inc. (\"Baidu\" or \"the Company\") (NASDAQ: BIDU) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder by t",
+      "url": "https://www.prnewswire.com/news-releases/baidu-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--bidu-302932920.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-09T07:19:00Z",
+      "epoch": 1794208740,
+      "sentiment": -0.67,
+      "tickers": [
+        "9888.HK",
+        "BIDU"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "KT&G Enters Kazakhstan's Heated Tobacco Market with Direct Operations",
+      "summary": "- Introduces FLEX device and four FAIIM tobacco sticks, strengthening the competitiveness of its global NGP business SEOUL, South Korea, Nov. 9, 2026 /PRNewswire/ -- KT&G (CEO Bang Kyung-man) launched its heated tobacco device FLEX and four FAIIM tobacco sticks in Kazakhstan in O",
+      "url": "https://www.prnewswire.com/news-releases/ktg-enters-kazakhstans-heated-tobacco-market-with-direct-operations-302933080.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-09T07:19:00Z",
+      "epoch": 1794208740,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Doximity, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - DOCS",
+      "summary": "NEW YORK, Nov. 9, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Doximity, Inc. (\"Doximity\" or \"the Company\") (NYSE: DOCS) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder ",
+      "url": "https://www.prnewswire.com/news-releases/doximity-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--docs-302932917.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-09T07:18:00Z",
+      "epoch": 1794208680,
+      "sentiment": -0.67,
+      "tickers": [
+        "DOCS"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "NIAGARA NETWORKS INTRODUCES ECH-AWARE TLS 1.3 DECRYPTION WITH POST-QUANTUM CRYPTOGRAPHY & 90+ Gbps PERFORMANCE",
+      "summary": "New ePacketron capabilities combine selective encrypted traffic inspection, post-quantum key exchange & million-session scalability, with live demonstrations at Cisco Live Melbourne 2026, Booth B14 FREMONT, Calif., Nov. 9, 2026 /PRNewswire/ -- Niagara Networks, a Silicon Valley-b",
+      "url": "https://www.prnewswire.com/news-releases/niagara-networks-introduces-ech-aware-tls-1-3-decryption-with-post-quantum-cryptography--90-gbps-performance-302930687.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-09T07:00:00Z",
+      "epoch": 1794207600,
+      "sentiment": 0.0,
+      "tickers": [
+        "CSCO"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Onodrim Industries secures $300 million Series A at $1.3 billion valuation to strengthen Europe's defence and industrial foundations",
+      "summary": "AMSTERDAM, Nov. 9, 2026 /PRNewswire/ -- Onodrim Industries (\"Onodrim\"), the European defence and industrial scale-up platform, today announced a $300 million Series A led by Lux Capital, with participation from new and existing investors including General Catalyst, Lakestar, Alti",
+      "url": "https://www.prnewswire.com/news-releases/onodrim-industries-secures-300-million-series-a-at-1-3-billion-valuation-to-strengthen-europes-defence-and-industrial-foundations-302932791.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-09T07:00:00Z",
+      "epoch": 1794207600,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "transcosmos athlete employee Mako Hiraizumi finishes runner-up at the 32nd Japan Triathlon National Championships",
+      "summary": "Rises from third place last year to claim the silver medal at Japan's premier triathlon championship TOKYO, Nov. 9, 2026 /PRNewswire/ -- transcosmos today announced that Mako Hiraizumi, an athlete employee of the company, competed in the women's category at the 32nd Japan Triathl",
+      "url": "https://www.prnewswire.com/news-releases/transcosmos-athlete-employee-mako-hiraizumi-finishes-runner-up-at-the-32nd-japan-triathlon-national-championships-302932975.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-11-09T06:05:00Z",
+      "epoch": 1794204300,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "SOHU.COM REPORTS THIRD QUARTER 2026 UNAUDITED FINANCIAL RESULTS",
+      "summary": "BEIJING, Nov. 9, 2026 /PRNewswire/ -- Sohu.com Limited (NASDAQ: SOHU) (\"Sohu\" or the \"Company\"), a leading Chinese online media platform and game business group, today reported unaudited financial results for the third quarter ended September 30, 2026. Third Quarter Highlights[1]",
+      "url": "https://www.prnewswire.com/news-releases/sohucom-reports-third-quarter-2026-unaudited-financial-results-302932892.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-09T05:00:00Z",
+      "epoch": 1794200400,
+      "sentiment": 0.0,
+      "tickers": [
+        "SOHU"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
       "title": "GlycoNex Announces Japanese Regulatory Submission for Denosumab Biosimilar SPD8",
       "summary": "Regulatory decision in Japan anticipated as early as the end of 2027, subject to PMDA review; GlycoNex continues to seek partners for markets outside Japan NEW TAIPEI CITY, Nov. 8, 2026 /PRNewswire/ -- GlycoNex, Inc. (TPEx: 4168), a clinical-stage biotechnology company developing",
       "url": "https://www.prnewswire.com/news-releases/glyconex-announces-japanese-regulatory-submission-for-denosumab-biosimilar-spd8-302930180.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-11-09T01:02:00Z",
       "epoch": 1794186120,
       "sentiment": 0.0,
@@ -472,39 +607,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "LG ELECTRONICS EARNS FIRST ASIL D PRODUCT CERTIFICATION FOR AUTOMOTIVE CENTRAL GATEWAY SYSTEM",
-      "summary": "TÜV Rheinland's First ASIL D Product Certification in the Central Gateway System Category Validates LG's Functional Safety Capabilities News Summary LG Electronics has earned its first ISO 26262 ASIL D product certification for its automotive central gateway system. It is also th",
-      "url": "https://www.prnewswire.com/news-releases/lg-electronics-earns-first-asil-d-product-certification-for-automotive-central-gateway-system-302931811.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-09T01:00:00Z",
-      "epoch": 1794186000,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Stavian Group Showcases Its Infrastructure Vision for the AI Era at the Inaugural Fortune SEA500 Summit 2026",
-      "summary": "HO CHI MINH CITY, Vietnam, Nov. 8, 2026 /PRNewswire/ -- As Southeast Asia enters a new phase of growth shaped by artificial intelligence, digital transformation, evolving supply chains, and shifting investment flows, businesses are increasingly focused on building the foundations",
-      "url": "https://www.prnewswire.com/news-releases/stavian-group-showcases-its-infrastructure-vision-for-the-ai-era-at-the-inaugural-fortune-sea500-summit-2026-302932586.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-09T01:00:00Z",
-      "epoch": 1794186000,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Timing Affects Speed, Not Total Exposure",
       "summary": "CureGene Presents Evategrel China–US PK/PD and Food-Effect Data at AHA 2026 SHANGHAI, Nov. 8, 2026 /PRNewswire/ -- Clopidogrel does not work the same way in every patient. In East Asian populations the gap is wider still: a share of patients get too little platelet inhibition at ",
       "url": "https://www.prnewswire.com/news-releases/timing-affects-speed-not-total-exposure-302932812.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-11-09T00:51:00Z",
       "epoch": 1794185460,
       "sentiment": 0.0,
@@ -517,38 +624,10 @@
       "title": "Antengene Presents Latest Preclinical Results of Novel Cos-TCE Platform AnTenGager‑D2 in Rapid Oral Abstract Presentation at SITC 2026",
       "summary": "SHANGHAI and HONG KONG, Nov. 8, 2026 /PRNewswire/ -- Antengene Corporation Limited (\"Antengene\", SEHK: 6996.HK), a leading innovative, commercial-stage global biotech company dedicated to discovering, developing and commercializing first-in-class and/or best-in-class medicines fo",
       "url": "https://www.prnewswire.com/news-releases/antengene-presents-latest-preclinical-results-of-novel-cos-tce-platform-antengagerd2-in-rapid-oral-abstract-presentation-at-sitc-2026-302931879.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-11-09T00:30:00Z",
       "epoch": 1794184200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Muyuan Foods Group, ein Weltmarktführer im Bereich Schweinehaltung, präsentiert Lösungen für intelligente Schweinehaltung und grüne Entwicklung auf der EuroTier 2026",
-      "summary": "HANNOVER, Deutschland, 9. November 2026 /PRNewswire/ -- Vom 10. bis 13. November wird die Muyuan Foods Group (002714.SZ/02714.HK) an der EuroTier 2026 in Hannover teilnehmen. Als Weltmarktführer im Bereich der Schweinehaltung verkaufte Muyuan im Jahr 2025 77,98 Millionen Schweine",
-      "url": "https://www.prnewswire.com/news-releases/muyuan-foods-group-ein-weltmarktfuhrer-im-bereich-schweinehaltung-prasentiert-losungen-fur-intelligente-schweinehaltung-und-grune-entwicklung-auf-der-eurotier-2026-302932786.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-08T23:08:00Z",
-      "epoch": 1794179280,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Muyuan Foods Group, leader mondial de l'élevage porcin, présentera ses solutions d'élevage porcin intelligent et de développement durable à l'EuroTier 2026",
-      "summary": "HANOVRE, Allemagne, 9 novembre 2026 /PRNewswire/ -- Du 10 au 13 novembre, Muyuan Foods Group (002714.SZ/02714.HK) participera à l'EuroTier 2026 à Hanovre, en Allemagne. Leader mondial de l'élevage porcin, Muyuan a commercialisé 77,98 millions de porcs et en a abattu 28,66 million",
-      "url": "https://www.prnewswire.com/news-releases/muyuan-foods-group-leader-mondial-de-lelevage-porcin-presentera-ses-solutions-delevage-porcin-intelligent-et-de-developpement-durable-a-leurotier-2026-302932785.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-08T23:05:00Z",
-      "epoch": 1794179100,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -584,69 +663,11 @@
       "small_cap_risk": false
     },
     {
-      "title": "7. Weltmediengipfel in Peking eröffnet",
-      "summary": "PEKING, 8. November 2026 /PRNewswire/ -- Am Samstag fand in Peking die Eröffnungsfeier des 7th World Media Summit (7. Weltmediengipfel) unter dem Motto „Media in the Intelligent Age: From Consensus to Action\" („Medien im intelligenten Zeitalter: Vom Konsens zur Umsetzung\") statt.",
-      "url": "https://www.prnewswire.com/news-releases/7-weltmediengipfel-in-peking-eroffnet-302932769.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-08T21:06:00Z",
-      "epoch": 1794171960,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Le 7e Sommet mondial des médias s'ouvre à Pékin",
-      "summary": "PÉKIN, 8 novembre 2026 /PRNewswire/ -- La cérémonie d'ouverture du 7e Sommet mondial des médias a eu lieu à Pékin samedi sous le thème « Les médias à l'ère de l'intelligence : du consensus à l'action. » L'agence de presse Xinhua et le gouvernement municipal de Pékin ont organisé.",
-      "url": "https://www.prnewswire.com/news-releases/le-7e-sommet-mondial-des-medias-souvre-a-pekin-302932768.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-08T21:04:00Z",
-      "epoch": 1794171840,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Fibocom LTE Cat.1 bis Modules: Starlink DTC Field Test Report",
-      "summary": "AUCKLAND, New Zealand, Nov. 8, 2026 /PRNewswire/ -- Fibocom's LE270-EU and LE271-GL LTE Cat.1 bis modules have successfully connected to the SpaceX Direct to Cell (DTC) satellite network during live-network testing in New Zealand. Using standard firmware and without adding...",
-      "url": "https://www.prnewswire.com/news-releases/fibocom-lte-cat1-bis-modules-starlink-dtc-field-test-report-302930788.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-08T21:00:00Z",
-      "epoch": 1794171600,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Toyota Tundra 2027: Un nuevo y audaz capítulo en la excelencia de las camionetas pickup de tamaño grande con tecnología de remolque avanzada y el nuevo paquete Trailhunter",
-      "summary": "El diseño actualizado presenta un exterior más definido. El nuevo paquete Tundra Trailhunter amplía la capacidad todoterreno de fábrica. TRD Pro Adds FOX® QS3®, ganchos de remolque rojos, y un nuevo y llamativo color Honeycomb. El último sistema multimedia de audio de Toyota incl",
-      "url": "https://www.prnewswire.com/news-releases/toyota-tundra-2027-un-nuevo-y-audaz-capitulo-en-la-excelencia-de-las-camionetas-pickup-de-tamano-grande-con-tecnologia-de-remolque-avanzada-y-el-nuevo-paquete-trailhunter-890239829.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-08T20:22:00Z",
-      "epoch": 1794169320,
-      "sentiment": 0.0,
-      "tickers": [
-        "TM"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Novo post hoc analysis finds Wegovy® 2.4 mg was associated with improvements in liver markers in adults with MASH with liver scarring and a BMI less than 27 kg/m2, presented at The Liver Meeting® (AASLD) 2026",
       "summary": "A post hoc analysis of adults with MASH and liver scarring with a BMI below 27 kg/m² found that measures of liver injury, fibrosis, and disease activity improved at week 72 among participants receiving semaglutide 2.4 mg once weekly injection versus placebo Non-invasive fibrosis.",
       "url": "https://www.prnewswire.com/news-releases/novo-post-hoc-analysis-finds-wegovy-2-4-mg-was-associated-with-improvements-in-liver-markers-in-adults-with-mash-with-liver-scarring-and-a-bmi-less-than-27-kgm2--presented-at-the-liver-meeting-aasld-2026--302932759.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-11-08T19:11:00Z",
       "epoch": 1794165060,
       "sentiment": 0.0,
@@ -856,22 +877,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "CleanSpark Announces Participation in Upcoming Investor Events",
-      "summary": "LAS VEGAS, Nov. 6, 2026 /PRNewswire/ -- CleanSpark, Inc. (Nasdaq: CLSK) (\"CleanSpark\" or the \"Company\"), a market-leading data center developer, today announced its participation in upcoming investor conferences. If applicable, live webcasts, replay information and updated presen",
-      "url": "https://www.prnewswire.com/news-releases/cleanspark-announces-participation-in-upcoming-investor-events-302932282.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-11-06T21:15:00Z",
-      "epoch": 1793999700,
-      "sentiment": 0.0,
-      "tickers": [
-        "CLSK"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "Kestrel Group Reports Third Quarter 2026 Financial Results",
       "summary": "AUSTIN, Texas, Nov. 6, 2026 /PRNewswire/ -- Kestrel Group Ltd (NASDAQ: KG) (\"Kestrel\" or the \"Company\") a leading specialty insurance platform that provides fronting services to program managers, reinsurers, and reinsurance brokers, today reported its financial results for the th",
       "url": "https://www.prnewswire.com/news-releases/kestrel-group-reports-third-quarter-2026-financial-results-302932395.html",
@@ -882,6 +887,22 @@
       "sentiment": 0.0,
       "tickers": [
         "KG"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "CleanSpark Announces Participation in Upcoming Investor Events",
+      "summary": "LAS VEGAS, Nov. 6, 2026 /PRNewswire/ -- CleanSpark, Inc. (Nasdaq: CLSK) (\"CleanSpark\" or the \"Company\"), a market-leading data center developer, today announced its participation in upcoming investor conferences. If applicable, live webcasts, replay information and updated presen",
+      "url": "https://www.prnewswire.com/news-releases/cleanspark-announces-participation-in-upcoming-investor-events-302932282.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-06T21:15:00Z",
+      "epoch": 1793999700,
+      "sentiment": 0.0,
+      "tickers": [
+        "CLSK"
       ],
       "company_name": null,
       "catalyst": false,
@@ -904,22 +925,6 @@
       "small_cap_risk": true
     },
     {
-      "title": "POMDOCTOR LIMITED Regains Compliance with Nasdaq Bid Price Requirement",
-      "summary": "GUANGZHOU, China, Nov. 6, 2026 /PRNewswire/ -- POMDOCTOR LIMITED (\"Pomdoctor\" or the \"Company\") (NASDAQ: POM), a digital healthcare company focused on advancing AI-enabled healthcare solutions and predictive healthcare capabilities, today announced that on November 5, 2026, the C",
-      "url": "https://www.prnewswire.com/news-releases/pomdoctor-limited-regains-compliance-with-nasdaq-bid-price-requirement-302932252.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-06T21:05:00Z",
-      "epoch": 1793999100,
-      "sentiment": 0.0,
-      "tickers": [
-        "POM"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "InMed Pharmaceuticals Completes Closing of Merger with Mentari Therapeutics",
       "summary": "Shares expected to trade on Nasdaq under the ticker symbol \"MTRI\" commencing November 9, 2026 VANCOUVER, BC, Nov. 6, 2026 /PRNewswire/ -- InMed Pharmaceuticals Inc. (which has changed its name to Mentari Therapeutics, Inc.) (NASDAQ: INM) (\"Mentari\" or the \"Company\") today announc",
       "url": "https://www.prnewswire.com/news-releases/inmed-pharmaceuticals-completes-closing-of-merger-with-mentari-therapeutics-302932393.html",
@@ -930,6 +935,22 @@
       "sentiment": 0.0,
       "tickers": [
         "INM"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "POMDOCTOR LIMITED Regains Compliance with Nasdaq Bid Price Requirement",
+      "summary": "GUANGZHOU, China, Nov. 6, 2026 /PRNewswire/ -- POMDOCTOR LIMITED (\"Pomdoctor\" or the \"Company\") (NASDAQ: POM), a digital healthcare company focused on advancing AI-enabled healthcare solutions and predictive healthcare capabilities, today announced that on November 5, 2026, the C",
+      "url": "https://www.prnewswire.com/news-releases/pomdoctor-limited-regains-compliance-with-nasdaq-bid-price-requirement-302932252.html",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
+      "published_at": "2026-11-06T21:05:00Z",
+      "epoch": 1793999100,
+      "sentiment": 0.0,
+      "tickers": [
+        "POM"
       ],
       "company_name": null,
       "catalyst": false,
@@ -1006,20 +1027,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "History in the Making: Recovery 180 Opens Taneytown's First-Ever Residential 3.1 Treatment Facility",
-      "summary": "Four years in the making, the new center at 162 W. Baltimore Street is the largest Level 3.1 program in Carroll County history. The community is invited to the grand opening, open house and ribbon cutting on Thursday, December 3, from 11 a.m. to 2 p.m. TANEYTOWN, Md., Nov. 6, 202",
-      "url": "https://www.prnewswire.com/news-releases/history-in-the-making-recovery-180-opens-taneytowns-first-ever-residential-3-1-treatment-facility-302932365.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-06T20:12:00Z",
-      "epoch": 1793995920,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "The Washington Trust Company finances reconstruction of Block Island's Harborside Inn",
       "summary": "WESTERLY, R.I., Nov. 6, 2026 /PRNewswire/ -- The Washington Trust Company (Washington Trust), has provided $8.5 million in financing to VVO Real Estate Holding, LLC for the reconstruction of the Harborside Inn, a landmark hotel with retail space located at 41 Water Street in New ",
       "url": "https://www.prnewswire.com/news-releases/the-washington-trust-company-finances-reconstruction-of-block-islands-harborside-inn-302932359.html",
@@ -1042,20 +1049,6 @@
       "published_at": "2026-11-06T19:45:00Z",
       "epoch": 1793994300,
       "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Flutterwave galardonada como \"Mejor proveedor de infraestructura de pagos de África\"",
-      "summary": "- Flutterwave galardonada como \"Mejor proveedor de infraestructura de pagos de África\" en los Euromoney Transaction Banking Awards 2026 SAN FRANCISCO y LAGOS, Nigeria, 6 de noviembre de 2026 /PRNewswire/ -- Flutterwave, la principal empresa de tecnología de pagos de África, ha si",
-      "url": "https://www.prnewswire.com/news-releases/flutterwave-galardonada-como-mejor-proveedor-de-infraestructura-de-pagos-de-africa-302932272.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-11-06T18:20:00Z",
-      "epoch": 1793989200,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
