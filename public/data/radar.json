@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-08T21:38:13Z",
+  "generated_at": "2026-11-09T01:13:32Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 144,
+    "breaking_count": 145,
     "breaking_catalyst_count": 27,
     "pipeline_count": 57,
     "pipeline_catalyst_count": 6,
@@ -13,7 +13,7 @@
       "ticker": "JNJ",
       "count": 3,
       "catalyst_count": 2,
-      "source_count": 2
+      "source_count": 1
     },
     {
       "ticker": "MRNA",
@@ -58,13 +58,13 @@
       "source_count": 1
     },
     {
-      "ticker": "KG",
+      "ticker": "CLSK",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
     },
     {
-      "ticker": "CLSK",
+      "ticker": "KG",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -74,11 +74,25 @@
   "concentration_warning": null,
   "breaking": [
     {
+      "title": "Innovent Announces Phase 3 CREDIT-5 Study Met Primary Endpoint, SINTBILO® (Tafolecimab Injection) as First-line Monotherapy Treatment for Hyperlipidemia Demonstrated Potent Lipid-lowering Efficacy",
+      "summary": "SINTBILO® (tafolecimab injection) monotherapy achieved significant reduction of LDL-C level, with > 60% mean LDL-C reduction after 12 weeks of treatment with 150 mg Q2W/450 mg Q4W SINTBILO® (tafolecimab injection) monotherapy significantly decreased non-HDL-C, vLDL-C, ApoB, and L",
+      "url": "https://www.prnewswire.com/news-releases/innovent-announces-phase-3-credit-5-study-met-primary-endpoint-sintbilo-tafolecimab-injection-as-first-line-monotherapy-treatment-for-hyperlipidemia-demonstrated-potent-lipid-lowering-efficacy-302932681.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-09T00:00:00Z",
+      "epoch": 1794182400,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": true,
+      "small_cap_risk": false
+    },
+    {
       "title": "Allergan Aesthetics Reports Improved Satisfaction With Facial Appearance Following Aesthetic Treatment in Two Studies of Patients on GLP-1 Medications",
       "summary": "– HARMONY IN DIVERSITY is the first study of combined neurotoxin and filler treatment in adults on glucagon-like peptide-1 (GLP-1) medications. In this Phase 4 cohort, participants reported statistically significant improvements in satisfaction with facial appearance and skin qua",
       "url": "https://www.prnewswire.com/news-releases/allergan-aesthetics-reports-improved-satisfaction-with-facial-appearance-following-aesthetic-treatment-in-two-studies-of-patients-on-glp-1-medications-302932241.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-11-08T17:45:00Z",
       "epoch": 1794159900,
       "sentiment": 0.0,
@@ -115,20 +129,6 @@
       "tickers": [
         "JNJ"
       ],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Novo real-world studies link Wegovy® 2.4 mg to reductions in liver enzymes, weight, and blood sugar in adults with MASH at The Liver Meeting® (AASLD) 2026",
-      "summary": "In a real-world study, semaglutide 2.4 mg once weekly injection was associated with a statistically significant mean weight loss from baseline, 18.9 lb (8.6 kg; ~8%), when compared to resmetirom at six months Semaglutide 2.4 mg was also associated with significantly greater reduc",
-      "url": "https://www.prnewswire.com/news-releases/novo-real-world-studies-link-wegovy-2-4-mg-to-reductions-in-liver-enzymes-weight-and-blood-sugar-in-adults-with-mash-at-the-liver-meeting-aasld-2026--302932360.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-06T20:07:00Z",
-      "epoch": 1793995620,
-      "sentiment": -0.33,
-      "tickers": [],
       "company_name": null,
       "catalyst": true,
       "small_cap_risk": false
@@ -458,6 +458,132 @@
       "small_cap_risk": false
     },
     {
+      "title": "GlycoNex Announces Japanese Regulatory Submission for Denosumab Biosimilar SPD8",
+      "summary": "Regulatory decision in Japan anticipated as early as the end of 2027, subject to PMDA review; GlycoNex continues to seek partners for markets outside Japan NEW TAIPEI CITY, Nov. 8, 2026 /PRNewswire/ -- GlycoNex, Inc. (TPEx: 4168), a clinical-stage biotechnology company developing",
+      "url": "https://www.prnewswire.com/news-releases/glyconex-announces-japanese-regulatory-submission-for-denosumab-biosimilar-spd8-302930180.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-09T01:02:00Z",
+      "epoch": 1794186120,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "LG ELECTRONICS EARNS FIRST ASIL D PRODUCT CERTIFICATION FOR AUTOMOTIVE CENTRAL GATEWAY SYSTEM",
+      "summary": "TÜV Rheinland's First ASIL D Product Certification in the Central Gateway System Category Validates LG's Functional Safety Capabilities News Summary LG Electronics has earned its first ISO 26262 ASIL D product certification for its automotive central gateway system. It is also th",
+      "url": "https://www.prnewswire.com/news-releases/lg-electronics-earns-first-asil-d-product-certification-for-automotive-central-gateway-system-302931811.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-09T01:00:00Z",
+      "epoch": 1794186000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Stavian Group Showcases Its Infrastructure Vision for the AI Era at the Inaugural Fortune SEA500 Summit 2026",
+      "summary": "HO CHI MINH CITY, Vietnam, Nov. 8, 2026 /PRNewswire/ -- As Southeast Asia enters a new phase of growth shaped by artificial intelligence, digital transformation, evolving supply chains, and shifting investment flows, businesses are increasingly focused on building the foundations",
+      "url": "https://www.prnewswire.com/news-releases/stavian-group-showcases-its-infrastructure-vision-for-the-ai-era-at-the-inaugural-fortune-sea500-summit-2026-302932586.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-09T01:00:00Z",
+      "epoch": 1794186000,
+      "sentiment": 0.33,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Timing Affects Speed, Not Total Exposure",
+      "summary": "CureGene Presents Evategrel China–US PK/PD and Food-Effect Data at AHA 2026 SHANGHAI, Nov. 8, 2026 /PRNewswire/ -- Clopidogrel does not work the same way in every patient. In East Asian populations the gap is wider still: a share of patients get too little platelet inhibition at ",
+      "url": "https://www.prnewswire.com/news-releases/timing-affects-speed-not-total-exposure-302932812.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-09T00:51:00Z",
+      "epoch": 1794185460,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Antengene Presents Latest Preclinical Results of Novel Cos-TCE Platform AnTenGager‑D2 in Rapid Oral Abstract Presentation at SITC 2026",
+      "summary": "SHANGHAI and HONG KONG, Nov. 8, 2026 /PRNewswire/ -- Antengene Corporation Limited (\"Antengene\", SEHK: 6996.HK), a leading innovative, commercial-stage global biotech company dedicated to discovering, developing and commercializing first-in-class and/or best-in-class medicines fo",
+      "url": "https://www.prnewswire.com/news-releases/antengene-presents-latest-preclinical-results-of-novel-cos-tce-platform-antengagerd2-in-rapid-oral-abstract-presentation-at-sitc-2026-302931879.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-09T00:30:00Z",
+      "epoch": 1794184200,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Muyuan Foods Group, ein Weltmarktführer im Bereich Schweinehaltung, präsentiert Lösungen für intelligente Schweinehaltung und grüne Entwicklung auf der EuroTier 2026",
+      "summary": "HANNOVER, Deutschland, 9. November 2026 /PRNewswire/ -- Vom 10. bis 13. November wird die Muyuan Foods Group (002714.SZ/02714.HK) an der EuroTier 2026 in Hannover teilnehmen. Als Weltmarktführer im Bereich der Schweinehaltung verkaufte Muyuan im Jahr 2025 77,98 Millionen Schweine",
+      "url": "https://www.prnewswire.com/news-releases/muyuan-foods-group-ein-weltmarktfuhrer-im-bereich-schweinehaltung-prasentiert-losungen-fur-intelligente-schweinehaltung-und-grune-entwicklung-auf-der-eurotier-2026-302932786.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T23:08:00Z",
+      "epoch": 1794179280,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "Muyuan Foods Group, leader mondial de l'élevage porcin, présentera ses solutions d'élevage porcin intelligent et de développement durable à l'EuroTier 2026",
+      "summary": "HANOVRE, Allemagne, 9 novembre 2026 /PRNewswire/ -- Du 10 au 13 novembre, Muyuan Foods Group (002714.SZ/02714.HK) participera à l'EuroTier 2026 à Hanovre, en Allemagne. Leader mondial de l'élevage porcin, Muyuan a commercialisé 77,98 millions de porcs et en a abattu 28,66 million",
+      "url": "https://www.prnewswire.com/news-releases/muyuan-foods-group-leader-mondial-de-lelevage-porcin-presentera-ses-solutions-delevage-porcin-intelligent-et-de-developpement-durable-a-leurotier-2026-302932785.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-08T23:05:00Z",
+      "epoch": 1794179100,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "NatGold Digital kündigt das sofortige Delisting von NATG an der Börse MEXC an - infolge von Maßnahmen des US-Finanzministeriums",
+      "summary": "CORAL GABLES, Florida, 8. November 2026 /PRNewswire/ -- NatGold Digital Ltd. (\"NatGold\" oder das \"Unternehmen\") gab heute bekannt, dass es die Notierungsaufhebung (Delisting) des NatGold-Tokens (NATG) von MEXC – einer globalen Kryptowährungsbörse, an der NATG derzeit gelistet ist",
+      "url": "https://www.prnewswire.com/news-releases/natgold-digital-kundigt-das-sofortige-delisting-von-natg-an-der-borse-mexc-an--infolge-von-maWnahmen-des-us-finanzministeriums-302932778.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-08T22:37:00Z",
+      "epoch": 1794177420,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "NatGold Digital annonce le retrait immédiat de NATG de MEXC suite à une décision du Trésor américain",
+      "summary": "CORAL GABLES, Floride, 8 novembre 2026 /PRNewswire/ -- NatGold Digital Ltd. (« NatGold » ou la « société ») annonce aujourd'hui avoir demandé le retrait du NatGold Token (NATG) de MEXC, une plateforme d'échange mondiale de cryptomonnaies où le NATG est actuellement coté, avec eff",
+      "url": "https://www.prnewswire.com/news-releases/natgold-digital-annonce-le-retrait-immediat-de-natg-de-mexc-suite-a-une-decision-du-tresor-americain-302932777.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-08T22:30:00Z",
+      "epoch": 1794177000,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "7. Weltmediengipfel in Peking eröffnet",
       "summary": "PEKING, 8. November 2026 /PRNewswire/ -- Am Samstag fand in Peking die Eröffnungsfeier des 7th World Media Summit (7. Weltmediengipfel) unter dem Motto „Media in the Intelligent Age: From Consensus to Action\" („Medien im intelligenten Zeitalter: Vom Konsens zur Umsetzung\") statt.",
       "url": "https://www.prnewswire.com/news-releases/7-weltmediengipfel-in-peking-eroffnet-302932769.html",
@@ -533,8 +659,8 @@
       "title": "Cleaner Bedroom Air May Help Manage Blood Sugar in Prediabetes",
       "summary": "NEW YORK, Nov. 8, 2026 /PRNewswire/ -- Using portable filters to reduce exposure to air pollution during sleep may stabilize the large spikes in blood sugar experienced by people with prediabetes, a condition in which sugar (glucose) levels are higher than normal, a new study sho",
       "url": "https://www.prnewswire.com/news-releases/cleaner-bedroom-air-may-help-manage-blood-sugar-in-prediabetes-302932132.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-11-08T16:37:00Z",
       "epoch": 1794155820,
       "sentiment": 0.0,
@@ -547,56 +673,14 @@
       "title": "Johnson & Johnson reports 73% PSA response rate with investigational pasritamig-based immunotherapy combination in advanced prostate cancer",
       "summary": "First-of-its-kind dual-antigen-targeted bispecific regimen of pasritamig and JNJ-9401 directed at two prostate cancer proteins, KLK2 and PSMA, using complementary signals to activate T cells against cancer Deep and sustained PSA responses observed with every-six-week dosing, with",
       "url": "https://www.prnewswire.com/news-releases/johnson--johnson-reports-73-psa-response-rate-with-investigational-pasritamig-based-immunotherapy-combination-in-advanced-prostate-cancer-302932750.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-11-08T16:00:00Z",
       "epoch": 1794153600,
       "sentiment": 0.0,
       "tickers": [
         "JNJ"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Le GSMA MWC26 Doha ouvre ses portes avec un appel à l'harmonisation des normes industrielles mondiales et à la réduction de la fracture numérique au Moyen-Orient et en Afrique du Nord",
-      "summary": "Des opérateurs, des leaders technologiques, des décideurs politiques et des innovateurs se réunissent aujourd'hui à Doha pour trois jours d'exposition, de collaboration et de débats sur l'avenir de la connectivité au Moyen-Orient et en Afrique du Nord DOHA, Qatar, 8 novembre 2026",
-      "url": "https://www.prnewswire.com/news-releases/le-gsma-mwc26-doha-ouvre-ses-portes-avec-un-appel-a-lharmonisation-des-normes-industrielles-mondiales-et-a-la-reduction-de-la-fracture-numerique-au-moyen-orient-et-en-afrique-du-nord-302932747.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-08T15:06:00Z",
-      "epoch": 1794150360,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "essential COSTA RICA nommée Marque territoriale de l'année aux City Nation Place Awards à Londres",
-      "summary": "Le Costa Rica a reçu trois distinctions : Marque territoriale de l'année, Meilleure mobilisation citoyenne et une mention spéciale dans la catégorie Meilleure stratégie de communication. essential COSTA RICA est la première marque nationale à recevoir deux fois le prix de la Marq",
-      "url": "https://www.prnewswire.com/news-releases/essential-costa-rica-nommee-marque-territoriale-de-lannee-aux-city-nation-place-awards-a-londres-302932731.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-08T13:07:00Z",
-      "epoch": 1794143220,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Les fausses boutiques prolifèrent avant le Black Friday : un test d'AV-Comparatives révèle quels produits protègent les consommateurs",
-      "summary": "Sept produits de sécurité obtiennent la certification de détection des fausses boutiques pour 2026, à l'heure où les signalements de fausses boutiques en ligne spécialisées dans la période des fêtes se multiplient. INNSBRUCK, Autriche, 8 novembre 2026 /PRNewswire/ -- À l'approche",
-      "url": "https://www.prnewswire.com/news-releases/les-fausses-boutiques-proliferent-avant-le-black-friday--un-test-dav-comparatives-revele-quels-produits-protegent-les-consommateurs-302932722.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
-      "published_at": "2026-11-08T12:18:00Z",
-      "epoch": 1794140280,
-      "sentiment": 0.0,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -772,22 +856,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Kestrel Group Reports Third Quarter 2026 Financial Results",
-      "summary": "AUSTIN, Texas, Nov. 6, 2026 /PRNewswire/ -- Kestrel Group Ltd (NASDAQ: KG) (\"Kestrel\" or the \"Company\") a leading specialty insurance platform that provides fronting services to program managers, reinsurers, and reinsurance brokers, today reported its financial results for the th",
-      "url": "https://www.prnewswire.com/news-releases/kestrel-group-reports-third-quarter-2026-financial-results-302932395.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-11-06T21:15:00Z",
-      "epoch": 1793999700,
-      "sentiment": 0.0,
-      "tickers": [
-        "KG"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": true
-    },
-    {
       "title": "CleanSpark Announces Participation in Upcoming Investor Events",
       "summary": "LAS VEGAS, Nov. 6, 2026 /PRNewswire/ -- CleanSpark, Inc. (Nasdaq: CLSK) (\"CleanSpark\" or the \"Company\"), a market-leading data center developer, today announced its participation in upcoming investor conferences. If applicable, live webcasts, replay information and updated presen",
       "url": "https://www.prnewswire.com/news-releases/cleanspark-announces-participation-in-upcoming-investor-events-302932282.html",
@@ -798,6 +866,22 @@
       "sentiment": 0.0,
       "tickers": [
         "CLSK"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": true
+    },
+    {
+      "title": "Kestrel Group Reports Third Quarter 2026 Financial Results",
+      "summary": "AUSTIN, Texas, Nov. 6, 2026 /PRNewswire/ -- Kestrel Group Ltd (NASDAQ: KG) (\"Kestrel\" or the \"Company\") a leading specialty insurance platform that provides fronting services to program managers, reinsurers, and reinsurance brokers, today reported its financial results for the th",
+      "url": "https://www.prnewswire.com/news-releases/kestrel-group-reports-third-quarter-2026-financial-results-302932395.html",
+      "source": "PR Newswire — Financial",
+      "source_id": "prnewswire-financial",
+      "published_at": "2026-11-06T21:15:00Z",
+      "epoch": 1793999700,
+      "sentiment": 0.0,
+      "tickers": [
+        "KG"
       ],
       "company_name": null,
       "catalyst": false,
@@ -950,20 +1034,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Gigli Launches Daily Functional Line and SKINNY Mocktails Redefining Wellness & Everyday Beverages",
-      "summary": "Stackable functionality, Clean Ingredients AND Delicious Taste, Because You Deserve Better MIAMI, Nov. 6, 2026 /PRNewswire/ -- Gigli today announced the launch of its new Daily Functional Line and SKINNY Mocktails, advancing the brand's vision for a more comprehensive approach to",
-      "url": "https://www.prnewswire.com/news-releases/gigli-launches-daily-functional-line-and-skinny-mocktails-redefining-wellness--everyday-beverages-302932277.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-06T19:53:00Z",
-      "epoch": 1793994780,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Mount St. Mary's University and Saint John Vianney High School Partner to Guarantee Admission and Scholarships for Eligible Students",
       "summary": "New agreement expands access to affordable, high-quality Catholic education EMMITSBURG, Md., Nov. 6, 2026 /PRNewswire/ -- Mount St. Mary's University has partnered with Saint John Vianney High School through a new memorandum of understanding (MOU) that guarantees admission and a ",
       "url": "https://www.prnewswire.com/news-releases/mount-st-marys-university-and-saint-john-vianney-high-school-partner-to-guarantee-admission-and-scholarships-for-eligible-students-302932234.html",
@@ -978,34 +1048,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Crunch Fitness Franchisee Relocates North Riverside Gym Into an All-New Crunch 3.0 Club",
-      "summary": "Fitness Ventures reinvests in Jurupa Valley with a $5 million, 40,000-square-foot club, replacing the former North Riverside gym JURUPA VALLEY, Calif., Nov. 6, 2026 /PRNewswire/ -- Crunch Fitness has relocated Crunch North Riverside into an all-new, state-of-the-art Crunch 3.0 cl",
-      "url": "https://www.prnewswire.com/news-releases/crunch-fitness-franchisee-relocates-north-riverside-gym-into-an-all-new-crunch-3-0-club-302932334.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-06T19:30:00Z",
-      "epoch": 1793993400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Memorial Healthcare System Mobile Health Program Connects Thousands to Care, Reduces Hospital Admissions",
-      "summary": "HOLLYWOOD, Fla., Nov. 6, 2026 /PRNewswire/ -- Memorial Healthcare System's Mobile Health Program continues to expand access to care across South Broward, serving more than 2,000 patients through more than 2,800 visits in the first nine months of 2026. The program builds on a succ",
-      "url": "https://www.prnewswire.com/news-releases/memorial-healthcare-system-mobile-health-program-connects-thousands-to-care-reduces-hospital-admissions-302932169.html",
-      "source": "PR Newswire — Health",
-      "source_id": "prnewswire-health",
-      "published_at": "2026-11-06T18:40:00Z",
-      "epoch": 1793990400,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Flutterwave galardonada como \"Mejor proveedor de infraestructura de pagos de África\"",
       "summary": "- Flutterwave galardonada como \"Mejor proveedor de infraestructura de pagos de África\" en los Euromoney Transaction Banking Awards 2026 SAN FRANCISCO y LAGOS, Nigeria, 6 de noviembre de 2026 /PRNewswire/ -- Flutterwave, la principal empresa de tecnología de pagos de África, ha si",
       "url": "https://www.prnewswire.com/news-releases/flutterwave-galardonada-como-mejor-proveedor-de-infraestructura-de-pagos-de-africa-302932272.html",
@@ -1013,34 +1055,6 @@
       "source_id": "prnewswire-financial",
       "published_at": "2026-11-06T18:20:00Z",
       "epoch": 1793989200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Flutterwave wurde bei den Euromoney Transaction Banking Awards 2026 als „Afrikas bester Anbieter von Zahlungsinfrastruktur\" ausgezeichnet",
-      "summary": "SAN FRANCISCO und LAGOS, Nigeria, 6. November 2026 /PRNewswire/ -- Flutterwave, Afrikas führendes Zahlungstechnologieunternehmen, wurde bei den Euromoney Transaction Banking Awards 2026 als „Afrikas bester Zahlungsinfrastrukturanbieter\" ausgezeichnet. Diese Auszeichnung unterstre",
-      "url": "https://www.prnewswire.com/news-releases/flutterwave-wurde-bei-den-euromoney-transaction-banking-awards-2026-als-afrikas-bester-anbieter-von-zahlungsinfrastruktur-ausgezeichnet-302932270.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-11-06T18:16:00Z",
-      "epoch": 1793988960,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "La société Flutterwave désignée « Meilleur fournisseur d'infrastructure de paiement d'Afrique » lors des Euromoney Transaction Banking Awards 2026 (Prix Euromoney 2026 des banques transactionnelles)",
-      "summary": "SAN FRANCISCO et LAGOS, Nigeria, 6 novembre 2026 /PRNewswire/ -- Flutterwave, la principale société africaine de technologie de paiement, a été nommée « Meilleur fournisseur d'infrastructure de paiement d'Afrique » lors des Euromoney Transaction Banking Awards 2026. Cette reconna",
-      "url": "https://www.prnewswire.com/news-releases/la-societe-flutterwave-designee--meilleur-fournisseur-dinfrastructure-de-paiement-dafrique--lors-des-euromoney-transaction-banking-awards-2026-prix-euromoney-2026-des-banques-transactionnelles-302932268.html",
-      "source": "PR Newswire — Financial",
-      "source_id": "prnewswire-financial",
-      "published_at": "2026-11-06T18:13:00Z",
-      "epoch": 1793988780,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
