@@ -700,9 +700,9 @@
     },
     {
       "date": "2026-11-10",
-      "score": 57.2,
-      "avg_sentiment": 0.08,
-      "article_count": 2
+      "score": 65.2,
+      "avg_sentiment": 0.33,
+      "article_count": 1
     }
   ],
   "FOX": [
@@ -1486,9 +1486,9 @@
     },
     {
       "date": "2026-11-10",
-      "score": 54.0,
+      "score": 52.0,
       "avg_sentiment": 0.0,
-      "article_count": 2
+      "article_count": 1
     }
   ],
   "MDT": [
@@ -1778,9 +1778,9 @@
     },
     {
       "date": "2026-11-10",
-      "score": 40.9,
-      "avg_sentiment": -0.33,
-      "article_count": 2
+      "score": 25.2,
+      "avg_sentiment": -0.67,
+      "article_count": 1
     }
   ],
   "IHG.L": [
@@ -2096,9 +2096,9 @@
     },
     {
       "date": "2026-11-10",
-      "score": 59.8,
-      "avg_sentiment": -0.0,
-      "article_count": 18
+      "score": 59.3,
+      "avg_sentiment": -0.02,
+      "article_count": 14
     }
   ],
   "WMT": [
@@ -2460,9 +2460,9 @@
     },
     {
       "date": "2026-11-10",
-      "score": 68.2,
-      "avg_sentiment": 0.31,
-      "article_count": 3
+      "score": 54.7,
+      "avg_sentiment": 0.02,
+      "article_count": 2
     }
   ],
   "NDAQ": [
@@ -2728,9 +2728,9 @@
     },
     {
       "date": "2026-11-10",
-      "score": 52.0,
+      "score": 54.0,
       "avg_sentiment": 0.0,
-      "article_count": 1
+      "article_count": 2
     }
   ],
   "SNDK": [
@@ -3092,9 +3092,9 @@
     },
     {
       "date": "2026-11-10",
-      "score": 67.4,
-      "avg_sentiment": 0.33,
-      "article_count": 2
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "005930.KS": [
@@ -3828,9 +3828,9 @@
     },
     {
       "date": "2026-11-10",
-      "score": 74.2,
-      "avg_sentiment": 0.45,
-      "article_count": 3
+      "score": 67.2,
+      "avg_sentiment": 0.33,
+      "article_count": 2
     }
   ],
   "LOW": [
@@ -4485,6 +4485,12 @@
       "score": 25.2,
       "avg_sentiment": -0.67,
       "article_count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "BAC": [
@@ -4973,12 +4979,6 @@
   ],
   "CVX": [
     {
-      "date": "2026-08-21",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
-      "article_count": 1
-    },
-    {
       "date": "2026-08-24",
       "score": 38.8,
       "avg_sentiment": -0.33,
@@ -5150,6 +5150,12 @@
       "date": "2026-11-04",
       "score": 65.2,
       "avg_sentiment": 0.33,
+      "article_count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -5659,12 +5665,6 @@
   ],
   "GS": [
     {
-      "date": "2026-09-28",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
-      "article_count": 1
-    },
-    {
       "date": "2026-09-30",
       "score": 52.0,
       "avg_sentiment": 0.0,
@@ -5836,6 +5836,12 @@
       "date": "2026-11-09",
       "score": 25.2,
       "avg_sentiment": -0.67,
+      "article_count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -6666,9 +6672,9 @@
     },
     {
       "date": "2026-11-10",
-      "score": 52.0,
-      "avg_sentiment": 0.0,
-      "article_count": 1
+      "score": 47.4,
+      "avg_sentiment": -0.17,
+      "article_count": 2
     }
   ],
   "HMC": [
@@ -6848,9 +6854,9 @@
     },
     {
       "date": "2026-11-10",
-      "score": 54.0,
-      "avg_sentiment": 0.0,
-      "article_count": 2
+      "score": 69.2,
+      "avg_sentiment": 0.33,
+      "article_count": 3
     }
   ],
   "MC.PA": [
@@ -6968,6 +6974,12 @@
     },
     {
       "date": "2026-10-28",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-11-10",
       "score": 52.0,
       "avg_sentiment": 0.0,
       "article_count": 1
@@ -8761,12 +8773,6 @@
   ],
   "MSFT": [
     {
-      "date": "2026-10-05",
-      "score": 54.7,
-      "avg_sentiment": 0.02,
-      "article_count": 2
-    },
-    {
       "date": "2026-10-06",
       "score": 52.0,
       "avg_sentiment": 0.0,
@@ -8937,6 +8943,12 @@
     {
       "date": "2026-11-08",
       "score": 67.3,
+      "avg_sentiment": 0.33,
+      "article_count": 2
+    },
+    {
+      "date": "2026-11-10",
+      "score": 67.2,
       "avg_sentiment": 0.33,
       "article_count": 2
     }
@@ -11016,9 +11028,9 @@
     },
     {
       "date": "2026-11-10",
-      "score": 43.6,
-      "avg_sentiment": -0.31,
-      "article_count": 3
+      "score": 21.3,
+      "avg_sentiment": -0.82,
+      "article_count": 2
     }
   ],
   "AWK": [
@@ -15743,6 +15755,12 @@
       "score": 78.8,
       "avg_sentiment": 0.67,
       "article_count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "score": 78.8,
+      "avg_sentiment": 0.67,
+      "article_count": 1
     }
   ],
   "C": [
@@ -17803,6 +17821,12 @@
       "score": 78.8,
       "avg_sentiment": 0.67,
       "article_count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "score": 27.2,
+      "avg_sentiment": -0.67,
+      "article_count": 2
     }
   ],
   "PCAR": [
@@ -18630,6 +18654,12 @@
       "date": "2026-11-02",
       "score": 52.0,
       "avg_sentiment": 0.0,
+      "article_count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "score": 78.8,
+      "avg_sentiment": 0.67,
       "article_count": 1
     }
   ],
@@ -19534,6 +19564,12 @@
       "date": "2026-09-23",
       "score": 65.2,
       "avg_sentiment": 0.33,
+      "article_count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -20886,9 +20922,9 @@
     },
     {
       "date": "2026-11-10",
-      "score": 56.7,
-      "avg_sentiment": 0.07,
-      "article_count": 2
+      "score": 65.2,
+      "avg_sentiment": 0.33,
+      "article_count": 1
     }
   ],
   "SMCI": [
@@ -22446,6 +22482,12 @@
       "date": "2026-09-17",
       "score": 78.8,
       "avg_sentiment": 0.67,
+      "article_count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -24859,6 +24901,12 @@
       "score": 78.8,
       "avg_sentiment": 0.67,
       "article_count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "score": 78.8,
+      "avg_sentiment": 0.67,
+      "article_count": 1
     }
   ],
   "IMO.TO": [
@@ -25744,6 +25792,12 @@
       "date": "2026-11-09",
       "score": 78.8,
       "avg_sentiment": 0.67,
+      "article_count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
@@ -29607,6 +29661,12 @@
       "score": 25.2,
       "avg_sentiment": -0.67,
       "article_count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "DHI": [
@@ -33425,6 +33485,12 @@
       "score": 25.2,
       "avg_sentiment": -0.67,
       "article_count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
+      "article_count": 1
     }
   ],
   "BE": [
@@ -34910,6 +34976,12 @@
       "date": "2026-11-08",
       "score": 78.8,
       "avg_sentiment": 0.67,
+      "article_count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "score": 52.0,
+      "avg_sentiment": 0.0,
       "article_count": 1
     }
   ],
