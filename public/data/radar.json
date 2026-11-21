@@ -1,46 +1,16 @@
 {
-  "generated_at": "2026-11-21T03:50:14Z",
+  "generated_at": "2026-11-21T12:02:05Z",
   "move_threshold_pct": 20.0,
   "summary": {
-    "breaking_count": 139,
+    "breaking_count": 141,
     "breaking_catalyst_count": 15,
-    "pipeline_count": 58,
-    "pipeline_catalyst_count": 11,
+    "pipeline_count": 10,
+    "pipeline_catalyst_count": 2,
     "movers_count": 0
   },
   "trending_tickers": [
     {
-      "ticker": "NOVN",
-      "count": 4,
-      "catalyst_count": 1,
-      "source_count": 2
-    },
-    {
-      "ticker": "MRK",
-      "count": 3,
-      "catalyst_count": 1,
-      "source_count": 2
-    },
-    {
-      "ticker": "BMY",
-      "count": 1,
-      "catalyst_count": 1,
-      "source_count": 1
-    },
-    {
-      "ticker": "PFE",
-      "count": 3,
-      "catalyst_count": 0,
-      "source_count": 3
-    },
-    {
       "ticker": "GS",
-      "count": 2,
-      "catalyst_count": 0,
-      "source_count": 2
-    },
-    {
-      "ticker": "BIIB",
       "count": 2,
       "catalyst_count": 0,
       "source_count": 2
@@ -58,6 +28,12 @@
       "source_count": 1
     },
     {
+      "ticker": "BKNG",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
       "ticker": "FRVO",
       "count": 1,
       "catalyst_count": 0,
@@ -65,6 +41,30 @@
     },
     {
       "ticker": "BON",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "ACP",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "HLSQ",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "TSN",
+      "count": 1,
+      "catalyst_count": 0,
+      "source_count": 1
+    },
+    {
+      "ticker": "WEC",
       "count": 1,
       "catalyst_count": 0,
       "source_count": 1
@@ -284,6 +284,36 @@
       "small_cap_risk": false
     },
     {
+      "title": "What's Happening in Mooresville and Davidson on Saturday, November 21, 2026? Cottage Grove Bakery Brings Holiday Treats to Two Local Markets",
+      "summary": "Lake Norman bakery introduces seasonal treats at two Saturday markets, offers $45 Thanksgiving Breakfast Boxes with local delivery, and begins booking inquiries for 2027 Breakfast Bakery Cart Pop-Ins. MOORESVILLE, N.C., Nov. 21, 2026 /PRNewswire/ -- Looking for things to do in Mo",
+      "url": "https://www.prnewswire.com/news-releases/whats-happening-in-mooresville-and-davidson-on-saturday-november-21-2026-cottage-grove-bakery-brings-holiday-treats-to-two-local-markets-302947493.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-21T06:29:00Z",
+      "epoch": 1795242540,
+      "sentiment": 0.0,
+      "tickers": [
+        "BKNG"
+      ],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
+      "title": "WaterField Designs Introduces Magnetic Case for Retroid Pocket Nova, Including a Grip-Compatible Size",
+      "summary": "Handcrafted in San Francisco, the slim, padded gaming case features a magnetic closure and separate accessory storage. Two custom-fit sizes accommodate the Retroid Pocket Nova with or without its official TPU grip attached. SAN FRANCISCO, Nov. 21, 2026 /PRNewswire/ -- WaterField ",
+      "url": "https://www.prnewswire.com/news-releases/waterfield-designs-introduces-magnetic-case-for-retroid-pocket-nova-including-a-grip-compatible-size-302946557.html",
+      "source": "PR Newswire — Public Companies",
+      "source_id": "prnewswire-public-co",
+      "published_at": "2026-11-21T05:02:00Z",
+      "epoch": 1795237320,
+      "sentiment": 0.0,
+      "tickers": [],
+      "company_name": null,
+      "catalyst": false,
+      "small_cap_risk": false
+    },
+    {
       "title": "Spoločnosť Huawei predstavuje na festivale FinTech v Singapure 2026 možnosti škálovania finančnej umelej inteligencie",
       "summary": "Vďaka otvorenej hybridnej infraštruktúre umelej inteligencie a trom inteligentným fabrikám pomáha Huawei globálnym finančným inštitúciám budovať diferencované konkurenčné výhody SINGAPUR, 21. novembra 2026 /PRNewswire/ -- Na veľtrhu SFF 2026 sa spoločnosť Huawei podelila o svoje ",
       "url": "https://www.prnewswire.com/news-releases/spolonos-huawei-predstavuje-na-festivale-fintech-v-singapure-2026-monosti-kalovania-finannej-umelej-inteligencie-302947473.html",
@@ -373,8 +403,8 @@
       "title": "Llega a Shanghái este diciembre el Foro de Innovación de Pujiang 2026",
       "summary": "- El Foro de Innovación de Pujiang 2026, Conferencia sobre Interfaz Cerebro-Computadora, llega a Shanghái este diciembre, invitándote a descubrir la cadena de valor completa de las interfaces cerebro-computadora en China SHANGHÁI, 21 de noviembre de 2026 /PRNewswire/ -- BCI New V",
       "url": "https://www.prnewswire.com/news-releases/llega-a-shanghai-este-diciembre-el-foro-de-innovacion-de-pujiang-2026-302947443.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-11-21T01:15:00Z",
       "epoch": 1795223700,
       "sentiment": 0.0,
@@ -387,8 +417,8 @@
       "title": "Das Pujiang Innovation Forum 2026, die Konferenz für Gehirn-Computer-Schnittstellen, findet diesen Dezember in Shanghai statt und lädt Sie ein, Chinas vollständige Wertschöpfungskette für Gehirn-Computer-Schnittstellen zu entdecken.",
       "summary": "SHANGHAI, 21. November 2026 /PRNewswire/ -- BCI New Voices, eine Plattform für die BCI-Lieferkette, wird vom 4. bis 6. Dezember 2026 im Shanghai Hongqiao Conference Center und Naozhi Tiandi die Pujiang Innovation Forum 2026 Brain-Computer Interface Conference veranstalten. Unter ",
       "url": "https://www.prnewswire.com/news-releases/das-pujiang-innovation-forum-2026-die-konferenz-fur-gehirn-computer-schnittstellen-findet-diesen-dezember-in-shanghai-statt-und-ladt-sie-ein-chinas-vollstandige-wertschopfungskette-fur-gehirn-computer-schnittstellen-zu-entdecke-302947442.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-11-21T01:14:00Z",
       "epoch": 1795223640,
       "sentiment": 0.0,
@@ -401,8 +431,8 @@
       "title": "Venez découvrir l'ensemble de la chaîne de valeur chinoise des interfaces cerveau-ordinateur lors de la conférence sur les interfaces cerveau-ordinateur du Forum de l'innovation de Pujiang 2026 qui se tiendra à Shanghai en décembre prochain",
       "summary": "SHANGHAI, 21 novembre 2026 /PRNewswire/ -- BCI New Voices, une plateforme au service de la chaîne d'approvisionnement BCI, organisera la conférence sur les interfaces cerveau-ordinateur du Forum de l'innovation de Pujiang 2026 qui se tiendra du 4 au 6 décembre 2026 au Shanghai Ho",
       "url": "https://www.prnewswire.com/news-releases/venez-decouvrir-lensemble-de-la-chaine-de-valeur-chinoise-des-interfaces-cerveau-ordinateur-lors-de-la-conference-sur-les-interfaces-cerveau-ordinateur-du-forum-de-linnovation-de-pujiang-2026-qui-se-tiendra-a-shanghai-en-decembr-302947441.html",
-      "source": "PR Newswire — Public Companies",
-      "source_id": "prnewswire-public-co",
+      "source": "PR Newswire — Health",
+      "source_id": "prnewswire-health",
       "published_at": "2026-11-21T01:13:00Z",
       "epoch": 1795223580,
       "sentiment": 0.0,
@@ -2077,50 +2107,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "Merck’s TROP2 ADC extends survival in pivotal gastroesophageal cancer trial",
-      "summary": "Merck &amp; Co.’s sacituzumab tirumotecan has improved overall survival in a phase 3 cancer trial, delivering a second pivotal global victory for the TROP2-directed antibody-drug conjugate.",
-      "url": "https://www.fiercebiotech.com/biotech/mercks-trop2-adc-extends-survival-pivotal-gastroesophageal-cancer-trial",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-20T07:53:00Z",
-      "epoch": 1795161180,
-      "sentiment": 0.0,
-      "tickers": [
-        "MRK"
-      ],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Bausch + Lomb and Celldex rocked by respective phase 2 flops",
-      "summary": "Bausch + Lomb and Celldex have independently reported phase 2 flops. While Celldex ended work in the indication in response to the setback, Bausch + Lomb noted numerical improvements and exploratory analyses to make the case for talks about entering phase 3.",
-      "url": "https://www.fiercebiotech.com/biotech/bausch-lomb-and-celldex-rocked-phase-2-flops",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-20T03:23:00Z",
-      "epoch": 1795144980,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Sanofi gets Genzyme asset across FDA finish line with key nod in Gaucher type 3",
-      "summary": "Sanofi's Infilbray secured an FDA approval to treat children and adults with the rare metabolic and neurogenerative disorder Type 3 Gaucher disease. The daily oral therapy is the first to address the disease's neurological effects.",
-      "url": "https://www.fiercepharma.com/pharma/sanofi-snags-fda-nod-become-first-neurologic-treatment-rare-gd3",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-19T16:17:00Z",
-      "epoch": 1795105020,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
       "title": "Sanofi gains FDA clearance for Gaucher disease pill",
       "summary": "The approval culminates a winding development journey for Infilbray, and provides Sanofi with a new source of income ahead of Dupixent&rsquo;s looming patent expiration.",
       "url": "https://www.biopharmadive.com/news/sanofi-fda-infilbray-venglustat-approve-gaucher/875167/",
@@ -2135,94 +2121,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "BMS' ph. 3 Alzheimer's psychosis teaser builds confidence in Cobenfy expansion plan",
-      "summary": "After delaying the phase 3 readout of its Alzheimer’s psychosis program for Cobenfy earlier this year, Bristol Myers Squibb is offering an early peek that appears to bode well for the high-stakes data drops ahead, even as the fine details remain hazy.",
-      "url": "https://www.fiercepharma.com/pharma/bms-ph-3-alzheimers-agitation-teaser-builds-confidence-cobenfy-expansion-plan",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-18T15:54:00Z",
-      "epoch": 1795017240,
-      "sentiment": -0.33,
-      "tickers": [
-        "BMY"
-      ],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Priavoid’s Alzheimer’s pill fails to prove efficacy in phase 2 trial",
-      "summary": "Priavoid’s pill for Alzheimer's disease has failed to prove its effectiveness in a phase 2 dementia study, although the German biotech pointed to encouraging signs in the longer-term data.",
-      "url": "https://www.fiercebiotech.com/biotech/priavoids-alzheimers-pill-fails-prove-efficacy-phase-2-trial",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-18T04:23:00Z",
-      "epoch": 1794975780,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "FDA clears MiniMed Fit tubeless insulin pump",
-      "summary": "MiniMed announced has picked up FDA clearance of its tubeless insulin pump, the MiniMed Fit.",
-      "url": "https://www.fiercebiotech.com/medtech/fda-clears-minimed-fit-tubeless-insulin-pump",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-18T03:32:00Z",
-      "epoch": 1794972720,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Cognito phase 3 flops in light-and-sound Alzheimer's trial, but sees ‘signal’ for HOPE",
-      "summary": "Cognito Therapeutics said its phase 3 HOPE study of Spectris AD, an investigational, non-invasive, at-home Alzheimer's therapy that uses light and sound stimulation to engage brain activity, failed to meet its primary endpoint.",
-      "url": "https://www.fiercebiotech.com/medtech/cognito-phase-3-flops-light-and-sound-alzheimers-trial-sees-signal-hope",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-18T03:24:00Z",
-      "epoch": 1794972240,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "FDA’s complete response letter for Summit’s ivonescimab cites China-heavy data beyond survival miss",
-      "summary": "The FDA’s rejection of Summit Therapeutics’ closely watched PD-1xVEGF bispecific ivonescimab extends beyond its previously reported failure to show a statistically significant overall survival benefit.",
-      "url": "https://www.fiercepharma.com/pharma/fdas-complete-response-letter-summit-ivonescimab-cites-china-heavy-data-beyond-survival-miss",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-17T16:29:00Z",
-      "epoch": 1794932940,
-      "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Cosentyx bags FDA nod for 11th indication as Novartis looks to buffer 2029 patent cliff",
-      "summary": "Cosentyx's latest FDA approval marks the aging biologic's 11th indication and the first of the anti-IL-17 class to be approved for polymyalgia rheumatica.",
-      "url": "https://www.fiercepharma.com/pharma/cosentyx-bags-fda-nod-11th-indication-novartis-looks-2029-patent-cliff",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-17T11:33:00Z",
-      "epoch": 1794915180,
-      "sentiment": 0.33,
-      "tickers": [
-        "NOVN"
-      ],
-      "company_name": null,
-      "catalyst": true,
-      "small_cap_risk": false
-    },
-    {
       "title": "Will the first approved psychedelic become a blockbuster?",
       "summary": "Compass and Usona are vying for an FDA first, but pricing, payer coverage and patient access could determine the commercial winner.",
       "url": "https://www.biopharmadive.com/news/race-first-psilocybin-blockbuster-compass-usona/875369/",
@@ -2230,94 +2128,6 @@
       "source_id": "biopharmadive",
       "published_at": "2026-11-20T14:53:09Z",
       "epoch": 1795186389,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Merck scores US, German wins over Halozyme in Keytruda Qlex patent fight",
-      "summary": "Merck &amp; Co. has delivered a one-two legal punch against Halozyme Therapeutics, clearing major commercialization hurdles for subcutaneous Keytruda in the U.S. and Germany.",
-      "url": "https://www.fiercepharma.com/pharma/merck-scores-us-german-wins-over-halozyme-keytruda-qlex-patent-fight",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-20T13:50:00Z",
-      "epoch": 1795182600,
-      "sentiment": 0.33,
-      "tickers": [
-        "MRK"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Mapping psychedelics’ commercial summit",
-      "summary": "Several years after the FDA's high-profile rejection of Lykos Therapeutics’ MDMA candidate for post-traumatic stress disorder, a new wave of developers is nearing the regulatory finish line with experimental psychedelic treatments for mental health conditions. But regulatory appr",
-      "url": "https://www.fiercepharma.com/pharma/mapping-psychedelics-commercial-summit",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-20T13:38:00Z",
-      "epoch": 1795181880,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "FDA sets up new safety council to keep tabs on approved vaccines, cell and gene therapies",
-      "summary": "The FDA's Center for Biologics Evaluation and Research is setting up a new governance body focused on safety oversight of products like cell and gene therapies and vaccines once they’ve hit the market.",
-      "url": "https://www.fiercepharma.com/pharma/fda-sets-new-safety-council-under-cber-keep-tabs-approved-vaccines-cell-and-gene-therapies",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-20T10:48:00Z",
-      "epoch": 1795171680,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Another 215 layoffs linked to Novo's New Jersey HQ",
-      "summary": "Novo will trim 215 jobs reporting to its New Jersey headquarters starting in February as part of a \"redesign\" of its U.S. sales organization.",
-      "url": "https://www.fiercepharma.com/pharma/another-215-layoffs-linked-novos-new-jersey-hq",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-20T10:08:00Z",
-      "epoch": 1795169280,
-      "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Fierce Pharma Asia—Ivonescimab’s FDA snub; Pfizer’s in vivo CAR-T deal; China fires scientists in fatal gene trial",
-      "summary": "The FDA's complete response letter for Summit and Akeso's ivonescimab reveals more grievances than just an overall survival miss. Pfizer is licensing three in vivo autoimmune CAR-T programs from China's Starna Therapeutics. Chinese authorities have handed out penalties to individ",
-      "url": "https://www.fiercepharma.com/pharma/ivonescimab-fda-rejection-pfizer-vivo-car-t-deal-china-fires-scientists-fatal-gene-trial",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-20T09:46:00Z",
-      "epoch": 1795167960,
-      "sentiment": 0.0,
-      "tickers": [
-        "PFE"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "FDA pushes decision on Belite’s eye disease pill back to May",
-      "summary": "The FDA is taking a little extra time to review Belite Bio’s application for its treatment for a rare genetic eye condition, pushing the expected action date back by three months into May next year.",
-      "url": "https://www.fiercebiotech.com/biotech/fda-delays-belites-eye-disease-pill-decision-three-months-may",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-20T09:09:00Z",
-      "epoch": 1795165740,
       "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
@@ -2353,80 +2163,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "‘It’s a very healthy sector’: Biopharma gathers in London as M&A shines and China clouds loom",
-      "summary": "As the grand hotels and cosy cafes filled with biopharma executives and investors for London Life Sciences Week, the weather was as temperamental as any other English November.",
-      "url": "https://www.fiercebiotech.com/biotech/its-very-health-sector-biopharma-gathers-london-ma-shines-will-china-clouds-loom",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-20T06:51:00Z",
-      "epoch": 1795157460,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Anthropic board director Vas Narasimhan bets AI can help Novartis solve ‘biological latency’",
-      "summary": "On the same day Anthropic staged a record-shattering IPO on Nasdaq, the artificial intelligence tech giant’s lone pharmaceutical board member, Novartis CEO Vas Narasimhan, was in London pitching investors on how the Swiss drugmaker is using AI to shrink drug development timelines",
-      "url": "https://www.fiercebiotech.com/biotech/anthropic-board-director-vas-narasimhan-bets-ai-can-help-novartis-solve-biological-latency",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-19T16:33:00Z",
-      "epoch": 1795105980,
-      "sentiment": 0.33,
-      "tickers": [
-        "NOVN"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Chutes & Ladders—Teva loses R&D head as innovation pivot advances",
-      "summary": "Teva’s R&amp;D chief&nbsp;has resigned a week after the company's R&amp;D day. The White House yanked its FDA commissioner nomination at the 11th hour. Quanterix restarted its search for a CEO. And more.",
-      "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-teva-loses-rd-head",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-19T16:15:00Z",
-      "epoch": 1795104900,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Biogen unblurs life with Friedreich ataxia in patient-centered Skyclarys campaign",
-      "summary": "The company’s visual-forward campaign depicts real Friedreich ataxia patients enjoying some favorite activities while fast-moving life blurs around them, reminding prospective Skyclarys users that while “life moves fast, progression doesn’t have to.”",
-      "url": "https://www.fiercepharma.com/marketing/biogen-unblurs-life-friedreich-ataxia-patient-centered-skyclarys-campaign",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-19T13:24:00Z",
-      "epoch": 1795094640,
-      "sentiment": 0.0,
-      "tickers": [
-        "BIIB"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Facing down Dupixent cliff, Sanofi mulls buyout of Insmed and its blockbuster-to-be Brinsupri: Bloomberg",
-      "summary": "After Sanofi leadership telegraphed an upsized appetite for business development last month, signals have emerged that the French Pharma may be eyeing a deal to acquire Insmed, the developer of new respiratory medicine Brinsupri, which appears well on its way to cementing its blo",
-      "url": "https://www.fiercepharma.com/pharma/facing-down-dupixent-cliff-sanofi-mulls-buyout-insmed-and-its-blockbuster-be-brinsupri",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-19T13:10:00Z",
-      "epoch": 1795093800,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "China could ‘corner’ biopharma sector with new plan, US panel warns",
       "summary": "A commission called on U.S. lawmakers to act quickly to prevent an &ldquo;overdependence&rdquo; on China that could leave American patients &ldquo;vulnerable to supply chain weaponization.&rdquo;",
       "url": "https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/",
@@ -2435,64 +2171,6 @@
       "published_at": "2026-11-19T11:42:00Z",
       "epoch": 1795088520,
       "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Novartis CEO, staring down $16.7B post-2030 patent cliff, challenges Wall Street consensus",
-      "summary": "Novartis is gearing up to defend its growth trajectory against a steep wave of patent expirations in the early 2030s, as the upcoming U.S. generic entry for breast cancer blockbuster Kisqali prompted the Swiss drugmaker to trim its mid-term revenue outlook.",
-      "url": "https://www.fiercepharma.com/pharma/novartis-staring-down-167b-post-2030-patent-cliff-cuts-mid-term-growth-forecast",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-19T11:02:00Z",
-      "epoch": 1795086120,
-      "sentiment": 0.33,
-      "tickers": [
-        "NOVN"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "J&J draws FDA rebuke for misstating Inlexzo’s bladder-sparing benefits",
-      "summary": "The FDA has slammed Johnson &amp; Johnson over misleading claims about its bladder cancer drug Inlexzo, accusing the pharma company of basing statements on uninterpretable data.",
-      "url": "https://www.fiercepharma.com/marketing/jj-draws-fda-rebuke-misstating-inlexzos-bladder-sparing-benefits",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-19T10:46:00Z",
-      "epoch": 1795085160,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Arcera strikes $1B+ pact to license Innogen's approved GLP-1 outside China",
-      "summary": "Arcera Life Sciences has agreed to potentially pay more than $1 billion to license Innogen's China-approved GLP-1 in places like Africa, Latin America and the Middle East.",
-      "url": "https://www.fiercepharma.com/pharma/arcera-ponies-1b-innogens-china-approved-glp-1",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-19T10:45:00Z",
-      "epoch": 1795085100,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Regeneron breaks into neurology with FDA nod in crowded myasthenia gravis",
-      "summary": "Underscoring how crowded the U.S. market for generalized myasthenia gravis (gMG) has become, the FDA on Wednesday approved the second targeted therapy for the neuromuscular disease this week, with the latest honor going to Regeneron and its Alnylam-licensed siRNA drug cemdisiran.",
-      "url": "https://www.fiercepharma.com/pharma/regeneron-breaks-through-neurology-barrier-fda-nod-crowded-myasthenia-gravis",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-19T10:29:00Z",
-      "epoch": 1795084140,
-      "sentiment": 0.0,
       "tickers": [],
       "company_name": null,
       "catalyst": false,
@@ -2510,108 +2188,6 @@
       "tickers": [
         "AZN.L"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Vaccine biotech Evaxion halts infectious disease, autoimmune work to focus on oncology",
-      "summary": "Evaxion is refocusing its R&amp;D efforts to solely focus on developing and advancing its cancer vaccines.",
-      "url": "https://www.fiercebiotech.com/biotech/vaccine-biotech-evaxion-progressing-only-oncology-assets-rd-refocus",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-19T10:02:00Z",
-      "epoch": 1795082520,
-      "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "nChroma halves headcount, calls time on trial of potential HBV ‘cure’",
-      "summary": "nChroma Bio’s workforce is facing a second round of layoffs in 12 months, with the Boston biotech halving its headcount and scrapping a trial of its lead hepatitis asset.",
-      "url": "https://www.fiercebiotech.com/biotech/nchroma-halves-headcount-calls-time-trial-potential-hbv-cure",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-19T09:13:00Z",
-      "epoch": 1795079580,
-      "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Isomorphic adds Merck to AI drug discovery roster days after $5B raise",
-      "summary": "Isomorphic Labs’ big week just got bigger. Days after raising $5 billion, the AI-powered biotech has added Merck &amp; Co. to a list of partners that now includes three of the top four drugmakers by revenue.",
-      "url": "https://www.fiercebiotech.com/biotech/isomorphic-labs-adds-merck-ai-drug-discovery-roster-days-after-5b-raise",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-19T08:48:00Z",
-      "epoch": 1795078080,
-      "sentiment": 0.33,
-      "tickers": [
-        "MRK"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "CDMO Lotte inks commercial production deal as work on South Korean plant wraps",
-      "summary": "Lotte Biologics, which was established in 2022, inked a major manufacturing deal with an unnamed pharmaceutical company as the South Korean CDMO gears up for commercial production at its new multi-billion-dollar Songdo Bio Campus near Seoul.",
-      "url": "https://www.fiercepharma.com/manufacturing/lotte-inks-production-deal-cdmo-preps-open-33b-south-korean-plant",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-19T08:27:00Z",
-      "epoch": 1795076820,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Teva loses R&D head Eric Hughes amid push to grow innovative medicines business",
-      "summary": "Teva’s R&amp;D chief Eric Hughes, M.D., Ph.D., has resigned one week after the company showcased its push to grow its innovative medicines business.",
-      "url": "https://www.fiercebiotech.com/biotech/teva-loses-rd-head-eric-hughes-amid-push-grow-innovative-medicines-business",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-19T06:12:00Z",
-      "epoch": 1795068720,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Novartis CEO argues shareholders ‘happy overall’ with strategy, calls for COINS Act adjustment",
-      "summary": "Despite a bumpy few months for Novartis that saw a couple of high-profile clinical setbacks, CEO Vas Narasimhan has told Fierce he believes most shareholders remain onside with the company’s strategy.",
-      "url": "https://www.fiercebiotech.com/biotech/novartis-ceo-argues-shareholders-happy-overall-calls-coins-act-adjustment",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-19T04:20:00Z",
-      "epoch": 1795062000,
-      "sentiment": 0.0,
-      "tickers": [
-        "NOVN"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Majority rate home diagnostic tests ‘very helpful,’ but just 33% for accuracy: DNV survey",
-      "summary": "People are twice as likely to describe home diagnostic tests as very helpful versus them as very accurate, according to new global research from the quality assurance, risk management and certification company Det Norske Veritas (DNV).",
-      "url": "https://www.fiercebiotech.com/medtech/majority-rate-home-diagnostic-tests-very-helpful-just-33-accuracy-dnv-survey",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-19T00:19:00Z",
-      "epoch": 1795047540,
-      "sentiment": -0.33,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
@@ -2645,50 +2221,6 @@
       "small_cap_risk": false
     },
     {
-      "title": "AbbVie busts a move with Disco in $2.5B dance aimed at bispecific discovery",
-      "summary": "AbbVie is twirling onto the dance floor with Disco Pharmaceuticals, offering up to $2.5 billion to work with the German platform company on cancer-targeted bispecific discovery.",
-      "url": "https://www.fiercebiotech.com/biotech/abbvie-busts-move-disco-25b-pact-aimed-bispecific-discovery",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-18T11:36:00Z",
-      "epoch": 1795001760,
-      "sentiment": 0.0,
-      "tickers": [
-        "ABBV"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Beren clinches long-awaited FDA nod for cyclodextrin drug in Niemann-Pick disease",
-      "summary": "Beren Therapeutic's Lembaz was cleared by the FDA to treat the neurogenerative disorder Niemann-Pick disease type C in children as small as 15 pounds. It's the first NPC treatment to improve survival and to treat the cholesterol transport dysfunction that drives the disease.",
-      "url": "https://www.fiercepharma.com/pharma/beren-clinches-long-awaited-fda-nod-niemann-pick-disease",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-18T11:27:00Z",
-      "epoch": 1795001220,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Crown Biosciences stays put as $204M Adicon deal falls through",
-      "summary": "Crown Biosciences looks destined to go unworn for a while longer after its planned $204 million acquisition by China's Adicon fell through.",
-      "url": "https://www.fiercebiotech.com/cro/crown-stays-put-204m-adicon-deal-collapses",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-18T11:10:00Z",
-      "epoch": 1795000200,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
       "title": "Pfizer leaps into ‘in vivo’ CAR-T with latest China deal",
       "summary": "The potentially $2.6 billion collaboration puts Pfizer into a competitive race to treat autoimmune conditions by reprogramming cells inside the body.",
       "url": "https://www.biopharmadive.com/news/pfizer-starna-in-vivo-cell-therapy-autoimmune-disease-deal/875018/",
@@ -2700,210 +2232,6 @@
       "tickers": [
         "PFE"
       ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "FDA moves to yank Salerno's liquid cholesterol drug approval on missing reports",
-      "summary": "In a notice posted on the Federal Register Wednesday, the FDA said that it has proposed withdrawing the approval for Salerno’s FloLipid, an oral suspension formulation of the long-approved cholesterol lowering medication simvastatin.",
-      "url": "https://www.fiercepharma.com/pharma/fda-moves-yank-salernos-liquid-cholesterol-med-approval-missing-reports",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-18T09:45:00Z",
-      "epoch": 1794995100,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Biogen’s tau therapy drives bigger benefits in 2-year Alzheimer’s update",
-      "summary": "Biogen has linked its tau-targeting antisense oligonucleotide to a further slowing of clinical decline after two years, leading analysts to hail the strengthening of evidence supporting late-phase development.",
-      "url": "https://www.fiercebiotech.com/biotech/biogens-tau-therapy-drives-bigger-benefits-2-year-alzheimers-update",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-18T09:27:00Z",
-      "epoch": 1794994020,
-      "sentiment": -0.33,
-      "tickers": [
-        "BIIB"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Pfizer enters in vivo CAR-T space via 3-program, $2.6B deal with China’s Starna",
-      "summary": "Pfizer has decided to join the in vivo CAR-T race, penning a $2.6 billion deal for three preclinical candidates from China’s Starna Therapeutics.",
-      "url": "https://www.fiercebiotech.com/biotech/pfizer-enters-vivo-car-t-space-3-program-26b-deal-chinas-starna",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-18T08:31:00Z",
-      "epoch": 1794990660,
-      "sentiment": 0.67,
-      "tickers": [
-        "PFE"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Less than a year into the job, Everett Cunningham steps down as Quanterix CEO",
-      "summary": "Quanterix is on the lookout for a new chief executive once again as Everett Cunningham, who only started the top job back in January, hits the exit.",
-      "url": "https://www.fiercebiotech.com/medtech/less-year-job-everett-cunningham-steps-down-quanterix-ceo",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-18T08:17:00Z",
-      "epoch": 1794989820,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "At Fierce’s London event, Big Pharmas tell biotechs to ‘be transparent’ to secure deals",
-      "summary": "Every biotech looking for a suitor wants to know: What does it take to charm a Big Pharma into a deal?",
-      "url": "https://www.fiercebiotech.com/biotech/what-makes-big-pharma-deal-be-transparent-dont-spam-us-and-not-using-patent-cliffs-reason",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-18T02:29:00Z",
-      "epoch": 1794968940,
-      "sentiment": 0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Heidi Overton’s FDA nomination pulled by White House",
-      "summary": "The White House is pulling Heidi Overton’s nomination to lead the FDA just hours before the Senate was scheduled to vote on her confirmation.",
-      "url": "https://www.fiercepharma.com/pharma/overtons-fda-nomination-has-been-pulled-white-house",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-17T20:44:00Z",
-      "epoch": 1794948240,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Vertex signs $220M deal with Genomics to re-up long-running discovery pact",
-      "summary": "Vertex Pharmaceuticals has re-upped its ties with sequencing specialist Genomics in a deal worth up to $220 million, signing on for an extra four years on top of the eight the companies have already worked together.",
-      "url": "https://www.fiercebiotech.com/biotech/vertex-signs-genomics-220m-4-more-years-long-time-discovery-pact",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-17T15:02:00Z",
-      "epoch": 1794927720,
-      "sentiment": 1.0,
-      "tickers": [
-        "VRTX"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Novo expands DTC program Novocare to support Wegovy users through holistic health journey",
-      "summary": "Members who sign up for Novo's new Novocare can benefit from holistic health services meant to support Wegovy users throughout the entirety of their weight loss journey.",
-      "url": "https://www.fiercepharma.com/marketing/novo-expands-dtc-program-novocare-support-wegovy-users-through-holistic-health-journey",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-17T14:47:00Z",
-      "epoch": 1794926820,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Researchers may have to ‘revise a lot’ of theories about dementia after uncovering plastics in brain",
-      "summary": "The field of micro- and nanoplastics has drawn a lot of interest in recent years as concerns grow about the impact of contamination in the environment. These tiny plastic particles are created when plastic breaks down and are usually so small that they are invisible to the naked ",
-      "url": "https://www.fiercebiotech.com/research/researchers-uncover-plastics-present-dementia-brains-after-death",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-16T19:36:00Z",
-      "epoch": 1794857760,
-      "sentiment": -0.33,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Clene Nanomedicine uses CRO Veristat’s biostatistics platform for FDA submission",
-      "summary": "Clinical research organization Veristat has partnered with Clene Nanomedicine to accelerate data outputs for its FDA application for its ALS drug.",
-      "url": "https://www.fiercebiotech.com/cro/clene-nanomedicine-uses-cro-veristats-biostatistics-platform-fda-submission",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2026-11-13T14:11:00Z",
-      "epoch": 1794579060,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "AI’s Real Prize: Building Tomorrow’s CI Capability",
-      "summary": "AI is becoming a commodity. Javier Vega explains why the next advantage in competitive intelligence comes from people, judgment and scale.",
-      "url": "https://www.fiercepharma.com/sponsored/ais-real-prize-building-tomorrows-ci-capability",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-11-12T11:23:00Z",
-      "epoch": 1794482580,
-      "sentiment": 0.0,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Regulatory tracker: Novo's Sogroya wins 4th label expansion this year",
-      "summary": "In this tracker, Fierce Pharma is recording the regulatory progress of in-market products, including expansions into key geographies and new indications. Some of these updates may not meet the bar for standalone stories, but we think they are still worth mentioning.",
-      "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-07-01T13:33:00Z",
-      "epoch": 1782912780,
-      "sentiment": 0.67,
-      "tickers": [],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "The Oral GLP-1 Tracker: Foundayo holds steady as Wegovy pill takes a 5% dip",
-      "summary": "Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.",
-      "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
-      "source": "FiercePharma",
-      "source_id": "fiercepharma",
-      "published_at": "2026-04-21T10:06:00Z",
-      "epoch": 1776765960,
-      "sentiment": -0.33,
-      "tickers": [
-        "IQV"
-      ],
-      "company_name": null,
-      "catalyst": false,
-      "small_cap_risk": false
-    },
-    {
-      "title": "Fierce Biotech Fundraising Tracker '26: VitriVax scores $87M; Ansa adds $71.5M series C",
-      "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
-      "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
-      "source": "FierceBiotech",
-      "source_id": "fiercebiotech",
-      "published_at": "2025-12-22T15:30:00Z",
-      "epoch": 1766417400,
-      "sentiment": 0.0,
-      "tickers": [],
       "company_name": null,
       "catalyst": false,
       "small_cap_risk": false
